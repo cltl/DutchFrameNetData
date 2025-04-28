@@ -84,3 +84,12 @@ for d in data_unique:
 all_files = os.listdir('../data/data-unique-ids/unstructured')
 print('all files')
 print(len(all_files))
+
+
+header = data_unique[0].keys()
+
+with open('../data/overview-unique-ids.csv', 'w') as outfile:
+	writer = csv.DictWriter(outfile, fieldnames = header)
+	writer.writeheader()
+	for d in data_unique:
+		writer.writerow(d)

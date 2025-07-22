@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Rotterdam 2004"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Rotterdam_2004"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T14:56:33UTC" endTimestamp="2020-05-27T14:56:33UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T14:56:33UTC" endTimestamp="2020-05-27T14:56:33UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T14:56:33UTC" endTimestamp="2020-05-27T14:56:33UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T14:56:33UTC" endTimestamp="2020-05-27T14:56:33UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Rotterdam 2004++.
+Het ATP-toernooi van Rotterdam 2004 (met de officiële naam ABN AMRO World Tennis Tournament 2004) werd van 16 tot en met 22 februari 2004 gehouden in het Nederlandse evenementencomplex Ahoy Rotterdam.
+De winnaar van het toernooi werd Lleyton Hewitt, die in de finale Juan Carlos Ferrero in drie sets versloeg. De Wit-Russische titelverdediger Maks Mirni bereikte de halve finale. Daar werd hij uitgeschakeld door Ferrero.
+Het toernooi van 2004 trok 104.739 toeschouwers.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="9" offset="19"><![CDATA[Rotterdam]]></wf>
+    <wf sent="1" id="w8" length="6" offset="29"><![CDATA[2004++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="37"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="3" offset="41"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w13" length="1" offset="44"><![CDATA[-]]></wf>
+    <wf sent="2" id="w14" length="8" offset="45"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w15" length="3" offset="54"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="9" offset="58"><![CDATA[Rotterdam]]></wf>
+    <wf sent="2" id="w17" length="4" offset="68"><![CDATA[2004]]></wf>
+    <wf sent="2" id="w18" length="1" offset="73"><![CDATA[(]]></wf>
+    <wf sent="2" id="w19" length="3" offset="74"><![CDATA[met]]></wf>
+    <wf sent="2" id="w20" length="2" offset="78"><![CDATA[de]]></wf>
+    <wf sent="2" id="w21" length="9" offset="81"><![CDATA[officiële]]></wf>
+    <wf sent="2" id="w22" length="4" offset="91"><![CDATA[naam]]></wf>
+    <wf sent="2" id="w23" length="3" offset="96"><![CDATA[ABN]]></wf>
+    <wf sent="2" id="w24" length="4" offset="100"><![CDATA[AMRO]]></wf>
+    <wf sent="2" id="w25" length="5" offset="105"><![CDATA[World]]></wf>
+    <wf sent="2" id="w26" length="6" offset="111"><![CDATA[Tennis]]></wf>
+    <wf sent="2" id="w27" length="10" offset="118"><![CDATA[Tournament]]></wf>
+    <wf sent="2" id="w28" length="4" offset="129"><![CDATA[2004]]></wf>
+    <wf sent="2" id="w29" length="1" offset="133"><![CDATA[)]]></wf>
+    <wf sent="2" id="w30" length="4" offset="135"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w31" length="3" offset="140"><![CDATA[van]]></wf>
+    <wf sent="2" id="w32" length="2" offset="144"><![CDATA[16]]></wf>
+    <wf sent="2" id="w33" length="3" offset="147"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w34" length="2" offset="151"><![CDATA[en]]></wf>
+    <wf sent="2" id="w35" length="3" offset="154"><![CDATA[met]]></wf>
+    <wf sent="2" id="w36" length="2" offset="158"><![CDATA[22]]></wf>
+    <wf sent="2" id="w37" length="8" offset="161"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w38" length="4" offset="170"><![CDATA[2004]]></wf>
+    <wf sent="2" id="w39" length="8" offset="175"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w40" length="2" offset="184"><![CDATA[in]]></wf>
+    <wf sent="2" id="w41" length="3" offset="187"><![CDATA[het]]></wf>
+    <wf sent="2" id="w42" length="11" offset="191"><![CDATA[Nederlandse]]></wf>
+    <wf sent="2" id="w43" length="18" offset="203"><![CDATA[evenementencomplex]]></wf>
+    <wf sent="2" id="w44" length="4" offset="222"><![CDATA[Ahoy]]></wf>
+    <wf sent="2" id="w45" length="9" offset="227"><![CDATA[Rotterdam]]></wf>
+    <wf sent="2" id="w46" length="1" offset="236"><![CDATA[.]]></wf>
+    <wf sent="2" id="w47" length="1" offset="237"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w48" length="2" offset="238"><![CDATA[De]]></wf>
+    <wf sent="3" id="w49" length="7" offset="241"><![CDATA[winnaar]]></wf>
+    <wf sent="3" id="w50" length="3" offset="249"><![CDATA[van]]></wf>
+    <wf sent="3" id="w51" length="3" offset="253"><![CDATA[het]]></wf>
+    <wf sent="3" id="w52" length="8" offset="257"><![CDATA[toernooi]]></wf>
+    <wf sent="3" id="w53" length="4" offset="266"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w54" length="7" offset="271"><![CDATA[Lleyton]]></wf>
+    <wf sent="3" id="w55" length="6" offset="279"><![CDATA[Hewitt]]></wf>
+    <wf sent="3" id="w56" length="1" offset="285"><![CDATA[,]]></wf>
+    <wf sent="3" id="w57" length="3" offset="287"><![CDATA[die]]></wf>
+    <wf sent="3" id="w58" length="2" offset="291"><![CDATA[in]]></wf>
+    <wf sent="3" id="w59" length="2" offset="294"><![CDATA[de]]></wf>
+    <wf sent="3" id="w60" length="6" offset="297"><![CDATA[finale]]></wf>
+    <wf sent="3" id="w61" length="4" offset="304"><![CDATA[Juan]]></wf>
+    <wf sent="3" id="w62" length="6" offset="309"><![CDATA[Carlos]]></wf>
+    <wf sent="3" id="w63" length="7" offset="316"><![CDATA[Ferrero]]></wf>
+    <wf sent="3" id="w64" length="2" offset="324"><![CDATA[in]]></wf>
+    <wf sent="3" id="w65" length="4" offset="327"><![CDATA[drie]]></wf>
+    <wf sent="3" id="w66" length="4" offset="332"><![CDATA[sets]]></wf>
+    <wf sent="3" id="w67" length="8" offset="337"><![CDATA[versloeg]]></wf>
+    <wf sent="3" id="w68" length="1" offset="345"><![CDATA[.]]></wf>
+    <wf sent="4" id="w69" length="2" offset="347"><![CDATA[De]]></wf>
+    <wf sent="4" id="w70" length="3" offset="350"><![CDATA[Wit]]></wf>
+    <wf sent="4" id="w71" length="1" offset="353"><![CDATA[-]]></wf>
+    <wf sent="4" id="w72" length="9" offset="354"><![CDATA[Russische]]></wf>
+    <wf sent="4" id="w73" length="15" offset="364"><![CDATA[titelverdediger]]></wf>
+    <wf sent="4" id="w74" length="4" offset="380"><![CDATA[Maks]]></wf>
+    <wf sent="4" id="w75" length="5" offset="385"><![CDATA[Mirni]]></wf>
+    <wf sent="4" id="w76" length="8" offset="391"><![CDATA[bereikte]]></wf>
+    <wf sent="4" id="w77" length="2" offset="400"><![CDATA[de]]></wf>
+    <wf sent="4" id="w78" length="5" offset="403"><![CDATA[halve]]></wf>
+    <wf sent="4" id="w79" length="6" offset="409"><![CDATA[finale]]></wf>
+    <wf sent="4" id="w80" length="1" offset="415"><![CDATA[.]]></wf>
+    <wf sent="5" id="w81" length="4" offset="417"><![CDATA[Daar]]></wf>
+    <wf sent="5" id="w82" length="4" offset="422"><![CDATA[werd]]></wf>
+    <wf sent="5" id="w83" length="3" offset="427"><![CDATA[hij]]></wf>
+    <wf sent="5" id="w84" length="13" offset="431"><![CDATA[uitgeschakeld]]></wf>
+    <wf sent="5" id="w85" length="4" offset="445"><![CDATA[door]]></wf>
+    <wf sent="5" id="w86" length="7" offset="450"><![CDATA[Ferrero]]></wf>
+    <wf sent="5" id="w87" length="1" offset="457"><![CDATA[.]]></wf>
+    <wf sent="5" id="w88" length="1" offset="458"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w89" length="3" offset="459"><![CDATA[Het]]></wf>
+    <wf sent="6" id="w90" length="8" offset="463"><![CDATA[toernooi]]></wf>
+    <wf sent="6" id="w91" length="3" offset="472"><![CDATA[van]]></wf>
+    <wf sent="6" id="w92" length="4" offset="476"><![CDATA[2004]]></wf>
+    <wf sent="6" id="w93" length="4" offset="481"><![CDATA[trok]]></wf>
+    <wf sent="6" id="w94" length="7" offset="486"><![CDATA[104.739]]></wf>
+    <wf sent="6" id="w95" length="12" offset="494"><![CDATA[toeschouwers]]></wf>
+    <wf sent="6" id="w96" length="1" offset="506"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="rotterdam" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2004++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="rotterdam" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="naam" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="abn" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="amro" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="world" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="tournament" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="22" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="nederlands" pos="ADJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="evenementencomplex" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="ahoy" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="rotterdam" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="winnaar" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="lleyton" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="hewitt" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="die" pos="PRON" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="juan" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="carlos" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="ferrero" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="drie" pos="NUM" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="set" pos="NOUN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="verslaan" pos="VERB" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="de" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="wit" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="russisch" pos="ADJ" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="titelverdediger" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="mak" pos="NOUN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="mirni" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="bereiken" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="half" pos="ADJ" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="daar" pos="ADV" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="hij" pos="PRON" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="uitschakelen" pos="VERB" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="ferrero" pos="NOUN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="trekken" pos="VERB" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="104.739" pos="NUM" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="toeschouwer" pos="NOUN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t1" to="t8" rfunc="dep"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t12" to="t11" rfunc="det"/>
+    <dep from="t39" to="t12" rfunc="nsubj"/>
+    <dep from="t14" to="t13" rfunc="nmod"/>
+    <dep from="t12" to="t14" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t14" to="t16" rfunc="nmod"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t14" to="t18" rfunc="punct"/>
+    <dep from="t22" to="t19" rfunc="case"/>
+    <dep from="t14" to="t22" rfunc="nmod"/>
+    <dep from="t22" to="t20" rfunc="det"/>
+    <dep from="t22" to="t21" rfunc="amod"/>
+    <dep from="t22" to="t23" rfunc="appos"/>
+    <dep from="t23" to="t24" rfunc="flat"/>
+    <dep from="t23" to="t25" rfunc="flat"/>
+    <dep from="t23" to="t26" rfunc="flat"/>
+    <dep from="t23" to="t27" rfunc="flat"/>
+    <dep from="t23" to="t28" rfunc="nummod"/>
+    <dep from="t39" to="t29" rfunc="punct"/>
+    <dep from="t39" to="t30" rfunc="aux"/>
+    <dep from="t32" to="t31" rfunc="case"/>
+    <dep from="t39" to="t32" rfunc="obl"/>
+    <dep from="t36" to="t33" rfunc="cc"/>
+    <dep from="t32" to="t36" rfunc="conj"/>
+    <dep from="t32" to="t34" rfunc="compound"/>
+    <dep from="t36" to="t35" rfunc="case"/>
+    <dep from="t36" to="t37" rfunc="compound"/>
+    <dep from="t36" to="t38" rfunc="compound"/>
+    <dep from="t43" to="t40" rfunc="case"/>
+    <dep from="t39" to="t43" rfunc="obl"/>
+    <dep from="t43" to="t41" rfunc="det"/>
+    <dep from="t43" to="t42" rfunc="amod"/>
+    <dep from="t43" to="t44" rfunc="appos"/>
+    <dep from="t44" to="t45" rfunc="flat"/>
+    <dep from="t39" to="t46" rfunc="punct"/>
+    <dep from="t46" to="t47" rfunc=""/>
+    <dep from="t49" to="t48" rfunc="det"/>
+    <dep from="t53" to="t49" rfunc="nsubj"/>
+    <dep from="t52" to="t50" rfunc="case"/>
+    <dep from="t49" to="t52" rfunc="nmod"/>
+    <dep from="t52" to="t51" rfunc="det"/>
+    <dep from="t53" to="t54" rfunc="obj"/>
+    <dep from="t54" to="t55" rfunc="flat"/>
+    <dep from="t54" to="t56" rfunc="punct"/>
+    <dep from="t67" to="t57" rfunc="obj"/>
+    <dep from="t54" to="t67" rfunc="advcl"/>
+    <dep from="t60" to="t58" rfunc="case"/>
+    <dep from="t67" to="t60" rfunc="obl"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t60" to="t61" rfunc="appos"/>
+    <dep from="t61" to="t62" rfunc="flat"/>
+    <dep from="t61" to="t63" rfunc="flat"/>
+    <dep from="t66" to="t64" rfunc="case"/>
+    <dep from="t67" to="t66" rfunc="obl"/>
+    <dep from="t66" to="t65" rfunc="nummod"/>
+    <dep from="t53" to="t68" rfunc="punct"/>
+    <dep from="t70" to="t69" rfunc="case"/>
+    <dep from="t76" to="t70" rfunc="nsubj"/>
+    <dep from="t70" to="t71" rfunc="nmod"/>
+    <dep from="t73" to="t72" rfunc="amod"/>
+    <dep from="t70" to="t73" rfunc="appos"/>
+    <dep from="t73" to="t74" rfunc="appos"/>
+    <dep from="t74" to="t75" rfunc="flat"/>
+    <dep from="t79" to="t77" rfunc="det"/>
+    <dep from="t76" to="t79" rfunc="obj"/>
+    <dep from="t79" to="t78" rfunc="amod"/>
+    <dep from="t76" to="t80" rfunc="punct"/>
+    <dep from="t84" to="t81" rfunc="advmod"/>
+    <dep from="t84" to="t82" rfunc="aux"/>
+    <dep from="t84" to="t83" rfunc="nsubj"/>
+    <dep from="t86" to="t85" rfunc="case"/>
+    <dep from="t84" to="t86" rfunc="obl"/>
+    <dep from="t84" to="t87" rfunc="punct"/>
+    <dep from="t87" to="t88" rfunc=""/>
+    <dep from="t90" to="t89" rfunc="det"/>
+    <dep from="t93" to="t90" rfunc="nsubj"/>
+    <dep from="t92" to="t91" rfunc="case"/>
+    <dep from="t90" to="t92" rfunc="nummod"/>
+    <dep from="t95" to="t94" rfunc="nummod"/>
+    <dep from="t93" to="t95" rfunc="obj"/>
+    <dep from="t93" to="t96" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   R o t t e r d a m-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Rotterdam" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Categoria:ABN_AMRO_World_Tennis_Tournament" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Rotterdam_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 6-->
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/16_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/16_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_16" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 2   f e b r u a r i-->
+        <target id="t36"/>
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/22_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/22_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_22" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 4-->
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2004" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/2004" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/2004" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--A h o y   R o t t e r d a m-->
+        <target id="t44"/>
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ahoy_Rotterdam" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--L l e y t o n   H e w i t t-->
+        <target id="t54"/>
+        <target id="t55"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Lleyton_Hewitt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Lleyton_Hewitt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lleyton_Hewitt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--J u a n   C a r l o s   F e r r e r o-->
+        <target id="t61"/>
+        <target id="t62"/>
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Juan_Carlos_Ferrero" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Juan_Carlos_Ferrero" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Juan_Carlos_Ferrero" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--M a k s   M i r n i-->
+        <target id="t74"/>
+        <target id="t75"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Maks_Mirni" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Maks_Mirny" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Max_Mirnyi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

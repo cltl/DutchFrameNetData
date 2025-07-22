@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2000 Senior League World Series"/>
+    <public uri="https://en.wikipedia.org/wiki/2000_Senior_League_World_Series"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:09UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:09UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:09UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:09UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:26CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2000 Senior League World Series++.
+The 2000 Senior League World Series took place from August 13–19 in Kissimmee, Florida, United States. Panama City, Panama defeated Pinellas Park, Florida twice in the championship game.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2000]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Senior]]></wf>
+    <wf sent="1" id="w4" length="6" offset="14"><![CDATA[League]]></wf>
+    <wf sent="1" id="w5" length="5" offset="21"><![CDATA[World]]></wf>
+    <wf sent="1" id="w6" length="8" offset="27"><![CDATA[Series++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="41"><![CDATA[2000]]></wf>
+    <wf sent="2" id="w11" length="6" offset="46"><![CDATA[Senior]]></wf>
+    <wf sent="2" id="w12" length="6" offset="53"><![CDATA[League]]></wf>
+    <wf sent="2" id="w13" length="5" offset="60"><![CDATA[World]]></wf>
+    <wf sent="2" id="w14" length="6" offset="66"><![CDATA[Series]]></wf>
+    <wf sent="2" id="w15" length="4" offset="73"><![CDATA[took]]></wf>
+    <wf sent="2" id="w16" length="5" offset="78"><![CDATA[place]]></wf>
+    <wf sent="2" id="w17" length="4" offset="84"><![CDATA[from]]></wf>
+    <wf sent="2" id="w18" length="6" offset="89"><![CDATA[August]]></wf>
+    <wf sent="2" id="w19" length="5" offset="96"><![CDATA[13–19]]></wf>
+    <wf sent="2" id="w20" length="2" offset="102"><![CDATA[in]]></wf>
+    <wf sent="2" id="w21" length="9" offset="105"><![CDATA[Kissimmee]]></wf>
+    <wf sent="2" id="w22" length="1" offset="114"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="7" offset="116"><![CDATA[Florida]]></wf>
+    <wf sent="2" id="w24" length="1" offset="123"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="6" offset="125"><![CDATA[United]]></wf>
+    <wf sent="2" id="w26" length="6" offset="132"><![CDATA[States]]></wf>
+    <wf sent="2" id="w27" length="1" offset="138"><![CDATA[.]]></wf>
+    <wf sent="3" id="w28" length="6" offset="140"><![CDATA[Panama]]></wf>
+    <wf sent="3" id="w29" length="4" offset="147"><![CDATA[City]]></wf>
+    <wf sent="3" id="w30" length="1" offset="151"><![CDATA[,]]></wf>
+    <wf sent="3" id="w31" length="6" offset="153"><![CDATA[Panama]]></wf>
+    <wf sent="3" id="w32" length="8" offset="160"><![CDATA[defeated]]></wf>
+    <wf sent="3" id="w33" length="8" offset="169"><![CDATA[Pinellas]]></wf>
+    <wf sent="3" id="w34" length="4" offset="178"><![CDATA[Park]]></wf>
+    <wf sent="3" id="w35" length="1" offset="182"><![CDATA[,]]></wf>
+    <wf sent="3" id="w36" length="7" offset="184"><![CDATA[Florida]]></wf>
+    <wf sent="3" id="w37" length="5" offset="192"><![CDATA[twice]]></wf>
+    <wf sent="3" id="w38" length="2" offset="198"><![CDATA[in]]></wf>
+    <wf sent="3" id="w39" length="3" offset="201"><![CDATA[the]]></wf>
+    <wf sent="3" id="w40" length="12" offset="205"><![CDATA[championship]]></wf>
+    <wf sent="3" id="w41" length="4" offset="218"><![CDATA[game]]></wf>
+    <wf sent="3" id="w42" length="1" offset="222"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2000" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="senior" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Series++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2000" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Senior" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="August" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="13–19" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Kissimmee" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Florida" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Panama" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Panama" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Pinellas" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Park" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Florida" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="twice" pos="ADV" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="game" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="punct"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t6" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t14" to="t9" rfunc="det"/>
+    <dep from="t15" to="t14" rfunc="nsubj"/>
+    <dep from="t14" to="t10" rfunc="nummod"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t14" to="t12" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t15" to="t16" rfunc="dobj"/>
+    <dep from="t15" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="nummod"/>
+    <dep from="t15" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="punct"/>
+    <dep from="t21" to="t23" rfunc="conj"/>
+    <dep from="t23" to="t24" rfunc="punct"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t23" to="t26" rfunc="conj"/>
+    <dep from="t15" to="t27" rfunc="punct"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t32" to="t29" rfunc="nsubj"/>
+    <dep from="t29" to="t30" rfunc="punct"/>
+    <dep from="t29" to="t31" rfunc="appos"/>
+    <dep from="t34" to="t33" rfunc="compound"/>
+    <dep from="t32" to="t34" rfunc="dobj"/>
+    <dep from="t34" to="t35" rfunc="punct"/>
+    <dep from="t34" to="t36" rfunc="appos"/>
+    <dep from="t38" to="t37" rfunc="advmod"/>
+    <dep from="t36" to="t38" rfunc="prep"/>
+    <dep from="t41" to="t39" rfunc="det"/>
+    <dep from="t38" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t32" to="t42" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--2 0 0 0-->
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2000_in_baseball" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--S e n i o r   L e a g u e   W o r l d   S e r i e s-->
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Senior_League_World_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--K i s s i m m e e-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Kissimmee,_Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Kissimmee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kissimmee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--F l o r i d a-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--P a n a m a   C i t y-->
+        <target id="t28"/>
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Panama_City" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Panama-Stad" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--P a n a m a-->
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Panama" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--P i n e l l a s   P a r k-->
+        <target id="t33"/>
+        <target id="t34"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Pinellas_Park,_Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Pinellas_Park" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Pinellas_Park" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--F l o r i d a-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t4"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event_instance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="10e BAFTA Awards"/>
+    <public uri="https://nl.wikipedia.org/wiki/10e_BAFTA_Awards"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:12:41UTC" endTimestamp="2020-05-27T22:12:41UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:12:41UTC" endTimestamp="2020-05-27T22:12:41UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:12:41UTC" endTimestamp="2020-05-27T22:12:41UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:12:41UTC" endTimestamp="2020-05-27T22:12:41UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++10e BAFTA Awards++.
+De 10e BAFTA Awards werden uitgereikt door de British Academy of Film and Television Arts in 1957, voor de films uit 1956.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="4" offset="1"><![CDATA[+10e]]></wf>
+    <wf sent="1" id="w3" length="5" offset="6"><![CDATA[BAFTA]]></wf>
+    <wf sent="1" id="w4" length="8" offset="12"><![CDATA[Awards++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="2" offset="22"><![CDATA[De]]></wf>
+    <wf sent="2" id="w8" length="3" offset="25"><![CDATA[10e]]></wf>
+    <wf sent="2" id="w9" length="5" offset="29"><![CDATA[BAFTA]]></wf>
+    <wf sent="2" id="w10" length="6" offset="35"><![CDATA[Awards]]></wf>
+    <wf sent="2" id="w11" length="6" offset="42"><![CDATA[werden]]></wf>
+    <wf sent="2" id="w12" length="10" offset="49"><![CDATA[uitgereikt]]></wf>
+    <wf sent="2" id="w13" length="4" offset="60"><![CDATA[door]]></wf>
+    <wf sent="2" id="w14" length="2" offset="65"><![CDATA[de]]></wf>
+    <wf sent="2" id="w15" length="7" offset="68"><![CDATA[British]]></wf>
+    <wf sent="2" id="w16" length="7" offset="76"><![CDATA[Academy]]></wf>
+    <wf sent="2" id="w17" length="2" offset="84"><![CDATA[of]]></wf>
+    <wf sent="2" id="w18" length="4" offset="87"><![CDATA[Film]]></wf>
+    <wf sent="2" id="w19" length="3" offset="92"><![CDATA[and]]></wf>
+    <wf sent="2" id="w20" length="10" offset="96"><![CDATA[Television]]></wf>
+    <wf sent="2" id="w21" length="4" offset="107"><![CDATA[Arts]]></wf>
+    <wf sent="2" id="w22" length="2" offset="112"><![CDATA[in]]></wf>
+    <wf sent="2" id="w23" length="4" offset="115"><![CDATA[1957]]></wf>
+    <wf sent="2" id="w24" length="1" offset="119"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="4" offset="121"><![CDATA[voor]]></wf>
+    <wf sent="2" id="w26" length="2" offset="126"><![CDATA[de]]></wf>
+    <wf sent="2" id="w27" length="5" offset="129"><![CDATA[films]]></wf>
+    <wf sent="2" id="w28" length="3" offset="135"><![CDATA[uit]]></wf>
+    <wf sent="2" id="w29" length="4" offset="139"><![CDATA[1956]]></wf>
+    <wf sent="2" id="w30" length="1" offset="143"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+10e" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="bafta" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="awards++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="10e" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="bafta" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="awards" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="uitreiken" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="british" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="academy" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="CONJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="film" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="and" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="television" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="arts" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="1957" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="film" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="uit" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="1956" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="case"/>
+    <dep from="t1" to="t3" rfunc="nmod"/>
+    <dep from="t3" to="t4" rfunc="flat"/>
+    <dep from="t1" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t8" to="t7" rfunc="case"/>
+    <dep from="t12" to="t8" rfunc="nsubj"/>
+    <dep from="t8" to="t9" rfunc="flat"/>
+    <dep from="t9" to="t10" rfunc="flat"/>
+    <dep from="t12" to="t11" rfunc="aux"/>
+    <dep from="t15" to="t13" rfunc="case"/>
+    <dep from="t12" to="t15" rfunc="advmod"/>
+    <dep from="t15" to="t14" rfunc="det"/>
+    <dep from="t15" to="t16" rfunc="flat"/>
+    <dep from="t18" to="t17" rfunc="cc"/>
+    <dep from="t15" to="t18" rfunc="conj"/>
+    <dep from="t18" to="t19" rfunc="flat"/>
+    <dep from="t18" to="t20" rfunc="flat"/>
+    <dep from="t18" to="t21" rfunc="flat"/>
+    <dep from="t23" to="t22" rfunc="case"/>
+    <dep from="t15" to="t23" rfunc="obl"/>
+    <dep from="t12" to="t24" rfunc="punct"/>
+    <dep from="t27" to="t25" rfunc="case"/>
+    <dep from="t12" to="t27" rfunc="obl"/>
+    <dep from="t27" to="t26" rfunc="det"/>
+    <dep from="t29" to="t28" rfunc="case"/>
+    <dep from="t27" to="t29" rfunc="nummod"/>
+    <dep from="t12" to="t30" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--B A F T A   A w a r d s-->
+        <target id="t9"/>
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/British_Academy_Film_Awards" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/British_Academy_Film_Awards" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/British_Academy_Film_Awards" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B r i t i s h   A c a d e m y   o f   F i l m   a n d   T e l e v i s i o n   A r t s-->
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/British_Academy_of_Film_and_Television_Arts" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/British_Academy_of_Film_and_Television_Arts" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/British_Academy_of_Film_and_Television_Arts" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1 9 5 7-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--1 9 5 6-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1956" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1956" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1956" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

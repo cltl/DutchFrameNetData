@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2007 Kabaddi World Cup"/>
+    <public uri="https://en.wikipedia.org/wiki/2007_Kabaddi_World_Cup"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:47:08UTC" endTimestamp="2020-05-27T16:47:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:53CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2007 Kabaddi World Cup++.
+2007 Kabaddi World Cup was played in India. Host India won the world cup by beating Iran in the finals by 29 - 19. Total of 14 teams took part in this competition out of which 11 were Asian.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2007]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Kabaddi]]></wf>
+    <wf sent="1" id="w4" length="5" offset="15"><![CDATA[World]]></wf>
+    <wf sent="1" id="w5" length="5" offset="21"><![CDATA[Cup++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="26"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="27"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="4" offset="28"><![CDATA[2007]]></wf>
+    <wf sent="3" id="w9" length="7" offset="33"><![CDATA[Kabaddi]]></wf>
+    <wf sent="3" id="w10" length="5" offset="41"><![CDATA[World]]></wf>
+    <wf sent="3" id="w11" length="3" offset="47"><![CDATA[Cup]]></wf>
+    <wf sent="3" id="w12" length="3" offset="51"><![CDATA[was]]></wf>
+    <wf sent="3" id="w13" length="6" offset="55"><![CDATA[played]]></wf>
+    <wf sent="3" id="w14" length="2" offset="62"><![CDATA[in]]></wf>
+    <wf sent="3" id="w15" length="5" offset="65"><![CDATA[India]]></wf>
+    <wf sent="3" id="w16" length="1" offset="70"><![CDATA[.]]></wf>
+    <wf sent="4" id="w17" length="4" offset="72"><![CDATA[Host]]></wf>
+    <wf sent="4" id="w18" length="5" offset="77"><![CDATA[India]]></wf>
+    <wf sent="4" id="w19" length="3" offset="83"><![CDATA[won]]></wf>
+    <wf sent="4" id="w20" length="3" offset="87"><![CDATA[the]]></wf>
+    <wf sent="4" id="w21" length="5" offset="91"><![CDATA[world]]></wf>
+    <wf sent="4" id="w22" length="3" offset="97"><![CDATA[cup]]></wf>
+    <wf sent="4" id="w23" length="2" offset="101"><![CDATA[by]]></wf>
+    <wf sent="4" id="w24" length="7" offset="104"><![CDATA[beating]]></wf>
+    <wf sent="4" id="w25" length="4" offset="112"><![CDATA[Iran]]></wf>
+    <wf sent="4" id="w26" length="2" offset="117"><![CDATA[in]]></wf>
+    <wf sent="4" id="w27" length="3" offset="120"><![CDATA[the]]></wf>
+    <wf sent="4" id="w28" length="6" offset="124"><![CDATA[finals]]></wf>
+    <wf sent="4" id="w29" length="2" offset="131"><![CDATA[by]]></wf>
+    <wf sent="4" id="w30" length="2" offset="134"><![CDATA[29]]></wf>
+    <wf sent="4" id="w31" length="1" offset="137"><![CDATA[-]]></wf>
+    <wf sent="4" id="w32" length="2" offset="139"><![CDATA[19]]></wf>
+    <wf sent="4" id="w33" length="1" offset="141"><![CDATA[.]]></wf>
+    <wf sent="5" id="w34" length="5" offset="143"><![CDATA[Total]]></wf>
+    <wf sent="5" id="w35" length="2" offset="149"><![CDATA[of]]></wf>
+    <wf sent="5" id="w36" length="2" offset="152"><![CDATA[14]]></wf>
+    <wf sent="5" id="w37" length="5" offset="155"><![CDATA[teams]]></wf>
+    <wf sent="5" id="w38" length="4" offset="161"><![CDATA[took]]></wf>
+    <wf sent="5" id="w39" length="4" offset="166"><![CDATA[part]]></wf>
+    <wf sent="5" id="w40" length="2" offset="171"><![CDATA[in]]></wf>
+    <wf sent="5" id="w41" length="4" offset="174"><![CDATA[this]]></wf>
+    <wf sent="5" id="w42" length="11" offset="179"><![CDATA[competition]]></wf>
+    <wf sent="5" id="w43" length="3" offset="191"><![CDATA[out]]></wf>
+    <wf sent="5" id="w44" length="2" offset="195"><![CDATA[of]]></wf>
+    <wf sent="5" id="w45" length="5" offset="198"><![CDATA[which]]></wf>
+    <wf sent="5" id="w46" length="2" offset="204"><![CDATA[11]]></wf>
+    <wf sent="5" id="w47" length="4" offset="207"><![CDATA[were]]></wf>
+    <wf sent="5" id="w48" length="5" offset="212"><![CDATA[Asian]]></wf>
+    <wf sent="5" id="w49" length="1" offset="217"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2007" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Kabaddi" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Cup++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2007" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Kabaddi" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="India" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="host" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="India" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="world" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="cup" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="beat" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Iran" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="final" pos="NOUN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="-" pos="SYM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="19" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="total" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="14" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="out" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="11" pos="NUM" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="asian" pos="ADJ" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t5" rfunc="pobj"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="compound"/>
+    <dep from="t13" to="t11" rfunc="nsubjpass"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="auxpass"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t14" to="t15" rfunc="pobj"/>
+    <dep from="t13" to="t16" rfunc="punct"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t19" to="t18" rfunc="nsubj"/>
+    <dep from="t22" to="t20" rfunc="det"/>
+    <dep from="t19" to="t22" rfunc="dobj"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t19" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pcomp"/>
+    <dep from="t24" to="t25" rfunc="dobj"/>
+    <dep from="t24" to="t26" rfunc="prep"/>
+    <dep from="t28" to="t27" rfunc="det"/>
+    <dep from="t26" to="t28" rfunc="pobj"/>
+    <dep from="t24" to="t29" rfunc="prep"/>
+    <dep from="t29" to="t30" rfunc="pobj"/>
+    <dep from="t32" to="t31" rfunc="punct"/>
+    <dep from="t30" to="t32" rfunc="prep"/>
+    <dep from="t19" to="t33" rfunc="punct"/>
+    <dep from="t38" to="t34" rfunc="nsubj"/>
+    <dep from="t34" to="t35" rfunc="prep"/>
+    <dep from="t37" to="t36" rfunc="nummod"/>
+    <dep from="t35" to="t37" rfunc="pobj"/>
+    <dep from="t38" to="t39" rfunc="dobj"/>
+    <dep from="t38" to="t40" rfunc="prep"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t40" to="t42" rfunc="pobj"/>
+    <dep from="t38" to="t43" rfunc="prep"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t47" to="t46" rfunc="nsubj"/>
+    <dep from="t38" to="t47" rfunc="ccomp"/>
+    <dep from="t47" to="t48" rfunc="acomp"/>
+    <dep from="t38" to="t49" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--I n d i a-->
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/India" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/India" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q668" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--I n d i a-->
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/India" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/India" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q668" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--I r a n-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Iran" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Iran" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Iran" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q794" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t15"/>
+      </span>
+      <span status="system">
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q668" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

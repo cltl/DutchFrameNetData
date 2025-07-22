@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2009 Premier League Snooker"/>
+    <public uri="https://en.wikipedia.org/wiki/2009_Premier_League_Snooker"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:48:46UTC" endTimestamp="2020-05-27T16:48:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:48:46UTC" endTimestamp="2020-05-27T16:48:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:48:46UTC" endTimestamp="2020-05-27T16:48:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:48:46UTC" endTimestamp="2020-05-27T16:48:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:43CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2009 Premier League Snooker++.
+The 2009 PartyCasino.com Premier League Snooker was a professional non-ranking snooker tournament that was played from 3 September to 29 November 2009.
+Shaun Murphy won in the final 7–3 against defending champion Ronnie O'Sullivan.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2009]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Premier]]></wf>
+    <wf sent="1" id="w4" length="6" offset="15"><![CDATA[League]]></wf>
+    <wf sent="1" id="w5" length="9" offset="22"><![CDATA[Snooker++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="31"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="32"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="33"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="37"><![CDATA[2009]]></wf>
+    <wf sent="2" id="w10" length="15" offset="42"><![CDATA[PartyCasino.com]]></wf>
+    <wf sent="2" id="w11" length="7" offset="58"><![CDATA[Premier]]></wf>
+    <wf sent="2" id="w12" length="6" offset="66"><![CDATA[League]]></wf>
+    <wf sent="2" id="w13" length="7" offset="73"><![CDATA[Snooker]]></wf>
+    <wf sent="2" id="w14" length="3" offset="81"><![CDATA[was]]></wf>
+    <wf sent="2" id="w15" length="1" offset="85"><![CDATA[a]]></wf>
+    <wf sent="2" id="w16" length="12" offset="87"><![CDATA[professional]]></wf>
+    <wf sent="2" id="w17" length="3" offset="100"><![CDATA[non]]></wf>
+    <wf sent="2" id="w18" length="1" offset="103"><![CDATA[-]]></wf>
+    <wf sent="2" id="w19" length="7" offset="104"><![CDATA[ranking]]></wf>
+    <wf sent="2" id="w20" length="7" offset="112"><![CDATA[snooker]]></wf>
+    <wf sent="2" id="w21" length="10" offset="120"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w22" length="4" offset="131"><![CDATA[that]]></wf>
+    <wf sent="2" id="w23" length="3" offset="136"><![CDATA[was]]></wf>
+    <wf sent="2" id="w24" length="6" offset="140"><![CDATA[played]]></wf>
+    <wf sent="2" id="w25" length="4" offset="147"><![CDATA[from]]></wf>
+    <wf sent="2" id="w26" length="1" offset="152"><![CDATA[3]]></wf>
+    <wf sent="2" id="w27" length="9" offset="154"><![CDATA[September]]></wf>
+    <wf sent="2" id="w28" length="2" offset="164"><![CDATA[to]]></wf>
+    <wf sent="2" id="w29" length="2" offset="167"><![CDATA[29]]></wf>
+    <wf sent="2" id="w30" length="8" offset="170"><![CDATA[November]]></wf>
+    <wf sent="2" id="w31" length="4" offset="179"><![CDATA[2009]]></wf>
+    <wf sent="2" id="w32" length="1" offset="183"><![CDATA[.]]></wf>
+    <wf sent="2" id="w33" length="1" offset="184"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w34" length="5" offset="185"><![CDATA[Shaun]]></wf>
+    <wf sent="3" id="w35" length="6" offset="191"><![CDATA[Murphy]]></wf>
+    <wf sent="3" id="w36" length="3" offset="198"><![CDATA[won]]></wf>
+    <wf sent="3" id="w37" length="2" offset="202"><![CDATA[in]]></wf>
+    <wf sent="3" id="w38" length="3" offset="205"><![CDATA[the]]></wf>
+    <wf sent="3" id="w39" length="5" offset="209"><![CDATA[final]]></wf>
+    <wf sent="3" id="w40" length="3" offset="215"><![CDATA[7–3]]></wf>
+    <wf sent="3" id="w41" length="7" offset="219"><![CDATA[against]]></wf>
+    <wf sent="3" id="w42" length="9" offset="227"><![CDATA[defending]]></wf>
+    <wf sent="3" id="w43" length="8" offset="237"><![CDATA[champion]]></wf>
+    <wf sent="3" id="w44" length="6" offset="246"><![CDATA[Ronnie]]></wf>
+    <wf sent="3" id="w45" length="10" offset="253"><![CDATA[O'Sullivan]]></wf>
+    <wf sent="3" id="w46" length="1" offset="263"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2009" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Premier" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Snooker++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2009" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="PartyCasino.com" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Premier" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Snooker" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="professional" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="non" pos="ADJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="-" pos="ADJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="ranking" pos="ADJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="snook" pos="ADJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="that" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="2009" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Shaun" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Murphy" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="final" pos="ADJ" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="7–3" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="against" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="defend" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="champion" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Ronnie" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="O'Sullivan" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t13" to="t8" rfunc="det"/>
+    <dep from="t14" to="t13" rfunc="nsubj"/>
+    <dep from="t10" to="t9" rfunc="nummod"/>
+    <dep from="t13" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t21" to="t15" rfunc="det"/>
+    <dep from="t14" to="t21" rfunc="attr"/>
+    <dep from="t21" to="t16" rfunc="amod"/>
+    <dep from="t18" to="t17" rfunc="subtok"/>
+    <dep from="t19" to="t18" rfunc="subtok"/>
+    <dep from="t21" to="t19" rfunc="amod"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t24" to="t22" rfunc="nsubjpass"/>
+    <dep from="t21" to="t24" rfunc="relcl"/>
+    <dep from="t24" to="t23" rfunc="auxpass"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t27" to="t26" rfunc="nummod"/>
+    <dep from="t25" to="t27" rfunc="pobj"/>
+    <dep from="t24" to="t28" rfunc="prep"/>
+    <dep from="t30" to="t29" rfunc="nummod"/>
+    <dep from="t28" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t31" rfunc="nummod"/>
+    <dep from="t14" to="t32" rfunc="punct"/>
+    <dep from="t32" to="t33" rfunc=""/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t36" to="t35" rfunc="nsubj"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t40" to="t38" rfunc="det"/>
+    <dep from="t37" to="t40" rfunc="pobj"/>
+    <dep from="t40" to="t39" rfunc="amod"/>
+    <dep from="t40" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pcomp"/>
+    <dep from="t45" to="t43" rfunc="compound"/>
+    <dep from="t42" to="t45" rfunc="dobj"/>
+    <dep from="t45" to="t44" rfunc="compound"/>
+    <dep from="t36" to="t46" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--P a r t y C a s i n o . c o m   P r e m i e r   L e a g u e   S n o o k e r-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Premier_League_Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Premier_League_Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--r a n k i n g-->
+        <target id="t19"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Snooker_world_rankings" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--s n o o k e r-->
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S h a u n   M u r p h y-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Shaun_Murphy_(snooker_player)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--R o n n i e   O ' S u l l i v a n-->
+        <target id="t44"/>
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ronnie_O'Sullivan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ronnie_O'Sullivan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ronnie_O'Sullivan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t4"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-defending" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

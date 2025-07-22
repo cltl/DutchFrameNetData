@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Ardmore Open"/>
+    <public uri="https://en.wikipedia.org/wiki/Ardmore_Open"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T08:26:15UTC" endTimestamp="2020-05-28T08:26:15UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T08:26:15UTC" endTimestamp="2020-05-28T08:26:15UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T08:26:15UTC" endTimestamp="2020-05-28T08:26:15UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T08:26:15UTC" endTimestamp="2020-05-28T08:26:15UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:38CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Ardmore Open++.
+The Ardmore Open was a golf tournament on the PGA Tour from 1952 to 1954. It was played at Dornick Hills Golf & Country Club in Ardmore, Oklahoma.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="7" offset="2"><![CDATA[Ardmore]]></wf>
+    <wf sent="1" id="w4" length="6" offset="10"><![CDATA[Open++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="16"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="17"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="18"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="7" offset="22"><![CDATA[Ardmore]]></wf>
+    <wf sent="2" id="w9" length="4" offset="30"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w10" length="3" offset="35"><![CDATA[was]]></wf>
+    <wf sent="2" id="w11" length="1" offset="39"><![CDATA[a]]></wf>
+    <wf sent="2" id="w12" length="4" offset="41"><![CDATA[golf]]></wf>
+    <wf sent="2" id="w13" length="10" offset="46"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w14" length="2" offset="57"><![CDATA[on]]></wf>
+    <wf sent="2" id="w15" length="3" offset="60"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="3" offset="64"><![CDATA[PGA]]></wf>
+    <wf sent="2" id="w17" length="4" offset="68"><![CDATA[Tour]]></wf>
+    <wf sent="2" id="w18" length="4" offset="73"><![CDATA[from]]></wf>
+    <wf sent="2" id="w19" length="4" offset="78"><![CDATA[1952]]></wf>
+    <wf sent="2" id="w20" length="2" offset="83"><![CDATA[to]]></wf>
+    <wf sent="2" id="w21" length="4" offset="86"><![CDATA[1954]]></wf>
+    <wf sent="2" id="w22" length="1" offset="90"><![CDATA[.]]></wf>
+    <wf sent="3" id="w23" length="2" offset="92"><![CDATA[It]]></wf>
+    <wf sent="3" id="w24" length="3" offset="95"><![CDATA[was]]></wf>
+    <wf sent="3" id="w25" length="6" offset="99"><![CDATA[played]]></wf>
+    <wf sent="3" id="w26" length="2" offset="106"><![CDATA[at]]></wf>
+    <wf sent="3" id="w27" length="7" offset="109"><![CDATA[Dornick]]></wf>
+    <wf sent="3" id="w28" length="5" offset="117"><![CDATA[Hills]]></wf>
+    <wf sent="3" id="w29" length="4" offset="123"><![CDATA[Golf]]></wf>
+    <wf sent="3" id="w30" length="1" offset="128"><![CDATA[&]]></wf>
+    <wf sent="3" id="w31" length="7" offset="130"><![CDATA[Country]]></wf>
+    <wf sent="3" id="w32" length="4" offset="138"><![CDATA[Club]]></wf>
+    <wf sent="3" id="w33" length="2" offset="143"><![CDATA[in]]></wf>
+    <wf sent="3" id="w34" length="7" offset="146"><![CDATA[Ardmore]]></wf>
+    <wf sent="3" id="w35" length="1" offset="153"><![CDATA[,]]></wf>
+    <wf sent="3" id="w36" length="8" offset="155"><![CDATA[Oklahoma]]></wf>
+    <wf sent="3" id="w37" length="1" offset="163"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Ardmore" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Open++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Ardmore" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="golf" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="PGA" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Tour" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="1952" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="1954" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Dornick" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Hills" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Golf" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="&amp;" pos="CCONJ" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Country" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Club" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Ardmore" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Oklahoma" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t2" to="t4" rfunc="advmod"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t9" to="t7" rfunc="det"/>
+    <dep from="t10" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t8" rfunc="compound"/>
+    <dep from="t13" to="t11" rfunc="det"/>
+    <dep from="t10" to="t13" rfunc="attr"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t17" to="t15" rfunc="det"/>
+    <dep from="t14" to="t17" rfunc="pobj"/>
+    <dep from="t17" to="t16" rfunc="compound"/>
+    <dep from="t13" to="t18" rfunc="prep"/>
+    <dep from="t18" to="t19" rfunc="pobj"/>
+    <dep from="t18" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t10" to="t22" rfunc="punct"/>
+    <dep from="t25" to="t23" rfunc="nsubjpass"/>
+    <dep from="t25" to="t24" rfunc="auxpass"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t29" to="t27" rfunc="compound"/>
+    <dep from="t26" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t29" to="t30" rfunc="cc"/>
+    <dep from="t32" to="t31" rfunc="compound"/>
+    <dep from="t29" to="t32" rfunc="conj"/>
+    <dep from="t29" to="t33" rfunc="prep"/>
+    <dep from="t33" to="t34" rfunc="pobj"/>
+    <dep from="t34" to="t35" rfunc="punct"/>
+    <dep from="t34" to="t36" rfunc="appos"/>
+    <dep from="t25" to="t37" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--g o l f-->
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Golf" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--P G A   T o u r-->
+        <target id="t16"/>
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/PGA_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/PGA_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Amerikaanse_PGA_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--D o r n i c k   H i l l s   G o l f   &   C o u n t r y   C l u b-->
+        <target id="t27"/>
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Dornick_Hills_Golf_&amp;amp;_Country_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--A r d m o r e ,   O k l a h o m a-->
+        <target id="t34"/>
+        <target id="t35"/>
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ardmore,_Oklahoma" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

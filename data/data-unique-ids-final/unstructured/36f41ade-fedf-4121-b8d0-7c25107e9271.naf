@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2017 Canada Open Grand Prix"/>
+    <public uri="https://en.wikipedia.org/wiki/2017_Canada_Open_Grand_Prix"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:50:04UTC" endTimestamp="2020-05-27T16:50:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:50:04UTC" endTimestamp="2020-05-27T16:50:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:50:04UTC" endTimestamp="2020-05-27T16:50:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:50:04UTC" endTimestamp="2020-05-27T16:50:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:15CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2017 Canada Open Grand Prix++.
+The 2017 Canada Open Grand Prix, was the ninth Grand Prix's badminton tournament of the 2017 BWF Grand Prix Gold and Grand Prix. The tournament was held at the Markin MacPhail Centre in Calgary, Alberta, Canada on 11 – 16 July 2017 and had a total purse of $65,000.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2017]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Canada]]></wf>
+    <wf sent="1" id="w4" length="4" offset="14"><![CDATA[Open]]></wf>
+    <wf sent="1" id="w5" length="5" offset="19"><![CDATA[Grand]]></wf>
+    <wf sent="1" id="w6" length="6" offset="25"><![CDATA[Prix++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="31"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="32"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="33"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="37"><![CDATA[2017]]></wf>
+    <wf sent="2" id="w11" length="6" offset="42"><![CDATA[Canada]]></wf>
+    <wf sent="2" id="w12" length="4" offset="49"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w13" length="5" offset="54"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w14" length="4" offset="60"><![CDATA[Prix]]></wf>
+    <wf sent="2" id="w15" length="1" offset="64"><![CDATA[,]]></wf>
+    <wf sent="2" id="w16" length="3" offset="66"><![CDATA[was]]></wf>
+    <wf sent="2" id="w17" length="3" offset="70"><![CDATA[the]]></wf>
+    <wf sent="2" id="w18" length="5" offset="74"><![CDATA[ninth]]></wf>
+    <wf sent="2" id="w19" length="5" offset="80"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w20" length="4" offset="86"><![CDATA[Prix]]></wf>
+    <wf sent="2" id="w21" length="2" offset="90"><![CDATA['s]]></wf>
+    <wf sent="2" id="w22" length="9" offset="93"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w23" length="10" offset="103"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w24" length="2" offset="114"><![CDATA[of]]></wf>
+    <wf sent="2" id="w25" length="3" offset="117"><![CDATA[the]]></wf>
+    <wf sent="2" id="w26" length="4" offset="121"><![CDATA[2017]]></wf>
+    <wf sent="2" id="w27" length="3" offset="126"><![CDATA[BWF]]></wf>
+    <wf sent="2" id="w28" length="5" offset="130"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w29" length="4" offset="136"><![CDATA[Prix]]></wf>
+    <wf sent="2" id="w30" length="4" offset="141"><![CDATA[Gold]]></wf>
+    <wf sent="2" id="w31" length="3" offset="146"><![CDATA[and]]></wf>
+    <wf sent="2" id="w32" length="5" offset="150"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w33" length="4" offset="156"><![CDATA[Prix]]></wf>
+    <wf sent="2" id="w34" length="1" offset="160"><![CDATA[.]]></wf>
+    <wf sent="3" id="w35" length="3" offset="162"><![CDATA[The]]></wf>
+    <wf sent="3" id="w36" length="10" offset="166"><![CDATA[tournament]]></wf>
+    <wf sent="3" id="w37" length="3" offset="177"><![CDATA[was]]></wf>
+    <wf sent="3" id="w38" length="4" offset="181"><![CDATA[held]]></wf>
+    <wf sent="3" id="w39" length="2" offset="186"><![CDATA[at]]></wf>
+    <wf sent="3" id="w40" length="3" offset="189"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="6" offset="193"><![CDATA[Markin]]></wf>
+    <wf sent="3" id="w42" length="8" offset="200"><![CDATA[MacPhail]]></wf>
+    <wf sent="3" id="w43" length="6" offset="209"><![CDATA[Centre]]></wf>
+    <wf sent="3" id="w44" length="2" offset="216"><![CDATA[in]]></wf>
+    <wf sent="3" id="w45" length="7" offset="219"><![CDATA[Calgary]]></wf>
+    <wf sent="3" id="w46" length="1" offset="226"><![CDATA[,]]></wf>
+    <wf sent="3" id="w47" length="7" offset="228"><![CDATA[Alberta]]></wf>
+    <wf sent="3" id="w48" length="1" offset="235"><![CDATA[,]]></wf>
+    <wf sent="3" id="w49" length="6" offset="237"><![CDATA[Canada]]></wf>
+    <wf sent="3" id="w50" length="2" offset="244"><![CDATA[on]]></wf>
+    <wf sent="3" id="w51" length="2" offset="247"><![CDATA[11]]></wf>
+    <wf sent="3" id="w52" length="1" offset="250"><![CDATA[–]]></wf>
+    <wf sent="3" id="w53" length="2" offset="252"><![CDATA[16]]></wf>
+    <wf sent="3" id="w54" length="4" offset="255"><![CDATA[July]]></wf>
+    <wf sent="3" id="w55" length="4" offset="260"><![CDATA[2017]]></wf>
+    <wf sent="3" id="w56" length="3" offset="265"><![CDATA[and]]></wf>
+    <wf sent="3" id="w57" length="3" offset="269"><![CDATA[had]]></wf>
+    <wf sent="3" id="w58" length="1" offset="273"><![CDATA[a]]></wf>
+    <wf sent="3" id="w59" length="5" offset="275"><![CDATA[total]]></wf>
+    <wf sent="3" id="w60" length="5" offset="281"><![CDATA[purse]]></wf>
+    <wf sent="3" id="w61" length="2" offset="287"><![CDATA[of]]></wf>
+    <wf sent="3" id="w62" length="1" offset="290"><![CDATA[$]]></wf>
+    <wf sent="3" id="w63" length="6" offset="291"><![CDATA[65,000]]></wf>
+    <wf sent="3" id="w64" length="1" offset="297"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2017" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Prix++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Prix" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="ninth" pos="ADJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Prix" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="BWF" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Prix" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Gold" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Prix" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Markin" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="MacPhail" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Centre" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Calgary" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Alberta" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="11" pos="NUM" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="–" pos="SYM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="total" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="purse" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="$" pos="SYM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="65,000" pos="NUM" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t3" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="subtok"/>
+    <dep from="t2" to="t7" rfunc="pobj"/>
+    <dep from="t6" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t14" to="t9" rfunc="det"/>
+    <dep from="t16" to="t14" rfunc="nsubj"/>
+    <dep from="t14" to="t10" rfunc="nummod"/>
+    <dep from="t14" to="t11" rfunc="compound"/>
+    <dep from="t14" to="t12" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="punct"/>
+    <dep from="t20" to="t17" rfunc="det"/>
+    <dep from="t23" to="t20" rfunc="poss"/>
+    <dep from="t16" to="t23" rfunc="attr"/>
+    <dep from="t20" to="t18" rfunc="amod"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t20" to="t21" rfunc="case"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t23" to="t24" rfunc="prep"/>
+    <dep from="t30" to="t25" rfunc="det"/>
+    <dep from="t24" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t26" rfunc="nummod"/>
+    <dep from="t30" to="t27" rfunc="compound"/>
+    <dep from="t30" to="t28" rfunc="compound"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t30" to="t31" rfunc="cc"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t30" to="t33" rfunc="conj"/>
+    <dep from="t16" to="t34" rfunc="punct"/>
+    <dep from="t36" to="t35" rfunc="det"/>
+    <dep from="t38" to="t36" rfunc="nsubjpass"/>
+    <dep from="t38" to="t37" rfunc="auxpass"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t43" to="t40" rfunc="det"/>
+    <dep from="t39" to="t43" rfunc="pobj"/>
+    <dep from="t43" to="t41" rfunc="compound"/>
+    <dep from="t43" to="t42" rfunc="compound"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t45" to="t46" rfunc="punct"/>
+    <dep from="t45" to="t47" rfunc="npadvmod"/>
+    <dep from="t47" to="t48" rfunc="punct"/>
+    <dep from="t43" to="t49" rfunc="appos"/>
+    <dep from="t49" to="t50" rfunc="prep"/>
+    <dep from="t52" to="t51" rfunc="nummod"/>
+    <dep from="t50" to="t52" rfunc="pobj"/>
+    <dep from="t54" to="t53" rfunc="nummod"/>
+    <dep from="t52" to="t54" rfunc="npadvmod"/>
+    <dep from="t54" to="t55" rfunc="nummod"/>
+    <dep from="t38" to="t56" rfunc="cc"/>
+    <dep from="t38" to="t57" rfunc="conj"/>
+    <dep from="t60" to="t58" rfunc="det"/>
+    <dep from="t57" to="t60" rfunc="dobj"/>
+    <dep from="t60" to="t59" rfunc="amod"/>
+    <dep from="t60" to="t61" rfunc="prep"/>
+    <dep from="t63" to="t62" rfunc="nmod"/>
+    <dep from="t61" to="t63" rfunc="pobj"/>
+    <dep from="t38" to="t64" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--C a n a d a   O p e n   G r a n d   P r i x-->
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Canadian_Open_(badminton)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 0 1 7   B W F   G r a n d   P r i x   G o l d   a n d   G r a n d   P r i x-->
+        <target id="t26"/>
+        <target id="t27"/>
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2017_BWF_Grand_Prix_Gold_and_Grand_Prix" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--M a r k i n   M a c P h a i l   C e n t r e-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Markin_MacPhail_Centre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--C a l g a r y ,   A l b e r t a-->
+        <target id="t45"/>
+        <target id="t46"/>
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Calgary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Calgary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Calgary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C a n a d a-->
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Canada" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Canada" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q16" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q16" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-amounting_to" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2012 Paris–Tours"/>
+    <public uri="https://en.wikipedia.org/wiki/2012_Paris%E2%80%93Tours"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T18:51:52UTC" endTimestamp="2020-05-28T18:51:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T18:51:52UTC" endTimestamp="2020-05-28T18:51:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T18:51:52UTC" endTimestamp="2020-05-28T18:51:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T18:51:52UTC" endTimestamp="2020-05-28T18:51:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:29CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2012 Paris–Tours++.
+The 2012 Paris–Tours was the 106th edition of this single day road bicycle racing event. Marco Marcato outsprinted Laurens De Vreese in the final meters to stay out of the grip of the chasing group and peloton. Marcato thereby won the biggest race of his career so far, after finishing second in 2011.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="2" id="w2" length="5" offset="1"><![CDATA[+2012]]></wf>
+    <wf sent="2" id="w3" length="5" offset="7"><![CDATA[Paris]]></wf>
+    <wf sent="2" id="w4" length="1" offset="12"><![CDATA[–]]></wf>
+    <wf sent="2" id="w5" length="7" offset="13"><![CDATA[Tours++]]></wf>
+    <wf sent="2" id="w6" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="2" id="w7" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w8" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="3" id="w9" length="4" offset="26"><![CDATA[2012]]></wf>
+    <wf sent="3" id="w10" length="5" offset="31"><![CDATA[Paris]]></wf>
+    <wf sent="3" id="w11" length="1" offset="36"><![CDATA[–]]></wf>
+    <wf sent="3" id="w12" length="5" offset="37"><![CDATA[Tours]]></wf>
+    <wf sent="3" id="w13" length="3" offset="43"><![CDATA[was]]></wf>
+    <wf sent="3" id="w14" length="3" offset="47"><![CDATA[the]]></wf>
+    <wf sent="3" id="w15" length="5" offset="51"><![CDATA[106th]]></wf>
+    <wf sent="3" id="w16" length="7" offset="57"><![CDATA[edition]]></wf>
+    <wf sent="3" id="w17" length="2" offset="65"><![CDATA[of]]></wf>
+    <wf sent="3" id="w18" length="4" offset="68"><![CDATA[this]]></wf>
+    <wf sent="3" id="w19" length="6" offset="73"><![CDATA[single]]></wf>
+    <wf sent="3" id="w20" length="3" offset="80"><![CDATA[day]]></wf>
+    <wf sent="3" id="w21" length="4" offset="84"><![CDATA[road]]></wf>
+    <wf sent="3" id="w22" length="7" offset="89"><![CDATA[bicycle]]></wf>
+    <wf sent="3" id="w23" length="6" offset="97"><![CDATA[racing]]></wf>
+    <wf sent="3" id="w24" length="5" offset="104"><![CDATA[event]]></wf>
+    <wf sent="3" id="w25" length="1" offset="109"><![CDATA[.]]></wf>
+    <wf sent="4" id="w26" length="5" offset="111"><![CDATA[Marco]]></wf>
+    <wf sent="4" id="w27" length="7" offset="117"><![CDATA[Marcato]]></wf>
+    <wf sent="4" id="w28" length="11" offset="125"><![CDATA[outsprinted]]></wf>
+    <wf sent="4" id="w29" length="7" offset="137"><![CDATA[Laurens]]></wf>
+    <wf sent="4" id="w30" length="2" offset="145"><![CDATA[De]]></wf>
+    <wf sent="4" id="w31" length="6" offset="148"><![CDATA[Vreese]]></wf>
+    <wf sent="4" id="w32" length="2" offset="155"><![CDATA[in]]></wf>
+    <wf sent="4" id="w33" length="3" offset="158"><![CDATA[the]]></wf>
+    <wf sent="4" id="w34" length="5" offset="162"><![CDATA[final]]></wf>
+    <wf sent="4" id="w35" length="6" offset="168"><![CDATA[meters]]></wf>
+    <wf sent="4" id="w36" length="2" offset="175"><![CDATA[to]]></wf>
+    <wf sent="4" id="w37" length="4" offset="178"><![CDATA[stay]]></wf>
+    <wf sent="4" id="w38" length="3" offset="183"><![CDATA[out]]></wf>
+    <wf sent="4" id="w39" length="2" offset="187"><![CDATA[of]]></wf>
+    <wf sent="4" id="w40" length="3" offset="190"><![CDATA[the]]></wf>
+    <wf sent="4" id="w41" length="4" offset="194"><![CDATA[grip]]></wf>
+    <wf sent="4" id="w42" length="2" offset="199"><![CDATA[of]]></wf>
+    <wf sent="4" id="w43" length="3" offset="202"><![CDATA[the]]></wf>
+    <wf sent="4" id="w44" length="7" offset="206"><![CDATA[chasing]]></wf>
+    <wf sent="4" id="w45" length="5" offset="214"><![CDATA[group]]></wf>
+    <wf sent="4" id="w46" length="3" offset="220"><![CDATA[and]]></wf>
+    <wf sent="4" id="w47" length="7" offset="224"><![CDATA[peloton]]></wf>
+    <wf sent="4" id="w48" length="1" offset="231"><![CDATA[.]]></wf>
+    <wf sent="5" id="w49" length="7" offset="233"><![CDATA[Marcato]]></wf>
+    <wf sent="5" id="w50" length="7" offset="241"><![CDATA[thereby]]></wf>
+    <wf sent="5" id="w51" length="3" offset="249"><![CDATA[won]]></wf>
+    <wf sent="5" id="w52" length="3" offset="253"><![CDATA[the]]></wf>
+    <wf sent="5" id="w53" length="7" offset="257"><![CDATA[biggest]]></wf>
+    <wf sent="5" id="w54" length="4" offset="265"><![CDATA[race]]></wf>
+    <wf sent="5" id="w55" length="2" offset="270"><![CDATA[of]]></wf>
+    <wf sent="5" id="w56" length="3" offset="273"><![CDATA[his]]></wf>
+    <wf sent="5" id="w57" length="6" offset="277"><![CDATA[career]]></wf>
+    <wf sent="5" id="w58" length="2" offset="284"><![CDATA[so]]></wf>
+    <wf sent="5" id="w59" length="3" offset="287"><![CDATA[far]]></wf>
+    <wf sent="5" id="w60" length="1" offset="290"><![CDATA[,]]></wf>
+    <wf sent="5" id="w61" length="5" offset="292"><![CDATA[after]]></wf>
+    <wf sent="5" id="w62" length="9" offset="298"><![CDATA[finishing]]></wf>
+    <wf sent="5" id="w63" length="6" offset="308"><![CDATA[second]]></wf>
+    <wf sent="5" id="w64" length="2" offset="315"><![CDATA[in]]></wf>
+    <wf sent="5" id="w65" length="4" offset="318"><![CDATA[2011]]></wf>
+    <wf sent="5" id="w66" length="1" offset="322"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="PUNCT" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2012" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Paris" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Tours++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Paris" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Tours" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="106th" pos="ADJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="single" pos="ADJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="road" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="bicycle" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="racing" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Marco" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Marcato" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="outsprinte" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Laurens" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="De" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Vreese" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="final" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="meter" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="stay" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="out" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="grip" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="chase" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="group" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="peloton" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Marcato" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="thereby" pos="ADV" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="big" pos="ADJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="career" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="so" pos="ADV" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="far" pos="ADV" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="after" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="finish" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="second" pos="ADV" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="2011" pos="NUM" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t2" rfunc="compound"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t13" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t13" to="t16" rfunc="attr"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t24" to="t18" rfunc="det"/>
+    <dep from="t17" to="t24" rfunc="pobj"/>
+    <dep from="t20" to="t19" rfunc="amod"/>
+    <dep from="t24" to="t20" rfunc="compound"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t24" to="t22" rfunc="compound"/>
+    <dep from="t24" to="t23" rfunc="compound"/>
+    <dep from="t13" to="t25" rfunc="punct"/>
+    <dep from="t27" to="t26" rfunc="compound"/>
+    <dep from="t28" to="t27" rfunc="nsubj"/>
+    <dep from="t31" to="t29" rfunc="compound"/>
+    <dep from="t28" to="t31" rfunc="dobj"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t28" to="t32" rfunc="prep"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t37" to="t36" rfunc="aux"/>
+    <dep from="t28" to="t37" rfunc="advcl"/>
+    <dep from="t37" to="t38" rfunc="prep"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t45" to="t43" rfunc="det"/>
+    <dep from="t42" to="t45" rfunc="pobj"/>
+    <dep from="t45" to="t44" rfunc="amod"/>
+    <dep from="t45" to="t46" rfunc="cc"/>
+    <dep from="t45" to="t47" rfunc="conj"/>
+    <dep from="t28" to="t48" rfunc="punct"/>
+    <dep from="t51" to="t49" rfunc="nsubj"/>
+    <dep from="t51" to="t50" rfunc="advmod"/>
+    <dep from="t54" to="t52" rfunc="det"/>
+    <dep from="t51" to="t54" rfunc="dobj"/>
+    <dep from="t54" to="t53" rfunc="amod"/>
+    <dep from="t54" to="t55" rfunc="prep"/>
+    <dep from="t57" to="t56" rfunc="poss"/>
+    <dep from="t55" to="t57" rfunc="pobj"/>
+    <dep from="t59" to="t58" rfunc="advmod"/>
+    <dep from="t51" to="t59" rfunc="advmod"/>
+    <dep from="t51" to="t60" rfunc="punct"/>
+    <dep from="t51" to="t61" rfunc="prep"/>
+    <dep from="t61" to="t62" rfunc="pcomp"/>
+    <dep from="t62" to="t63" rfunc="advmod"/>
+    <dep from="t62" to="t64" rfunc="prep"/>
+    <dep from="t64" to="t65" rfunc="pobj"/>
+    <dep from="t51" to="t66" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--P a r i s – T o u r s-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Paris–Tours" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--r o a d   b i c y c l e   r a c i n g-->
+        <target id="t21"/>
+        <target id="t22"/>
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Road_bicycle_racing" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ciclismo_su_strada" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wegwielrennen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--M a r c o   M a r c a t o-->
+        <target id="t26"/>
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marco_Marcato" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Marco_Marcato" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Marco_Marcato" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--L a u r e n s   D e   V r e e s e-->
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Laurens_De_Vreese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Laurens_De_Vreese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Laurens_De_Vreese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-sole_instance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-measure_linear_extent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-residence" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-manipulation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-time_vector" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t61"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

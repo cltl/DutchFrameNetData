@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="FIS Nordic World Ski Championships 1995"/>
+    <public uri="https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_1995"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:45:51UTC" endTimestamp="2020-05-27T16:45:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:45:51UTC" endTimestamp="2020-05-27T16:45:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:45:51UTC" endTimestamp="2020-05-27T16:45:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:45:51UTC" endTimestamp="2020-05-27T16:45:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:55CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++FIS Nordic World Ski Championships 1995++.
+The FIS Nordic World Ski Championships 1995 took place 9–19 March 1995 in Thunder Bay, Ontario, Canada. This marked the second time the championships were held outside Europe (the first was in the US towns of Lake Placid, New York, and Rumford, Maine, in 1950). The Nordic combined team event was changed from a 3 × 10 km relay to a 4 × 5 km relay for these championships.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[FIS]]></wf>
+    <wf sent="1" id="w4" length="6" offset="6"><![CDATA[Nordic]]></wf>
+    <wf sent="1" id="w5" length="5" offset="13"><![CDATA[World]]></wf>
+    <wf sent="1" id="w6" length="3" offset="19"><![CDATA[Ski]]></wf>
+    <wf sent="1" id="w7" length="13" offset="23"><![CDATA[Championships]]></wf>
+    <wf sent="1" id="w8" length="6" offset="37"><![CDATA[1995++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="43"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="44"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="45"><![CDATA[The]]></wf>
+    <wf sent="2" id="w12" length="3" offset="49"><![CDATA[FIS]]></wf>
+    <wf sent="2" id="w13" length="6" offset="53"><![CDATA[Nordic]]></wf>
+    <wf sent="2" id="w14" length="5" offset="60"><![CDATA[World]]></wf>
+    <wf sent="2" id="w15" length="3" offset="66"><![CDATA[Ski]]></wf>
+    <wf sent="2" id="w16" length="13" offset="70"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w17" length="4" offset="84"><![CDATA[1995]]></wf>
+    <wf sent="2" id="w18" length="4" offset="89"><![CDATA[took]]></wf>
+    <wf sent="2" id="w19" length="5" offset="94"><![CDATA[place]]></wf>
+    <wf sent="3" id="w20" length="4" offset="100"><![CDATA[9–19]]></wf>
+    <wf sent="3" id="w21" length="5" offset="105"><![CDATA[March]]></wf>
+    <wf sent="3" id="w22" length="4" offset="111"><![CDATA[1995]]></wf>
+    <wf sent="3" id="w23" length="2" offset="116"><![CDATA[in]]></wf>
+    <wf sent="3" id="w24" length="7" offset="119"><![CDATA[Thunder]]></wf>
+    <wf sent="3" id="w25" length="3" offset="127"><![CDATA[Bay]]></wf>
+    <wf sent="3" id="w26" length="1" offset="130"><![CDATA[,]]></wf>
+    <wf sent="3" id="w27" length="7" offset="132"><![CDATA[Ontario]]></wf>
+    <wf sent="3" id="w28" length="1" offset="139"><![CDATA[,]]></wf>
+    <wf sent="3" id="w29" length="6" offset="141"><![CDATA[Canada]]></wf>
+    <wf sent="3" id="w30" length="1" offset="147"><![CDATA[.]]></wf>
+    <wf sent="4" id="w31" length="4" offset="149"><![CDATA[This]]></wf>
+    <wf sent="4" id="w32" length="6" offset="154"><![CDATA[marked]]></wf>
+    <wf sent="4" id="w33" length="3" offset="161"><![CDATA[the]]></wf>
+    <wf sent="4" id="w34" length="6" offset="165"><![CDATA[second]]></wf>
+    <wf sent="4" id="w35" length="4" offset="172"><![CDATA[time]]></wf>
+    <wf sent="4" id="w36" length="3" offset="177"><![CDATA[the]]></wf>
+    <wf sent="4" id="w37" length="13" offset="181"><![CDATA[championships]]></wf>
+    <wf sent="4" id="w38" length="4" offset="195"><![CDATA[were]]></wf>
+    <wf sent="4" id="w39" length="4" offset="200"><![CDATA[held]]></wf>
+    <wf sent="4" id="w40" length="7" offset="205"><![CDATA[outside]]></wf>
+    <wf sent="4" id="w41" length="6" offset="213"><![CDATA[Europe]]></wf>
+    <wf sent="4" id="w42" length="1" offset="220"><![CDATA[(]]></wf>
+    <wf sent="4" id="w43" length="3" offset="221"><![CDATA[the]]></wf>
+    <wf sent="4" id="w44" length="5" offset="225"><![CDATA[first]]></wf>
+    <wf sent="4" id="w45" length="3" offset="231"><![CDATA[was]]></wf>
+    <wf sent="4" id="w46" length="2" offset="235"><![CDATA[in]]></wf>
+    <wf sent="4" id="w47" length="3" offset="238"><![CDATA[the]]></wf>
+    <wf sent="4" id="w48" length="2" offset="242"><![CDATA[US]]></wf>
+    <wf sent="4" id="w49" length="5" offset="245"><![CDATA[towns]]></wf>
+    <wf sent="4" id="w50" length="2" offset="251"><![CDATA[of]]></wf>
+    <wf sent="4" id="w51" length="4" offset="254"><![CDATA[Lake]]></wf>
+    <wf sent="4" id="w52" length="6" offset="259"><![CDATA[Placid]]></wf>
+    <wf sent="4" id="w53" length="1" offset="265"><![CDATA[,]]></wf>
+    <wf sent="4" id="w54" length="3" offset="267"><![CDATA[New]]></wf>
+    <wf sent="4" id="w55" length="4" offset="271"><![CDATA[York]]></wf>
+    <wf sent="4" id="w56" length="1" offset="275"><![CDATA[,]]></wf>
+    <wf sent="4" id="w57" length="3" offset="277"><![CDATA[and]]></wf>
+    <wf sent="4" id="w58" length="7" offset="281"><![CDATA[Rumford]]></wf>
+    <wf sent="4" id="w59" length="1" offset="288"><![CDATA[,]]></wf>
+    <wf sent="4" id="w60" length="5" offset="290"><![CDATA[Maine]]></wf>
+    <wf sent="4" id="w61" length="1" offset="295"><![CDATA[,]]></wf>
+    <wf sent="4" id="w62" length="2" offset="297"><![CDATA[in]]></wf>
+    <wf sent="4" id="w63" length="4" offset="300"><![CDATA[1950]]></wf>
+    <wf sent="4" id="w64" length="1" offset="304"><![CDATA[)]]></wf>
+    <wf sent="4" id="w65" length="1" offset="305"><![CDATA[.]]></wf>
+    <wf sent="5" id="w66" length="3" offset="307"><![CDATA[The]]></wf>
+    <wf sent="5" id="w67" length="6" offset="311"><![CDATA[Nordic]]></wf>
+    <wf sent="5" id="w68" length="8" offset="318"><![CDATA[combined]]></wf>
+    <wf sent="5" id="w69" length="4" offset="327"><![CDATA[team]]></wf>
+    <wf sent="5" id="w70" length="5" offset="332"><![CDATA[event]]></wf>
+    <wf sent="5" id="w71" length="3" offset="338"><![CDATA[was]]></wf>
+    <wf sent="5" id="w72" length="7" offset="342"><![CDATA[changed]]></wf>
+    <wf sent="5" id="w73" length="4" offset="350"><![CDATA[from]]></wf>
+    <wf sent="5" id="w74" length="1" offset="355"><![CDATA[a]]></wf>
+    <wf sent="5" id="w75" length="1" offset="357"><![CDATA[3]]></wf>
+    <wf sent="5" id="w76" length="1" offset="359"><![CDATA[×]]></wf>
+    <wf sent="5" id="w77" length="2" offset="361"><![CDATA[10]]></wf>
+    <wf sent="5" id="w78" length="1" offset="363"><![CDATA[ ]]></wf>
+    <wf sent="5" id="w79" length="2" offset="364"><![CDATA[km]]></wf>
+    <wf sent="5" id="w80" length="5" offset="367"><![CDATA[relay]]></wf>
+    <wf sent="5" id="w81" length="2" offset="373"><![CDATA[to]]></wf>
+    <wf sent="5" id="w82" length="1" offset="376"><![CDATA[a]]></wf>
+    <wf sent="5" id="w83" length="1" offset="378"><![CDATA[4]]></wf>
+    <wf sent="5" id="w84" length="1" offset="380"><![CDATA[×]]></wf>
+    <wf sent="5" id="w85" length="1" offset="382"><![CDATA[5]]></wf>
+    <wf sent="5" id="w86" length="1" offset="383"><![CDATA[ ]]></wf>
+    <wf sent="5" id="w87" length="2" offset="384"><![CDATA[km]]></wf>
+    <wf sent="5" id="w88" length="5" offset="387"><![CDATA[relay]]></wf>
+    <wf sent="5" id="w89" length="3" offset="393"><![CDATA[for]]></wf>
+    <wf sent="5" id="w90" length="5" offset="397"><![CDATA[these]]></wf>
+    <wf sent="5" id="w91" length="13" offset="403"><![CDATA[championships]]></wf>
+    <wf sent="5" id="w92" length="1" offset="416"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="FIS" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="nordic" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Ski" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="1995++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="FIS" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Nordic" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Ski" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="1995" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="9–19" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="1995" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Thunder" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Bay" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Ontario" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="mark" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="time" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="outside" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Europe" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="US" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="town" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Lake" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Placid" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="New" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="York" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Rumford" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Maine" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="1950" pos="NUM" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="nordic" pos="ADJ" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="combined" pos="ADJ" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="change" pos="VERB" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="×" pos="NUM" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="10" pos="NUM" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="  " pos="SPACE" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="km" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="relay" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="4" pos="NUM" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="×" pos="NUM" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="  " pos="SPACE" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="km" pos="NOUN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="relay" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="these" pos="DET" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t7" to="t2" rfunc="cc"/>
+    <dep from="t1" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t3" rfunc="compound"/>
+    <dep from="t7" to="t4" rfunc="compound"/>
+    <dep from="t7" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="compound"/>
+    <dep from="t7" to="t8" rfunc="nummod"/>
+    <dep from="t7" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t16" to="t11" rfunc="det"/>
+    <dep from="t18" to="t16" rfunc="nsubj"/>
+    <dep from="t16" to="t12" rfunc="compound"/>
+    <dep from="t16" to="t13" rfunc="compound"/>
+    <dep from="t16" to="t14" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t18" to="t19" rfunc="dobj"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t21" to="t22" rfunc="nummod"/>
+    <dep from="t21" to="t23" rfunc="prep"/>
+    <dep from="t25" to="t24" rfunc="compound"/>
+    <dep from="t23" to="t25" rfunc="pobj"/>
+    <dep from="t25" to="t26" rfunc="punct"/>
+    <dep from="t25" to="t27" rfunc="appos"/>
+    <dep from="t27" to="t28" rfunc="punct"/>
+    <dep from="t27" to="t29" rfunc="appos"/>
+    <dep from="t21" to="t30" rfunc="punct"/>
+    <dep from="t32" to="t31" rfunc="nsubj"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="dobj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t37" to="t36" rfunc="det"/>
+    <dep from="t39" to="t37" rfunc="nsubjpass"/>
+    <dep from="t35" to="t39" rfunc="relcl"/>
+    <dep from="t39" to="t38" rfunc="auxpass"/>
+    <dep from="t39" to="t40" rfunc="prep"/>
+    <dep from="t40" to="t41" rfunc="pobj"/>
+    <dep from="t45" to="t42" rfunc="punct"/>
+    <dep from="t32" to="t45" rfunc="parataxis"/>
+    <dep from="t44" to="t43" rfunc="det"/>
+    <dep from="t45" to="t44" rfunc="nsubj"/>
+    <dep from="t45" to="t46" rfunc="prep"/>
+    <dep from="t49" to="t47" rfunc="det"/>
+    <dep from="t46" to="t49" rfunc="pobj"/>
+    <dep from="t49" to="t48" rfunc="compound"/>
+    <dep from="t49" to="t50" rfunc="prep"/>
+    <dep from="t52" to="t51" rfunc="compound"/>
+    <dep from="t50" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t53" rfunc="punct"/>
+    <dep from="t55" to="t54" rfunc="compound"/>
+    <dep from="t52" to="t55" rfunc="conj"/>
+    <dep from="t52" to="t56" rfunc="punct"/>
+    <dep from="t52" to="t57" rfunc="cc"/>
+    <dep from="t52" to="t58" rfunc="conj"/>
+    <dep from="t58" to="t59" rfunc="punct"/>
+    <dep from="t58" to="t60" rfunc="appos"/>
+    <dep from="t45" to="t61" rfunc="punct"/>
+    <dep from="t45" to="t62" rfunc="prep"/>
+    <dep from="t62" to="t63" rfunc="pobj"/>
+    <dep from="t45" to="t64" rfunc="punct"/>
+    <dep from="t32" to="t65" rfunc="punct"/>
+    <dep from="t70" to="t66" rfunc="det"/>
+    <dep from="t72" to="t70" rfunc="nsubjpass"/>
+    <dep from="t70" to="t67" rfunc="amod"/>
+    <dep from="t69" to="t68" rfunc="amod"/>
+    <dep from="t70" to="t69" rfunc="compound"/>
+    <dep from="t72" to="t71" rfunc="auxpass"/>
+    <dep from="t72" to="t73" rfunc="prep"/>
+    <dep from="t80" to="t74" rfunc="det"/>
+    <dep from="t73" to="t80" rfunc="pobj"/>
+    <dep from="t77" to="t75" rfunc="quantmod"/>
+    <dep from="t80" to="t77" rfunc="nummod"/>
+    <dep from="t77" to="t76" rfunc="compound"/>
+    <dep from="t77" to="t78" rfunc=""/>
+    <dep from="t80" to="t79" rfunc="compound"/>
+    <dep from="t80" to="t81" rfunc="prep"/>
+    <dep from="t88" to="t82" rfunc="det"/>
+    <dep from="t81" to="t88" rfunc="pobj"/>
+    <dep from="t85" to="t83" rfunc="quantmod"/>
+    <dep from="t88" to="t85" rfunc="nummod"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t85" to="t86" rfunc=""/>
+    <dep from="t88" to="t87" rfunc="compound"/>
+    <dep from="t88" to="t89" rfunc="prep"/>
+    <dep from="t91" to="t90" rfunc="det"/>
+    <dep from="t89" to="t91" rfunc="pobj"/>
+    <dep from="t72" to="t92" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--T h u n d e r   B a y-->
+        <target id="t24"/>
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Thunder_Bay" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Thunder_Bay" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thunder_Bay" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--O n t a r i o-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ontario" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--E u r o p e-->
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Europe" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Europe" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Europe" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--U S-->
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_States" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/United_States" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Verenigde_Staten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q30" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--L a k e   P l a c i d ,   N e w   Y o r k-->
+        <target id="t51"/>
+        <target id="t52"/>
+        <target id="t53"/>
+        <target id="t54"/>
+        <target id="t55"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lake_Placid,_New_York" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Lake_Placid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Lake_Placid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--R u m f o r d ,   M a i n e-->
+        <target id="t58"/>
+        <target id="t59"/>
+        <target id="t60"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Rumford,_Maine" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Rumford" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--1 9 5 0-->
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_1950" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionati_mondiali_di_sci_nordico_1950" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-sign" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_amalgamate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t68"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-undergo_change" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

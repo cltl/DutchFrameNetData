@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Marathon van Londen 2014"/>
+    <public uri="https://nl.wikipedia.org/wiki/Marathon_van_Londen_2014"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T11:46:48UTC" endTimestamp="2020-05-28T11:46:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T11:46:48UTC" endTimestamp="2020-05-28T11:46:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T11:46:48UTC" endTimestamp="2020-05-28T11:46:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T11:46:48UTC" endTimestamp="2020-05-28T11:46:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Marathon van Londen 2014++.
+De Marathon van Londen 2014 werd gehouden op zondag 13 april 2014. Het was de 34e editie van deze marathon.
+De Keniaan Wilson Kipsang kwam als eerste man over de finish in een tijd van 2:04.29, waarmee hij het parcoursrecord verbeterde. De eerste vrouw die de finish passeerde was de Keniaanse Edna Kiplagat in een tijd van 2:20.21.
+In totaal behaalden 35.912 deelnemers de finish.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="8" offset="2"><![CDATA[Marathon]]></wf>
+    <wf sent="1" id="w4" length="3" offset="11"><![CDATA[van]]></wf>
+    <wf sent="1" id="w5" length="6" offset="15"><![CDATA[Londen]]></wf>
+    <wf sent="1" id="w6" length="6" offset="22"><![CDATA[2014++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="28"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="29"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="2" offset="30"><![CDATA[De]]></wf>
+    <wf sent="2" id="w10" length="8" offset="33"><![CDATA[Marathon]]></wf>
+    <wf sent="2" id="w11" length="3" offset="42"><![CDATA[van]]></wf>
+    <wf sent="2" id="w12" length="6" offset="46"><![CDATA[Londen]]></wf>
+    <wf sent="2" id="w13" length="4" offset="53"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w14" length="4" offset="58"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w15" length="8" offset="63"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w16" length="2" offset="72"><![CDATA[op]]></wf>
+    <wf sent="2" id="w17" length="6" offset="75"><![CDATA[zondag]]></wf>
+    <wf sent="2" id="w18" length="2" offset="82"><![CDATA[13]]></wf>
+    <wf sent="2" id="w19" length="5" offset="85"><![CDATA[april]]></wf>
+    <wf sent="2" id="w20" length="4" offset="91"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w21" length="1" offset="95"><![CDATA[.]]></wf>
+    <wf sent="3" id="w22" length="3" offset="97"><![CDATA[Het]]></wf>
+    <wf sent="3" id="w23" length="3" offset="101"><![CDATA[was]]></wf>
+    <wf sent="3" id="w24" length="2" offset="105"><![CDATA[de]]></wf>
+    <wf sent="3" id="w25" length="3" offset="108"><![CDATA[34e]]></wf>
+    <wf sent="3" id="w26" length="6" offset="112"><![CDATA[editie]]></wf>
+    <wf sent="3" id="w27" length="3" offset="119"><![CDATA[van]]></wf>
+    <wf sent="3" id="w28" length="4" offset="123"><![CDATA[deze]]></wf>
+    <wf sent="3" id="w29" length="8" offset="128"><![CDATA[marathon]]></wf>
+    <wf sent="3" id="w30" length="1" offset="136"><![CDATA[.]]></wf>
+    <wf sent="3" id="w31" length="1" offset="137"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w32" length="2" offset="138"><![CDATA[De]]></wf>
+    <wf sent="4" id="w33" length="7" offset="141"><![CDATA[Keniaan]]></wf>
+    <wf sent="4" id="w34" length="6" offset="149"><![CDATA[Wilson]]></wf>
+    <wf sent="4" id="w35" length="7" offset="156"><![CDATA[Kipsang]]></wf>
+    <wf sent="4" id="w36" length="4" offset="164"><![CDATA[kwam]]></wf>
+    <wf sent="4" id="w37" length="3" offset="169"><![CDATA[als]]></wf>
+    <wf sent="4" id="w38" length="6" offset="173"><![CDATA[eerste]]></wf>
+    <wf sent="4" id="w39" length="3" offset="180"><![CDATA[man]]></wf>
+    <wf sent="4" id="w40" length="4" offset="184"><![CDATA[over]]></wf>
+    <wf sent="4" id="w41" length="2" offset="189"><![CDATA[de]]></wf>
+    <wf sent="4" id="w42" length="6" offset="192"><![CDATA[finish]]></wf>
+    <wf sent="4" id="w43" length="2" offset="199"><![CDATA[in]]></wf>
+    <wf sent="4" id="w44" length="3" offset="202"><![CDATA[een]]></wf>
+    <wf sent="4" id="w45" length="4" offset="206"><![CDATA[tijd]]></wf>
+    <wf sent="4" id="w46" length="3" offset="211"><![CDATA[van]]></wf>
+    <wf sent="4" id="w47" length="7" offset="215"><![CDATA[2:04.29]]></wf>
+    <wf sent="4" id="w48" length="1" offset="222"><![CDATA[,]]></wf>
+    <wf sent="4" id="w49" length="7" offset="224"><![CDATA[waarmee]]></wf>
+    <wf sent="4" id="w50" length="3" offset="232"><![CDATA[hij]]></wf>
+    <wf sent="4" id="w51" length="3" offset="236"><![CDATA[het]]></wf>
+    <wf sent="4" id="w52" length="14" offset="240"><![CDATA[parcoursrecord]]></wf>
+    <wf sent="4" id="w53" length="10" offset="255"><![CDATA[verbeterde]]></wf>
+    <wf sent="4" id="w54" length="1" offset="265"><![CDATA[.]]></wf>
+    <wf sent="5" id="w55" length="2" offset="267"><![CDATA[De]]></wf>
+    <wf sent="5" id="w56" length="6" offset="270"><![CDATA[eerste]]></wf>
+    <wf sent="5" id="w57" length="5" offset="277"><![CDATA[vrouw]]></wf>
+    <wf sent="5" id="w58" length="3" offset="283"><![CDATA[die]]></wf>
+    <wf sent="5" id="w59" length="2" offset="287"><![CDATA[de]]></wf>
+    <wf sent="5" id="w60" length="6" offset="290"><![CDATA[finish]]></wf>
+    <wf sent="5" id="w61" length="9" offset="297"><![CDATA[passeerde]]></wf>
+    <wf sent="5" id="w62" length="3" offset="307"><![CDATA[was]]></wf>
+    <wf sent="5" id="w63" length="2" offset="311"><![CDATA[de]]></wf>
+    <wf sent="5" id="w64" length="9" offset="314"><![CDATA[Keniaanse]]></wf>
+    <wf sent="5" id="w65" length="4" offset="324"><![CDATA[Edna]]></wf>
+    <wf sent="5" id="w66" length="8" offset="329"><![CDATA[Kiplagat]]></wf>
+    <wf sent="5" id="w67" length="2" offset="338"><![CDATA[in]]></wf>
+    <wf sent="5" id="w68" length="3" offset="341"><![CDATA[een]]></wf>
+    <wf sent="5" id="w69" length="4" offset="345"><![CDATA[tijd]]></wf>
+    <wf sent="5" id="w70" length="3" offset="350"><![CDATA[van]]></wf>
+    <wf sent="5" id="w71" length="7" offset="354"><![CDATA[2:20.21]]></wf>
+    <wf sent="5" id="w72" length="1" offset="361"><![CDATA[.]]></wf>
+    <wf sent="5" id="w73" length="1" offset="362"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w74" length="2" offset="363"><![CDATA[In]]></wf>
+    <wf sent="6" id="w75" length="6" offset="366"><![CDATA[totaal]]></wf>
+    <wf sent="6" id="w76" length="9" offset="373"><![CDATA[behaalden]]></wf>
+    <wf sent="6" id="w77" length="6" offset="383"><![CDATA[35.912]]></wf>
+    <wf sent="6" id="w78" length="10" offset="390"><![CDATA[deelnemers]]></wf>
+    <wf sent="6" id="w79" length="2" offset="401"><![CDATA[de]]></wf>
+    <wf sent="6" id="w80" length="6" offset="404"><![CDATA[finish]]></wf>
+    <wf sent="6" id="w81" length="1" offset="410"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="marathon" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="van" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="londen" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2014++" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="marathon" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="van" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="londen" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="zondag" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="13" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="april" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="het" pos="PRON" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="34e" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="editie" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="deze" pos="PRON" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="marathon" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="keniaan" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="wilson" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="kipsang" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="komen" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="als" pos="CONJ" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="eer" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="over" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="finish" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="een" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="tijd" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="2:04.29" pos="NUM" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="waarmee" pos="ADV" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="hij" pos="PRON" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="parcoursrecord" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="verbeteren" pos="VERB" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="eer" pos="NUM" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="vrouw" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="die" pos="PRON" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="finish" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="passeren" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="keniaans" pos="ADJ" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="edna" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="kiplagat" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="een" pos="DET" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="tijd" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="2:20.21" pos="NUM" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="totaal" pos="ADJ" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="behalen" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="35.912" pos="NUM" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="deelnemer" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="finish" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="case"/>
+    <dep from="t1" to="t5" rfunc="nmod"/>
+    <dep from="t5" to="t6" rfunc="nummod"/>
+    <dep from="t1" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t10" to="t9" rfunc="case"/>
+    <dep from="t15" to="t10" rfunc="nsubj"/>
+    <dep from="t12" to="t11" rfunc="case"/>
+    <dep from="t10" to="t12" rfunc="nmod"/>
+    <dep from="t12" to="t13" rfunc="nummod"/>
+    <dep from="t15" to="t14" rfunc="aux"/>
+    <dep from="t17" to="t16" rfunc="case"/>
+    <dep from="t15" to="t17" rfunc="advmod"/>
+    <dep from="t17" to="t18" rfunc="nummod"/>
+    <dep from="t17" to="t19" rfunc="flat"/>
+    <dep from="t17" to="t20" rfunc="nummod"/>
+    <dep from="t15" to="t21" rfunc="punct"/>
+    <dep from="t26" to="t22" rfunc="nsubj"/>
+    <dep from="t26" to="t23" rfunc="cop"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t26" to="t25" rfunc="amod"/>
+    <dep from="t29" to="t27" rfunc="case"/>
+    <dep from="t26" to="t29" rfunc="nmod"/>
+    <dep from="t29" to="t28" rfunc="nmod"/>
+    <dep from="t26" to="t30" rfunc="punct"/>
+    <dep from="t30" to="t31" rfunc=""/>
+    <dep from="t33" to="t32" rfunc="case"/>
+    <dep from="t36" to="t33" rfunc="nsubj"/>
+    <dep from="t33" to="t34" rfunc="flat"/>
+    <dep from="t34" to="t35" rfunc="flat"/>
+    <dep from="t39" to="t37" rfunc="case"/>
+    <dep from="t36" to="t39" rfunc="obl"/>
+    <dep from="t39" to="t38" rfunc="amod"/>
+    <dep from="t42" to="t40" rfunc="case"/>
+    <dep from="t39" to="t42" rfunc="nmod"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t45" to="t43" rfunc="case"/>
+    <dep from="t36" to="t45" rfunc="obl"/>
+    <dep from="t45" to="t44" rfunc="det"/>
+    <dep from="t47" to="t46" rfunc="case"/>
+    <dep from="t45" to="t47" rfunc="nmod"/>
+    <dep from="t47" to="t48" rfunc="punct"/>
+    <dep from="t53" to="t49" rfunc="mark"/>
+    <dep from="t47" to="t53" rfunc="acl"/>
+    <dep from="t53" to="t50" rfunc="nsubj"/>
+    <dep from="t52" to="t51" rfunc="det"/>
+    <dep from="t53" to="t52" rfunc="obj"/>
+    <dep from="t36" to="t54" rfunc="punct"/>
+    <dep from="t57" to="t55" rfunc="det"/>
+    <dep from="t57" to="t56" rfunc="amod"/>
+    <dep from="t61" to="t58" rfunc="obj"/>
+    <dep from="t57" to="t61" rfunc="acl"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t61" to="t60" rfunc="obj"/>
+    <dep from="t61" to="t62" rfunc="aux"/>
+    <dep from="t64" to="t63" rfunc="det"/>
+    <dep from="t61" to="t64" rfunc="obj"/>
+    <dep from="t64" to="t65" rfunc="compound"/>
+    <dep from="t64" to="t66" rfunc="compound"/>
+    <dep from="t69" to="t67" rfunc="case"/>
+    <dep from="t61" to="t69" rfunc="obl"/>
+    <dep from="t69" to="t68" rfunc="det"/>
+    <dep from="t71" to="t70" rfunc="case"/>
+    <dep from="t69" to="t71" rfunc="nummod"/>
+    <dep from="t57" to="t72" rfunc="punct"/>
+    <dep from="t72" to="t73" rfunc=""/>
+    <dep from="t75" to="t74" rfunc="case"/>
+    <dep from="t76" to="t75" rfunc="obl"/>
+    <dep from="t78" to="t77" rfunc="nummod"/>
+    <dep from="t76" to="t78" rfunc="nsubj"/>
+    <dep from="t80" to="t79" rfunc="det"/>
+    <dep from="t76" to="t80" rfunc="obj"/>
+    <dep from="t76" to="t81" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--m a r a t h o n-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Marathon_van_Londen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Maratona_di_Londra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/London_Marathon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--K e n i a a n-->
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kenia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Kenya" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Kenya" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--W i l s o n   K i p s a n g-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wilson_Kipsang" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Wilson_Kipsang_Kiprotich" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wilson_Kipsang_Kiprotich" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--p a r c o u r s r e c o r d-->
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Parcoursrecord" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--E d n a   K i p l a g a t-->
+        <target id="t65"/>
+        <target id="t66"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Edna_Kiplagat" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Edna_Kiplagat" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Edna_Kiplagat" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

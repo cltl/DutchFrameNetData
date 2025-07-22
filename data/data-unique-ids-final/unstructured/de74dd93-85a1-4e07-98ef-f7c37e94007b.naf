@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Wereldkampioenschappen badminton junioren 2009"/>
+    <public uri="https://nl.wikipedia.org/wiki/Wereldkampioenschappen_badminton_junioren_2009"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:45:38UTC" endTimestamp="2020-05-27T16:45:38UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:45:38UTC" endTimestamp="2020-05-27T16:45:38UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:45:38UTC" endTimestamp="2020-05-27T16:45:38UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:45:38UTC" endTimestamp="2020-05-27T16:45:38UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Wereldkampioenschappen badminton junioren 2009++.
+De 11e editie van de Wereldkampioenschappen badminton junioren werden in 2009 georganiseerd door de Maleisische stad Alor Setar.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="22" offset="2"><![CDATA[Wereldkampioenschappen]]></wf>
+    <wf sent="1" id="w4" length="9" offset="25"><![CDATA[badminton]]></wf>
+    <wf sent="1" id="w5" length="8" offset="35"><![CDATA[junioren]]></wf>
+    <wf sent="1" id="w6" length="6" offset="44"><![CDATA[2009++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="50"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="51"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="2" offset="52"><![CDATA[De]]></wf>
+    <wf sent="2" id="w10" length="3" offset="55"><![CDATA[11e]]></wf>
+    <wf sent="2" id="w11" length="6" offset="59"><![CDATA[editie]]></wf>
+    <wf sent="2" id="w12" length="3" offset="66"><![CDATA[van]]></wf>
+    <wf sent="2" id="w13" length="2" offset="70"><![CDATA[de]]></wf>
+    <wf sent="2" id="w14" length="22" offset="73"><![CDATA[Wereldkampioenschappen]]></wf>
+    <wf sent="2" id="w15" length="9" offset="96"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w16" length="8" offset="106"><![CDATA[junioren]]></wf>
+    <wf sent="2" id="w17" length="6" offset="115"><![CDATA[werden]]></wf>
+    <wf sent="2" id="w18" length="2" offset="122"><![CDATA[in]]></wf>
+    <wf sent="2" id="w19" length="4" offset="125"><![CDATA[2009]]></wf>
+    <wf sent="2" id="w20" length="13" offset="130"><![CDATA[georganiseerd]]></wf>
+    <wf sent="2" id="w21" length="4" offset="144"><![CDATA[door]]></wf>
+    <wf sent="2" id="w22" length="2" offset="149"><![CDATA[de]]></wf>
+    <wf sent="2" id="w23" length="11" offset="152"><![CDATA[Maleisische]]></wf>
+    <wf sent="2" id="w24" length="4" offset="164"><![CDATA[stad]]></wf>
+    <wf sent="2" id="w25" length="4" offset="169"><![CDATA[Alor]]></wf>
+    <wf sent="2" id="w26" length="5" offset="174"><![CDATA[Setar]]></wf>
+    <wf sent="2" id="w27" length="1" offset="179"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="wereldkampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="junior" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2009++" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="11e" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="editie" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="wereldkampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="junior" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="2009" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="organiseren" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="maleisisch" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="stad" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="alor" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="setar" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="obl"/>
+    <dep from="t5" to="t4" rfunc="acl"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t1" to="t6" rfunc="dep"/>
+    <dep from="t1" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t20" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t10" rfunc="amod"/>
+    <dep from="t14" to="t12" rfunc="case"/>
+    <dep from="t11" to="t14" rfunc="nmod"/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t16" to="t15" rfunc="acl"/>
+    <dep from="t11" to="t16" rfunc="nmod"/>
+    <dep from="t20" to="t17" rfunc="aux"/>
+    <dep from="t19" to="t18" rfunc="case"/>
+    <dep from="t20" to="t19" rfunc="obl"/>
+    <dep from="t24" to="t21" rfunc="case"/>
+    <dep from="t20" to="t24" rfunc="obl"/>
+    <dep from="t24" to="t22" rfunc="det"/>
+    <dep from="t24" to="t23" rfunc="amod"/>
+    <dep from="t24" to="t25" rfunc="appos"/>
+    <dep from="t25" to="t26" rfunc="flat"/>
+    <dep from="t20" to="t27" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M a l e i s i s c h e-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Maleisië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Malaysia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Malaysia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q833" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A l o r   S e t a r-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Alor_Setar" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Alor_Setar" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Alor_Setar" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q833" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

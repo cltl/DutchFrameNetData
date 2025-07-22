@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Singapore 1990"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Singapore_1990"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:11:23UTC" endTimestamp="2020-05-27T15:11:23UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:11:23UTC" endTimestamp="2020-05-27T15:11:23UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:11:23UTC" endTimestamp="2020-05-27T15:11:23UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:11:23UTC" endTimestamp="2020-05-27T15:11:23UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Singapore 1990++.
+Het ATP-toernooi van Singapore (officieel het Singapore Open) van 1990 vond plaats van 30 april tot en met 6 mei in Singapore.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="9" offset="19"><![CDATA[Singapore]]></wf>
+    <wf sent="1" id="w8" length="6" offset="29"><![CDATA[1990++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="37"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="3" offset="41"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w13" length="1" offset="44"><![CDATA[-]]></wf>
+    <wf sent="2" id="w14" length="8" offset="45"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w15" length="3" offset="54"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="9" offset="58"><![CDATA[Singapore]]></wf>
+    <wf sent="2" id="w17" length="1" offset="68"><![CDATA[(]]></wf>
+    <wf sent="2" id="w18" length="9" offset="69"><![CDATA[officieel]]></wf>
+    <wf sent="2" id="w19" length="3" offset="79"><![CDATA[het]]></wf>
+    <wf sent="2" id="w20" length="9" offset="83"><![CDATA[Singapore]]></wf>
+    <wf sent="2" id="w21" length="4" offset="93"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w22" length="1" offset="97"><![CDATA[)]]></wf>
+    <wf sent="2" id="w23" length="3" offset="99"><![CDATA[van]]></wf>
+    <wf sent="2" id="w24" length="4" offset="103"><![CDATA[1990]]></wf>
+    <wf sent="2" id="w25" length="4" offset="108"><![CDATA[vond]]></wf>
+    <wf sent="2" id="w26" length="6" offset="113"><![CDATA[plaats]]></wf>
+    <wf sent="2" id="w27" length="3" offset="120"><![CDATA[van]]></wf>
+    <wf sent="2" id="w28" length="2" offset="124"><![CDATA[30]]></wf>
+    <wf sent="2" id="w29" length="5" offset="127"><![CDATA[april]]></wf>
+    <wf sent="2" id="w30" length="3" offset="133"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w31" length="2" offset="137"><![CDATA[en]]></wf>
+    <wf sent="2" id="w32" length="3" offset="140"><![CDATA[met]]></wf>
+    <wf sent="2" id="w33" length="1" offset="144"><![CDATA[6]]></wf>
+    <wf sent="2" id="w34" length="3" offset="146"><![CDATA[mei]]></wf>
+    <wf sent="2" id="w35" length="2" offset="150"><![CDATA[in]]></wf>
+    <wf sent="2" id="w36" length="9" offset="153"><![CDATA[Singapore]]></wf>
+    <wf sent="2" id="w37" length="1" offset="162"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="singapore" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="1990++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="singapore" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="singapore" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="open" pos="X" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="1990" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="vinden" pos="VERB" type="open" component_of="mw2">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="30" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="april" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="tot" pos="ADP" type="open" component_of="mw2">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="6" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="mei" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="singapore" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="plaatsvinden" pos="VERB"/>
+    <term id="t39" lemma="totvinden" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t5" to="t8" rfunc="nummod"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t12" to="t11" rfunc="det"/>
+    <dep from="t14" to="t12" rfunc="nmod"/>
+    <dep from="t39" to="t14" rfunc="nsubj"/>
+    <dep from="t14" to="t13" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t14" to="t16" rfunc="nmod"/>
+    <dep from="t14" to="t17" rfunc="punct"/>
+    <dep from="t20" to="t18" rfunc="obl"/>
+    <dep from="t14" to="t20" rfunc="nmod"/>
+    <dep from="t20" to="t19" rfunc="det"/>
+    <dep from="t20" to="t21" rfunc="flat"/>
+    <dep from="t14" to="t22" rfunc="punct"/>
+    <dep from="t24" to="t23" rfunc="case"/>
+    <dep from="t14" to="t24" rfunc="nummod"/>
+    <dep from="t25" to="t26" rfunc="compound:prt"/>
+    <dep from="t28" to="t27" rfunc="case"/>
+    <dep from="t39" to="t28" rfunc="obl"/>
+    <dep from="t28" to="t29" rfunc="compound"/>
+    <dep from="t25" to="t30" rfunc="compound:prt"/>
+    <dep from="t39" to="t31" rfunc="compound"/>
+    <dep from="t39" to="t32" rfunc="compound"/>
+    <dep from="t39" to="t33" rfunc="obl"/>
+    <dep from="t33" to="t34" rfunc="compound"/>
+    <dep from="t36" to="t35" rfunc="case"/>
+    <dep from="t39" to="t36" rfunc="obl"/>
+    <dep from="t39" to="t37" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   S i n g a p o r e-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Singapore" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Singapore_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Singapore_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--3 0   a p r i l-->
+        <target id="t28"/>
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/30_april" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/30_aprile" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/April_30" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--6   m e i-->
+        <target id="t33"/>
+        <target id="t34"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/6_mei" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/6_maggio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/May_6" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S i n g a p o r e-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Singapore" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Singapore" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Singapore_Island" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q334" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q334" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <multiwords>
+    <mw id="mw1" lemma="plaatsvinden" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t25"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t26"/>
+        </span>
+      </component>
+    </mw>
+    <mw id="mw2" lemma="totvinden" pos="VERB" type="phrasal">
+      <component id="mw2.c1">
+        <span>
+          <target id="t25"/>
+        </span>
+      </component>
+      <component id="mw2.c2">
+        <span>
+          <target id="t30"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

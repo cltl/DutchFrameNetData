@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Wimbledon 2005"/>
+    <public uri="https://nl.wikipedia.org/wiki/Wimbledon_2005"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:14:00UTC" endTimestamp="2020-05-27T15:14:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:14:00UTC" endTimestamp="2020-05-27T15:14:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:14:00UTC" endTimestamp="2020-05-27T15:14:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:14:00UTC" endTimestamp="2020-05-27T15:14:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Wimbledon 2005++.
+Roger Federer na zijn winnende punt in de halve finale
+De 119e editie van het Engelse grandslamtoernooi, Wimbledon 2005, werd gehouden tussen 20 juni en 3 juli 2005. Voor de vrouwen was het de 112e editie. Het toernooi werd gespeeld in de All England Lawn Tennis and Croquet Club te Wimbledon.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="9" offset="2"><![CDATA[Wimbledon]]></wf>
+    <wf sent="1" id="w4" length="6" offset="12"><![CDATA[2005++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="18"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="19"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="5" offset="20"><![CDATA[Roger]]></wf>
+    <wf sent="2" id="w8" length="7" offset="26"><![CDATA[Federer]]></wf>
+    <wf sent="2" id="w9" length="2" offset="34"><![CDATA[na]]></wf>
+    <wf sent="2" id="w10" length="4" offset="37"><![CDATA[zijn]]></wf>
+    <wf sent="2" id="w11" length="8" offset="42"><![CDATA[winnende]]></wf>
+    <wf sent="2" id="w12" length="4" offset="51"><![CDATA[punt]]></wf>
+    <wf sent="2" id="w13" length="2" offset="56"><![CDATA[in]]></wf>
+    <wf sent="2" id="w14" length="2" offset="59"><![CDATA[de]]></wf>
+    <wf sent="2" id="w15" length="5" offset="62"><![CDATA[halve]]></wf>
+    <wf sent="2" id="w16" length="6" offset="68"><![CDATA[finale]]></wf>
+    <wf sent="2" id="w17" length="1" offset="74"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w18" length="2" offset="75"><![CDATA[De]]></wf>
+    <wf sent="2" id="w19" length="4" offset="78"><![CDATA[119e]]></wf>
+    <wf sent="2" id="w20" length="6" offset="83"><![CDATA[editie]]></wf>
+    <wf sent="2" id="w21" length="3" offset="90"><![CDATA[van]]></wf>
+    <wf sent="2" id="w22" length="3" offset="94"><![CDATA[het]]></wf>
+    <wf sent="2" id="w23" length="7" offset="98"><![CDATA[Engelse]]></wf>
+    <wf sent="2" id="w24" length="17" offset="106"><![CDATA[grandslamtoernooi]]></wf>
+    <wf sent="2" id="w25" length="1" offset="123"><![CDATA[,]]></wf>
+    <wf sent="2" id="w26" length="9" offset="125"><![CDATA[Wimbledon]]></wf>
+    <wf sent="2" id="w27" length="4" offset="135"><![CDATA[2005]]></wf>
+    <wf sent="2" id="w28" length="1" offset="139"><![CDATA[,]]></wf>
+    <wf sent="2" id="w29" length="4" offset="141"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w30" length="8" offset="146"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w31" length="6" offset="155"><![CDATA[tussen]]></wf>
+    <wf sent="2" id="w32" length="2" offset="162"><![CDATA[20]]></wf>
+    <wf sent="2" id="w33" length="4" offset="165"><![CDATA[juni]]></wf>
+    <wf sent="2" id="w34" length="2" offset="170"><![CDATA[en]]></wf>
+    <wf sent="2" id="w35" length="1" offset="173"><![CDATA[3]]></wf>
+    <wf sent="2" id="w36" length="4" offset="175"><![CDATA[juli]]></wf>
+    <wf sent="2" id="w37" length="4" offset="180"><![CDATA[2005]]></wf>
+    <wf sent="2" id="w38" length="1" offset="184"><![CDATA[.]]></wf>
+    <wf sent="3" id="w39" length="4" offset="186"><![CDATA[Voor]]></wf>
+    <wf sent="3" id="w40" length="2" offset="191"><![CDATA[de]]></wf>
+    <wf sent="3" id="w41" length="7" offset="194"><![CDATA[vrouwen]]></wf>
+    <wf sent="3" id="w42" length="3" offset="202"><![CDATA[was]]></wf>
+    <wf sent="3" id="w43" length="3" offset="206"><![CDATA[het]]></wf>
+    <wf sent="3" id="w44" length="2" offset="210"><![CDATA[de]]></wf>
+    <wf sent="3" id="w45" length="4" offset="213"><![CDATA[112e]]></wf>
+    <wf sent="3" id="w46" length="6" offset="218"><![CDATA[editie]]></wf>
+    <wf sent="3" id="w47" length="1" offset="224"><![CDATA[.]]></wf>
+    <wf sent="4" id="w48" length="3" offset="226"><![CDATA[Het]]></wf>
+    <wf sent="4" id="w49" length="8" offset="230"><![CDATA[toernooi]]></wf>
+    <wf sent="4" id="w50" length="4" offset="239"><![CDATA[werd]]></wf>
+    <wf sent="4" id="w51" length="8" offset="244"><![CDATA[gespeeld]]></wf>
+    <wf sent="4" id="w52" length="2" offset="253"><![CDATA[in]]></wf>
+    <wf sent="4" id="w53" length="2" offset="256"><![CDATA[de]]></wf>
+    <wf sent="4" id="w54" length="3" offset="259"><![CDATA[All]]></wf>
+    <wf sent="4" id="w55" length="7" offset="263"><![CDATA[England]]></wf>
+    <wf sent="4" id="w56" length="4" offset="271"><![CDATA[Lawn]]></wf>
+    <wf sent="4" id="w57" length="6" offset="276"><![CDATA[Tennis]]></wf>
+    <wf sent="4" id="w58" length="3" offset="283"><![CDATA[and]]></wf>
+    <wf sent="4" id="w59" length="7" offset="287"><![CDATA[Croquet]]></wf>
+    <wf sent="4" id="w60" length="4" offset="295"><![CDATA[Club]]></wf>
+    <wf sent="4" id="w61" length="2" offset="300"><![CDATA[te]]></wf>
+    <wf sent="4" id="w62" length="9" offset="303"><![CDATA[Wimbledon]]></wf>
+    <wf sent="4" id="w63" length="1" offset="312"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="wimbledon" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="2005++" pos="NUM" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="roger" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="federer" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="na" pos="ADP" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="zijn" pos="PRON" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="punt" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="half" pos="ADJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="119" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="editie" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="engels" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="grandslamtoernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="wimbledon" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="2005" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="tussen" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="20" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="juni" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="juli" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="2005" pos="NUM" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="vrouw" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="het" pos="PRON" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="112" pos="NUM" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="editie" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="all" pos="VERB" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="england" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="lawn" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="and" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="croquet" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="club" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="te" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="wimbledon" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="nmod"/>
+    <dep from="t3" to="t4" rfunc="nummod"/>
+    <dep from="t1" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t30" to="t7" rfunc="nsubj"/>
+    <dep from="t7" to="t8" rfunc="flat"/>
+    <dep from="t12" to="t9" rfunc="case"/>
+    <dep from="t7" to="t12" rfunc="obl"/>
+    <dep from="t12" to="t10" rfunc="nmod"/>
+    <dep from="t12" to="t11" rfunc="acl"/>
+    <dep from="t16" to="t13" rfunc="case"/>
+    <dep from="t12" to="t16" rfunc="nmod"/>
+    <dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t16" to="t17" rfunc=""/>
+    <dep from="t20" to="t18" rfunc="det"/>
+    <dep from="t12" to="t20" rfunc="nmod"/>
+    <dep from="t20" to="t19" rfunc="nummod"/>
+    <dep from="t24" to="t21" rfunc="case"/>
+    <dep from="t20" to="t24" rfunc="nmod"/>
+    <dep from="t24" to="t22" rfunc="det"/>
+    <dep from="t24" to="t23" rfunc="amod"/>
+    <dep from="t7" to="t25" rfunc="punct"/>
+    <dep from="t7" to="t26" rfunc="appos"/>
+    <dep from="t26" to="t27" rfunc="nummod"/>
+    <dep from="t30" to="t28" rfunc="punct"/>
+    <dep from="t30" to="t29" rfunc="aux"/>
+    <dep from="t32" to="t31" rfunc="case"/>
+    <dep from="t30" to="t32" rfunc="obl"/>
+    <dep from="t32" to="t33" rfunc="compound"/>
+    <dep from="t35" to="t34" rfunc="cc"/>
+    <dep from="t32" to="t35" rfunc="conj"/>
+    <dep from="t35" to="t36" rfunc="compound"/>
+    <dep from="t35" to="t37" rfunc="compound"/>
+    <dep from="t30" to="t38" rfunc="punct"/>
+    <dep from="t41" to="t39" rfunc="case"/>
+    <dep from="t46" to="t41" rfunc="obl"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t46" to="t42" rfunc="cop"/>
+    <dep from="t46" to="t43" rfunc="nsubj"/>
+    <dep from="t46" to="t44" rfunc="det"/>
+    <dep from="t46" to="t45" rfunc="nummod"/>
+    <dep from="t46" to="t47" rfunc="punct"/>
+    <dep from="t49" to="t48" rfunc="det"/>
+    <dep from="t51" to="t49" rfunc="nsubj"/>
+    <dep from="t51" to="t50" rfunc="aux"/>
+    <dep from="t54" to="t52" rfunc="case"/>
+    <dep from="t51" to="t54" rfunc="advmod"/>
+    <dep from="t54" to="t53" rfunc="det"/>
+    <dep from="t54" to="t55" rfunc="flat"/>
+    <dep from="t54" to="t56" rfunc="flat"/>
+    <dep from="t54" to="t57" rfunc="flat"/>
+    <dep from="t54" to="t58" rfunc="flat"/>
+    <dep from="t54" to="t59" rfunc="flat"/>
+    <dep from="t59" to="t60" rfunc="flat"/>
+    <dep from="t62" to="t61" rfunc="case"/>
+    <dep from="t54" to="t62" rfunc="obl"/>
+    <dep from="t51" to="t63" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--g r a n d s l a m t o e r n o o i-->
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Grandslamtoernooi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Grande_Slam" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Grand_Slam" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--W i m b l e d o n-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wimbledon_(tennistoernooi)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--A l l   E n g l a n d   L a w n   T e n n i s   a n d   C r o q u e t   C l u b-->
+        <target id="t54"/>
+        <target id="t55"/>
+        <target id="t56"/>
+        <target id="t57"/>
+        <target id="t58"/>
+        <target id="t59"/>
+        <target id="t60"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--W i m b l e d o n-->
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wimbledon_(Londen)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

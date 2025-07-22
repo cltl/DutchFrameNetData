@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2001 French Open"/>
+    <public uri="https://en.wikipedia.org/wiki/2001_French_Open"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T14:58:51UTC" endTimestamp="2020-05-27T14:58:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T14:58:51UTC" endTimestamp="2020-05-27T14:58:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T14:58:51UTC" endTimestamp="2020-05-27T14:58:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T14:58:51UTC" endTimestamp="2020-05-27T14:58:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:38CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2001 French Open++.
+The 2001 French Open was the second Grand Slam event of 2001 and the 105th edition of the French Open. It took place at the Stade Roland Garros in Paris, France, from late May through early June, 2001.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2001]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[French]]></wf>
+    <wf sent="1" id="w4" length="6" offset="14"><![CDATA[Open++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="4" offset="26"><![CDATA[2001]]></wf>
+    <wf sent="2" id="w9" length="6" offset="31"><![CDATA[French]]></wf>
+    <wf sent="2" id="w10" length="4" offset="38"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w11" length="3" offset="43"><![CDATA[was]]></wf>
+    <wf sent="2" id="w12" length="3" offset="47"><![CDATA[the]]></wf>
+    <wf sent="2" id="w13" length="6" offset="51"><![CDATA[second]]></wf>
+    <wf sent="2" id="w14" length="5" offset="58"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w15" length="4" offset="64"><![CDATA[Slam]]></wf>
+    <wf sent="2" id="w16" length="5" offset="69"><![CDATA[event]]></wf>
+    <wf sent="2" id="w17" length="2" offset="75"><![CDATA[of]]></wf>
+    <wf sent="2" id="w18" length="4" offset="78"><![CDATA[2001]]></wf>
+    <wf sent="2" id="w19" length="3" offset="83"><![CDATA[and]]></wf>
+    <wf sent="2" id="w20" length="3" offset="87"><![CDATA[the]]></wf>
+    <wf sent="2" id="w21" length="5" offset="91"><![CDATA[105th]]></wf>
+    <wf sent="2" id="w22" length="7" offset="97"><![CDATA[edition]]></wf>
+    <wf sent="2" id="w23" length="2" offset="105"><![CDATA[of]]></wf>
+    <wf sent="2" id="w24" length="3" offset="108"><![CDATA[the]]></wf>
+    <wf sent="2" id="w25" length="6" offset="112"><![CDATA[French]]></wf>
+    <wf sent="2" id="w26" length="4" offset="119"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w27" length="1" offset="123"><![CDATA[.]]></wf>
+    <wf sent="3" id="w28" length="2" offset="125"><![CDATA[It]]></wf>
+    <wf sent="3" id="w29" length="4" offset="128"><![CDATA[took]]></wf>
+    <wf sent="3" id="w30" length="5" offset="133"><![CDATA[place]]></wf>
+    <wf sent="3" id="w31" length="2" offset="139"><![CDATA[at]]></wf>
+    <wf sent="3" id="w32" length="3" offset="142"><![CDATA[the]]></wf>
+    <wf sent="3" id="w33" length="5" offset="146"><![CDATA[Stade]]></wf>
+    <wf sent="3" id="w34" length="6" offset="152"><![CDATA[Roland]]></wf>
+    <wf sent="3" id="w35" length="6" offset="159"><![CDATA[Garros]]></wf>
+    <wf sent="3" id="w36" length="2" offset="166"><![CDATA[in]]></wf>
+    <wf sent="3" id="w37" length="5" offset="169"><![CDATA[Paris]]></wf>
+    <wf sent="3" id="w38" length="1" offset="174"><![CDATA[,]]></wf>
+    <wf sent="3" id="w39" length="6" offset="176"><![CDATA[France]]></wf>
+    <wf sent="3" id="w40" length="1" offset="182"><![CDATA[,]]></wf>
+    <wf sent="3" id="w41" length="4" offset="184"><![CDATA[from]]></wf>
+    <wf sent="3" id="w42" length="4" offset="189"><![CDATA[late]]></wf>
+    <wf sent="3" id="w43" length="3" offset="194"><![CDATA[May]]></wf>
+    <wf sent="3" id="w44" length="7" offset="198"><![CDATA[through]]></wf>
+    <wf sent="3" id="w45" length="5" offset="206"><![CDATA[early]]></wf>
+    <wf sent="3" id="w46" length="4" offset="212"><![CDATA[June]]></wf>
+    <wf sent="3" id="w47" length="1" offset="216"><![CDATA[,]]></wf>
+    <wf sent="3" id="w48" length="4" offset="218"><![CDATA[2001]]></wf>
+    <wf sent="3" id="w49" length="1" offset="222"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2001" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="French" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Open++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="French" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Slam" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="105th" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="French" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Stade" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Roland" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Garros" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Paris" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="France" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="late" pos="ADJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="early" pos="ADJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t11" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t8" rfunc="nummod"/>
+    <dep from="t10" to="t9" rfunc="amod"/>
+    <dep from="t16" to="t12" rfunc="det"/>
+    <dep from="t11" to="t16" rfunc="attr"/>
+    <dep from="t16" to="t13" rfunc="amod"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t16" to="t19" rfunc="cc"/>
+    <dep from="t22" to="t20" rfunc="det"/>
+    <dep from="t16" to="t22" rfunc="conj"/>
+    <dep from="t22" to="t21" rfunc="amod"/>
+    <dep from="t22" to="t23" rfunc="prep"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t23" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t25" rfunc="amod"/>
+    <dep from="t11" to="t27" rfunc="punct"/>
+    <dep from="t29" to="t28" rfunc="nsubj"/>
+    <dep from="t29" to="t30" rfunc="dobj"/>
+    <dep from="t29" to="t31" rfunc="prep"/>
+    <dep from="t35" to="t32" rfunc="det"/>
+    <dep from="t31" to="t35" rfunc="pobj"/>
+    <dep from="t34" to="t33" rfunc="compound"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t37" to="t38" rfunc="punct"/>
+    <dep from="t37" to="t39" rfunc="appos"/>
+    <dep from="t29" to="t40" rfunc="punct"/>
+    <dep from="t29" to="t41" rfunc="prep"/>
+    <dep from="t43" to="t42" rfunc="amod"/>
+    <dep from="t41" to="t43" rfunc="pobj"/>
+    <dep from="t29" to="t44" rfunc="prep"/>
+    <dep from="t46" to="t45" rfunc="amod"/>
+    <dep from="t44" to="t46" rfunc="pobj"/>
+    <dep from="t46" to="t47" rfunc="punct"/>
+    <dep from="t46" to="t48" rfunc="appos"/>
+    <dep from="t29" to="t49" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--G r a n d   S l a m-->
+        <target id="t14"/>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Grand_Slam_(tennis)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F r e n c h   O p e n-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/French_Open_(tennis)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S t a d e   R o l a n d   G a r r o s-->
+        <target id="t33"/>
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Stade_Roland_Garros" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Stade_Roland_Garros" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Stade_Roland-Garros" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1973 European Karate Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/1973_European_Karate_Championships"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:51:49UTC" endTimestamp="2020-05-27T16:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:51:49UTC" endTimestamp="2020-05-27T16:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:51:49UTC" endTimestamp="2020-05-27T16:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:51:49UTC" endTimestamp="2020-05-27T16:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:38CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1973 European Karate Championships++.
+The 1975 European Karate Championships, the 8th edition, was held in Valencia, Spain from May 5 to 7, 1973.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1973]]></wf>
+    <wf sent="1" id="w3" length="8" offset="7"><![CDATA[European]]></wf>
+    <wf sent="1" id="w4" length="6" offset="16"><![CDATA[Karate]]></wf>
+    <wf sent="1" id="w5" length="15" offset="23"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="38"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="39"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="40"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="44"><![CDATA[1975]]></wf>
+    <wf sent="2" id="w10" length="8" offset="49"><![CDATA[European]]></wf>
+    <wf sent="2" id="w11" length="6" offset="58"><![CDATA[Karate]]></wf>
+    <wf sent="2" id="w12" length="13" offset="65"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w13" length="1" offset="78"><![CDATA[,]]></wf>
+    <wf sent="2" id="w14" length="3" offset="80"><![CDATA[the]]></wf>
+    <wf sent="2" id="w15" length="3" offset="84"><![CDATA[8th]]></wf>
+    <wf sent="2" id="w16" length="7" offset="88"><![CDATA[edition]]></wf>
+    <wf sent="2" id="w17" length="1" offset="95"><![CDATA[,]]></wf>
+    <wf sent="2" id="w18" length="3" offset="97"><![CDATA[was]]></wf>
+    <wf sent="2" id="w19" length="4" offset="101"><![CDATA[held]]></wf>
+    <wf sent="2" id="w20" length="2" offset="106"><![CDATA[in]]></wf>
+    <wf sent="2" id="w21" length="8" offset="109"><![CDATA[Valencia]]></wf>
+    <wf sent="2" id="w22" length="1" offset="117"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="5" offset="119"><![CDATA[Spain]]></wf>
+    <wf sent="2" id="w24" length="4" offset="125"><![CDATA[from]]></wf>
+    <wf sent="2" id="w25" length="3" offset="130"><![CDATA[May]]></wf>
+    <wf sent="2" id="w26" length="1" offset="134"><![CDATA[5]]></wf>
+    <wf sent="2" id="w27" length="2" offset="136"><![CDATA[to]]></wf>
+    <wf sent="2" id="w28" length="1" offset="139"><![CDATA[7]]></wf>
+    <wf sent="2" id="w29" length="1" offset="140"><![CDATA[,]]></wf>
+    <wf sent="2" id="w30" length="4" offset="142"><![CDATA[1973]]></wf>
+    <wf sent="2" id="w31" length="1" offset="146"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1973" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Karate" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1975" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Karate" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="8th" pos="ADJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Valencia" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Spain" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="1973" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t2" rfunc="amod"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t19" to="t12" rfunc="nsubjpass"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t12" to="t13" rfunc="punct"/>
+    <dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t12" to="t16" rfunc="appos"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t12" to="t17" rfunc="punct"/>
+    <dep from="t19" to="t18" rfunc="auxpass"/>
+    <dep from="t19" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="punct"/>
+    <dep from="t21" to="t23" rfunc="appos"/>
+    <dep from="t19" to="t24" rfunc="prep"/>
+    <dep from="t24" to="t25" rfunc="pobj"/>
+    <dep from="t25" to="t26" rfunc="nummod"/>
+    <dep from="t24" to="t27" rfunc="prep"/>
+    <dep from="t27" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t29" rfunc="punct"/>
+    <dep from="t27" to="t30" rfunc="pobj"/>
+    <dep from="t19" to="t31" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--E u r o p e a n   K a r a t e   C h a m p i o n s h i p s-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/European_Karate_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionato_europeo_di_karate" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--V a l e n c i a-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Valencia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S p a i n-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Spain" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Spain" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Spanje" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q29" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q29" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t3"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

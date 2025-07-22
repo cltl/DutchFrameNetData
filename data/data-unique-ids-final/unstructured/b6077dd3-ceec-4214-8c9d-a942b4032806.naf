@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1996 Finnish municipal elections"/>
+    <public uri="https://en.wikipedia.org/wiki/1996_Finnish_municipal_elections"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:44:16UTC" endTimestamp="2020-05-27T19:44:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:44:16UTC" endTimestamp="2020-05-27T19:44:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:44:16UTC" endTimestamp="2020-05-27T19:44:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:44:16UTC" endTimestamp="2020-05-27T19:44:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:42CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1996 Finnish municipal elections++.
+Finnish municipal election, 1996 was held in Finland on 20 October. Election had to be renewed in Keminmaa on June 8, due uncertainties with advance voting.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1996]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Finnish]]></wf>
+    <wf sent="1" id="w4" length="9" offset="15"><![CDATA[municipal]]></wf>
+    <wf sent="1" id="w5" length="11" offset="25"><![CDATA[elections++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="36"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="37"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="7" offset="38"><![CDATA[Finnish]]></wf>
+    <wf sent="2" id="w9" length="9" offset="46"><![CDATA[municipal]]></wf>
+    <wf sent="2" id="w10" length="8" offset="56"><![CDATA[election]]></wf>
+    <wf sent="2" id="w11" length="1" offset="64"><![CDATA[,]]></wf>
+    <wf sent="2" id="w12" length="4" offset="66"><![CDATA[1996]]></wf>
+    <wf sent="2" id="w13" length="3" offset="71"><![CDATA[was]]></wf>
+    <wf sent="2" id="w14" length="4" offset="75"><![CDATA[held]]></wf>
+    <wf sent="2" id="w15" length="2" offset="80"><![CDATA[in]]></wf>
+    <wf sent="2" id="w16" length="7" offset="83"><![CDATA[Finland]]></wf>
+    <wf sent="2" id="w17" length="2" offset="91"><![CDATA[on]]></wf>
+    <wf sent="2" id="w18" length="2" offset="94"><![CDATA[20]]></wf>
+    <wf sent="2" id="w19" length="7" offset="97"><![CDATA[October]]></wf>
+    <wf sent="2" id="w20" length="1" offset="104"><![CDATA[.]]></wf>
+    <wf sent="3" id="w21" length="8" offset="106"><![CDATA[Election]]></wf>
+    <wf sent="3" id="w22" length="3" offset="115"><![CDATA[had]]></wf>
+    <wf sent="3" id="w23" length="2" offset="119"><![CDATA[to]]></wf>
+    <wf sent="3" id="w24" length="2" offset="122"><![CDATA[be]]></wf>
+    <wf sent="3" id="w25" length="7" offset="125"><![CDATA[renewed]]></wf>
+    <wf sent="3" id="w26" length="2" offset="133"><![CDATA[in]]></wf>
+    <wf sent="3" id="w27" length="8" offset="136"><![CDATA[Keminmaa]]></wf>
+    <wf sent="3" id="w28" length="2" offset="145"><![CDATA[on]]></wf>
+    <wf sent="3" id="w29" length="4" offset="148"><![CDATA[June]]></wf>
+    <wf sent="3" id="w30" length="1" offset="153"><![CDATA[8]]></wf>
+    <wf sent="3" id="w31" length="1" offset="154"><![CDATA[,]]></wf>
+    <wf sent="3" id="w32" length="3" offset="156"><![CDATA[due]]></wf>
+    <wf sent="3" id="w33" length="13" offset="160"><![CDATA[uncertainties]]></wf>
+    <wf sent="3" id="w34" length="4" offset="174"><![CDATA[with]]></wf>
+    <wf sent="3" id="w35" length="7" offset="179"><![CDATA[advance]]></wf>
+    <wf sent="3" id="w36" length="6" offset="187"><![CDATA[voting]]></wf>
+    <wf sent="3" id="w37" length="1" offset="193"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="PUNCT" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1996" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="finnish" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="elections++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="finnish" pos="ADJ" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="1996" pos="NUM" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Finland" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="20" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="renew" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Keminmaa" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="8" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="due" pos="ADJ" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="uncertainty" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="advance" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="voting" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="amod"/>
+    <dep from="t2" to="t5" rfunc="pobj"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t10" to="t8" rfunc="amod"/>
+    <dep from="t14" to="t10" rfunc="nsubjpass"/>
+    <dep from="t10" to="t9" rfunc="amod"/>
+    <dep from="t14" to="t11" rfunc="punct"/>
+    <dep from="t14" to="t12" rfunc="nsubjpass"/>
+    <dep from="t14" to="t13" rfunc="auxpass"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t15" to="t16" rfunc="pobj"/>
+    <dep from="t14" to="t17" rfunc="prep"/>
+    <dep from="t19" to="t18" rfunc="nummod"/>
+    <dep from="t17" to="t19" rfunc="pobj"/>
+    <dep from="t14" to="t20" rfunc="punct"/>
+    <dep from="t22" to="t21" rfunc="nsubj"/>
+    <dep from="t25" to="t23" rfunc="aux"/>
+    <dep from="t22" to="t25" rfunc="xcomp"/>
+    <dep from="t25" to="t24" rfunc="auxpass"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t26" to="t27" rfunc="pobj"/>
+    <dep from="t25" to="t28" rfunc="prep"/>
+    <dep from="t28" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t30" rfunc="nummod"/>
+    <dep from="t22" to="t31" rfunc="punct"/>
+    <dep from="t33" to="t32" rfunc="amod"/>
+    <dep from="t22" to="t33" rfunc="dobj"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="compound"/>
+    <dep from="t34" to="t36" rfunc="pobj"/>
+    <dep from="t22" to="t37" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--F i n l a n d-->
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Finland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q33" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--K e m i n m a a-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Keminmaa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Keminmaa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Keminmaa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q33" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t3"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t8"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-activity_resume" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-certainty" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

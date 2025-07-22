@@ -1,0 +1,896 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Zafar"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Zafar"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:58:58UTC" endTimestamp="2020-05-28T17:58:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:58:58UTC" endTimestamp="2020-05-28T17:58:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:58:58UTC" endTimestamp="2020-05-28T17:58:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:58:58UTC" endTimestamp="2020-05-28T17:58:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:09CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Zafar++.
+The Battle of Zafar took place in 632 between Khalid ibn al-Walid - a companion of the Islamic prophet, Muhammad - and a tribal chieftess called Salma. Khalid defeated her and she died on the battlefield. The battle was part of the Ridda Wars. The apostate leader was riding on a camel, surrounded by her loyal bodyguards. Khalid ibn al-Walid approached her with a group of mujaheddin and slaughtered her and her bodyguards. Several hundred apostates died in this battle.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="7" offset="12"><![CDATA[Zafar++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="19"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="20"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="21"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="25"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="32"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="5" offset="35"><![CDATA[Zafar]]></wf>
+    <wf sent="2" id="w12" length="4" offset="41"><![CDATA[took]]></wf>
+    <wf sent="2" id="w13" length="5" offset="46"><![CDATA[place]]></wf>
+    <wf sent="2" id="w14" length="2" offset="52"><![CDATA[in]]></wf>
+    <wf sent="2" id="w15" length="3" offset="55"><![CDATA[632]]></wf>
+    <wf sent="2" id="w16" length="7" offset="59"><![CDATA[between]]></wf>
+    <wf sent="2" id="w17" length="6" offset="67"><![CDATA[Khalid]]></wf>
+    <wf sent="2" id="w18" length="3" offset="74"><![CDATA[ibn]]></wf>
+    <wf sent="2" id="w19" length="2" offset="78"><![CDATA[al]]></wf>
+    <wf sent="2" id="w20" length="1" offset="80"><![CDATA[-]]></wf>
+    <wf sent="2" id="w21" length="5" offset="81"><![CDATA[Walid]]></wf>
+    <wf sent="2" id="w22" length="1" offset="87"><![CDATA[-]]></wf>
+    <wf sent="2" id="w23" length="1" offset="89"><![CDATA[a]]></wf>
+    <wf sent="2" id="w24" length="9" offset="91"><![CDATA[companion]]></wf>
+    <wf sent="2" id="w25" length="2" offset="101"><![CDATA[of]]></wf>
+    <wf sent="2" id="w26" length="3" offset="104"><![CDATA[the]]></wf>
+    <wf sent="2" id="w27" length="7" offset="108"><![CDATA[Islamic]]></wf>
+    <wf sent="2" id="w28" length="7" offset="116"><![CDATA[prophet]]></wf>
+    <wf sent="2" id="w29" length="1" offset="123"><![CDATA[,]]></wf>
+    <wf sent="2" id="w30" length="8" offset="125"><![CDATA[Muhammad]]></wf>
+    <wf sent="2" id="w31" length="1" offset="134"><![CDATA[-]]></wf>
+    <wf sent="2" id="w32" length="3" offset="136"><![CDATA[and]]></wf>
+    <wf sent="2" id="w33" length="1" offset="140"><![CDATA[a]]></wf>
+    <wf sent="2" id="w34" length="6" offset="142"><![CDATA[tribal]]></wf>
+    <wf sent="2" id="w35" length="9" offset="149"><![CDATA[chieftess]]></wf>
+    <wf sent="2" id="w36" length="6" offset="159"><![CDATA[called]]></wf>
+    <wf sent="2" id="w37" length="5" offset="166"><![CDATA[Salma]]></wf>
+    <wf sent="2" id="w38" length="1" offset="171"><![CDATA[.]]></wf>
+    <wf sent="3" id="w39" length="6" offset="173"><![CDATA[Khalid]]></wf>
+    <wf sent="3" id="w40" length="8" offset="180"><![CDATA[defeated]]></wf>
+    <wf sent="3" id="w41" length="3" offset="189"><![CDATA[her]]></wf>
+    <wf sent="3" id="w42" length="3" offset="193"><![CDATA[and]]></wf>
+    <wf sent="3" id="w43" length="3" offset="197"><![CDATA[she]]></wf>
+    <wf sent="3" id="w44" length="4" offset="201"><![CDATA[died]]></wf>
+    <wf sent="3" id="w45" length="2" offset="206"><![CDATA[on]]></wf>
+    <wf sent="3" id="w46" length="3" offset="209"><![CDATA[the]]></wf>
+    <wf sent="3" id="w47" length="11" offset="213"><![CDATA[battlefield]]></wf>
+    <wf sent="3" id="w48" length="1" offset="224"><![CDATA[.]]></wf>
+    <wf sent="4" id="w49" length="3" offset="226"><![CDATA[The]]></wf>
+    <wf sent="4" id="w50" length="6" offset="230"><![CDATA[battle]]></wf>
+    <wf sent="4" id="w51" length="3" offset="237"><![CDATA[was]]></wf>
+    <wf sent="4" id="w52" length="4" offset="241"><![CDATA[part]]></wf>
+    <wf sent="4" id="w53" length="2" offset="246"><![CDATA[of]]></wf>
+    <wf sent="4" id="w54" length="3" offset="249"><![CDATA[the]]></wf>
+    <wf sent="4" id="w55" length="5" offset="253"><![CDATA[Ridda]]></wf>
+    <wf sent="4" id="w56" length="4" offset="259"><![CDATA[Wars]]></wf>
+    <wf sent="4" id="w57" length="1" offset="263"><![CDATA[.]]></wf>
+    <wf sent="5" id="w58" length="3" offset="265"><![CDATA[The]]></wf>
+    <wf sent="5" id="w59" length="8" offset="269"><![CDATA[apostate]]></wf>
+    <wf sent="5" id="w60" length="6" offset="278"><![CDATA[leader]]></wf>
+    <wf sent="5" id="w61" length="3" offset="285"><![CDATA[was]]></wf>
+    <wf sent="5" id="w62" length="6" offset="289"><![CDATA[riding]]></wf>
+    <wf sent="5" id="w63" length="2" offset="296"><![CDATA[on]]></wf>
+    <wf sent="5" id="w64" length="1" offset="299"><![CDATA[a]]></wf>
+    <wf sent="5" id="w65" length="5" offset="301"><![CDATA[camel]]></wf>
+    <wf sent="5" id="w66" length="1" offset="306"><![CDATA[,]]></wf>
+    <wf sent="5" id="w67" length="10" offset="308"><![CDATA[surrounded]]></wf>
+    <wf sent="5" id="w68" length="2" offset="319"><![CDATA[by]]></wf>
+    <wf sent="5" id="w69" length="3" offset="322"><![CDATA[her]]></wf>
+    <wf sent="5" id="w70" length="5" offset="326"><![CDATA[loyal]]></wf>
+    <wf sent="5" id="w71" length="10" offset="332"><![CDATA[bodyguards]]></wf>
+    <wf sent="5" id="w72" length="1" offset="342"><![CDATA[.]]></wf>
+    <wf sent="6" id="w73" length="6" offset="344"><![CDATA[Khalid]]></wf>
+    <wf sent="6" id="w74" length="3" offset="351"><![CDATA[ibn]]></wf>
+    <wf sent="6" id="w75" length="2" offset="355"><![CDATA[al]]></wf>
+    <wf sent="6" id="w76" length="1" offset="357"><![CDATA[-]]></wf>
+    <wf sent="6" id="w77" length="5" offset="358"><![CDATA[Walid]]></wf>
+    <wf sent="6" id="w78" length="10" offset="364"><![CDATA[approached]]></wf>
+    <wf sent="6" id="w79" length="3" offset="375"><![CDATA[her]]></wf>
+    <wf sent="6" id="w80" length="4" offset="379"><![CDATA[with]]></wf>
+    <wf sent="6" id="w81" length="1" offset="384"><![CDATA[a]]></wf>
+    <wf sent="6" id="w82" length="5" offset="386"><![CDATA[group]]></wf>
+    <wf sent="6" id="w83" length="2" offset="392"><![CDATA[of]]></wf>
+    <wf sent="6" id="w84" length="10" offset="395"><![CDATA[mujaheddin]]></wf>
+    <wf sent="6" id="w85" length="3" offset="406"><![CDATA[and]]></wf>
+    <wf sent="6" id="w86" length="11" offset="410"><![CDATA[slaughtered]]></wf>
+    <wf sent="6" id="w87" length="3" offset="422"><![CDATA[her]]></wf>
+    <wf sent="6" id="w88" length="3" offset="426"><![CDATA[and]]></wf>
+    <wf sent="6" id="w89" length="3" offset="430"><![CDATA[her]]></wf>
+    <wf sent="6" id="w90" length="10" offset="434"><![CDATA[bodyguards]]></wf>
+    <wf sent="6" id="w91" length="1" offset="444"><![CDATA[.]]></wf>
+    <wf sent="7" id="w92" length="7" offset="446"><![CDATA[Several]]></wf>
+    <wf sent="7" id="w93" length="7" offset="454"><![CDATA[hundred]]></wf>
+    <wf sent="7" id="w94" length="9" offset="462"><![CDATA[apostates]]></wf>
+    <wf sent="7" id="w95" length="4" offset="472"><![CDATA[died]]></wf>
+    <wf sent="7" id="w96" length="2" offset="477"><![CDATA[in]]></wf>
+    <wf sent="7" id="w97" length="4" offset="480"><![CDATA[this]]></wf>
+    <wf sent="7" id="w98" length="6" offset="485"><![CDATA[battle]]></wf>
+    <wf sent="7" id="w99" length="1" offset="491"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Zafar++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Zafar" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="632" pos="NUM" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Khalid" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="ibn" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="al" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Walid" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="companion" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="islamic" pos="ADJ" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="prophet" pos="NOUN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Muhammad" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="tribal" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="chieftess" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="call" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Salma" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Khalid" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="die" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="battlefield" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Ridda" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Wars" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="apostate" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="leader" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="ride" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="camel" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="surround" pos="VERB" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="loyal" pos="ADJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="bodyguard" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="Khalid" pos="PROPN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="ibn" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="al" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Walid" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="approach" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="group" pos="NOUN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="mujaheddin" pos="NOUN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="slaughter" pos="VERB" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="bodyguard" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="several" pos="ADJ" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="hundred" pos="NUM" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="apostate" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="die" pos="VERB" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t12" to="t13" rfunc="dobj"/>
+    <dep from="t12" to="t14" rfunc="prep"/>
+    <dep from="t14" to="t15" rfunc="pobj"/>
+    <dep from="t12" to="t16" rfunc="prep"/>
+    <dep from="t21" to="t17" rfunc="compound"/>
+    <dep from="t16" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t18" rfunc="compound"/>
+    <dep from="t21" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="punct"/>
+    <dep from="t21" to="t22" rfunc="punct"/>
+    <dep from="t24" to="t23" rfunc="det"/>
+    <dep from="t21" to="t24" rfunc="appos"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t28" to="t26" rfunc="det"/>
+    <dep from="t25" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t27" rfunc="amod"/>
+    <dep from="t21" to="t29" rfunc="punct"/>
+    <dep from="t21" to="t30" rfunc="conj"/>
+    <dep from="t30" to="t31" rfunc="punct"/>
+    <dep from="t30" to="t32" rfunc="cc"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t30" to="t35" rfunc="conj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t35" to="t36" rfunc="acl"/>
+    <dep from="t36" to="t37" rfunc="oprd"/>
+    <dep from="t12" to="t38" rfunc="punct"/>
+    <dep from="t40" to="t39" rfunc="nsubj"/>
+    <dep from="t40" to="t41" rfunc="dobj"/>
+    <dep from="t40" to="t42" rfunc="cc"/>
+    <dep from="t44" to="t43" rfunc="nsubj"/>
+    <dep from="t40" to="t44" rfunc="conj"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t47" to="t46" rfunc="det"/>
+    <dep from="t45" to="t47" rfunc="pobj"/>
+    <dep from="t44" to="t48" rfunc="punct"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t51" to="t50" rfunc="nsubj"/>
+    <dep from="t51" to="t52" rfunc="attr"/>
+    <dep from="t52" to="t53" rfunc="prep"/>
+    <dep from="t56" to="t54" rfunc="det"/>
+    <dep from="t53" to="t56" rfunc="pobj"/>
+    <dep from="t56" to="t55" rfunc="compound"/>
+    <dep from="t51" to="t57" rfunc="punct"/>
+    <dep from="t60" to="t58" rfunc="det"/>
+    <dep from="t62" to="t60" rfunc="nsubj"/>
+    <dep from="t60" to="t59" rfunc="amod"/>
+    <dep from="t62" to="t61" rfunc="aux"/>
+    <dep from="t62" to="t63" rfunc="prep"/>
+    <dep from="t65" to="t64" rfunc="det"/>
+    <dep from="t63" to="t65" rfunc="pobj"/>
+    <dep from="t65" to="t66" rfunc="punct"/>
+    <dep from="t65" to="t67" rfunc="acl"/>
+    <dep from="t67" to="t68" rfunc="agent"/>
+    <dep from="t71" to="t69" rfunc="poss"/>
+    <dep from="t68" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t70" rfunc="amod"/>
+    <dep from="t62" to="t72" rfunc="punct"/>
+    <dep from="t77" to="t73" rfunc="compound"/>
+    <dep from="t78" to="t77" rfunc="nsubj"/>
+    <dep from="t77" to="t74" rfunc="compound"/>
+    <dep from="t77" to="t75" rfunc="compound"/>
+    <dep from="t77" to="t76" rfunc="punct"/>
+    <dep from="t78" to="t79" rfunc="dobj"/>
+    <dep from="t78" to="t80" rfunc="prep"/>
+    <dep from="t82" to="t81" rfunc="det"/>
+    <dep from="t80" to="t82" rfunc="pobj"/>
+    <dep from="t82" to="t83" rfunc="prep"/>
+    <dep from="t83" to="t84" rfunc="pobj"/>
+    <dep from="t78" to="t85" rfunc="cc"/>
+    <dep from="t78" to="t86" rfunc="conj"/>
+    <dep from="t86" to="t87" rfunc="dobj"/>
+    <dep from="t87" to="t88" rfunc="cc"/>
+    <dep from="t90" to="t89" rfunc="poss"/>
+    <dep from="t87" to="t90" rfunc="conj"/>
+    <dep from="t78" to="t91" rfunc="punct"/>
+    <dep from="t93" to="t92" rfunc="amod"/>
+    <dep from="t94" to="t93" rfunc="nummod"/>
+    <dep from="t95" to="t94" rfunc="nsubj"/>
+    <dep from="t95" to="t96" rfunc="prep"/>
+    <dep from="t98" to="t97" rfunc="det"/>
+    <dep from="t96" to="t98" rfunc="pobj"/>
+    <dep from="t95" to="t99" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--K h a l i d   i b n   a l - W a l i d-->
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Khalid_ibn_al-Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Khalid_ibn_al-Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Khalid_ibn_Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--M u h a m m a d-->
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Muhammad" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Muhammad" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Soera_Mohammed" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--R i d d a   W a r s-->
+        <target id="t55"/>
+        <target id="t56"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ridda_Wars" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--K h a l i d   i b n   a l - W a l i d-->
+        <target id="t73"/>
+        <target id="t74"/>
+        <target id="t75"/>
+        <target id="t76"/>
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Khalid_ibn_al-Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Khalid_ibn_al-Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Khalid_ibn_Walid" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--m u j a h e d d i n-->
+        <target id="t84"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mujaheddin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-personal_relationship" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-referring_by_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-death" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t82"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-killing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t86"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-quantified_mass" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t92"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t93"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-death" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t95"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t98"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

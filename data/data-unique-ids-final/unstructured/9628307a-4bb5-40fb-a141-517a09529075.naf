@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1966 European Athletics Championships – Men's marathon"/>
+    <public uri="https://en.wikipedia.org/wiki/1966_European_Athletics_Championships_%E2%80%93_Men%27s_marathon"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T11:46:51UTC" endTimestamp="2020-05-28T11:46:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T11:46:51UTC" endTimestamp="2020-05-28T11:46:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T11:46:51UTC" endTimestamp="2020-05-28T11:46:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T11:46:51UTC" endTimestamp="2020-05-28T11:46:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:40CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1966 European Athletics Championships – Men's marathon++.
+The men's marathon at the 1966 European Athletics Championships was held in Budapest, Hungary, on 4 September 1966.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1966]]></wf>
+    <wf sent="1" id="w3" length="8" offset="7"><![CDATA[European]]></wf>
+    <wf sent="1" id="w4" length="9" offset="16"><![CDATA[Athletics]]></wf>
+    <wf sent="1" id="w5" length="13" offset="26"><![CDATA[Championships]]></wf>
+    <wf sent="1" id="w6" length="1" offset="40"><![CDATA[–]]></wf>
+    <wf sent="1" id="w7" length="3" offset="42"><![CDATA[Men]]></wf>
+    <wf sent="1" id="w8" length="2" offset="45"><![CDATA['s]]></wf>
+    <wf sent="1" id="w9" length="10" offset="48"><![CDATA[marathon++]]></wf>
+    <wf sent="1" id="w10" length="1" offset="58"><![CDATA[.]]></wf>
+    <wf sent="1" id="w11" length="1" offset="59"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w12" length="3" offset="60"><![CDATA[The]]></wf>
+    <wf sent="2" id="w13" length="3" offset="64"><![CDATA[men]]></wf>
+    <wf sent="2" id="w14" length="2" offset="67"><![CDATA['s]]></wf>
+    <wf sent="2" id="w15" length="8" offset="70"><![CDATA[marathon]]></wf>
+    <wf sent="2" id="w16" length="2" offset="79"><![CDATA[at]]></wf>
+    <wf sent="2" id="w17" length="3" offset="82"><![CDATA[the]]></wf>
+    <wf sent="2" id="w18" length="4" offset="86"><![CDATA[1966]]></wf>
+    <wf sent="2" id="w19" length="8" offset="91"><![CDATA[European]]></wf>
+    <wf sent="2" id="w20" length="9" offset="100"><![CDATA[Athletics]]></wf>
+    <wf sent="2" id="w21" length="13" offset="110"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w22" length="3" offset="124"><![CDATA[was]]></wf>
+    <wf sent="2" id="w23" length="4" offset="128"><![CDATA[held]]></wf>
+    <wf sent="2" id="w24" length="2" offset="133"><![CDATA[in]]></wf>
+    <wf sent="2" id="w25" length="8" offset="136"><![CDATA[Budapest]]></wf>
+    <wf sent="2" id="w26" length="1" offset="144"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="7" offset="146"><![CDATA[Hungary]]></wf>
+    <wf sent="2" id="w28" length="1" offset="153"><![CDATA[,]]></wf>
+    <wf sent="2" id="w29" length="2" offset="155"><![CDATA[on]]></wf>
+    <wf sent="2" id="w30" length="1" offset="158"><![CDATA[4]]></wf>
+    <wf sent="2" id="w31" length="9" offset="160"><![CDATA[September]]></wf>
+    <wf sent="2" id="w32" length="4" offset="170"><![CDATA[1966]]></wf>
+    <wf sent="2" id="w33" length="1" offset="174"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1966" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Athletics" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Men" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="marathon++" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="marathon" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="1966" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Athletics" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Budapest" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Hungary" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="4" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="1966" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t9" to="t1" rfunc="cc"/>
+    <dep from="t9" to="t2" rfunc="nmod"/>
+    <dep from="t7" to="t3" rfunc="compound"/>
+    <dep from="t9" to="t7" rfunc="poss"/>
+    <dep from="t7" to="t4" rfunc="compound"/>
+    <dep from="t7" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="compound"/>
+    <dep from="t7" to="t8" rfunc="case"/>
+    <dep from="t9" to="t10" rfunc="punct"/>
+    <dep from="t10" to="t11" rfunc=""/>
+    <dep from="t13" to="t12" rfunc="det"/>
+    <dep from="t15" to="t13" rfunc="poss"/>
+    <dep from="t23" to="t15" rfunc="nsubjpass"/>
+    <dep from="t13" to="t14" rfunc="case"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t21" to="t17" rfunc="det"/>
+    <dep from="t16" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t18" rfunc="nummod"/>
+    <dep from="t21" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t23" to="t22" rfunc="auxpass"/>
+    <dep from="t23" to="t24" rfunc="prep"/>
+    <dep from="t24" to="t25" rfunc="pobj"/>
+    <dep from="t25" to="t26" rfunc="punct"/>
+    <dep from="t25" to="t27" rfunc="appos"/>
+    <dep from="t23" to="t28" rfunc="punct"/>
+    <dep from="t23" to="t29" rfunc="prep"/>
+    <dep from="t31" to="t30" rfunc="nummod"/>
+    <dep from="t29" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t32" rfunc="nummod"/>
+    <dep from="t23" to="t33" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--m a r a t h o n-->
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marathon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 9 6 6   E u r o p e a n   A t h l e t i c s   C h a m p i o n s h i p s-->
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1966_European_Athletics_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionati_europei_di_atletica_leggera_1966" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--B u d a p e s t-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Budapest" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Budapest" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Budapest" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t3"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

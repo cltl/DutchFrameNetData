@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="EMA 2007"/>
+    <public uri="https://en.wikipedia.org/wiki/EMA_2007"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:33CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++EMA 2007++.
+EMA 2007 was the television show in which Slovenia selected its entry for the Eurovision Song Contest 2007. The final took place in Ljubljana on February 3, 2007 (with the semi-finals broadcast February 1 and 2nd). Unlike in 2006, the winner was selected through televoting only.
+Previous contests involved selecting the winner through televoting and votes given by the preselected jury, which has raised some concerns and disputes over the fairness of votes.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[EMA]]></wf>
+    <wf sent="1" id="w4" length="6" offset="6"><![CDATA[2007++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="12"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="13"><![CDATA[
+]]></wf>
+    <wf sent="1" id="w7" length="3" offset="14"><![CDATA[EMA]]></wf>
+    <wf sent="1" id="w8" length="4" offset="18"><![CDATA[2007]]></wf>
+    <wf sent="1" id="w9" length="3" offset="23"><![CDATA[was]]></wf>
+    <wf sent="1" id="w10" length="3" offset="27"><![CDATA[the]]></wf>
+    <wf sent="1" id="w11" length="10" offset="31"><![CDATA[television]]></wf>
+    <wf sent="1" id="w12" length="4" offset="42"><![CDATA[show]]></wf>
+    <wf sent="1" id="w13" length="2" offset="47"><![CDATA[in]]></wf>
+    <wf sent="1" id="w14" length="5" offset="50"><![CDATA[which]]></wf>
+    <wf sent="1" id="w15" length="8" offset="56"><![CDATA[Slovenia]]></wf>
+    <wf sent="1" id="w16" length="8" offset="65"><![CDATA[selected]]></wf>
+    <wf sent="1" id="w17" length="3" offset="74"><![CDATA[its]]></wf>
+    <wf sent="1" id="w18" length="5" offset="78"><![CDATA[entry]]></wf>
+    <wf sent="1" id="w19" length="3" offset="84"><![CDATA[for]]></wf>
+    <wf sent="1" id="w20" length="3" offset="88"><![CDATA[the]]></wf>
+    <wf sent="1" id="w21" length="10" offset="92"><![CDATA[Eurovision]]></wf>
+    <wf sent="1" id="w22" length="4" offset="103"><![CDATA[Song]]></wf>
+    <wf sent="1" id="w23" length="7" offset="108"><![CDATA[Contest]]></wf>
+    <wf sent="1" id="w24" length="4" offset="116"><![CDATA[2007]]></wf>
+    <wf sent="1" id="w25" length="1" offset="120"><![CDATA[.]]></wf>
+    <wf sent="2" id="w26" length="3" offset="122"><![CDATA[The]]></wf>
+    <wf sent="2" id="w27" length="5" offset="126"><![CDATA[final]]></wf>
+    <wf sent="2" id="w28" length="4" offset="132"><![CDATA[took]]></wf>
+    <wf sent="2" id="w29" length="5" offset="137"><![CDATA[place]]></wf>
+    <wf sent="2" id="w30" length="2" offset="143"><![CDATA[in]]></wf>
+    <wf sent="2" id="w31" length="9" offset="146"><![CDATA[Ljubljana]]></wf>
+    <wf sent="2" id="w32" length="2" offset="156"><![CDATA[on]]></wf>
+    <wf sent="2" id="w33" length="8" offset="159"><![CDATA[February]]></wf>
+    <wf sent="2" id="w34" length="1" offset="168"><![CDATA[3]]></wf>
+    <wf sent="2" id="w35" length="1" offset="169"><![CDATA[,]]></wf>
+    <wf sent="2" id="w36" length="4" offset="171"><![CDATA[2007]]></wf>
+    <wf sent="2" id="w37" length="1" offset="176"><![CDATA[(]]></wf>
+    <wf sent="2" id="w38" length="4" offset="177"><![CDATA[with]]></wf>
+    <wf sent="2" id="w39" length="3" offset="182"><![CDATA[the]]></wf>
+    <wf sent="2" id="w40" length="4" offset="186"><![CDATA[semi]]></wf>
+    <wf sent="2" id="w41" length="1" offset="190"><![CDATA[-]]></wf>
+    <wf sent="2" id="w42" length="6" offset="191"><![CDATA[finals]]></wf>
+    <wf sent="2" id="w43" length="9" offset="198"><![CDATA[broadcast]]></wf>
+    <wf sent="2" id="w44" length="8" offset="208"><![CDATA[February]]></wf>
+    <wf sent="2" id="w45" length="1" offset="217"><![CDATA[1]]></wf>
+    <wf sent="2" id="w46" length="3" offset="219"><![CDATA[and]]></wf>
+    <wf sent="2" id="w47" length="3" offset="223"><![CDATA[2nd]]></wf>
+    <wf sent="2" id="w48" length="1" offset="226"><![CDATA[)]]></wf>
+    <wf sent="2" id="w49" length="1" offset="227"><![CDATA[.]]></wf>
+    <wf sent="3" id="w50" length="6" offset="229"><![CDATA[Unlike]]></wf>
+    <wf sent="3" id="w51" length="2" offset="236"><![CDATA[in]]></wf>
+    <wf sent="3" id="w52" length="4" offset="239"><![CDATA[2006]]></wf>
+    <wf sent="3" id="w53" length="1" offset="243"><![CDATA[,]]></wf>
+    <wf sent="3" id="w54" length="3" offset="245"><![CDATA[the]]></wf>
+    <wf sent="3" id="w55" length="6" offset="249"><![CDATA[winner]]></wf>
+    <wf sent="3" id="w56" length="3" offset="256"><![CDATA[was]]></wf>
+    <wf sent="3" id="w57" length="8" offset="260"><![CDATA[selected]]></wf>
+    <wf sent="3" id="w58" length="7" offset="269"><![CDATA[through]]></wf>
+    <wf sent="3" id="w59" length="10" offset="277"><![CDATA[televoting]]></wf>
+    <wf sent="3" id="w60" length="4" offset="288"><![CDATA[only]]></wf>
+    <wf sent="3" id="w61" length="1" offset="292"><![CDATA[.]]></wf>
+    <wf sent="3" id="w62" length="1" offset="293"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w63" length="8" offset="294"><![CDATA[Previous]]></wf>
+    <wf sent="4" id="w64" length="8" offset="303"><![CDATA[contests]]></wf>
+    <wf sent="4" id="w65" length="8" offset="312"><![CDATA[involved]]></wf>
+    <wf sent="4" id="w66" length="9" offset="321"><![CDATA[selecting]]></wf>
+    <wf sent="4" id="w67" length="3" offset="331"><![CDATA[the]]></wf>
+    <wf sent="4" id="w68" length="6" offset="335"><![CDATA[winner]]></wf>
+    <wf sent="4" id="w69" length="7" offset="342"><![CDATA[through]]></wf>
+    <wf sent="4" id="w70" length="10" offset="350"><![CDATA[televoting]]></wf>
+    <wf sent="4" id="w71" length="3" offset="361"><![CDATA[and]]></wf>
+    <wf sent="4" id="w72" length="5" offset="365"><![CDATA[votes]]></wf>
+    <wf sent="4" id="w73" length="5" offset="371"><![CDATA[given]]></wf>
+    <wf sent="4" id="w74" length="2" offset="377"><![CDATA[by]]></wf>
+    <wf sent="4" id="w75" length="3" offset="380"><![CDATA[the]]></wf>
+    <wf sent="4" id="w76" length="11" offset="384"><![CDATA[preselected]]></wf>
+    <wf sent="4" id="w77" length="4" offset="396"><![CDATA[jury]]></wf>
+    <wf sent="4" id="w78" length="1" offset="400"><![CDATA[,]]></wf>
+    <wf sent="4" id="w79" length="5" offset="402"><![CDATA[which]]></wf>
+    <wf sent="4" id="w80" length="3" offset="408"><![CDATA[has]]></wf>
+    <wf sent="4" id="w81" length="6" offset="412"><![CDATA[raised]]></wf>
+    <wf sent="4" id="w82" length="4" offset="419"><![CDATA[some]]></wf>
+    <wf sent="4" id="w83" length="8" offset="424"><![CDATA[concerns]]></wf>
+    <wf sent="4" id="w84" length="3" offset="433"><![CDATA[and]]></wf>
+    <wf sent="4" id="w85" length="8" offset="437"><![CDATA[disputes]]></wf>
+    <wf sent="4" id="w86" length="4" offset="446"><![CDATA[over]]></wf>
+    <wf sent="4" id="w87" length="3" offset="451"><![CDATA[the]]></wf>
+    <wf sent="4" id="w88" length="8" offset="455"><![CDATA[fairness]]></wf>
+    <wf sent="4" id="w89" length="2" offset="464"><![CDATA[of]]></wf>
+    <wf sent="4" id="w90" length="5" offset="467"><![CDATA[votes]]></wf>
+    <wf sent="4" id="w91" length="1" offset="472"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="SYM" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="EMA" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="2007++" pos="NUM" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="EMA" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2007" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="television" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="show" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Slovenia" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="select" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="entry" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Eurovision" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Song" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Contest" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="2007" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="final" pos="ADJ" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Ljubljana" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="February" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="2007" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="semi" pos="ADJ" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="-" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="final" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="broadcast" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="February" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="2nd" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="unlike" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="2006" pos="NUM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="select" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="televote" pos="VERB" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="only" pos="ADV" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="previous" pos="ADJ" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="contest" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="involve" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="select" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="televoting" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="vote" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="give" pos="VERB" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="preselecte" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="jury" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="raise" pos="VERB" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="some" pos="DET" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="concern" pos="NOUN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="dispute" pos="NOUN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="over" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="fairness" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="vote" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t9" to="t1" rfunc="cc"/>
+    <dep from="t9" to="t2" rfunc="cc"/>
+    <dep from="t2" to="t3" rfunc="npadvmod"/>
+    <dep from="t5" to="t4" rfunc="subtok"/>
+    <dep from="t9" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t9" to="t7" rfunc="nsubj"/>
+    <dep from="t7" to="t8" rfunc="appos"/>
+    <dep from="t12" to="t10" rfunc="det"/>
+    <dep from="t9" to="t12" rfunc="attr"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t16" to="t13" rfunc="prep"/>
+    <dep from="t12" to="t16" rfunc="relcl"/>
+    <dep from="t13" to="t14" rfunc="pobj"/>
+    <dep from="t16" to="t15" rfunc="nsubj"/>
+    <dep from="t18" to="t17" rfunc="poss"/>
+    <dep from="t16" to="t18" rfunc="dobj"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t23" to="t20" rfunc="det"/>
+    <dep from="t19" to="t23" rfunc="pobj"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t23" to="t24" rfunc="appos"/>
+    <dep from="t9" to="t25" rfunc="punct"/>
+    <dep from="t27" to="t26" rfunc="det"/>
+    <dep from="t28" to="t27" rfunc="nsubj"/>
+    <dep from="t28" to="t29" rfunc="dobj"/>
+    <dep from="t28" to="t30" rfunc="prep"/>
+    <dep from="t30" to="t31" rfunc="pobj"/>
+    <dep from="t28" to="t32" rfunc="prep"/>
+    <dep from="t32" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t34" rfunc="nummod"/>
+    <dep from="t33" to="t35" rfunc="punct"/>
+    <dep from="t33" to="t36" rfunc="appos"/>
+    <dep from="t33" to="t37" rfunc="punct"/>
+    <dep from="t28" to="t38" rfunc="prep"/>
+    <dep from="t42" to="t39" rfunc="det"/>
+    <dep from="t43" to="t42" rfunc="nsubj"/>
+    <dep from="t38" to="t43" rfunc="pcomp"/>
+    <dep from="t41" to="t40" rfunc="subtok"/>
+    <dep from="t42" to="t41" rfunc="subtok"/>
+    <dep from="t43" to="t44" rfunc="npadvmod"/>
+    <dep from="t44" to="t45" rfunc="nummod"/>
+    <dep from="t44" to="t46" rfunc="cc"/>
+    <dep from="t44" to="t47" rfunc="conj"/>
+    <dep from="t28" to="t48" rfunc="punct"/>
+    <dep from="t28" to="t49" rfunc="punct"/>
+    <dep from="t57" to="t50" rfunc="prep"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t57" to="t53" rfunc="punct"/>
+    <dep from="t55" to="t54" rfunc="det"/>
+    <dep from="t57" to="t55" rfunc="nsubjpass"/>
+    <dep from="t57" to="t56" rfunc="auxpass"/>
+    <dep from="t57" to="t58" rfunc="prep"/>
+    <dep from="t58" to="t59" rfunc="pcomp"/>
+    <dep from="t59" to="t60" rfunc="advmod"/>
+    <dep from="t57" to="t61" rfunc="punct"/>
+    <dep from="t61" to="t62" rfunc=""/>
+    <dep from="t64" to="t63" rfunc="amod"/>
+    <dep from="t65" to="t64" rfunc="nsubj"/>
+    <dep from="t65" to="t66" rfunc="xcomp"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t66" to="t68" rfunc="dobj"/>
+    <dep from="t66" to="t69" rfunc="prep"/>
+    <dep from="t69" to="t70" rfunc="pcomp"/>
+    <dep from="t70" to="t71" rfunc="cc"/>
+    <dep from="t70" to="t72" rfunc="conj"/>
+    <dep from="t72" to="t73" rfunc="acl"/>
+    <dep from="t73" to="t74" rfunc="agent"/>
+    <dep from="t77" to="t75" rfunc="det"/>
+    <dep from="t74" to="t77" rfunc="pobj"/>
+    <dep from="t77" to="t76" rfunc="amod"/>
+    <dep from="t77" to="t78" rfunc="punct"/>
+    <dep from="t81" to="t79" rfunc="nsubj"/>
+    <dep from="t77" to="t81" rfunc="relcl"/>
+    <dep from="t81" to="t80" rfunc="aux"/>
+    <dep from="t83" to="t82" rfunc="det"/>
+    <dep from="t81" to="t83" rfunc="dobj"/>
+    <dep from="t83" to="t84" rfunc="cc"/>
+    <dep from="t83" to="t85" rfunc="conj"/>
+    <dep from="t81" to="t86" rfunc="prep"/>
+    <dep from="t88" to="t87" rfunc="det"/>
+    <dep from="t86" to="t88" rfunc="pobj"/>
+    <dep from="t88" to="t89" rfunc="prep"/>
+    <dep from="t89" to="t90" rfunc="pobj"/>
+    <dep from="t65" to="t91" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--S l o v e n i a-->
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Slovenia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Slovenia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Slovenië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q215" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--E u r o v i s i o n   S o n g   C o n t e s t   2 0 0 7-->
+        <target id="t21"/>
+        <target id="t22"/>
+        <target id="t23"/>
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Eurovision_Song_Contest_2007" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Eurovision_Song_Contest_2007" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Eurovisiesongfestival_2007" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--L j u b l j a n a-->
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ljubljana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ljubljana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q215" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-choosing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-arriving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-choosing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-giving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-building" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-emotion_directed" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t83"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-quarreling" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t85"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

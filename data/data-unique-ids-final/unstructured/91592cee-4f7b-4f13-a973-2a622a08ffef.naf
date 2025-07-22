@@ -1,0 +1,933 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1979 NCAA Division I Swimming and Diving Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/1979_NCAA_Division_I_Swimming_and_Diving_Championships"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:52:18UTC" endTimestamp="2020-05-27T16:52:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:52:18UTC" endTimestamp="2020-05-27T16:52:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:52:18UTC" endTimestamp="2020-05-27T16:52:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:52:18UTC" endTimestamp="2020-05-27T16:52:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:27CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1979 NCAA Division I Swimming and Diving Championships++.
+The 1979 NCAA Men's Division I Swimming and Diving Championships were contested in March 1979 at the Cleveland State University Natatorium at Cleveland State University in Cleveland, Ohio at the 56th annual NCAA-sanctioned swim meet to determine the team and individual national champions of Division I men's collegiate swimming and diving in the United States.
+California topped the team standings for the first time, the Golden Bears' inaugural national title.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1979]]></wf>
+    <wf sent="1" id="w3" length="4" offset="7"><![CDATA[NCAA]]></wf>
+    <wf sent="1" id="w4" length="8" offset="12"><![CDATA[Division]]></wf>
+    <wf sent="1" id="w5" length="1" offset="21"><![CDATA[I]]></wf>
+    <wf sent="1" id="w6" length="8" offset="23"><![CDATA[Swimming]]></wf>
+    <wf sent="1" id="w7" length="3" offset="32"><![CDATA[and]]></wf>
+    <wf sent="1" id="w8" length="6" offset="36"><![CDATA[Diving]]></wf>
+    <wf sent="1" id="w9" length="15" offset="43"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w10" length="1" offset="58"><![CDATA[.]]></wf>
+    <wf sent="1" id="w11" length="1" offset="59"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w12" length="3" offset="60"><![CDATA[The]]></wf>
+    <wf sent="2" id="w13" length="4" offset="64"><![CDATA[1979]]></wf>
+    <wf sent="2" id="w14" length="4" offset="69"><![CDATA[NCAA]]></wf>
+    <wf sent="2" id="w15" length="3" offset="74"><![CDATA[Men]]></wf>
+    <wf sent="2" id="w16" length="2" offset="77"><![CDATA['s]]></wf>
+    <wf sent="2" id="w17" length="8" offset="80"><![CDATA[Division]]></wf>
+    <wf sent="2" id="w18" length="1" offset="89"><![CDATA[I]]></wf>
+    <wf sent="2" id="w19" length="8" offset="91"><![CDATA[Swimming]]></wf>
+    <wf sent="2" id="w20" length="3" offset="100"><![CDATA[and]]></wf>
+    <wf sent="2" id="w21" length="6" offset="104"><![CDATA[Diving]]></wf>
+    <wf sent="2" id="w22" length="13" offset="111"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w23" length="4" offset="125"><![CDATA[were]]></wf>
+    <wf sent="2" id="w24" length="9" offset="130"><![CDATA[contested]]></wf>
+    <wf sent="2" id="w25" length="2" offset="140"><![CDATA[in]]></wf>
+    <wf sent="2" id="w26" length="5" offset="143"><![CDATA[March]]></wf>
+    <wf sent="2" id="w27" length="4" offset="149"><![CDATA[1979]]></wf>
+    <wf sent="2" id="w28" length="2" offset="154"><![CDATA[at]]></wf>
+    <wf sent="2" id="w29" length="3" offset="157"><![CDATA[the]]></wf>
+    <wf sent="2" id="w30" length="9" offset="161"><![CDATA[Cleveland]]></wf>
+    <wf sent="2" id="w31" length="5" offset="171"><![CDATA[State]]></wf>
+    <wf sent="2" id="w32" length="10" offset="177"><![CDATA[University]]></wf>
+    <wf sent="2" id="w33" length="10" offset="188"><![CDATA[Natatorium]]></wf>
+    <wf sent="2" id="w34" length="2" offset="199"><![CDATA[at]]></wf>
+    <wf sent="2" id="w35" length="9" offset="202"><![CDATA[Cleveland]]></wf>
+    <wf sent="2" id="w36" length="5" offset="212"><![CDATA[State]]></wf>
+    <wf sent="2" id="w37" length="10" offset="218"><![CDATA[University]]></wf>
+    <wf sent="2" id="w38" length="2" offset="229"><![CDATA[in]]></wf>
+    <wf sent="2" id="w39" length="9" offset="232"><![CDATA[Cleveland]]></wf>
+    <wf sent="2" id="w40" length="1" offset="241"><![CDATA[,]]></wf>
+    <wf sent="2" id="w41" length="4" offset="243"><![CDATA[Ohio]]></wf>
+    <wf sent="2" id="w42" length="2" offset="248"><![CDATA[at]]></wf>
+    <wf sent="2" id="w43" length="3" offset="251"><![CDATA[the]]></wf>
+    <wf sent="2" id="w44" length="4" offset="255"><![CDATA[56th]]></wf>
+    <wf sent="2" id="w45" length="6" offset="260"><![CDATA[annual]]></wf>
+    <wf sent="2" id="w46" length="4" offset="267"><![CDATA[NCAA]]></wf>
+    <wf sent="2" id="w47" length="1" offset="271"><![CDATA[-]]></wf>
+    <wf sent="2" id="w48" length="10" offset="272"><![CDATA[sanctioned]]></wf>
+    <wf sent="2" id="w49" length="4" offset="283"><![CDATA[swim]]></wf>
+    <wf sent="2" id="w50" length="4" offset="288"><![CDATA[meet]]></wf>
+    <wf sent="2" id="w51" length="2" offset="293"><![CDATA[to]]></wf>
+    <wf sent="2" id="w52" length="9" offset="296"><![CDATA[determine]]></wf>
+    <wf sent="2" id="w53" length="3" offset="306"><![CDATA[the]]></wf>
+    <wf sent="2" id="w54" length="4" offset="310"><![CDATA[team]]></wf>
+    <wf sent="2" id="w55" length="3" offset="315"><![CDATA[and]]></wf>
+    <wf sent="2" id="w56" length="10" offset="319"><![CDATA[individual]]></wf>
+    <wf sent="2" id="w57" length="8" offset="330"><![CDATA[national]]></wf>
+    <wf sent="2" id="w58" length="9" offset="339"><![CDATA[champions]]></wf>
+    <wf sent="2" id="w59" length="2" offset="349"><![CDATA[of]]></wf>
+    <wf sent="2" id="w60" length="8" offset="352"><![CDATA[Division]]></wf>
+    <wf sent="2" id="w61" length="1" offset="361"><![CDATA[I]]></wf>
+    <wf sent="2" id="w62" length="3" offset="363"><![CDATA[men]]></wf>
+    <wf sent="2" id="w63" length="2" offset="366"><![CDATA['s]]></wf>
+    <wf sent="2" id="w64" length="10" offset="369"><![CDATA[collegiate]]></wf>
+    <wf sent="2" id="w65" length="8" offset="380"><![CDATA[swimming]]></wf>
+    <wf sent="2" id="w66" length="3" offset="389"><![CDATA[and]]></wf>
+    <wf sent="2" id="w67" length="6" offset="393"><![CDATA[diving]]></wf>
+    <wf sent="2" id="w68" length="2" offset="400"><![CDATA[in]]></wf>
+    <wf sent="2" id="w69" length="3" offset="403"><![CDATA[the]]></wf>
+    <wf sent="2" id="w70" length="6" offset="407"><![CDATA[United]]></wf>
+    <wf sent="2" id="w71" length="6" offset="414"><![CDATA[States]]></wf>
+    <wf sent="2" id="w72" length="1" offset="420"><![CDATA[.]]></wf>
+    <wf sent="2" id="w73" length="1" offset="421"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w74" length="10" offset="422"><![CDATA[California]]></wf>
+    <wf sent="3" id="w75" length="6" offset="433"><![CDATA[topped]]></wf>
+    <wf sent="3" id="w76" length="3" offset="440"><![CDATA[the]]></wf>
+    <wf sent="3" id="w77" length="4" offset="444"><![CDATA[team]]></wf>
+    <wf sent="3" id="w78" length="9" offset="449"><![CDATA[standings]]></wf>
+    <wf sent="3" id="w79" length="3" offset="459"><![CDATA[for]]></wf>
+    <wf sent="3" id="w80" length="3" offset="463"><![CDATA[the]]></wf>
+    <wf sent="3" id="w81" length="5" offset="467"><![CDATA[first]]></wf>
+    <wf sent="3" id="w82" length="4" offset="473"><![CDATA[time]]></wf>
+    <wf sent="3" id="w83" length="1" offset="477"><![CDATA[,]]></wf>
+    <wf sent="3" id="w84" length="3" offset="479"><![CDATA[the]]></wf>
+    <wf sent="3" id="w85" length="6" offset="483"><![CDATA[Golden]]></wf>
+    <wf sent="3" id="w86" length="5" offset="490"><![CDATA[Bears]]></wf>
+    <wf sent="3" id="w87" length="1" offset="495"><![CDATA[']]></wf>
+    <wf sent="3" id="w88" length="9" offset="497"><![CDATA[inaugural]]></wf>
+    <wf sent="3" id="w89" length="8" offset="507"><![CDATA[national]]></wf>
+    <wf sent="3" id="w90" length="5" offset="516"><![CDATA[title]]></wf>
+    <wf sent="3" id="w91" length="1" offset="521"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1979" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="NCAA" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Division" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="I" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Swimming" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Diving" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="1979" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="NCAA" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Men" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Division" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="I" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Swimming" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Diving" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="contest" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1979" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Cleveland" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="State" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="University" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Natatorium" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Cleveland" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="State" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="University" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Cleveland" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Ohio" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="56th" pos="ADJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="annual" pos="ADJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="NCAA" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="sanction" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="swim" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="meet" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="determine" pos="VERB" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="individual" pos="ADJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="national" pos="ADJ" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="champion" pos="NOUN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Division" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="i" pos="NUM" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="collegiate" pos="ADJ" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="swimming" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="diving" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="California" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="top" pos="VERB" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="standing" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="time" pos="NOUN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Golden" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="Bears" pos="PROPN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="'" pos="PART" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="inaugural" pos="ADJ" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="national" pos="ADJ" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="title" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t9" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="amod"/>
+    <dep from="t9" to="t4" rfunc="nmod"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t9" to="t5" rfunc="nmod"/>
+    <dep from="t9" to="t6" rfunc="nmod"/>
+    <dep from="t6" to="t7" rfunc="cc"/>
+    <dep from="t6" to="t8" rfunc="conj"/>
+    <dep from="t9" to="t10" rfunc="punct"/>
+    <dep from="t10" to="t11" rfunc=""/>
+    <dep from="t17" to="t12" rfunc="det"/>
+    <dep from="t24" to="t17" rfunc="nsubjpass"/>
+    <dep from="t17" to="t13" rfunc="nummod"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t17" to="t15" rfunc="poss"/>
+    <dep from="t15" to="t16" rfunc="case"/>
+    <dep from="t22" to="t18" rfunc="nmod"/>
+    <dep from="t17" to="t22" rfunc="appos"/>
+    <dep from="t22" to="t19" rfunc="nmod"/>
+    <dep from="t19" to="t20" rfunc="cc"/>
+    <dep from="t19" to="t21" rfunc="conj"/>
+    <dep from="t24" to="t23" rfunc="auxpass"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t27" rfunc="nummod"/>
+    <dep from="t24" to="t28" rfunc="prep"/>
+    <dep from="t33" to="t29" rfunc="det"/>
+    <dep from="t28" to="t33" rfunc="pobj"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t33" to="t31" rfunc="compound"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="compound"/>
+    <dep from="t37" to="t36" rfunc="compound"/>
+    <dep from="t34" to="t37" rfunc="pobj"/>
+    <dep from="t37" to="t38" rfunc="prep"/>
+    <dep from="t38" to="t39" rfunc="pobj"/>
+    <dep from="t33" to="t40" rfunc="punct"/>
+    <dep from="t33" to="t41" rfunc="appos"/>
+    <dep from="t24" to="t42" rfunc="prep"/>
+    <dep from="t50" to="t43" rfunc="det"/>
+    <dep from="t42" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t44" rfunc="amod"/>
+    <dep from="t49" to="t45" rfunc="amod"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t48" to="t46" rfunc="npadvmod"/>
+    <dep from="t49" to="t48" rfunc="amod"/>
+    <dep from="t48" to="t47" rfunc="punct"/>
+    <dep from="t52" to="t51" rfunc="aux"/>
+    <dep from="t50" to="t52" rfunc="advcl"/>
+    <dep from="t54" to="t53" rfunc="det"/>
+    <dep from="t52" to="t54" rfunc="dobj"/>
+    <dep from="t54" to="t55" rfunc="cc"/>
+    <dep from="t58" to="t56" rfunc="amod"/>
+    <dep from="t54" to="t58" rfunc="conj"/>
+    <dep from="t58" to="t57" rfunc="amod"/>
+    <dep from="t58" to="t59" rfunc="prep"/>
+    <dep from="t59" to="t60" rfunc="pobj"/>
+    <dep from="t54" to="t61" rfunc="appos"/>
+    <dep from="t65" to="t62" rfunc="poss"/>
+    <dep from="t61" to="t65" rfunc="appos"/>
+    <dep from="t62" to="t63" rfunc="case"/>
+    <dep from="t65" to="t64" rfunc="amod"/>
+    <dep from="t65" to="t66" rfunc="cc"/>
+    <dep from="t65" to="t67" rfunc="conj"/>
+    <dep from="t65" to="t68" rfunc="prep"/>
+    <dep from="t71" to="t69" rfunc="det"/>
+    <dep from="t68" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t70" rfunc="compound"/>
+    <dep from="t24" to="t72" rfunc="punct"/>
+    <dep from="t72" to="t73" rfunc=""/>
+    <dep from="t75" to="t74" rfunc="nsubj"/>
+    <dep from="t78" to="t76" rfunc="det"/>
+    <dep from="t75" to="t78" rfunc="dobj"/>
+    <dep from="t78" to="t77" rfunc="compound"/>
+    <dep from="t75" to="t79" rfunc="prep"/>
+    <dep from="t82" to="t80" rfunc="det"/>
+    <dep from="t79" to="t82" rfunc="pobj"/>
+    <dep from="t82" to="t81" rfunc="amod"/>
+    <dep from="t75" to="t83" rfunc="punct"/>
+    <dep from="t86" to="t84" rfunc="det"/>
+    <dep from="t90" to="t86" rfunc="poss"/>
+    <dep from="t75" to="t90" rfunc="dobj"/>
+    <dep from="t86" to="t85" rfunc="compound"/>
+    <dep from="t86" to="t87" rfunc="case"/>
+    <dep from="t90" to="t88" rfunc="amod"/>
+    <dep from="t90" to="t89" rfunc="amod"/>
+    <dep from="t75" to="t91" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--N C A A   M e n ' s   D i v i s i o n   I   S w i m m i n g   a n d   D i v i n g   C h a m p i o n s h i p s-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/NCAA_Men's_Division_I_Swimming_and_Diving_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--C l e v e l a n d   S t a t e   U n i v e r s i t y   N a t a t o r i u m-->
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cleveland_State_University_Natatorium" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--C l e v e l a n d   S t a t e   U n i v e r s i t y-->
+        <target id="t35"/>
+        <target id="t36"/>
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cleveland_State_University" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--C l e v e l a n d ,   O h i o-->
+        <target id="t39"/>
+        <target id="t40"/>
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cleveland,_Ohio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--N C A A-->
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/NCAA" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--D i v i s i o n   I-->
+        <target id="t60"/>
+        <target id="t61"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Division_I_(NCAA)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--s w i m m i n g-->
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Swimming_(sport)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--d i v i n g-->
+        <target id="t67"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Diving_(sport)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--U n i t e d   S t a t e s-->
+        <target id="t70"/>
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_States" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/United_States" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Verenigde_Staten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q30" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--C a l i f o r n i a-->
+        <target id="t74"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/California_Golden_Bears_swimming_and_diving" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q30" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-frequency" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-self_motion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-come_together" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-contingency" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t89"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

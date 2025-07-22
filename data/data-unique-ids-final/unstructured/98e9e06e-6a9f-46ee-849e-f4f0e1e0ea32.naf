@@ -1,0 +1,923 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2014 FIFA World Cup statistics"/>
+    <public uri="https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_statistics"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T07:47:12UTC" endTimestamp="2020-05-28T07:47:12UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T07:47:12UTC" endTimestamp="2020-05-28T07:47:12UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T07:47:12UTC" endTimestamp="2020-05-28T07:47:12UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T07:47:12UTC" endTimestamp="2020-05-28T07:47:12UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:01CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2014 FIFA World Cup statistics++.
+The following article outlines the statistics for the 2014 FIFA World Cup, which took place in Brazil from 12 June to 13 July. The winner of the 2014 World Cup was Germany. The leading goal scorer of this World Cup was James Rodriguez of Columbia. The player with the most assists was Juan Cuadrado from Colombia with six assists.
+Goals scored from penalty shoot-outs are not counted, and matches decided by penalty shoot-outs are counted as draws.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2014]]></wf>
+    <wf sent="1" id="w3" length="4" offset="7"><![CDATA[FIFA]]></wf>
+    <wf sent="1" id="w4" length="5" offset="12"><![CDATA[World]]></wf>
+    <wf sent="1" id="w5" length="3" offset="18"><![CDATA[Cup]]></wf>
+    <wf sent="1" id="w6" length="12" offset="22"><![CDATA[statistics++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="34"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="35"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="36"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="9" offset="40"><![CDATA[following]]></wf>
+    <wf sent="2" id="w11" length="7" offset="50"><![CDATA[article]]></wf>
+    <wf sent="2" id="w12" length="8" offset="58"><![CDATA[outlines]]></wf>
+    <wf sent="2" id="w13" length="3" offset="67"><![CDATA[the]]></wf>
+    <wf sent="2" id="w14" length="10" offset="71"><![CDATA[statistics]]></wf>
+    <wf sent="2" id="w15" length="3" offset="82"><![CDATA[for]]></wf>
+    <wf sent="2" id="w16" length="3" offset="86"><![CDATA[the]]></wf>
+    <wf sent="2" id="w17" length="4" offset="90"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w18" length="4" offset="95"><![CDATA[FIFA]]></wf>
+    <wf sent="2" id="w19" length="5" offset="100"><![CDATA[World]]></wf>
+    <wf sent="2" id="w20" length="3" offset="106"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w21" length="1" offset="109"><![CDATA[,]]></wf>
+    <wf sent="2" id="w22" length="5" offset="111"><![CDATA[which]]></wf>
+    <wf sent="2" id="w23" length="4" offset="117"><![CDATA[took]]></wf>
+    <wf sent="2" id="w24" length="5" offset="122"><![CDATA[place]]></wf>
+    <wf sent="2" id="w25" length="2" offset="128"><![CDATA[in]]></wf>
+    <wf sent="2" id="w26" length="6" offset="131"><![CDATA[Brazil]]></wf>
+    <wf sent="2" id="w27" length="4" offset="138"><![CDATA[from]]></wf>
+    <wf sent="2" id="w28" length="2" offset="143"><![CDATA[12]]></wf>
+    <wf sent="2" id="w29" length="4" offset="146"><![CDATA[June]]></wf>
+    <wf sent="2" id="w30" length="2" offset="151"><![CDATA[to]]></wf>
+    <wf sent="2" id="w31" length="2" offset="154"><![CDATA[13]]></wf>
+    <wf sent="2" id="w32" length="4" offset="157"><![CDATA[July]]></wf>
+    <wf sent="2" id="w33" length="1" offset="161"><![CDATA[.]]></wf>
+    <wf sent="3" id="w34" length="3" offset="163"><![CDATA[The]]></wf>
+    <wf sent="3" id="w35" length="6" offset="167"><![CDATA[winner]]></wf>
+    <wf sent="3" id="w36" length="2" offset="174"><![CDATA[of]]></wf>
+    <wf sent="3" id="w37" length="3" offset="177"><![CDATA[the]]></wf>
+    <wf sent="3" id="w38" length="4" offset="181"><![CDATA[2014]]></wf>
+    <wf sent="3" id="w39" length="5" offset="186"><![CDATA[World]]></wf>
+    <wf sent="3" id="w40" length="3" offset="192"><![CDATA[Cup]]></wf>
+    <wf sent="3" id="w41" length="3" offset="196"><![CDATA[was]]></wf>
+    <wf sent="3" id="w42" length="7" offset="200"><![CDATA[Germany]]></wf>
+    <wf sent="3" id="w43" length="1" offset="207"><![CDATA[.]]></wf>
+    <wf sent="4" id="w44" length="3" offset="209"><![CDATA[The]]></wf>
+    <wf sent="4" id="w45" length="7" offset="213"><![CDATA[leading]]></wf>
+    <wf sent="4" id="w46" length="4" offset="221"><![CDATA[goal]]></wf>
+    <wf sent="4" id="w47" length="6" offset="226"><![CDATA[scorer]]></wf>
+    <wf sent="4" id="w48" length="2" offset="233"><![CDATA[of]]></wf>
+    <wf sent="4" id="w49" length="4" offset="236"><![CDATA[this]]></wf>
+    <wf sent="4" id="w50" length="5" offset="241"><![CDATA[World]]></wf>
+    <wf sent="4" id="w51" length="3" offset="247"><![CDATA[Cup]]></wf>
+    <wf sent="4" id="w52" length="3" offset="251"><![CDATA[was]]></wf>
+    <wf sent="4" id="w53" length="5" offset="255"><![CDATA[James]]></wf>
+    <wf sent="4" id="w54" length="9" offset="261"><![CDATA[Rodriguez]]></wf>
+    <wf sent="4" id="w55" length="2" offset="271"><![CDATA[of]]></wf>
+    <wf sent="4" id="w56" length="8" offset="274"><![CDATA[Columbia]]></wf>
+    <wf sent="4" id="w57" length="1" offset="282"><![CDATA[.]]></wf>
+    <wf sent="5" id="w58" length="3" offset="284"><![CDATA[The]]></wf>
+    <wf sent="5" id="w59" length="6" offset="288"><![CDATA[player]]></wf>
+    <wf sent="5" id="w60" length="4" offset="295"><![CDATA[with]]></wf>
+    <wf sent="5" id="w61" length="3" offset="300"><![CDATA[the]]></wf>
+    <wf sent="5" id="w62" length="4" offset="304"><![CDATA[most]]></wf>
+    <wf sent="5" id="w63" length="7" offset="309"><![CDATA[assists]]></wf>
+    <wf sent="5" id="w64" length="3" offset="317"><![CDATA[was]]></wf>
+    <wf sent="5" id="w65" length="4" offset="321"><![CDATA[Juan]]></wf>
+    <wf sent="5" id="w66" length="8" offset="326"><![CDATA[Cuadrado]]></wf>
+    <wf sent="5" id="w67" length="4" offset="335"><![CDATA[from]]></wf>
+    <wf sent="5" id="w68" length="8" offset="340"><![CDATA[Colombia]]></wf>
+    <wf sent="5" id="w69" length="4" offset="349"><![CDATA[with]]></wf>
+    <wf sent="5" id="w70" length="3" offset="354"><![CDATA[six]]></wf>
+    <wf sent="5" id="w71" length="7" offset="358"><![CDATA[assists]]></wf>
+    <wf sent="5" id="w72" length="1" offset="365"><![CDATA[.]]></wf>
+    <wf sent="5" id="w73" length="1" offset="366"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w74" length="5" offset="367"><![CDATA[Goals]]></wf>
+    <wf sent="6" id="w75" length="6" offset="373"><![CDATA[scored]]></wf>
+    <wf sent="6" id="w76" length="4" offset="380"><![CDATA[from]]></wf>
+    <wf sent="6" id="w77" length="7" offset="385"><![CDATA[penalty]]></wf>
+    <wf sent="6" id="w78" length="5" offset="393"><![CDATA[shoot]]></wf>
+    <wf sent="6" id="w79" length="1" offset="398"><![CDATA[-]]></wf>
+    <wf sent="6" id="w80" length="4" offset="399"><![CDATA[outs]]></wf>
+    <wf sent="6" id="w81" length="3" offset="404"><![CDATA[are]]></wf>
+    <wf sent="6" id="w82" length="3" offset="408"><![CDATA[not]]></wf>
+    <wf sent="6" id="w83" length="7" offset="412"><![CDATA[counted]]></wf>
+    <wf sent="6" id="w84" length="1" offset="419"><![CDATA[,]]></wf>
+    <wf sent="6" id="w85" length="3" offset="421"><![CDATA[and]]></wf>
+    <wf sent="6" id="w86" length="7" offset="425"><![CDATA[matches]]></wf>
+    <wf sent="6" id="w87" length="7" offset="433"><![CDATA[decided]]></wf>
+    <wf sent="6" id="w88" length="2" offset="441"><![CDATA[by]]></wf>
+    <wf sent="6" id="w89" length="7" offset="444"><![CDATA[penalty]]></wf>
+    <wf sent="6" id="w90" length="5" offset="452"><![CDATA[shoot]]></wf>
+    <wf sent="6" id="w91" length="1" offset="457"><![CDATA[-]]></wf>
+    <wf sent="6" id="w92" length="4" offset="458"><![CDATA[outs]]></wf>
+    <wf sent="6" id="w93" length="3" offset="463"><![CDATA[are]]></wf>
+    <wf sent="6" id="w94" length="7" offset="467"><![CDATA[counted]]></wf>
+    <wf sent="6" id="w95" length="2" offset="475"><![CDATA[as]]></wf>
+    <wf sent="6" id="w96" length="5" offset="478"><![CDATA[draws]]></wf>
+    <wf sent="6" id="w97" length="1" offset="483"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2014" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="FIFA" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="statistics++" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="follow" pos="VERB" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="article" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="outline" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="statistic" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="FIFA" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Brazil" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="12" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="13" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Germany" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="lead" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="goal" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="scorer" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="James" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Rodriguez" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Columbia" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="player" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="most" pos="ADJ" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="assist" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="Juan" pos="PROPN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="Cuadrado" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Colombia" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="six" pos="NUM" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="assist" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="Goals" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="score" pos="VERB" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="penalty" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="shoot" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="out" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="not" pos="ADV" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="count" pos="VERB" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="match" pos="NOUN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="decide" pos="VERB" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="penalty" pos="NOUN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="shoot" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="out" pos="NOUN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="count" pos="VERB" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="draw" pos="NOUN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="nmod"/>
+    <dep from="t6" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t12" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t10" rfunc="amod"/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t12" to="t14" rfunc="dobj"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t20" to="t16" rfunc="det"/>
+    <dep from="t15" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t17" rfunc="nummod"/>
+    <dep from="t20" to="t18" rfunc="compound"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t20" to="t21" rfunc="punct"/>
+    <dep from="t23" to="t22" rfunc="nsubj"/>
+    <dep from="t20" to="t23" rfunc="relcl"/>
+    <dep from="t23" to="t24" rfunc="dobj"/>
+    <dep from="t23" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="pobj"/>
+    <dep from="t23" to="t27" rfunc="prep"/>
+    <dep from="t29" to="t28" rfunc="nummod"/>
+    <dep from="t27" to="t29" rfunc="pobj"/>
+    <dep from="t23" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t12" to="t33" rfunc="punct"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t41" to="t35" rfunc="nsubj"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t40" to="t37" rfunc="det"/>
+    <dep from="t36" to="t40" rfunc="pobj"/>
+    <dep from="t40" to="t38" rfunc="nummod"/>
+    <dep from="t40" to="t39" rfunc="compound"/>
+    <dep from="t41" to="t42" rfunc="attr"/>
+    <dep from="t41" to="t43" rfunc="punct"/>
+    <dep from="t47" to="t44" rfunc="det"/>
+    <dep from="t52" to="t47" rfunc="nsubj"/>
+    <dep from="t47" to="t45" rfunc="amod"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t51" to="t49" rfunc="det"/>
+    <dep from="t48" to="t51" rfunc="pobj"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t54" to="t53" rfunc="compound"/>
+    <dep from="t52" to="t54" rfunc="attr"/>
+    <dep from="t54" to="t55" rfunc="prep"/>
+    <dep from="t55" to="t56" rfunc="pobj"/>
+    <dep from="t52" to="t57" rfunc="punct"/>
+    <dep from="t59" to="t58" rfunc="det"/>
+    <dep from="t64" to="t59" rfunc="nsubj"/>
+    <dep from="t59" to="t60" rfunc="prep"/>
+    <dep from="t63" to="t61" rfunc="det"/>
+    <dep from="t60" to="t63" rfunc="pobj"/>
+    <dep from="t63" to="t62" rfunc="amod"/>
+    <dep from="t66" to="t65" rfunc="compound"/>
+    <dep from="t64" to="t66" rfunc="attr"/>
+    <dep from="t66" to="t67" rfunc="prep"/>
+    <dep from="t67" to="t68" rfunc="pobj"/>
+    <dep from="t66" to="t69" rfunc="prep"/>
+    <dep from="t71" to="t70" rfunc="nummod"/>
+    <dep from="t69" to="t71" rfunc="pobj"/>
+    <dep from="t64" to="t72" rfunc="punct"/>
+    <dep from="t72" to="t73" rfunc=""/>
+    <dep from="t75" to="t74" rfunc="nsubj"/>
+    <dep from="t75" to="t76" rfunc="prep"/>
+    <dep from="t80" to="t77" rfunc="compound"/>
+    <dep from="t76" to="t80" rfunc="pobj"/>
+    <dep from="t80" to="t78" rfunc="compound"/>
+    <dep from="t80" to="t79" rfunc="punct"/>
+    <dep from="t83" to="t81" rfunc="auxpass"/>
+    <dep from="t75" to="t83" rfunc="conj"/>
+    <dep from="t83" to="t82" rfunc="neg"/>
+    <dep from="t75" to="t84" rfunc="punct"/>
+    <dep from="t75" to="t85" rfunc="cc"/>
+    <dep from="t94" to="t86" rfunc="nsubjpass"/>
+    <dep from="t75" to="t94" rfunc="conj"/>
+    <dep from="t86" to="t87" rfunc="acl"/>
+    <dep from="t87" to="t88" rfunc="agent"/>
+    <dep from="t92" to="t89" rfunc="compound"/>
+    <dep from="t88" to="t92" rfunc="pobj"/>
+    <dep from="t92" to="t90" rfunc="compound"/>
+    <dep from="t92" to="t91" rfunc="punct"/>
+    <dep from="t94" to="t93" rfunc="auxpass"/>
+    <dep from="t94" to="t95" rfunc="prep"/>
+    <dep from="t95" to="t96" rfunc="pobj"/>
+    <dep from="t94" to="t97" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--2 0 1 4   F I F A   W o r l d   C u p-->
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2014_FIFA_World_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2014" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B r a z i l-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Brazil" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Brasile" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Brazilië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q155" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--p e n a l t y   s h o o t - o u t s-->
+        <target id="t77"/>
+        <target id="t78"/>
+        <target id="t79"/>
+        <target id="t80"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Penalty_shoot-out_(association_football)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q155" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t11"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-summarizing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-purpose" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-participation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-assistance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t70"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-assistance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t83"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-evaluative_comparison" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t86"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-deciding" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t94"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-create_physical_artwork" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t96"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

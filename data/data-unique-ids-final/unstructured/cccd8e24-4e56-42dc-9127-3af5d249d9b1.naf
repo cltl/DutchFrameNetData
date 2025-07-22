@@ -1,0 +1,352 @@
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2010-12-04T21:00:00UTC" title="Archbishop of Canterbury to officiate at royal wedding"/>
+    <public uri="https://www.telegraph.co.uk/news/uknews/royal-wedding/8181480/Archbishop-of-Canterbury-to-officiate-at-royal-wedding.html"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2021-11-29T16:56:05UTC" endTimestamp="2021-11-29T16:56:05UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2021-11-29T16:56:05UTC" endTimestamp="2021-11-29T16:56:05UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2021-11-29T16:56:05UTC" endTimestamp="2021-11-29T16:56:05UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2021-11-29T16:56:05UTC" endTimestamp="2021-11-29T16:56:05UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="multiwords">
+      <lp beginTimestamp="2021-11-29T16:56:05UTC" endTimestamp="2021-11-29T16:56:05UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2010-12-04T21:00:00UTC" endTimestamp="2010-12-04T21:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-12-01T13:21:32CET" beginTimestamp="2021-12-01T12:08:35UTC" endTimestamp="2021-12-01T12:21:26UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Archbishop of Canterbury to officiate at royal wedding.
+It would have represented a major snub to the archbishop as it would have been the first time the Church of England's most senior cleric had not presided over the wedding of a future monarch.</raw>
+  <text>
+    <wf sent="1" id="w1" length="10" offset="0">Archbishop</wf><wf sent="1" id="w2" length="2" offset="11">of</wf><wf sent="1" id="w3" length="10" offset="14">Canterbury</wf><wf sent="1" id="w4" length="2" offset="25">to</wf><wf sent="1" id="w5" length="9" offset="28">officiate</wf><wf sent="1" id="w6" length="2" offset="38">at</wf><wf sent="1" id="w7" length="5" offset="41">royal</wf><wf sent="1" id="w8" length="7" offset="47">wedding</wf><wf sent="1" id="w9" length="1" offset="54">.</wf><wf sent="2" id="w10" length="2" offset="56">It</wf>
+    <wf sent="2" id="w11" length="5" offset="59">would</wf>
+    <wf sent="2" id="w12" length="4" offset="65">have</wf>
+    <wf sent="2" id="w13" length="11" offset="70">represented</wf>
+    <wf sent="2" id="w14" length="1" offset="82">a</wf>
+    <wf sent="2" id="w15" length="5" offset="84">major</wf>
+    <wf sent="2" id="w16" length="4" offset="90">snub</wf>
+    <wf sent="2" id="w17" length="2" offset="95">to</wf>
+    <wf sent="2" id="w18" length="3" offset="98">the</wf>
+    <wf sent="2" id="w19" length="10" offset="102">archbishop</wf>
+    <wf sent="2" id="w20" length="2" offset="113">as</wf>
+    <wf sent="2" id="w21" length="2" offset="116">it</wf>
+    <wf sent="2" id="w22" length="5" offset="119">would</wf>
+    <wf sent="2" id="w23" length="4" offset="125">have</wf>
+    <wf sent="2" id="w24" length="4" offset="130">been</wf>
+    <wf sent="2" id="w25" length="3" offset="135">the</wf>
+    <wf sent="2" id="w26" length="5" offset="139">first</wf>
+    <wf sent="2" id="w27" length="4" offset="145">time</wf>
+    <wf sent="2" id="w28" length="3" offset="150">the</wf>
+    <wf sent="2" id="w29" length="6" offset="154">Church</wf>
+    <wf sent="2" id="w30" length="2" offset="161">of</wf>
+    <wf sent="2" id="w31" length="7" offset="164">England</wf>
+    <wf sent="2" id="w32" length="2" offset="171">'s</wf>
+    <wf sent="2" id="w33" length="4" offset="174">most</wf>
+    <wf sent="2" id="w34" length="6" offset="179">senior</wf>
+    <wf sent="2" id="w35" length="6" offset="186">cleric</wf>
+    <wf sent="2" id="w36" length="3" offset="193">had</wf>
+    <wf sent="2" id="w37" length="3" offset="197">not</wf>
+    <wf sent="2" id="w38" length="8" offset="201">presided</wf>
+    <wf sent="2" id="w39" length="4" offset="210">over</wf>
+    <wf sent="2" id="w40" length="3" offset="215">the</wf>
+    <wf sent="2" id="w41" length="7" offset="219">wedding</wf>
+    <wf sent="2" id="w42" length="2" offset="227">of</wf>
+    <wf sent="2" id="w43" length="1" offset="230">a</wf>
+    <wf sent="2" id="w44" length="6" offset="232">future</wf>
+    <wf sent="2" id="w45" length="7" offset="239">monarch</wf>
+    <wf sent="2" id="w46" length="1" offset="246">.</wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="Archbishop" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w1"/></span></term><term id="t2" lemma="of" pos="ADP" type="open" morphofeat="IN"><span><target id="w2"/></span></term><term id="t3" lemma="Canterbury" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w3"/></span></term><term id="t4" lemma="to" pos="PART" type="open" morphofeat="TO"><span><target id="w4"/></span></term><term id="t5" lemma="officiate" pos="VERB" type="open" morphofeat="VB"><span><target id="w5"/></span></term><term id="t6" lemma="at" pos="ADP" type="open" morphofeat="IN"><span><target id="w6"/></span></term><term id="t7" lemma="royal" pos="ADJ" type="open" morphofeat="JJ"><span><target id="w7"/></span></term><term id="t8" lemma="wedding" pos="NOUN" type="open" morphofeat="NN"><span><target id="w8"/></span></term><term id="t9" lemma="." pos="PUNCT" type="open" morphofeat="."><span><target id="w9"/></span></term><term id="t10" lemma="-PRON-" pos="PRON" type="open" morphofeat="PRP">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="would" pos="VERB" type="open" morphofeat="MD">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="have" pos="VERB" type="open" morphofeat="VB">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="represent" pos="VERB" type="open" morphofeat="VBN">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="a" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="major" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="snub" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="to" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="archbishop" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="as" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="-PRON-" pos="PRON" type="open" morphofeat="PRP">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="would" pos="VERB" type="open" morphofeat="MD">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="have" pos="VERB" type="open" morphofeat="VB">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="be" pos="VERB" type="open" morphofeat="VBN">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="the" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="first" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="time" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Church" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="of" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="England" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="'s" pos="PART" type="open" morphofeat="POS">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="most" pos="ADV" type="open" morphofeat="RBS">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="senior" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="cleric" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="have" pos="VERB" type="open" morphofeat="VBD">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="not" pos="ADV" type="open" morphofeat="RB">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="preside" pos="VERB" type="open" morphofeat="VBN">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="over" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="wedding" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="a" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="future" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="monarch" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open" morphofeat=".">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="prep"/><dep from="t2" to="t3" rfunc="pobj"/><dep from="t5" to="t4" rfunc="aux"/><dep from="t1" to="t5" rfunc="relcl"/><dep from="t5" to="t6" rfunc="prep"/><dep from="t8" to="t7" rfunc="amod"/><dep from="t6" to="t8" rfunc="pobj"/><dep from="t1" to="t9" rfunc="punct"/><dep from="t13" to="t10" rfunc="nsubj"/>
+    <dep from="t13" to="t11" rfunc="aux"/>
+    <dep from="t13" to="t12" rfunc="aux"/>
+    <dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t13" to="t16" rfunc="dobj"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t19" to="t18" rfunc="det"/>
+    <dep from="t17" to="t19" rfunc="pobj"/>
+    <dep from="t24" to="t20" rfunc="mark"/>
+    <dep from="t13" to="t24" rfunc="advcl"/>
+    <dep from="t24" to="t21" rfunc="nsubj"/>
+    <dep from="t24" to="t22" rfunc="aux"/>
+    <dep from="t24" to="t23" rfunc="aux"/>
+    <dep from="t27" to="t25" rfunc="det"/>
+    <dep from="t24" to="t27" rfunc="attr"/>
+    <dep from="t27" to="t26" rfunc="amod"/>
+    <dep from="t29" to="t28" rfunc="det"/>
+    <dep from="t38" to="t29" rfunc="nsubj"/>
+    <dep from="t27" to="t38" rfunc="relcl"/>
+    <dep from="t29" to="t30" rfunc="prep"/>
+    <dep from="t35" to="t31" rfunc="poss"/>
+    <dep from="t30" to="t35" rfunc="pobj"/>
+    <dep from="t31" to="t32" rfunc="case"/>
+    <dep from="t34" to="t33" rfunc="advmod"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t38" to="t36" rfunc="aux"/>
+    <dep from="t38" to="t37" rfunc="neg"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t45" to="t43" rfunc="det"/>
+    <dep from="t42" to="t45" rfunc="pobj"/>
+    <dep from="t45" to="t44" rfunc="amod"/>
+    <dep from="t13" to="t46" rfunc="punct"/>
+  </deps>
+  <entities/>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-communicate_categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-importance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-possession" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-subordinates_and_superiors" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

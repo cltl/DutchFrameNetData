@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Groenkop"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Groenkop"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:50:14UTC" endTimestamp="2020-05-28T17:50:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:50:14UTC" endTimestamp="2020-05-28T17:50:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:50:14UTC" endTimestamp="2020-05-28T17:50:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:50:14UTC" endTimestamp="2020-05-28T17:50:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:04CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Groenkop++.
+In the Battle of Groenkop (Battle of Tweefontein) on 25 December 1901, Head Commandant Christiaan de Wet's Boer commando surprised and defeated a force of Imperial Yeomanry under the command of Major Williams.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="10" offset="12"><![CDATA[Groenkop++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="23"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="2" offset="24"><![CDATA[In]]></wf>
+    <wf sent="2" id="w9" length="3" offset="27"><![CDATA[the]]></wf>
+    <wf sent="2" id="w10" length="6" offset="31"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w11" length="2" offset="38"><![CDATA[of]]></wf>
+    <wf sent="2" id="w12" length="8" offset="41"><![CDATA[Groenkop]]></wf>
+    <wf sent="2" id="w13" length="1" offset="50"><![CDATA[(]]></wf>
+    <wf sent="2" id="w14" length="6" offset="51"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w15" length="2" offset="58"><![CDATA[of]]></wf>
+    <wf sent="2" id="w16" length="11" offset="61"><![CDATA[Tweefontein]]></wf>
+    <wf sent="2" id="w17" length="1" offset="72"><![CDATA[)]]></wf>
+    <wf sent="2" id="w18" length="2" offset="74"><![CDATA[on]]></wf>
+    <wf sent="2" id="w19" length="2" offset="77"><![CDATA[25]]></wf>
+    <wf sent="2" id="w20" length="8" offset="80"><![CDATA[December]]></wf>
+    <wf sent="2" id="w21" length="4" offset="89"><![CDATA[1901]]></wf>
+    <wf sent="2" id="w22" length="1" offset="93"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="4" offset="95"><![CDATA[Head]]></wf>
+    <wf sent="2" id="w24" length="10" offset="100"><![CDATA[Commandant]]></wf>
+    <wf sent="2" id="w25" length="10" offset="111"><![CDATA[Christiaan]]></wf>
+    <wf sent="2" id="w26" length="2" offset="122"><![CDATA[de]]></wf>
+    <wf sent="2" id="w27" length="3" offset="125"><![CDATA[Wet]]></wf>
+    <wf sent="2" id="w28" length="2" offset="128"><![CDATA['s]]></wf>
+    <wf sent="2" id="w29" length="4" offset="131"><![CDATA[Boer]]></wf>
+    <wf sent="2" id="w30" length="8" offset="136"><![CDATA[commando]]></wf>
+    <wf sent="2" id="w31" length="9" offset="145"><![CDATA[surprised]]></wf>
+    <wf sent="2" id="w32" length="3" offset="155"><![CDATA[and]]></wf>
+    <wf sent="2" id="w33" length="8" offset="159"><![CDATA[defeated]]></wf>
+    <wf sent="2" id="w34" length="1" offset="168"><![CDATA[a]]></wf>
+    <wf sent="2" id="w35" length="5" offset="170"><![CDATA[force]]></wf>
+    <wf sent="2" id="w36" length="2" offset="176"><![CDATA[of]]></wf>
+    <wf sent="2" id="w37" length="8" offset="179"><![CDATA[Imperial]]></wf>
+    <wf sent="2" id="w38" length="8" offset="188"><![CDATA[Yeomanry]]></wf>
+    <wf sent="2" id="w39" length="5" offset="197"><![CDATA[under]]></wf>
+    <wf sent="2" id="w40" length="3" offset="203"><![CDATA[the]]></wf>
+    <wf sent="2" id="w41" length="7" offset="207"><![CDATA[command]]></wf>
+    <wf sent="2" id="w42" length="2" offset="215"><![CDATA[of]]></wf>
+    <wf sent="2" id="w43" length="5" offset="218"><![CDATA[Major]]></wf>
+    <wf sent="2" id="w44" length="8" offset="224"><![CDATA[Williams]]></wf>
+    <wf sent="2" id="w45" length="1" offset="232"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Groenkop++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Groenkop" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Tweefontein" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="December" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="1901" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Head" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Commandant" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Christiaan" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="de" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Wet" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Boer" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="commando" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="surprise" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Imperial" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Yeomanry" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="under" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="command" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Major" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Williams" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t31" to="t8" rfunc="prep"/>
+    <dep from="t10" to="t9" rfunc="det"/>
+    <dep from="t8" to="t10" rfunc="pobj"/>
+    <dep from="t10" to="t11" rfunc="prep"/>
+    <dep from="t11" to="t12" rfunc="pobj"/>
+    <dep from="t14" to="t13" rfunc="punct"/>
+    <dep from="t10" to="t14" rfunc="appos"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t15" to="t16" rfunc="pobj"/>
+    <dep from="t14" to="t17" rfunc="punct"/>
+    <dep from="t10" to="t18" rfunc="prep"/>
+    <dep from="t20" to="t19" rfunc="nummod"/>
+    <dep from="t18" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t21" rfunc="nummod"/>
+    <dep from="t31" to="t22" rfunc="punct"/>
+    <dep from="t27" to="t23" rfunc="compound"/>
+    <dep from="t30" to="t27" rfunc="poss"/>
+    <dep from="t31" to="t30" rfunc="nsubj"/>
+    <dep from="t27" to="t24" rfunc="compound"/>
+    <dep from="t27" to="t25" rfunc="nmod"/>
+    <dep from="t27" to="t26" rfunc="compound"/>
+    <dep from="t27" to="t28" rfunc="case"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t31" to="t32" rfunc="cc"/>
+    <dep from="t31" to="t33" rfunc="conj"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t33" to="t35" rfunc="dobj"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t33" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t42" to="t44" rfunc="pobj"/>
+    <dep from="t31" to="t45" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--C h r i s t i a a n   d e   W e t-->
+        <target id="t25"/>
+        <target id="t26"/>
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Christiaan_de_Wet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Christiaan_de_Wet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Christiaan_de_Wet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--I m p e r i a l   Y e o m a n r y-->
+        <target id="t37"/>
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Imperial_Yeomanry" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-experiencer_obj" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

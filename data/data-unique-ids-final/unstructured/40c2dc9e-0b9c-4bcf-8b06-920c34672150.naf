@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Tannach"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Tannach"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:50:39UTC" endTimestamp="2020-05-28T17:50:39UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:50:39UTC" endTimestamp="2020-05-28T17:50:39UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:50:39UTC" endTimestamp="2020-05-28T17:50:39UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:50:39UTC" endTimestamp="2020-05-28T17:50:39UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:37CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Tannach++.
+The Battle of Tannach (Blare Tannie or Blar-Tannie,) was a Scottish clan battle fought about southwest of Wick, in the far north of Scotland. It was fought between men of the Clan Keith and Clan Mackay from Strathnaver against men of the Clan Gunn and possibly their allies the Clan Oliphant and Clan Sutherland from Caithness. The date is uncertain, it was probably in 1464 but may have been in 1438.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="9" offset="12"><![CDATA[Tannach++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="21"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="22"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="23"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="27"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="34"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="7" offset="37"><![CDATA[Tannach]]></wf>
+    <wf sent="2" id="w12" length="1" offset="45"><![CDATA[(]]></wf>
+    <wf sent="2" id="w13" length="5" offset="46"><![CDATA[Blare]]></wf>
+    <wf sent="2" id="w14" length="6" offset="52"><![CDATA[Tannie]]></wf>
+    <wf sent="2" id="w15" length="2" offset="59"><![CDATA[or]]></wf>
+    <wf sent="2" id="w16" length="4" offset="62"><![CDATA[Blar]]></wf>
+    <wf sent="2" id="w17" length="1" offset="66"><![CDATA[-]]></wf>
+    <wf sent="2" id="w18" length="6" offset="67"><![CDATA[Tannie]]></wf>
+    <wf sent="2" id="w19" length="1" offset="73"><![CDATA[,]]></wf>
+    <wf sent="2" id="w20" length="1" offset="74"><![CDATA[)]]></wf>
+    <wf sent="2" id="w21" length="3" offset="76"><![CDATA[was]]></wf>
+    <wf sent="2" id="w22" length="1" offset="80"><![CDATA[a]]></wf>
+    <wf sent="2" id="w23" length="8" offset="82"><![CDATA[Scottish]]></wf>
+    <wf sent="2" id="w24" length="4" offset="91"><![CDATA[clan]]></wf>
+    <wf sent="2" id="w25" length="6" offset="96"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w26" length="6" offset="103"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w27" length="5" offset="110"><![CDATA[about]]></wf>
+    <wf sent="2" id="w28" length="9" offset="116"><![CDATA[southwest]]></wf>
+    <wf sent="2" id="w29" length="2" offset="126"><![CDATA[of]]></wf>
+    <wf sent="2" id="w30" length="4" offset="129"><![CDATA[Wick]]></wf>
+    <wf sent="2" id="w31" length="1" offset="133"><![CDATA[,]]></wf>
+    <wf sent="2" id="w32" length="2" offset="135"><![CDATA[in]]></wf>
+    <wf sent="2" id="w33" length="3" offset="138"><![CDATA[the]]></wf>
+    <wf sent="2" id="w34" length="3" offset="142"><![CDATA[far]]></wf>
+    <wf sent="2" id="w35" length="5" offset="146"><![CDATA[north]]></wf>
+    <wf sent="2" id="w36" length="2" offset="152"><![CDATA[of]]></wf>
+    <wf sent="2" id="w37" length="8" offset="155"><![CDATA[Scotland]]></wf>
+    <wf sent="2" id="w38" length="1" offset="163"><![CDATA[.]]></wf>
+    <wf sent="3" id="w39" length="2" offset="165"><![CDATA[It]]></wf>
+    <wf sent="3" id="w40" length="3" offset="168"><![CDATA[was]]></wf>
+    <wf sent="3" id="w41" length="6" offset="172"><![CDATA[fought]]></wf>
+    <wf sent="3" id="w42" length="7" offset="179"><![CDATA[between]]></wf>
+    <wf sent="3" id="w43" length="3" offset="187"><![CDATA[men]]></wf>
+    <wf sent="3" id="w44" length="2" offset="191"><![CDATA[of]]></wf>
+    <wf sent="3" id="w45" length="3" offset="194"><![CDATA[the]]></wf>
+    <wf sent="3" id="w46" length="4" offset="198"><![CDATA[Clan]]></wf>
+    <wf sent="3" id="w47" length="5" offset="203"><![CDATA[Keith]]></wf>
+    <wf sent="3" id="w48" length="3" offset="209"><![CDATA[and]]></wf>
+    <wf sent="3" id="w49" length="4" offset="213"><![CDATA[Clan]]></wf>
+    <wf sent="3" id="w50" length="6" offset="218"><![CDATA[Mackay]]></wf>
+    <wf sent="3" id="w51" length="4" offset="225"><![CDATA[from]]></wf>
+    <wf sent="3" id="w52" length="11" offset="230"><![CDATA[Strathnaver]]></wf>
+    <wf sent="3" id="w53" length="7" offset="242"><![CDATA[against]]></wf>
+    <wf sent="3" id="w54" length="3" offset="250"><![CDATA[men]]></wf>
+    <wf sent="3" id="w55" length="2" offset="254"><![CDATA[of]]></wf>
+    <wf sent="3" id="w56" length="3" offset="257"><![CDATA[the]]></wf>
+    <wf sent="3" id="w57" length="4" offset="261"><![CDATA[Clan]]></wf>
+    <wf sent="3" id="w58" length="4" offset="266"><![CDATA[Gunn]]></wf>
+    <wf sent="3" id="w59" length="3" offset="271"><![CDATA[and]]></wf>
+    <wf sent="3" id="w60" length="8" offset="275"><![CDATA[possibly]]></wf>
+    <wf sent="3" id="w61" length="5" offset="284"><![CDATA[their]]></wf>
+    <wf sent="3" id="w62" length="6" offset="290"><![CDATA[allies]]></wf>
+    <wf sent="3" id="w63" length="3" offset="297"><![CDATA[the]]></wf>
+    <wf sent="3" id="w64" length="4" offset="301"><![CDATA[Clan]]></wf>
+    <wf sent="3" id="w65" length="8" offset="306"><![CDATA[Oliphant]]></wf>
+    <wf sent="3" id="w66" length="3" offset="315"><![CDATA[and]]></wf>
+    <wf sent="3" id="w67" length="4" offset="319"><![CDATA[Clan]]></wf>
+    <wf sent="3" id="w68" length="10" offset="324"><![CDATA[Sutherland]]></wf>
+    <wf sent="3" id="w69" length="4" offset="335"><![CDATA[from]]></wf>
+    <wf sent="3" id="w70" length="9" offset="340"><![CDATA[Caithness]]></wf>
+    <wf sent="3" id="w71" length="1" offset="349"><![CDATA[.]]></wf>
+    <wf sent="4" id="w72" length="3" offset="351"><![CDATA[The]]></wf>
+    <wf sent="4" id="w73" length="4" offset="355"><![CDATA[date]]></wf>
+    <wf sent="4" id="w74" length="2" offset="360"><![CDATA[is]]></wf>
+    <wf sent="4" id="w75" length="9" offset="363"><![CDATA[uncertain]]></wf>
+    <wf sent="4" id="w76" length="1" offset="372"><![CDATA[,]]></wf>
+    <wf sent="4" id="w77" length="2" offset="374"><![CDATA[it]]></wf>
+    <wf sent="4" id="w78" length="3" offset="377"><![CDATA[was]]></wf>
+    <wf sent="4" id="w79" length="8" offset="381"><![CDATA[probably]]></wf>
+    <wf sent="4" id="w80" length="2" offset="390"><![CDATA[in]]></wf>
+    <wf sent="4" id="w81" length="4" offset="393"><![CDATA[1464]]></wf>
+    <wf sent="4" id="w82" length="3" offset="398"><![CDATA[but]]></wf>
+    <wf sent="4" id="w83" length="3" offset="402"><![CDATA[may]]></wf>
+    <wf sent="4" id="w84" length="4" offset="406"><![CDATA[have]]></wf>
+    <wf sent="4" id="w85" length="4" offset="411"><![CDATA[been]]></wf>
+    <wf sent="4" id="w86" length="2" offset="416"><![CDATA[in]]></wf>
+    <wf sent="4" id="w87" length="4" offset="419"><![CDATA[1438]]></wf>
+    <wf sent="4" id="w88" length="1" offset="423"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Tannach++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Tannach" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Blare" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Tannie" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="or" pos="CCONJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Blar" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Tannie" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="scottish" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="clan" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="about" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="southwest" pos="NOUN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Wick" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="far" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="north" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Clan" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Keith" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Clan" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Mackay" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Strathnaver" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="against" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="Clan" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Gunn" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="possibly" pos="ADV" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="ally" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Clan" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="Oliphant" pos="PROPN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Clan" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Sutherland" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Caithness" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="date" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="uncertain" pos="ADJ" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="probably" pos="ADV" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="1464" pos="NUM" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="but" pos="CCONJ" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="may" pos="VERB" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="1438" pos="NUM" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t21" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t14" to="t12" rfunc="punct"/>
+    <dep from="t9" to="t14" rfunc="appos"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t14" to="t15" rfunc="cc"/>
+    <dep from="t18" to="t16" rfunc="compound"/>
+    <dep from="t14" to="t18" rfunc="conj"/>
+    <dep from="t18" to="t17" rfunc="punct"/>
+    <dep from="t14" to="t19" rfunc="punct"/>
+    <dep from="t14" to="t20" rfunc="punct"/>
+    <dep from="t25" to="t22" rfunc="det"/>
+    <dep from="t21" to="t25" rfunc="attr"/>
+    <dep from="t25" to="t23" rfunc="amod"/>
+    <dep from="t25" to="t24" rfunc="compound"/>
+    <dep from="t25" to="t26" rfunc="acl"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t27" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t29" rfunc="prep"/>
+    <dep from="t29" to="t30" rfunc="pobj"/>
+    <dep from="t25" to="t31" rfunc="punct"/>
+    <dep from="t25" to="t32" rfunc="prep"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t21" to="t38" rfunc="punct"/>
+    <dep from="t41" to="t39" rfunc="nsubjpass"/>
+    <dep from="t41" to="t40" rfunc="auxpass"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t42" to="t43" rfunc="pobj"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t47" to="t45" rfunc="det"/>
+    <dep from="t44" to="t47" rfunc="pobj"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t47" to="t48" rfunc="cc"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t47" to="t50" rfunc="conj"/>
+    <dep from="t41" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t41" to="t53" rfunc="prep"/>
+    <dep from="t53" to="t54" rfunc="pobj"/>
+    <dep from="t54" to="t55" rfunc="prep"/>
+    <dep from="t58" to="t56" rfunc="det"/>
+    <dep from="t55" to="t58" rfunc="pobj"/>
+    <dep from="t58" to="t57" rfunc="compound"/>
+    <dep from="t54" to="t59" rfunc="cc"/>
+    <dep from="t62" to="t60" rfunc="advmod"/>
+    <dep from="t54" to="t62" rfunc="conj"/>
+    <dep from="t62" to="t61" rfunc="poss"/>
+    <dep from="t65" to="t63" rfunc="det"/>
+    <dep from="t62" to="t65" rfunc="appos"/>
+    <dep from="t65" to="t64" rfunc="compound"/>
+    <dep from="t65" to="t66" rfunc="cc"/>
+    <dep from="t68" to="t67" rfunc="compound"/>
+    <dep from="t65" to="t68" rfunc="conj"/>
+    <dep from="t62" to="t69" rfunc="prep"/>
+    <dep from="t69" to="t70" rfunc="pobj"/>
+    <dep from="t41" to="t71" rfunc="punct"/>
+    <dep from="t73" to="t72" rfunc="det"/>
+    <dep from="t74" to="t73" rfunc="nsubj"/>
+    <dep from="t78" to="t74" rfunc="ccomp"/>
+    <dep from="t74" to="t75" rfunc="acomp"/>
+    <dep from="t78" to="t76" rfunc="punct"/>
+    <dep from="t78" to="t77" rfunc="nsubj"/>
+    <dep from="t78" to="t79" rfunc="advmod"/>
+    <dep from="t78" to="t80" rfunc="prep"/>
+    <dep from="t80" to="t81" rfunc="pobj"/>
+    <dep from="t78" to="t82" rfunc="cc"/>
+    <dep from="t85" to="t83" rfunc="aux"/>
+    <dep from="t78" to="t85" rfunc="conj"/>
+    <dep from="t85" to="t84" rfunc="aux"/>
+    <dep from="t85" to="t86" rfunc="prep"/>
+    <dep from="t86" to="t87" rfunc="pobj"/>
+    <dep from="t78" to="t88" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--S c o t t i s h   c l a n-->
+        <target id="t23"/>
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Scottish_clan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Clan_scozzese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--C l a n   K e i t h-->
+        <target id="t46"/>
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Clan_Keith" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--C l a n   M a c k a y-->
+        <target id="t49"/>
+        <target id="t50"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Clan_Mackay" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Clan_Mackay" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S t r a t h n a v e r-->
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Strathnaver" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Strathnaver" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C l a n   G u n n-->
+        <target id="t57"/>
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Clan_Gunn" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--C l a n   O l i p h a n t-->
+        <target id="t64"/>
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Clan_Oliphant" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--C l a n   S u t h e r l a n d-->
+        <target id="t67"/>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Clan_Sutherland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--C a i t h n e s s-->
+        <target id="t70"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Caithness" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Caithness" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Caithness" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-kinship" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-degree" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_event_collective" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-certainty" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-likelihood" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t79"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1980 Australian Hard Court Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/1980_Australian_Hard_Court_Championships"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:09:18UTC" endTimestamp="2020-05-27T15:09:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:09:18UTC" endTimestamp="2020-05-27T15:09:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:09:18UTC" endTimestamp="2020-05-27T15:09:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:09:18UTC" endTimestamp="2020-05-27T15:09:18UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:05CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1980 Australian Hard Court Championships++.
+The 1980 Australian Hard Court Tennis Championships is a defunct men's tennis tournament that was played on the Grand Prix tennis circuit. The event was held in Hobart, Australia and was played on outdoor hardcourts this was the 36th edition.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1980]]></wf>
+    <wf sent="1" id="w3" length="10" offset="7"><![CDATA[Australian]]></wf>
+    <wf sent="1" id="w4" length="4" offset="18"><![CDATA[Hard]]></wf>
+    <wf sent="1" id="w5" length="5" offset="23"><![CDATA[Court]]></wf>
+    <wf sent="1" id="w6" length="15" offset="29"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="44"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="45"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="46"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="50"><![CDATA[1980]]></wf>
+    <wf sent="2" id="w11" length="10" offset="55"><![CDATA[Australian]]></wf>
+    <wf sent="2" id="w12" length="4" offset="66"><![CDATA[Hard]]></wf>
+    <wf sent="2" id="w13" length="5" offset="71"><![CDATA[Court]]></wf>
+    <wf sent="2" id="w14" length="6" offset="77"><![CDATA[Tennis]]></wf>
+    <wf sent="2" id="w15" length="13" offset="84"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w16" length="2" offset="98"><![CDATA[is]]></wf>
+    <wf sent="2" id="w17" length="1" offset="101"><![CDATA[a]]></wf>
+    <wf sent="2" id="w18" length="7" offset="103"><![CDATA[defunct]]></wf>
+    <wf sent="2" id="w19" length="3" offset="111"><![CDATA[men]]></wf>
+    <wf sent="2" id="w20" length="2" offset="114"><![CDATA['s]]></wf>
+    <wf sent="2" id="w21" length="6" offset="117"><![CDATA[tennis]]></wf>
+    <wf sent="2" id="w22" length="10" offset="124"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w23" length="4" offset="135"><![CDATA[that]]></wf>
+    <wf sent="2" id="w24" length="3" offset="140"><![CDATA[was]]></wf>
+    <wf sent="2" id="w25" length="6" offset="144"><![CDATA[played]]></wf>
+    <wf sent="2" id="w26" length="2" offset="151"><![CDATA[on]]></wf>
+    <wf sent="2" id="w27" length="3" offset="154"><![CDATA[the]]></wf>
+    <wf sent="2" id="w28" length="5" offset="158"><![CDATA[Grand]]></wf>
+    <wf sent="2" id="w29" length="4" offset="164"><![CDATA[Prix]]></wf>
+    <wf sent="2" id="w30" length="6" offset="169"><![CDATA[tennis]]></wf>
+    <wf sent="2" id="w31" length="7" offset="176"><![CDATA[circuit]]></wf>
+    <wf sent="2" id="w32" length="1" offset="183"><![CDATA[.]]></wf>
+    <wf sent="3" id="w33" length="3" offset="185"><![CDATA[The]]></wf>
+    <wf sent="3" id="w34" length="5" offset="189"><![CDATA[event]]></wf>
+    <wf sent="3" id="w35" length="3" offset="195"><![CDATA[was]]></wf>
+    <wf sent="3" id="w36" length="4" offset="199"><![CDATA[held]]></wf>
+    <wf sent="3" id="w37" length="2" offset="204"><![CDATA[in]]></wf>
+    <wf sent="3" id="w38" length="6" offset="207"><![CDATA[Hobart]]></wf>
+    <wf sent="3" id="w39" length="1" offset="213"><![CDATA[,]]></wf>
+    <wf sent="3" id="w40" length="9" offset="215"><![CDATA[Australia]]></wf>
+    <wf sent="3" id="w41" length="3" offset="225"><![CDATA[and]]></wf>
+    <wf sent="3" id="w42" length="3" offset="229"><![CDATA[was]]></wf>
+    <wf sent="3" id="w43" length="6" offset="233"><![CDATA[played]]></wf>
+    <wf sent="3" id="w44" length="2" offset="240"><![CDATA[on]]></wf>
+    <wf sent="3" id="w45" length="7" offset="243"><![CDATA[outdoor]]></wf>
+    <wf sent="3" id="w46" length="10" offset="251"><![CDATA[hardcourts]]></wf>
+    <wf sent="3" id="w47" length="4" offset="262"><![CDATA[this]]></wf>
+    <wf sent="3" id="w48" length="3" offset="267"><![CDATA[was]]></wf>
+    <wf sent="3" id="w49" length="3" offset="271"><![CDATA[the]]></wf>
+    <wf sent="3" id="w50" length="4" offset="275"><![CDATA[36th]]></wf>
+    <wf sent="3" id="w51" length="7" offset="280"><![CDATA[edition]]></wf>
+    <wf sent="3" id="w52" length="1" offset="287"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1980" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Australian" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Hard" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Court" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="1980" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Australian" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Hard" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Court" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="defunct" pos="ADJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="tennis" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="that" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Prix" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="tennis" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="circuit" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Hobart" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Australia" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="outdoor" pos="ADJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="hardcourt" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="36th" pos="ADJ" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t15" to="t9" rfunc="det"/>
+    <dep from="t16" to="t15" rfunc="nsubj"/>
+    <dep from="t15" to="t10" rfunc="nummod"/>
+    <dep from="t15" to="t11" rfunc="amod"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t15" to="t13" rfunc="compound"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t22" to="t17" rfunc="det"/>
+    <dep from="t16" to="t22" rfunc="attr"/>
+    <dep from="t19" to="t18" rfunc="amod"/>
+    <dep from="t22" to="t19" rfunc="poss"/>
+    <dep from="t19" to="t20" rfunc="case"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t25" to="t23" rfunc="nsubjpass"/>
+    <dep from="t22" to="t25" rfunc="relcl"/>
+    <dep from="t25" to="t24" rfunc="auxpass"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t31" to="t27" rfunc="det"/>
+    <dep from="t26" to="t31" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t31" to="t29" rfunc="compound"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t16" to="t32" rfunc="punct"/>
+    <dep from="t34" to="t33" rfunc="det"/>
+    <dep from="t36" to="t34" rfunc="nsubjpass"/>
+    <dep from="t48" to="t36" rfunc="ccomp"/>
+    <dep from="t36" to="t35" rfunc="auxpass"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t37" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t39" rfunc="punct"/>
+    <dep from="t38" to="t40" rfunc="appos"/>
+    <dep from="t36" to="t41" rfunc="cc"/>
+    <dep from="t43" to="t42" rfunc="auxpass"/>
+    <dep from="t36" to="t43" rfunc="conj"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t46" to="t45" rfunc="amod"/>
+    <dep from="t44" to="t46" rfunc="pobj"/>
+    <dep from="t48" to="t47" rfunc="nsubj"/>
+    <dep from="t51" to="t49" rfunc="det"/>
+    <dep from="t48" to="t51" rfunc="attr"/>
+    <dep from="t51" to="t50" rfunc="amod"/>
+    <dep from="t48" to="t52" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--t e n n i s-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--G r a n d   P r i x   t e n n i s   c i r c u i t-->
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Grand_Prix_tennis_circuit" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Grand_Prix" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--H o b a r t ,   A u s t r a l i a-->
+        <target id="t38"/>
+        <target id="t39"/>
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hobart,_Australia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-judicial_body" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

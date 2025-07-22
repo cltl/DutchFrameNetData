@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Q150"/>
+    <public uri="https://en.wikipedia.org/wiki/Q150"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T09:28:35UTC" endTimestamp="2020-05-28T09:28:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T09:28:35UTC" endTimestamp="2020-05-28T09:28:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T09:28:35UTC" endTimestamp="2020-05-28T09:28:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T09:28:35UTC" endTimestamp="2020-05-28T09:28:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:01CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Q150++.
+Q150 was the sesquicentenary (150th anniversary) of the Separation of Queensland from New South Wales in 1859. Separation established the Colony of Queensland which became the State of Queensland in 1901 as part of the Federation of Australia. Q150 was celebrated in 2009.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Q150++]]></wf>
+    <wf sent="1" id="w4" length="1" offset="8"><![CDATA[.]]></wf>
+    <wf sent="1" id="w5" length="1" offset="9"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w6" length="4" offset="10"><![CDATA[Q150]]></wf>
+    <wf sent="2" id="w7" length="3" offset="15"><![CDATA[was]]></wf>
+    <wf sent="2" id="w8" length="3" offset="19"><![CDATA[the]]></wf>
+    <wf sent="2" id="w9" length="15" offset="23"><![CDATA[sesquicentenary]]></wf>
+    <wf sent="2" id="w10" length="1" offset="39"><![CDATA[(]]></wf>
+    <wf sent="2" id="w11" length="5" offset="40"><![CDATA[150th]]></wf>
+    <wf sent="2" id="w12" length="11" offset="46"><![CDATA[anniversary]]></wf>
+    <wf sent="2" id="w13" length="1" offset="57"><![CDATA[)]]></wf>
+    <wf sent="2" id="w14" length="2" offset="59"><![CDATA[of]]></wf>
+    <wf sent="2" id="w15" length="3" offset="62"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="10" offset="66"><![CDATA[Separation]]></wf>
+    <wf sent="2" id="w17" length="2" offset="77"><![CDATA[of]]></wf>
+    <wf sent="2" id="w18" length="10" offset="80"><![CDATA[Queensland]]></wf>
+    <wf sent="2" id="w19" length="4" offset="91"><![CDATA[from]]></wf>
+    <wf sent="2" id="w20" length="3" offset="96"><![CDATA[New]]></wf>
+    <wf sent="2" id="w21" length="5" offset="100"><![CDATA[South]]></wf>
+    <wf sent="2" id="w22" length="5" offset="106"><![CDATA[Wales]]></wf>
+    <wf sent="2" id="w23" length="2" offset="112"><![CDATA[in]]></wf>
+    <wf sent="2" id="w24" length="4" offset="115"><![CDATA[1859]]></wf>
+    <wf sent="2" id="w25" length="1" offset="119"><![CDATA[.]]></wf>
+    <wf sent="3" id="w26" length="10" offset="121"><![CDATA[Separation]]></wf>
+    <wf sent="3" id="w27" length="11" offset="132"><![CDATA[established]]></wf>
+    <wf sent="3" id="w28" length="3" offset="144"><![CDATA[the]]></wf>
+    <wf sent="3" id="w29" length="6" offset="148"><![CDATA[Colony]]></wf>
+    <wf sent="3" id="w30" length="2" offset="155"><![CDATA[of]]></wf>
+    <wf sent="3" id="w31" length="10" offset="158"><![CDATA[Queensland]]></wf>
+    <wf sent="3" id="w32" length="5" offset="169"><![CDATA[which]]></wf>
+    <wf sent="3" id="w33" length="6" offset="175"><![CDATA[became]]></wf>
+    <wf sent="3" id="w34" length="3" offset="182"><![CDATA[the]]></wf>
+    <wf sent="3" id="w35" length="5" offset="186"><![CDATA[State]]></wf>
+    <wf sent="3" id="w36" length="2" offset="192"><![CDATA[of]]></wf>
+    <wf sent="3" id="w37" length="10" offset="195"><![CDATA[Queensland]]></wf>
+    <wf sent="3" id="w38" length="2" offset="206"><![CDATA[in]]></wf>
+    <wf sent="3" id="w39" length="4" offset="209"><![CDATA[1901]]></wf>
+    <wf sent="3" id="w40" length="2" offset="214"><![CDATA[as]]></wf>
+    <wf sent="3" id="w41" length="4" offset="217"><![CDATA[part]]></wf>
+    <wf sent="3" id="w42" length="2" offset="222"><![CDATA[of]]></wf>
+    <wf sent="3" id="w43" length="3" offset="225"><![CDATA[the]]></wf>
+    <wf sent="3" id="w44" length="10" offset="229"><![CDATA[Federation]]></wf>
+    <wf sent="3" id="w45" length="2" offset="240"><![CDATA[of]]></wf>
+    <wf sent="3" id="w46" length="9" offset="243"><![CDATA[Australia]]></wf>
+    <wf sent="3" id="w47" length="1" offset="252"><![CDATA[.]]></wf>
+    <wf sent="4" id="w48" length="4" offset="254"><![CDATA[Q150]]></wf>
+    <wf sent="4" id="w49" length="3" offset="259"><![CDATA[was]]></wf>
+    <wf sent="4" id="w50" length="10" offset="263"><![CDATA[celebrated]]></wf>
+    <wf sent="4" id="w51" length="2" offset="274"><![CDATA[in]]></wf>
+    <wf sent="4" id="w52" length="4" offset="277"><![CDATA[2009]]></wf>
+    <wf sent="4" id="w53" length="1" offset="281"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="q150++" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="q150" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="sesquicentenary" pos="ADJ" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="150th" pos="ADJ" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="anniversary" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Separation" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Queensland" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="New" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="South" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Wales" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="1859" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="separation" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="establish" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Colony" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Queensland" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="become" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="State" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Queensland" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="1901" pos="NUM" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Federation" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Australia" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="q150" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="celebrate" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="2009" pos="NUM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="cc"/>
+    <dep from="t1" to="t3" rfunc="punct"/>
+    <dep from="t3" to="t4" rfunc="punct"/>
+    <dep from="t4" to="t5" rfunc=""/>
+    <dep from="t7" to="t6" rfunc="nsubj"/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t7" to="t9" rfunc="attr"/>
+    <dep from="t12" to="t10" rfunc="punct"/>
+    <dep from="t9" to="t12" rfunc="appos"/>
+    <dep from="t12" to="t11" rfunc="amod"/>
+    <dep from="t12" to="t13" rfunc="punct"/>
+    <dep from="t9" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t16" to="t19" rfunc="prep"/>
+    <dep from="t22" to="t20" rfunc="compound"/>
+    <dep from="t19" to="t22" rfunc="pobj"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t16" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t7" to="t25" rfunc="punct"/>
+    <dep from="t27" to="t26" rfunc="nsubj"/>
+    <dep from="t29" to="t28" rfunc="det"/>
+    <dep from="t27" to="t29" rfunc="dobj"/>
+    <dep from="t29" to="t30" rfunc="prep"/>
+    <dep from="t30" to="t31" rfunc="pobj"/>
+    <dep from="t33" to="t32" rfunc="nsubj"/>
+    <dep from="t29" to="t33" rfunc="relcl"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t33" to="t35" rfunc="attr"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t33" to="t38" rfunc="prep"/>
+    <dep from="t38" to="t39" rfunc="pobj"/>
+    <dep from="t33" to="t40" rfunc="prep"/>
+    <dep from="t40" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t44" to="t43" rfunc="det"/>
+    <dep from="t42" to="t44" rfunc="pobj"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t45" to="t46" rfunc="pobj"/>
+    <dep from="t27" to="t47" rfunc="punct"/>
+    <dep from="t50" to="t48" rfunc="nsubjpass"/>
+    <dep from="t50" to="t49" rfunc="auxpass"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t50" to="t53" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--S e p a r a t i o n   o f   Q u e e n s l a n d-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Separation_of_Queensland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--N e w   S o u t h   W a l e s-->
+        <target id="t20"/>
+        <target id="t21"/>
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/New_South_Wales" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Nuovo_Galles_del_Sud" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nieuw-Zuid-Wales" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--C o l o n y   o f   Q u e e n s l a n d-->
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Colony_of_Queensland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S t a t e   o f   Q u e e n s l a n d-->
+        <target id="t35"/>
+        <target id="t36"/>
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/State_of_Queensland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--F e d e r a t i o n   o f   A u s t r a l i a-->
+        <target id="t44"/>
+        <target id="t45"/>
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Federation_of_Australia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Federazione_dell'Australia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_create" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-becoming" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

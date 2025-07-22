@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2012 Thomas &amp; Uber Cup"/>
+    <public uri="https://en.wikipedia.org/wiki/2012_Thomas_%26_Uber_Cup"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:46:53UTC" endTimestamp="2020-05-27T16:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:46:53UTC" endTimestamp="2020-05-27T16:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:46:53UTC" endTimestamp="2020-05-27T16:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:46:53UTC" endTimestamp="2020-05-27T16:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:08CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2012 Thomas & Uber Cup++.
+The 2012 Thomas & Uber Cup was the 27th tournament of the Thomas Cup and 24th tournament of the Uber Cup. It was held from May 20–27, 2012 at the Wuhan Sports Center Stadium in Wuhan, China.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2012]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Thomas]]></wf>
+    <wf sent="1" id="w4" length="1" offset="14"><![CDATA[&]]></wf>
+    <wf sent="1" id="w5" length="4" offset="16"><![CDATA[Uber]]></wf>
+    <wf sent="1" id="w6" length="5" offset="21"><![CDATA[Cup++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="26"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="27"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="28"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="32"><![CDATA[2012]]></wf>
+    <wf sent="2" id="w11" length="6" offset="37"><![CDATA[Thomas]]></wf>
+    <wf sent="2" id="w12" length="1" offset="44"><![CDATA[&]]></wf>
+    <wf sent="2" id="w13" length="4" offset="46"><![CDATA[Uber]]></wf>
+    <wf sent="2" id="w14" length="3" offset="51"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w15" length="3" offset="55"><![CDATA[was]]></wf>
+    <wf sent="2" id="w16" length="3" offset="59"><![CDATA[the]]></wf>
+    <wf sent="2" id="w17" length="4" offset="63"><![CDATA[27th]]></wf>
+    <wf sent="2" id="w18" length="10" offset="68"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w19" length="2" offset="79"><![CDATA[of]]></wf>
+    <wf sent="2" id="w20" length="3" offset="82"><![CDATA[the]]></wf>
+    <wf sent="2" id="w21" length="6" offset="86"><![CDATA[Thomas]]></wf>
+    <wf sent="2" id="w22" length="3" offset="93"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w23" length="3" offset="97"><![CDATA[and]]></wf>
+    <wf sent="2" id="w24" length="4" offset="101"><![CDATA[24th]]></wf>
+    <wf sent="2" id="w25" length="10" offset="106"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w26" length="2" offset="117"><![CDATA[of]]></wf>
+    <wf sent="2" id="w27" length="3" offset="120"><![CDATA[the]]></wf>
+    <wf sent="2" id="w28" length="4" offset="124"><![CDATA[Uber]]></wf>
+    <wf sent="2" id="w29" length="3" offset="129"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w30" length="1" offset="132"><![CDATA[.]]></wf>
+    <wf sent="3" id="w31" length="2" offset="134"><![CDATA[It]]></wf>
+    <wf sent="3" id="w32" length="3" offset="137"><![CDATA[was]]></wf>
+    <wf sent="3" id="w33" length="4" offset="141"><![CDATA[held]]></wf>
+    <wf sent="3" id="w34" length="4" offset="146"><![CDATA[from]]></wf>
+    <wf sent="3" id="w35" length="3" offset="151"><![CDATA[May]]></wf>
+    <wf sent="3" id="w36" length="5" offset="155"><![CDATA[20–27]]></wf>
+    <wf sent="3" id="w37" length="1" offset="160"><![CDATA[,]]></wf>
+    <wf sent="3" id="w38" length="4" offset="162"><![CDATA[2012]]></wf>
+    <wf sent="3" id="w39" length="2" offset="167"><![CDATA[at]]></wf>
+    <wf sent="3" id="w40" length="3" offset="170"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="5" offset="174"><![CDATA[Wuhan]]></wf>
+    <wf sent="3" id="w42" length="6" offset="180"><![CDATA[Sports]]></wf>
+    <wf sent="3" id="w43" length="6" offset="187"><![CDATA[Center]]></wf>
+    <wf sent="3" id="w44" length="7" offset="194"><![CDATA[Stadium]]></wf>
+    <wf sent="3" id="w45" length="2" offset="202"><![CDATA[in]]></wf>
+    <wf sent="3" id="w46" length="5" offset="205"><![CDATA[Wuhan]]></wf>
+    <wf sent="3" id="w47" length="1" offset="210"><![CDATA[,]]></wf>
+    <wf sent="3" id="w48" length="5" offset="212"><![CDATA[China]]></wf>
+    <wf sent="3" id="w49" length="1" offset="217"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2012" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Thomas" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="&amp;" pos="CCONJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Uber" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Cup++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Thomas" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="&amp;" pos="CCONJ" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Uber" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="27th" pos="ADJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Thomas" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="24th" pos="ADJ" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Uber" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="20–27" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Wuhan" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Sports" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Center" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Stadium" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Wuhan" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="China" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t1" rfunc="punct"/>
+    <dep from="t3" to="t2" rfunc="compound"/>
+    <dep from="t3" to="t4" rfunc="cc"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="subtok"/>
+    <dep from="t3" to="t7" rfunc="conj"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t10" to="t9" rfunc="det"/>
+    <dep from="t15" to="t10" rfunc="meta"/>
+    <dep from="t15" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t12" rfunc="cc"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t11" to="t14" rfunc="conj"/>
+    <dep from="t18" to="t16" rfunc="det"/>
+    <dep from="t15" to="t18" rfunc="attr"/>
+    <dep from="t18" to="t17" rfunc="amod"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t25" to="t20" rfunc="det"/>
+    <dep from="t19" to="t25" rfunc="pobj"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t25" to="t22" rfunc="nmod"/>
+    <dep from="t22" to="t23" rfunc="cc"/>
+    <dep from="t22" to="t24" rfunc="conj"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t29" to="t27" rfunc="det"/>
+    <dep from="t26" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t15" to="t30" rfunc="punct"/>
+    <dep from="t33" to="t31" rfunc="nsubjpass"/>
+    <dep from="t33" to="t32" rfunc="auxpass"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t34" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t36" rfunc="nummod"/>
+    <dep from="t35" to="t37" rfunc="punct"/>
+    <dep from="t35" to="t38" rfunc="nummod"/>
+    <dep from="t33" to="t39" rfunc="prep"/>
+    <dep from="t44" to="t40" rfunc="det"/>
+    <dep from="t39" to="t44" rfunc="pobj"/>
+    <dep from="t44" to="t41" rfunc="compound"/>
+    <dep from="t43" to="t42" rfunc="compound"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t45" to="t46" rfunc="pobj"/>
+    <dep from="t46" to="t47" rfunc="punct"/>
+    <dep from="t46" to="t48" rfunc="appos"/>
+    <dep from="t33" to="t49" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--T h o m a s   C u p-->
+        <target id="t21"/>
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Thomas_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Thomas_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thomas_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--U b e r   C u p-->
+        <target id="t28"/>
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Uber_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Uber_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Uber_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--W u h a n   S p o r t s   C e n t e r   S t a d i u m-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wuhan_Sports_Center_Stadium" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--W u h a n-->
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wuhan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Wuhan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wuhan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C h i n a-->
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/China" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/João_Pedro_Santos_Gonçalves" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Volksrepubliek_China" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q148" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q148" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

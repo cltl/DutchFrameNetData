@@ -1,0 +1,1053 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2018 Newark mayoral election"/>
+    <public uri="https://en.wikipedia.org/wiki/2018_Newark_mayoral_election"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:37:11UTC" endTimestamp="2020-05-27T19:37:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:37:11UTC" endTimestamp="2020-05-27T19:37:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:37:11UTC" endTimestamp="2020-05-27T19:37:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:37:11UTC" endTimestamp="2020-05-27T19:37:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:46CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2018 Newark mayoral election++.
+The 2018 election for Mayor of Newark took place in Newark, the most populous city in New Jersey, USA, on May 8, 2018. Elections for all seats on the nine member Municipal Council of Newark was held the same day. A runoff election, if necessary, would have taken place on June 5, 2018. Elections are non-partisan and candidates are not listed by political party. Incumbent Mayor Ras J. Baraka avoided a runoff after winning a second term with more than 77 percent of the votes.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2018]]></wf>
+    <wf sent="2" id="w3" length="6" offset="7"><![CDATA[Newark]]></wf>
+    <wf sent="2" id="w4" length="7" offset="14"><![CDATA[mayoral]]></wf>
+    <wf sent="2" id="w5" length="10" offset="22"><![CDATA[election++]]></wf>
+    <wf sent="2" id="w6" length="1" offset="32"><![CDATA[.]]></wf>
+    <wf sent="2" id="w7" length="1" offset="33"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w8" length="3" offset="34"><![CDATA[The]]></wf>
+    <wf sent="3" id="w9" length="4" offset="38"><![CDATA[2018]]></wf>
+    <wf sent="3" id="w10" length="8" offset="43"><![CDATA[election]]></wf>
+    <wf sent="3" id="w11" length="3" offset="52"><![CDATA[for]]></wf>
+    <wf sent="3" id="w12" length="5" offset="56"><![CDATA[Mayor]]></wf>
+    <wf sent="3" id="w13" length="2" offset="62"><![CDATA[of]]></wf>
+    <wf sent="3" id="w14" length="6" offset="65"><![CDATA[Newark]]></wf>
+    <wf sent="3" id="w15" length="4" offset="72"><![CDATA[took]]></wf>
+    <wf sent="3" id="w16" length="5" offset="77"><![CDATA[place]]></wf>
+    <wf sent="3" id="w17" length="2" offset="83"><![CDATA[in]]></wf>
+    <wf sent="3" id="w18" length="6" offset="86"><![CDATA[Newark]]></wf>
+    <wf sent="3" id="w19" length="1" offset="92"><![CDATA[,]]></wf>
+    <wf sent="3" id="w20" length="3" offset="94"><![CDATA[the]]></wf>
+    <wf sent="3" id="w21" length="4" offset="98"><![CDATA[most]]></wf>
+    <wf sent="3" id="w22" length="8" offset="103"><![CDATA[populous]]></wf>
+    <wf sent="3" id="w23" length="4" offset="112"><![CDATA[city]]></wf>
+    <wf sent="3" id="w24" length="2" offset="117"><![CDATA[in]]></wf>
+    <wf sent="3" id="w25" length="3" offset="120"><![CDATA[New]]></wf>
+    <wf sent="3" id="w26" length="6" offset="124"><![CDATA[Jersey]]></wf>
+    <wf sent="3" id="w27" length="1" offset="130"><![CDATA[,]]></wf>
+    <wf sent="3" id="w28" length="3" offset="132"><![CDATA[USA]]></wf>
+    <wf sent="3" id="w29" length="1" offset="135"><![CDATA[,]]></wf>
+    <wf sent="3" id="w30" length="2" offset="137"><![CDATA[on]]></wf>
+    <wf sent="3" id="w31" length="3" offset="140"><![CDATA[May]]></wf>
+    <wf sent="3" id="w32" length="1" offset="144"><![CDATA[8]]></wf>
+    <wf sent="3" id="w33" length="1" offset="145"><![CDATA[,]]></wf>
+    <wf sent="3" id="w34" length="4" offset="147"><![CDATA[2018]]></wf>
+    <wf sent="3" id="w35" length="1" offset="151"><![CDATA[.]]></wf>
+    <wf sent="4" id="w36" length="9" offset="153"><![CDATA[Elections]]></wf>
+    <wf sent="4" id="w37" length="3" offset="163"><![CDATA[for]]></wf>
+    <wf sent="4" id="w38" length="3" offset="167"><![CDATA[all]]></wf>
+    <wf sent="4" id="w39" length="5" offset="171"><![CDATA[seats]]></wf>
+    <wf sent="4" id="w40" length="2" offset="177"><![CDATA[on]]></wf>
+    <wf sent="4" id="w41" length="3" offset="180"><![CDATA[the]]></wf>
+    <wf sent="4" id="w42" length="4" offset="184"><![CDATA[nine]]></wf>
+    <wf sent="4" id="w43" length="6" offset="189"><![CDATA[member]]></wf>
+    <wf sent="4" id="w44" length="9" offset="196"><![CDATA[Municipal]]></wf>
+    <wf sent="4" id="w45" length="7" offset="206"><![CDATA[Council]]></wf>
+    <wf sent="4" id="w46" length="2" offset="214"><![CDATA[of]]></wf>
+    <wf sent="4" id="w47" length="6" offset="217"><![CDATA[Newark]]></wf>
+    <wf sent="4" id="w48" length="3" offset="224"><![CDATA[was]]></wf>
+    <wf sent="4" id="w49" length="4" offset="228"><![CDATA[held]]></wf>
+    <wf sent="4" id="w50" length="3" offset="233"><![CDATA[the]]></wf>
+    <wf sent="4" id="w51" length="4" offset="237"><![CDATA[same]]></wf>
+    <wf sent="4" id="w52" length="3" offset="242"><![CDATA[day]]></wf>
+    <wf sent="4" id="w53" length="1" offset="245"><![CDATA[.]]></wf>
+    <wf sent="5" id="w54" length="1" offset="247"><![CDATA[A]]></wf>
+    <wf sent="5" id="w55" length="6" offset="249"><![CDATA[runoff]]></wf>
+    <wf sent="5" id="w56" length="8" offset="256"><![CDATA[election]]></wf>
+    <wf sent="5" id="w57" length="1" offset="264"><![CDATA[,]]></wf>
+    <wf sent="5" id="w58" length="2" offset="266"><![CDATA[if]]></wf>
+    <wf sent="5" id="w59" length="9" offset="269"><![CDATA[necessary]]></wf>
+    <wf sent="5" id="w60" length="1" offset="278"><![CDATA[,]]></wf>
+    <wf sent="5" id="w61" length="5" offset="280"><![CDATA[would]]></wf>
+    <wf sent="5" id="w62" length="4" offset="286"><![CDATA[have]]></wf>
+    <wf sent="5" id="w63" length="5" offset="291"><![CDATA[taken]]></wf>
+    <wf sent="5" id="w64" length="5" offset="297"><![CDATA[place]]></wf>
+    <wf sent="5" id="w65" length="2" offset="303"><![CDATA[on]]></wf>
+    <wf sent="5" id="w66" length="4" offset="306"><![CDATA[June]]></wf>
+    <wf sent="5" id="w67" length="1" offset="311"><![CDATA[5]]></wf>
+    <wf sent="5" id="w68" length="1" offset="312"><![CDATA[,]]></wf>
+    <wf sent="5" id="w69" length="4" offset="314"><![CDATA[2018]]></wf>
+    <wf sent="5" id="w70" length="1" offset="318"><![CDATA[.]]></wf>
+    <wf sent="6" id="w71" length="9" offset="320"><![CDATA[Elections]]></wf>
+    <wf sent="6" id="w72" length="3" offset="330"><![CDATA[are]]></wf>
+    <wf sent="6" id="w73" length="3" offset="334"><![CDATA[non]]></wf>
+    <wf sent="6" id="w74" length="1" offset="337"><![CDATA[-]]></wf>
+    <wf sent="6" id="w75" length="8" offset="338"><![CDATA[partisan]]></wf>
+    <wf sent="6" id="w76" length="3" offset="347"><![CDATA[and]]></wf>
+    <wf sent="6" id="w77" length="10" offset="351"><![CDATA[candidates]]></wf>
+    <wf sent="6" id="w78" length="3" offset="362"><![CDATA[are]]></wf>
+    <wf sent="6" id="w79" length="3" offset="366"><![CDATA[not]]></wf>
+    <wf sent="6" id="w80" length="6" offset="370"><![CDATA[listed]]></wf>
+    <wf sent="6" id="w81" length="2" offset="377"><![CDATA[by]]></wf>
+    <wf sent="6" id="w82" length="9" offset="380"><![CDATA[political]]></wf>
+    <wf sent="6" id="w83" length="5" offset="390"><![CDATA[party]]></wf>
+    <wf sent="6" id="w84" length="1" offset="395"><![CDATA[.]]></wf>
+    <wf sent="7" id="w85" length="9" offset="397"><![CDATA[Incumbent]]></wf>
+    <wf sent="7" id="w86" length="5" offset="407"><![CDATA[Mayor]]></wf>
+    <wf sent="7" id="w87" length="3" offset="413"><![CDATA[Ras]]></wf>
+    <wf sent="7" id="w88" length="2" offset="417"><![CDATA[J.]]></wf>
+    <wf sent="7" id="w89" length="6" offset="420"><![CDATA[Baraka]]></wf>
+    <wf sent="7" id="w90" length="7" offset="427"><![CDATA[avoided]]></wf>
+    <wf sent="7" id="w91" length="1" offset="435"><![CDATA[a]]></wf>
+    <wf sent="7" id="w92" length="6" offset="437"><![CDATA[runoff]]></wf>
+    <wf sent="7" id="w93" length="5" offset="444"><![CDATA[after]]></wf>
+    <wf sent="7" id="w94" length="7" offset="450"><![CDATA[winning]]></wf>
+    <wf sent="7" id="w95" length="1" offset="458"><![CDATA[a]]></wf>
+    <wf sent="7" id="w96" length="6" offset="460"><![CDATA[second]]></wf>
+    <wf sent="7" id="w97" length="4" offset="467"><![CDATA[term]]></wf>
+    <wf sent="7" id="w98" length="4" offset="472"><![CDATA[with]]></wf>
+    <wf sent="7" id="w99" length="4" offset="477"><![CDATA[more]]></wf>
+    <wf sent="7" id="w100" length="4" offset="482"><![CDATA[than]]></wf>
+    <wf sent="7" id="w101" length="2" offset="487"><![CDATA[77]]></wf>
+    <wf sent="7" id="w102" length="7" offset="490"><![CDATA[percent]]></wf>
+    <wf sent="7" id="w103" length="2" offset="498"><![CDATA[of]]></wf>
+    <wf sent="7" id="w104" length="3" offset="501"><![CDATA[the]]></wf>
+    <wf sent="7" id="w105" length="5" offset="505"><![CDATA[votes]]></wf>
+    <wf sent="7" id="w106" length="1" offset="510"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2018" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="newark" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="mayoral" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2018" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Newark" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Newark" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="most" pos="ADV" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="populous" pos="ADJ" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="city" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="New" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Jersey" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="USA" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="8" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="2018" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="all" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="nine" pos="NUM" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="member" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Municipal" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Council" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Newark" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="same" pos="ADJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="runoff" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="if" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="necessary" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="would" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="2018" pos="NUM" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="non" pos="ADJ" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="-" pos="ADJ" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="partisan" pos="ADJ" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="candidate" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="not" pos="ADV" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="list" pos="VERB" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="political" pos="ADJ" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="party" pos="NOUN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Incumbent" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="Ras" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="J." pos="PROPN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="Baraka" pos="PROPN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="avoid" pos="VERB" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="runoff" pos="NOUN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="after" pos="ADP" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="term" pos="NOUN" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="more" pos="ADJ" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="than" pos="ADP" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="77" pos="NUM" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="percent" pos="NOUN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="vote" pos="NOUN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t3" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t10" to="t8" rfunc="det"/>
+    <dep from="t15" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t9" rfunc="nummod"/>
+    <dep from="t10" to="t11" rfunc="prep"/>
+    <dep from="t11" to="t12" rfunc="pobj"/>
+    <dep from="t12" to="t13" rfunc="prep"/>
+    <dep from="t13" to="t14" rfunc="pobj"/>
+    <dep from="t15" to="t16" rfunc="dobj"/>
+    <dep from="t15" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="punct"/>
+    <dep from="t23" to="t20" rfunc="det"/>
+    <dep from="t18" to="t23" rfunc="appos"/>
+    <dep from="t22" to="t21" rfunc="advmod"/>
+    <dep from="t23" to="t22" rfunc="amod"/>
+    <dep from="t23" to="t24" rfunc="prep"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t24" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t27" rfunc="punct"/>
+    <dep from="t26" to="t28" rfunc="appos"/>
+    <dep from="t15" to="t29" rfunc="punct"/>
+    <dep from="t15" to="t30" rfunc="prep"/>
+    <dep from="t30" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t32" rfunc="nummod"/>
+    <dep from="t31" to="t33" rfunc="punct"/>
+    <dep from="t31" to="t34" rfunc="nummod"/>
+    <dep from="t15" to="t35" rfunc="punct"/>
+    <dep from="t49" to="t36" rfunc="nsubjpass"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t39" to="t38" rfunc="det"/>
+    <dep from="t37" to="t39" rfunc="pobj"/>
+    <dep from="t39" to="t40" rfunc="prep"/>
+    <dep from="t45" to="t41" rfunc="det"/>
+    <dep from="t40" to="t45" rfunc="pobj"/>
+    <dep from="t43" to="t42" rfunc="nummod"/>
+    <dep from="t45" to="t43" rfunc="compound"/>
+    <dep from="t45" to="t44" rfunc="compound"/>
+    <dep from="t45" to="t46" rfunc="prep"/>
+    <dep from="t46" to="t47" rfunc="pobj"/>
+    <dep from="t49" to="t48" rfunc="auxpass"/>
+    <dep from="t52" to="t50" rfunc="det"/>
+    <dep from="t49" to="t52" rfunc="npadvmod"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t49" to="t53" rfunc="punct"/>
+    <dep from="t56" to="t54" rfunc="det"/>
+    <dep from="t63" to="t56" rfunc="nsubj"/>
+    <dep from="t56" to="t55" rfunc="compound"/>
+    <dep from="t63" to="t57" rfunc="punct"/>
+    <dep from="t59" to="t58" rfunc="mark"/>
+    <dep from="t63" to="t59" rfunc="advcl"/>
+    <dep from="t63" to="t60" rfunc="punct"/>
+    <dep from="t63" to="t61" rfunc="aux"/>
+    <dep from="t63" to="t62" rfunc="aux"/>
+    <dep from="t63" to="t64" rfunc="dobj"/>
+    <dep from="t63" to="t65" rfunc="prep"/>
+    <dep from="t65" to="t66" rfunc="pobj"/>
+    <dep from="t66" to="t67" rfunc="nummod"/>
+    <dep from="t66" to="t68" rfunc="punct"/>
+    <dep from="t66" to="t69" rfunc="nummod"/>
+    <dep from="t63" to="t70" rfunc="punct"/>
+    <dep from="t72" to="t71" rfunc="nsubj"/>
+    <dep from="t74" to="t73" rfunc="subtok"/>
+    <dep from="t75" to="t74" rfunc="subtok"/>
+    <dep from="t72" to="t75" rfunc="acomp"/>
+    <dep from="t72" to="t76" rfunc="cc"/>
+    <dep from="t80" to="t77" rfunc="nsubjpass"/>
+    <dep from="t72" to="t80" rfunc="conj"/>
+    <dep from="t80" to="t78" rfunc="auxpass"/>
+    <dep from="t80" to="t79" rfunc="neg"/>
+    <dep from="t80" to="t81" rfunc="agent"/>
+    <dep from="t83" to="t82" rfunc="amod"/>
+    <dep from="t81" to="t83" rfunc="pobj"/>
+    <dep from="t80" to="t84" rfunc="punct"/>
+    <dep from="t86" to="t85" rfunc="compound"/>
+    <dep from="t89" to="t86" rfunc="compound"/>
+    <dep from="t90" to="t89" rfunc="nsubj"/>
+    <dep from="t89" to="t87" rfunc="compound"/>
+    <dep from="t89" to="t88" rfunc="compound"/>
+    <dep from="t92" to="t91" rfunc="det"/>
+    <dep from="t90" to="t92" rfunc="dobj"/>
+    <dep from="t90" to="t93" rfunc="prep"/>
+    <dep from="t93" to="t94" rfunc="pcomp"/>
+    <dep from="t97" to="t95" rfunc="det"/>
+    <dep from="t94" to="t97" rfunc="dobj"/>
+    <dep from="t97" to="t96" rfunc="amod"/>
+    <dep from="t94" to="t98" rfunc="prep"/>
+    <dep from="t101" to="t99" rfunc="amod"/>
+    <dep from="t102" to="t101" rfunc="nummod"/>
+    <dep from="t98" to="t102" rfunc="pobj"/>
+    <dep from="t101" to="t100" rfunc="quantmod"/>
+    <dep from="t102" to="t103" rfunc="prep"/>
+    <dep from="t105" to="t104" rfunc="det"/>
+    <dep from="t103" to="t105" rfunc="pobj"/>
+    <dep from="t90" to="t106" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M a y o r   o f   N e w a r k-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mayor_of_Newark" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--N e w a r k-->
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Newark,_New_Jersey" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--t h e   m o s t   p o p u l o u s   c i t y   i n   N e w   J e r s e y ,   U S A-->
+        <target id="t20"/>
+        <target id="t21"/>
+        <target id="t22"/>
+        <target id="t23"/>
+        <target id="t24"/>
+        <target id="t25"/>
+        <target id="t26"/>
+        <target id="t27"/>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/List_of_municipalities_in_New_Jersey" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Città_del_New_Jersey" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M u n i c i p a l   C o u n c i l   o f   N e w a r k-->
+        <target id="t44"/>
+        <target id="t45"/>
+        <target id="t46"/>
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Municipal_Council_of_Newark" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--n o n - p a r t i s a n-->
+        <target id="t73"/>
+        <target id="t74"/>
+        <target id="t75"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Non-partisan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--R a s   J .   B a r a k a-->
+        <target id="t87"/>
+        <target id="t88"/>
+        <target id="t89"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ras_J._Baraka" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-clothing_parts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-identicality" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_necessary" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text_creation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t80"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t83"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t86"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-avoiding" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t96"/>
+      </span>
+    </predicate>
+    <predicate id="pr26" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-simple_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t97"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

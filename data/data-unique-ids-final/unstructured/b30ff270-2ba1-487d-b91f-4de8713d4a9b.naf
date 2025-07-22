@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="V Mexico City International Tournament"/>
+    <public uri="https://en.wikipedia.org/wiki/V_Mexico_City_International_Tournament"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:53:54UTC" endTimestamp="2020-05-27T16:53:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:53:54UTC" endTimestamp="2020-05-27T16:53:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:53:54UTC" endTimestamp="2020-05-27T16:53:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:53:54UTC" endTimestamp="2020-05-27T16:53:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:18CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++V Mexico City International Tournament++.
+The V Mexico City International Tournament 1962 was a badminton competition held from 12 to 15 April 1962 in Mexico City.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="1" offset="2"><![CDATA[V]]></wf>
+    <wf sent="1" id="w4" length="6" offset="4"><![CDATA[Mexico]]></wf>
+    <wf sent="1" id="w5" length="4" offset="11"><![CDATA[City]]></wf>
+    <wf sent="1" id="w6" length="13" offset="16"><![CDATA[International]]></wf>
+    <wf sent="1" id="w7" length="12" offset="30"><![CDATA[Tournament++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="42"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="43"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="44"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="1" offset="48"><![CDATA[V]]></wf>
+    <wf sent="2" id="w12" length="6" offset="50"><![CDATA[Mexico]]></wf>
+    <wf sent="2" id="w13" length="4" offset="57"><![CDATA[City]]></wf>
+    <wf sent="2" id="w14" length="13" offset="62"><![CDATA[International]]></wf>
+    <wf sent="2" id="w15" length="10" offset="76"><![CDATA[Tournament]]></wf>
+    <wf sent="2" id="w16" length="4" offset="87"><![CDATA[1962]]></wf>
+    <wf sent="2" id="w17" length="3" offset="92"><![CDATA[was]]></wf>
+    <wf sent="2" id="w18" length="1" offset="96"><![CDATA[a]]></wf>
+    <wf sent="2" id="w19" length="9" offset="98"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w20" length="11" offset="108"><![CDATA[competition]]></wf>
+    <wf sent="2" id="w21" length="4" offset="120"><![CDATA[held]]></wf>
+    <wf sent="2" id="w22" length="4" offset="125"><![CDATA[from]]></wf>
+    <wf sent="2" id="w23" length="2" offset="130"><![CDATA[12]]></wf>
+    <wf sent="2" id="w24" length="2" offset="133"><![CDATA[to]]></wf>
+    <wf sent="2" id="w25" length="2" offset="136"><![CDATA[15]]></wf>
+    <wf sent="2" id="w26" length="5" offset="139"><![CDATA[April]]></wf>
+    <wf sent="2" id="w27" length="4" offset="145"><![CDATA[1962]]></wf>
+    <wf sent="2" id="w28" length="2" offset="150"><![CDATA[in]]></wf>
+    <wf sent="2" id="w29" length="6" offset="153"><![CDATA[Mexico]]></wf>
+    <wf sent="2" id="w30" length="4" offset="160"><![CDATA[City]]></wf>
+    <wf sent="2" id="w31" length="1" offset="164"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="V" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="International" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Tournament++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="V" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="International" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Tournament" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="1962" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="12" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="15" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1962" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t8" to="t2" rfunc="cc"/>
+    <dep from="t1" to="t8" rfunc="punct"/>
+    <dep from="t7" to="t3" rfunc="compound"/>
+    <dep from="t8" to="t7" rfunc="subtok"/>
+    <dep from="t7" to="t4" rfunc="compound"/>
+    <dep from="t7" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="compound"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t15" to="t10" rfunc="det"/>
+    <dep from="t17" to="t15" rfunc="nsubj"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t15" to="t12" rfunc="compound"/>
+    <dep from="t15" to="t13" rfunc="compound"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t15" to="t16" rfunc="appos"/>
+    <dep from="t20" to="t18" rfunc="det"/>
+    <dep from="t17" to="t20" rfunc="attr"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t20" to="t21" rfunc="acl"/>
+    <dep from="t21" to="t22" rfunc="prep"/>
+    <dep from="t25" to="t23" rfunc="quantmod"/>
+    <dep from="t26" to="t25" rfunc="nummod"/>
+    <dep from="t22" to="t26" rfunc="pobj"/>
+    <dep from="t25" to="t24" rfunc="quantmod"/>
+    <dep from="t26" to="t27" rfunc="nummod"/>
+    <dep from="t21" to="t28" rfunc="prep"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t28" to="t30" rfunc="pobj"/>
+    <dep from="t17" to="t31" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M e x i c o   C i t y   I n t e r n a t i o n a l   T o u r n a m e n t-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mexico_City_International_Tournament" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t5"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t6"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

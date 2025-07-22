@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2002 Senior League World Series"/>
+    <public uri="https://en.wikipedia.org/wiki/2002_Senior_League_World_Series"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:51:03UTC" endTimestamp="2020-05-27T16:51:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:51:03UTC" endTimestamp="2020-05-27T16:51:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:51:03UTC" endTimestamp="2020-05-27T16:51:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:51:03UTC" endTimestamp="2020-05-27T16:51:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:41CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2002 Senior League World Series++.
+The 2002 Senior League World Series took place from August 11–17 in Bangor, Maine, United States. Willemstad, Curaçao defeated Boynton Beach, Florida in the championship game.
+In addition to being the first SLWS in Bangor; the double elimination format was replaced by round robin pool play.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2002]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Senior]]></wf>
+    <wf sent="1" id="w4" length="6" offset="14"><![CDATA[League]]></wf>
+    <wf sent="1" id="w5" length="5" offset="21"><![CDATA[World]]></wf>
+    <wf sent="1" id="w6" length="8" offset="27"><![CDATA[Series++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="41"><![CDATA[2002]]></wf>
+    <wf sent="2" id="w11" length="6" offset="46"><![CDATA[Senior]]></wf>
+    <wf sent="2" id="w12" length="6" offset="53"><![CDATA[League]]></wf>
+    <wf sent="2" id="w13" length="5" offset="60"><![CDATA[World]]></wf>
+    <wf sent="2" id="w14" length="6" offset="66"><![CDATA[Series]]></wf>
+    <wf sent="2" id="w15" length="4" offset="73"><![CDATA[took]]></wf>
+    <wf sent="2" id="w16" length="5" offset="78"><![CDATA[place]]></wf>
+    <wf sent="2" id="w17" length="4" offset="84"><![CDATA[from]]></wf>
+    <wf sent="2" id="w18" length="6" offset="89"><![CDATA[August]]></wf>
+    <wf sent="2" id="w19" length="5" offset="96"><![CDATA[11–17]]></wf>
+    <wf sent="2" id="w20" length="2" offset="102"><![CDATA[in]]></wf>
+    <wf sent="2" id="w21" length="6" offset="105"><![CDATA[Bangor]]></wf>
+    <wf sent="2" id="w22" length="1" offset="111"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="5" offset="113"><![CDATA[Maine]]></wf>
+    <wf sent="2" id="w24" length="1" offset="118"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="6" offset="120"><![CDATA[United]]></wf>
+    <wf sent="2" id="w26" length="6" offset="127"><![CDATA[States]]></wf>
+    <wf sent="2" id="w27" length="1" offset="133"><![CDATA[.]]></wf>
+    <wf sent="3" id="w28" length="10" offset="135"><![CDATA[Willemstad]]></wf>
+    <wf sent="3" id="w29" length="1" offset="145"><![CDATA[,]]></wf>
+    <wf sent="3" id="w30" length="7" offset="147"><![CDATA[Curaçao]]></wf>
+    <wf sent="3" id="w31" length="8" offset="155"><![CDATA[defeated]]></wf>
+    <wf sent="3" id="w32" length="7" offset="164"><![CDATA[Boynton]]></wf>
+    <wf sent="3" id="w33" length="5" offset="172"><![CDATA[Beach]]></wf>
+    <wf sent="3" id="w34" length="1" offset="177"><![CDATA[,]]></wf>
+    <wf sent="3" id="w35" length="7" offset="179"><![CDATA[Florida]]></wf>
+    <wf sent="3" id="w36" length="2" offset="187"><![CDATA[in]]></wf>
+    <wf sent="3" id="w37" length="3" offset="190"><![CDATA[the]]></wf>
+    <wf sent="3" id="w38" length="12" offset="194"><![CDATA[championship]]></wf>
+    <wf sent="3" id="w39" length="4" offset="207"><![CDATA[game]]></wf>
+    <wf sent="3" id="w40" length="1" offset="211"><![CDATA[.]]></wf>
+    <wf sent="3" id="w41" length="1" offset="212"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w42" length="2" offset="213"><![CDATA[In]]></wf>
+    <wf sent="4" id="w43" length="8" offset="216"><![CDATA[addition]]></wf>
+    <wf sent="4" id="w44" length="2" offset="225"><![CDATA[to]]></wf>
+    <wf sent="4" id="w45" length="5" offset="228"><![CDATA[being]]></wf>
+    <wf sent="4" id="w46" length="3" offset="234"><![CDATA[the]]></wf>
+    <wf sent="4" id="w47" length="5" offset="238"><![CDATA[first]]></wf>
+    <wf sent="4" id="w48" length="4" offset="244"><![CDATA[SLWS]]></wf>
+    <wf sent="4" id="w49" length="2" offset="249"><![CDATA[in]]></wf>
+    <wf sent="4" id="w50" length="6" offset="252"><![CDATA[Bangor]]></wf>
+    <wf sent="4" id="w51" length="1" offset="258"><![CDATA[;]]></wf>
+    <wf sent="4" id="w52" length="3" offset="260"><![CDATA[the]]></wf>
+    <wf sent="4" id="w53" length="6" offset="264"><![CDATA[double]]></wf>
+    <wf sent="4" id="w54" length="11" offset="271"><![CDATA[elimination]]></wf>
+    <wf sent="4" id="w55" length="6" offset="283"><![CDATA[format]]></wf>
+    <wf sent="4" id="w56" length="3" offset="290"><![CDATA[was]]></wf>
+    <wf sent="4" id="w57" length="8" offset="294"><![CDATA[replaced]]></wf>
+    <wf sent="4" id="w58" length="2" offset="303"><![CDATA[by]]></wf>
+    <wf sent="4" id="w59" length="5" offset="306"><![CDATA[round]]></wf>
+    <wf sent="4" id="w60" length="5" offset="312"><![CDATA[robin]]></wf>
+    <wf sent="4" id="w61" length="4" offset="318"><![CDATA[pool]]></wf>
+    <wf sent="4" id="w62" length="4" offset="323"><![CDATA[play]]></wf>
+    <wf sent="4" id="w63" length="1" offset="327"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="PUNCT" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2002" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Senior" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Series++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2002" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Senior" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="League" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="August" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="11–17" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Bangor" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Maine" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Willemstad" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Curaçao" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Boynton" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Beach" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Florida" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="game" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="addition" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="slws" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Bangor" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma=";" pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="double" pos="ADJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="elimination" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="format" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="replace" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="round" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="robin" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="pool" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="play" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t6" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t14" to="t9" rfunc="det"/>
+    <dep from="t15" to="t14" rfunc="nsubj"/>
+    <dep from="t14" to="t10" rfunc="nummod"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t14" to="t12" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t15" to="t16" rfunc="dobj"/>
+    <dep from="t15" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="nummod"/>
+    <dep from="t15" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="punct"/>
+    <dep from="t21" to="t23" rfunc="conj"/>
+    <dep from="t23" to="t24" rfunc="punct"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t23" to="t26" rfunc="conj"/>
+    <dep from="t15" to="t27" rfunc="punct"/>
+    <dep from="t31" to="t28" rfunc="npadvmod"/>
+    <dep from="t31" to="t29" rfunc="punct"/>
+    <dep from="t31" to="t30" rfunc="nsubj"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t31" to="t33" rfunc="dobj"/>
+    <dep from="t33" to="t34" rfunc="punct"/>
+    <dep from="t33" to="t35" rfunc="appos"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t39" to="t37" rfunc="det"/>
+    <dep from="t36" to="t39" rfunc="pobj"/>
+    <dep from="t39" to="t38" rfunc="compound"/>
+    <dep from="t31" to="t40" rfunc="punct"/>
+    <dep from="t40" to="t41" rfunc=""/>
+    <dep from="t57" to="t42" rfunc="prep"/>
+    <dep from="t42" to="t43" rfunc="pobj"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pcomp"/>
+    <dep from="t48" to="t46" rfunc="det"/>
+    <dep from="t45" to="t48" rfunc="attr"/>
+    <dep from="t48" to="t47" rfunc="amod"/>
+    <dep from="t48" to="t49" rfunc="prep"/>
+    <dep from="t49" to="t50" rfunc="pobj"/>
+    <dep from="t57" to="t51" rfunc="punct"/>
+    <dep from="t55" to="t52" rfunc="det"/>
+    <dep from="t57" to="t55" rfunc="nsubjpass"/>
+    <dep from="t55" to="t53" rfunc="amod"/>
+    <dep from="t55" to="t54" rfunc="compound"/>
+    <dep from="t57" to="t56" rfunc="auxpass"/>
+    <dep from="t57" to="t58" rfunc="agent"/>
+    <dep from="t62" to="t59" rfunc="amod"/>
+    <dep from="t58" to="t62" rfunc="pobj"/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t62" to="t61" rfunc="compound"/>
+    <dep from="t57" to="t63" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--2 0 0 2-->
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2002_in_baseball" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--S e n i o r   L e a g u e   W o r l d   S e r i e s-->
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Senior_League_World_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--B a n g o r-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Bangor,_Maine" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M a i n e-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Maine" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Maine" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--W i l l e m s t a d-->
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Willemstad" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--C u r a ç a o-->
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Curaçao" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Curaçao" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Curaçao" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--B o y n t o n   B e a c h-->
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Boynton_Beach,_Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Boynton_Beach" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Boynton_Beach" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--F l o r i d a-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Florida" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--r o u n d   r o b i n-->
+        <target id="t59"/>
+        <target id="t60"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Round-robin_tournament" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Girone_all'italiana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t4"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-removing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-take_place_of" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

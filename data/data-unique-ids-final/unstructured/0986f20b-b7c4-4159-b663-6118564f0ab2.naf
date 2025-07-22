@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Rowing at the 2020 Summer Paralympics"/>
+    <public uri="https://en.wikipedia.org/wiki/Rowing_at_the_2020_Summer_Paralympics"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T08:47:02UTC" endTimestamp="2020-05-28T08:47:02UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T08:47:02UTC" endTimestamp="2020-05-28T08:47:02UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T08:47:02UTC" endTimestamp="2020-05-28T08:47:02UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T08:47:02UTC" endTimestamp="2020-05-28T08:47:02UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:03CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Rowing at the 2020 Summer Paralympics++.
+Rowing at the 2020 Summer Paralympics in Tokyo, Japan will take place at the Sea Forest Waterway, the same location as the paracanoeing events are located.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="2" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="2" id="w3" length="6" offset="2"><![CDATA[Rowing]]></wf>
+    <wf sent="2" id="w4" length="2" offset="9"><![CDATA[at]]></wf>
+    <wf sent="2" id="w5" length="3" offset="12"><![CDATA[the]]></wf>
+    <wf sent="2" id="w6" length="4" offset="16"><![CDATA[2020]]></wf>
+    <wf sent="2" id="w7" length="6" offset="21"><![CDATA[Summer]]></wf>
+    <wf sent="2" id="w8" length="13" offset="28"><![CDATA[Paralympics++]]></wf>
+    <wf sent="2" id="w9" length="1" offset="41"><![CDATA[.]]></wf>
+    <wf sent="2" id="w10" length="1" offset="42"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w11" length="6" offset="43"><![CDATA[Rowing]]></wf>
+    <wf sent="3" id="w12" length="2" offset="50"><![CDATA[at]]></wf>
+    <wf sent="3" id="w13" length="3" offset="53"><![CDATA[the]]></wf>
+    <wf sent="3" id="w14" length="4" offset="57"><![CDATA[2020]]></wf>
+    <wf sent="3" id="w15" length="6" offset="62"><![CDATA[Summer]]></wf>
+    <wf sent="3" id="w16" length="11" offset="69"><![CDATA[Paralympics]]></wf>
+    <wf sent="3" id="w17" length="2" offset="81"><![CDATA[in]]></wf>
+    <wf sent="3" id="w18" length="5" offset="84"><![CDATA[Tokyo]]></wf>
+    <wf sent="3" id="w19" length="1" offset="89"><![CDATA[,]]></wf>
+    <wf sent="3" id="w20" length="5" offset="91"><![CDATA[Japan]]></wf>
+    <wf sent="3" id="w21" length="4" offset="97"><![CDATA[will]]></wf>
+    <wf sent="3" id="w22" length="4" offset="102"><![CDATA[take]]></wf>
+    <wf sent="3" id="w23" length="5" offset="107"><![CDATA[place]]></wf>
+    <wf sent="3" id="w24" length="2" offset="113"><![CDATA[at]]></wf>
+    <wf sent="3" id="w25" length="3" offset="116"><![CDATA[the]]></wf>
+    <wf sent="3" id="w26" length="3" offset="120"><![CDATA[Sea]]></wf>
+    <wf sent="3" id="w27" length="6" offset="124"><![CDATA[Forest]]></wf>
+    <wf sent="3" id="w28" length="8" offset="131"><![CDATA[Waterway]]></wf>
+    <wf sent="3" id="w29" length="1" offset="139"><![CDATA[,]]></wf>
+    <wf sent="3" id="w30" length="3" offset="141"><![CDATA[the]]></wf>
+    <wf sent="3" id="w31" length="4" offset="145"><![CDATA[same]]></wf>
+    <wf sent="3" id="w32" length="8" offset="150"><![CDATA[location]]></wf>
+    <wf sent="3" id="w33" length="2" offset="159"><![CDATA[as]]></wf>
+    <wf sent="3" id="w34" length="3" offset="162"><![CDATA[the]]></wf>
+    <wf sent="3" id="w35" length="12" offset="166"><![CDATA[paracanoeing]]></wf>
+    <wf sent="3" id="w36" length="6" offset="179"><![CDATA[events]]></wf>
+    <wf sent="3" id="w37" length="3" offset="186"><![CDATA[are]]></wf>
+    <wf sent="3" id="w38" length="7" offset="190"><![CDATA[located]]></wf>
+    <wf sent="3" id="w39" length="1" offset="197"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="row" pos="VERB" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2020" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Paralympics++" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="row" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="2020" pos="NUM" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Paralympics" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Tokyo" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Japan" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="will" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Sea" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Forest" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Waterway" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="same" pos="ADJ" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="location" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="paracanoee" pos="VERB" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="locate" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t3" rfunc="npadvmod"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t8" to="t5" rfunc="det"/>
+    <dep from="t4" to="t8" rfunc="pobj"/>
+    <dep from="t8" to="t6" rfunc="nummod"/>
+    <dep from="t8" to="t7" rfunc="compound"/>
+    <dep from="t2" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t22" to="t11" rfunc="advcl"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t16" to="t13" rfunc="det"/>
+    <dep from="t12" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t14" rfunc="nummod"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t22" to="t19" rfunc="punct"/>
+    <dep from="t22" to="t20" rfunc="nsubj"/>
+    <dep from="t22" to="t21" rfunc="aux"/>
+    <dep from="t22" to="t23" rfunc="dobj"/>
+    <dep from="t22" to="t24" rfunc="prep"/>
+    <dep from="t28" to="t25" rfunc="det"/>
+    <dep from="t24" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t26" rfunc="compound"/>
+    <dep from="t28" to="t27" rfunc="compound"/>
+    <dep from="t28" to="t29" rfunc="punct"/>
+    <dep from="t32" to="t30" rfunc="det"/>
+    <dep from="t28" to="t32" rfunc="appos"/>
+    <dep from="t32" to="t31" rfunc="amod"/>
+    <dep from="t38" to="t33" rfunc="mark"/>
+    <dep from="t32" to="t38" rfunc="advcl"/>
+    <dep from="t36" to="t34" rfunc="det"/>
+    <dep from="t38" to="t36" rfunc="nsubjpass"/>
+    <dep from="t36" to="t35" rfunc="amod"/>
+    <dep from="t38" to="t37" rfunc="auxpass"/>
+    <dep from="t22" to="t39" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--R o w i n g-->
+        <target id="t11"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Adaptive_rowing" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 0 2 0   S u m m e r   P a r a l y m p i c s-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2020_Summer_Paralympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/XVI_Giochi_paralimpici_estivi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Paralympische_Zomerspelen_2020" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--T o k y o-->
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--J a p a n-->
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Japan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Japan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q17" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--S e a   F o r e s t   W a t e r w a y-->
+        <target id="t26"/>
+        <target id="t27"/>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tokyo_Gate_Bridge" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tokyo_Gate_Bridge" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--p a r a c a n o e i n g-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Paracanoeing_at_the_2020_Summer_Paralympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q17" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-natural_features" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-biological_area" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-identicality" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locating" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

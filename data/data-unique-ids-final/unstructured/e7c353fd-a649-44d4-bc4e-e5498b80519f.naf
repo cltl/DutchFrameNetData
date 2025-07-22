@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2000 IIHF World U18 Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/2000_IIHF_World_U18_Championships"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:50:35UTC" endTimestamp="2020-05-27T16:50:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:50:35UTC" endTimestamp="2020-05-27T16:50:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:50:35UTC" endTimestamp="2020-05-27T16:50:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:50:35UTC" endTimestamp="2020-05-27T16:50:35UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:43CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2000 IIHF World U18 Championships++.
+The 2000 IIHF World U18 Championships were held in Kloten and Weinfelden, Switzerland. The championships ran between April 14 and April 24, 2000. Games were played at Eishalle Schluefweg in Kloten and Sportanlage Güttingersreuti in Weinfelden. Finland defeated Russia 3–1 in the final to win the gold medal, while Sweden defeated Switzerland 7–1 to capture the bronze medal.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2000]]></wf>
+    <wf sent="1" id="w3" length="4" offset="7"><![CDATA[IIHF]]></wf>
+    <wf sent="1" id="w4" length="5" offset="12"><![CDATA[World]]></wf>
+    <wf sent="1" id="w5" length="3" offset="18"><![CDATA[U18]]></wf>
+    <wf sent="1" id="w6" length="15" offset="22"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="37"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="38"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="39"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="4" offset="43"><![CDATA[2000]]></wf>
+    <wf sent="2" id="w11" length="4" offset="48"><![CDATA[IIHF]]></wf>
+    <wf sent="2" id="w12" length="5" offset="53"><![CDATA[World]]></wf>
+    <wf sent="2" id="w13" length="3" offset="59"><![CDATA[U18]]></wf>
+    <wf sent="2" id="w14" length="13" offset="63"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w15" length="4" offset="77"><![CDATA[were]]></wf>
+    <wf sent="2" id="w16" length="4" offset="82"><![CDATA[held]]></wf>
+    <wf sent="2" id="w17" length="2" offset="87"><![CDATA[in]]></wf>
+    <wf sent="2" id="w18" length="6" offset="90"><![CDATA[Kloten]]></wf>
+    <wf sent="2" id="w19" length="3" offset="97"><![CDATA[and]]></wf>
+    <wf sent="2" id="w20" length="10" offset="101"><![CDATA[Weinfelden]]></wf>
+    <wf sent="2" id="w21" length="1" offset="111"><![CDATA[,]]></wf>
+    <wf sent="2" id="w22" length="11" offset="113"><![CDATA[Switzerland]]></wf>
+    <wf sent="2" id="w23" length="1" offset="124"><![CDATA[.]]></wf>
+    <wf sent="3" id="w24" length="3" offset="126"><![CDATA[The]]></wf>
+    <wf sent="3" id="w25" length="13" offset="130"><![CDATA[championships]]></wf>
+    <wf sent="3" id="w26" length="3" offset="144"><![CDATA[ran]]></wf>
+    <wf sent="3" id="w27" length="7" offset="148"><![CDATA[between]]></wf>
+    <wf sent="3" id="w28" length="5" offset="156"><![CDATA[April]]></wf>
+    <wf sent="3" id="w29" length="2" offset="162"><![CDATA[14]]></wf>
+    <wf sent="3" id="w30" length="3" offset="165"><![CDATA[and]]></wf>
+    <wf sent="3" id="w31" length="5" offset="169"><![CDATA[April]]></wf>
+    <wf sent="3" id="w32" length="2" offset="175"><![CDATA[24]]></wf>
+    <wf sent="3" id="w33" length="1" offset="177"><![CDATA[,]]></wf>
+    <wf sent="3" id="w34" length="4" offset="179"><![CDATA[2000]]></wf>
+    <wf sent="3" id="w35" length="1" offset="183"><![CDATA[.]]></wf>
+    <wf sent="4" id="w36" length="5" offset="185"><![CDATA[Games]]></wf>
+    <wf sent="4" id="w37" length="4" offset="191"><![CDATA[were]]></wf>
+    <wf sent="4" id="w38" length="6" offset="196"><![CDATA[played]]></wf>
+    <wf sent="4" id="w39" length="2" offset="203"><![CDATA[at]]></wf>
+    <wf sent="4" id="w40" length="8" offset="206"><![CDATA[Eishalle]]></wf>
+    <wf sent="4" id="w41" length="10" offset="215"><![CDATA[Schluefweg]]></wf>
+    <wf sent="4" id="w42" length="2" offset="226"><![CDATA[in]]></wf>
+    <wf sent="4" id="w43" length="6" offset="229"><![CDATA[Kloten]]></wf>
+    <wf sent="4" id="w44" length="3" offset="236"><![CDATA[and]]></wf>
+    <wf sent="4" id="w45" length="11" offset="240"><![CDATA[Sportanlage]]></wf>
+    <wf sent="4" id="w46" length="15" offset="252"><![CDATA[Güttingersreuti]]></wf>
+    <wf sent="4" id="w47" length="2" offset="268"><![CDATA[in]]></wf>
+    <wf sent="4" id="w48" length="10" offset="271"><![CDATA[Weinfelden]]></wf>
+    <wf sent="4" id="w49" length="1" offset="281"><![CDATA[.]]></wf>
+    <wf sent="5" id="w50" length="7" offset="283"><![CDATA[Finland]]></wf>
+    <wf sent="5" id="w51" length="8" offset="291"><![CDATA[defeated]]></wf>
+    <wf sent="5" id="w52" length="6" offset="300"><![CDATA[Russia]]></wf>
+    <wf sent="5" id="w53" length="3" offset="307"><![CDATA[3–1]]></wf>
+    <wf sent="5" id="w54" length="2" offset="311"><![CDATA[in]]></wf>
+    <wf sent="5" id="w55" length="3" offset="314"><![CDATA[the]]></wf>
+    <wf sent="5" id="w56" length="5" offset="318"><![CDATA[final]]></wf>
+    <wf sent="5" id="w57" length="2" offset="324"><![CDATA[to]]></wf>
+    <wf sent="5" id="w58" length="3" offset="327"><![CDATA[win]]></wf>
+    <wf sent="5" id="w59" length="3" offset="331"><![CDATA[the]]></wf>
+    <wf sent="5" id="w60" length="4" offset="335"><![CDATA[gold]]></wf>
+    <wf sent="5" id="w61" length="5" offset="340"><![CDATA[medal]]></wf>
+    <wf sent="5" id="w62" length="1" offset="345"><![CDATA[,]]></wf>
+    <wf sent="5" id="w63" length="5" offset="347"><![CDATA[while]]></wf>
+    <wf sent="5" id="w64" length="6" offset="353"><![CDATA[Sweden]]></wf>
+    <wf sent="5" id="w65" length="8" offset="360"><![CDATA[defeated]]></wf>
+    <wf sent="5" id="w66" length="11" offset="369"><![CDATA[Switzerland]]></wf>
+    <wf sent="5" id="w67" length="3" offset="381"><![CDATA[7–1]]></wf>
+    <wf sent="5" id="w68" length="2" offset="385"><![CDATA[to]]></wf>
+    <wf sent="5" id="w69" length="7" offset="388"><![CDATA[capture]]></wf>
+    <wf sent="5" id="w70" length="3" offset="396"><![CDATA[the]]></wf>
+    <wf sent="5" id="w71" length="6" offset="400"><![CDATA[bronze]]></wf>
+    <wf sent="5" id="w72" length="5" offset="407"><![CDATA[medal]]></wf>
+    <wf sent="5" id="w73" length="1" offset="412"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2000" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="IIHF" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="U18" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2000" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="IIHF" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="U18" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Kloten" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Weinfelden" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Switzerland" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="championship" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="run" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="14" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="24" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="2000" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Eishalle" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Schluefweg" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Kloten" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Sportanlage" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Güttingersreuti" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Weinfelden" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Finland" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Russia" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="3–1" pos="NUM" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="final" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="gold" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="medal" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="while" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Sweden" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="Switzerland" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="7–1" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="capture" pos="VERB" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="bronze" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="medal" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="punct"/>
+    <dep from="t6" to="t3" rfunc="compound"/>
+    <dep from="t6" to="t4" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t14" to="t9" rfunc="det"/>
+    <dep from="t16" to="t14" rfunc="nsubjpass"/>
+    <dep from="t14" to="t10" rfunc="nummod"/>
+    <dep from="t14" to="t11" rfunc="compound"/>
+    <dep from="t14" to="t12" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="auxpass"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="cc"/>
+    <dep from="t18" to="t20" rfunc="conj"/>
+    <dep from="t20" to="t21" rfunc="punct"/>
+    <dep from="t20" to="t22" rfunc="appos"/>
+    <dep from="t16" to="t23" rfunc="punct"/>
+    <dep from="t25" to="t24" rfunc="det"/>
+    <dep from="t26" to="t25" rfunc="nsubj"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t27" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t29" rfunc="nummod"/>
+    <dep from="t28" to="t30" rfunc="cc"/>
+    <dep from="t28" to="t31" rfunc="conj"/>
+    <dep from="t31" to="t32" rfunc="nummod"/>
+    <dep from="t31" to="t33" rfunc="punct"/>
+    <dep from="t31" to="t34" rfunc="nummod"/>
+    <dep from="t26" to="t35" rfunc="punct"/>
+    <dep from="t38" to="t36" rfunc="nsubjpass"/>
+    <dep from="t38" to="t37" rfunc="auxpass"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t42" to="t43" rfunc="pobj"/>
+    <dep from="t43" to="t44" rfunc="cc"/>
+    <dep from="t46" to="t45" rfunc="compound"/>
+    <dep from="t43" to="t46" rfunc="conj"/>
+    <dep from="t38" to="t47" rfunc="prep"/>
+    <dep from="t47" to="t48" rfunc="pobj"/>
+    <dep from="t38" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="nsubj"/>
+    <dep from="t51" to="t52" rfunc="dobj"/>
+    <dep from="t52" to="t53" rfunc="appos"/>
+    <dep from="t51" to="t54" rfunc="prep"/>
+    <dep from="t56" to="t55" rfunc="det"/>
+    <dep from="t54" to="t56" rfunc="pobj"/>
+    <dep from="t58" to="t57" rfunc="aux"/>
+    <dep from="t51" to="t58" rfunc="advcl"/>
+    <dep from="t61" to="t59" rfunc="det"/>
+    <dep from="t58" to="t61" rfunc="dobj"/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t51" to="t62" rfunc="punct"/>
+    <dep from="t65" to="t63" rfunc="mark"/>
+    <dep from="t51" to="t65" rfunc="advcl"/>
+    <dep from="t65" to="t64" rfunc="nsubj"/>
+    <dep from="t65" to="t66" rfunc="dobj"/>
+    <dep from="t65" to="t67" rfunc="dobj"/>
+    <dep from="t69" to="t68" rfunc="aux"/>
+    <dep from="t65" to="t69" rfunc="xcomp"/>
+    <dep from="t72" to="t70" rfunc="det"/>
+    <dep from="t69" to="t72" rfunc="dobj"/>
+    <dep from="t72" to="t71" rfunc="compound"/>
+    <dep from="t51" to="t73" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--K l o t e n-->
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Kloten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Kloten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kloten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--W e i n f e l d e n-->
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Weinfelden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Weinfelden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S w i t z e r l a n d-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Switzerland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Svizzera" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Zwitserland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q39" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--E i s h a l l e   S c h l u e f w e g-->
+        <target id="t40"/>
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Eishalle_Schluefweg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--F i n l a n d-->
+        <target id="t50"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Finland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q33" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--R u s s i a-->
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Russia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Rusland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q159" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--S w e d e n-->
+        <target id="t64"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Sweden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Svezia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q34" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--S w i t z e r l a n d-->
+        <target id="t66"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Switzerland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Svizzera" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Zwitserland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q39" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t22"/>
+      </span>
+      <span status="system">
+        <target id="t66"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q39" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-self_motion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-getting" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t58"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-desirability" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-concessive" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-conquering" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

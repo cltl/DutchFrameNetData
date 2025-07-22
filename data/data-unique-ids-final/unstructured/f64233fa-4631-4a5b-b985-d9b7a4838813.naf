@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Badminton at the 1970 British Commonwealth Games"/>
+    <public uri="https://en.wikipedia.org/wiki/Badminton_at_the_1970_British_Commonwealth_Games"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:45:49UTC" endTimestamp="2020-05-27T16:45:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:45:49UTC" endTimestamp="2020-05-27T16:45:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:45:49UTC" endTimestamp="2020-05-27T16:45:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:45:49UTC" endTimestamp="2020-05-27T16:45:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:59CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Badminton at the 1970 British Commonwealth Games++.
+The badminton competition at the 1970 British Commonwealth Games took place in Edinburgh, Scotland from 16 July until 21 July 1970.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="9" offset="2"><![CDATA[Badminton]]></wf>
+    <wf sent="1" id="w4" length="2" offset="12"><![CDATA[at]]></wf>
+    <wf sent="1" id="w5" length="3" offset="15"><![CDATA[the]]></wf>
+    <wf sent="1" id="w6" length="4" offset="19"><![CDATA[1970]]></wf>
+    <wf sent="1" id="w7" length="7" offset="24"><![CDATA[British]]></wf>
+    <wf sent="1" id="w8" length="12" offset="32"><![CDATA[Commonwealth]]></wf>
+    <wf sent="1" id="w9" length="7" offset="45"><![CDATA[Games++]]></wf>
+    <wf sent="1" id="w10" length="1" offset="52"><![CDATA[.]]></wf>
+    <wf sent="1" id="w11" length="1" offset="53"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w12" length="3" offset="54"><![CDATA[The]]></wf>
+    <wf sent="2" id="w13" length="9" offset="58"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w14" length="11" offset="68"><![CDATA[competition]]></wf>
+    <wf sent="2" id="w15" length="2" offset="80"><![CDATA[at]]></wf>
+    <wf sent="2" id="w16" length="3" offset="83"><![CDATA[the]]></wf>
+    <wf sent="2" id="w17" length="4" offset="87"><![CDATA[1970]]></wf>
+    <wf sent="2" id="w18" length="7" offset="92"><![CDATA[British]]></wf>
+    <wf sent="2" id="w19" length="12" offset="100"><![CDATA[Commonwealth]]></wf>
+    <wf sent="2" id="w20" length="5" offset="113"><![CDATA[Games]]></wf>
+    <wf sent="2" id="w21" length="4" offset="119"><![CDATA[took]]></wf>
+    <wf sent="2" id="w22" length="5" offset="124"><![CDATA[place]]></wf>
+    <wf sent="2" id="w23" length="2" offset="130"><![CDATA[in]]></wf>
+    <wf sent="2" id="w24" length="9" offset="133"><![CDATA[Edinburgh]]></wf>
+    <wf sent="2" id="w25" length="1" offset="142"><![CDATA[,]]></wf>
+    <wf sent="2" id="w26" length="8" offset="144"><![CDATA[Scotland]]></wf>
+    <wf sent="2" id="w27" length="4" offset="153"><![CDATA[from]]></wf>
+    <wf sent="2" id="w28" length="2" offset="158"><![CDATA[16]]></wf>
+    <wf sent="2" id="w29" length="4" offset="161"><![CDATA[July]]></wf>
+    <wf sent="2" id="w30" length="5" offset="166"><![CDATA[until]]></wf>
+    <wf sent="2" id="w31" length="2" offset="172"><![CDATA[21]]></wf>
+    <wf sent="2" id="w32" length="4" offset="175"><![CDATA[July]]></wf>
+    <wf sent="2" id="w33" length="4" offset="180"><![CDATA[1970]]></wf>
+    <wf sent="2" id="w34" length="1" offset="184"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Badminton" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="1970" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="British" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Commonwealth" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Games++" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="1970" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="British" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Commonwealth" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Edinburgh" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="until" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="1970" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t9" to="t5" rfunc="det"/>
+    <dep from="t4" to="t9" rfunc="pobj"/>
+    <dep from="t9" to="t6" rfunc="nummod"/>
+    <dep from="t9" to="t7" rfunc="compound"/>
+    <dep from="t9" to="t8" rfunc="compound"/>
+    <dep from="t3" to="t10" rfunc="punct"/>
+    <dep from="t10" to="t11" rfunc=""/>
+    <dep from="t14" to="t12" rfunc="det"/>
+    <dep from="t21" to="t14" rfunc="nsubj"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t20" to="t16" rfunc="det"/>
+    <dep from="t15" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t17" rfunc="nummod"/>
+    <dep from="t20" to="t18" rfunc="compound"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t22" rfunc="dobj"/>
+    <dep from="t21" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="punct"/>
+    <dep from="t24" to="t26" rfunc="appos"/>
+    <dep from="t21" to="t27" rfunc="prep"/>
+    <dep from="t29" to="t28" rfunc="nummod"/>
+    <dep from="t27" to="t29" rfunc="pobj"/>
+    <dep from="t27" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t32" to="t33" rfunc="nummod"/>
+    <dep from="t21" to="t34" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--1 9 7 0   B r i t i s h   C o m m o n w e a l t h   G a m e s-->
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1970_British_Commonwealth_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/IX_Giochi_del_Commonwealth_Britannico" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Britse_Gemenebestspelen_1970" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--E d i n b u r g h-->
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Edinburgh" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Edimburgo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S c o t l a n d-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Scotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Scozia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Schotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-time_vector" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

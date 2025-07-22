@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Rowing at the 2013 Mediterranean Games"/>
+    <public uri="https://en.wikipedia.org/wiki/Rowing_at_the_2013_Mediterranean_Games"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T08:47:00UTC" endTimestamp="2020-05-28T08:47:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T08:47:00UTC" endTimestamp="2020-05-28T08:47:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T08:47:00UTC" endTimestamp="2020-05-28T08:47:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T08:47:00UTC" endTimestamp="2020-05-28T08:47:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:38CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Rowing at the 2013 Mediterranean Games++.
+The rowing competitions at the 2013 Mediterranean Games in Mersin took place between 21 June and 23 June at the Çukurova University Boathouse Venues. Çukurova University is in Adana.
+Athletes competed in 7 events. Women's lightweight double sculls was cancelled because too few nations applied.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="2" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="2" id="w3" length="6" offset="2"><![CDATA[Rowing]]></wf>
+    <wf sent="2" id="w4" length="2" offset="9"><![CDATA[at]]></wf>
+    <wf sent="2" id="w5" length="3" offset="12"><![CDATA[the]]></wf>
+    <wf sent="2" id="w6" length="4" offset="16"><![CDATA[2013]]></wf>
+    <wf sent="2" id="w7" length="13" offset="21"><![CDATA[Mediterranean]]></wf>
+    <wf sent="2" id="w8" length="7" offset="35"><![CDATA[Games++]]></wf>
+    <wf sent="2" id="w9" length="1" offset="42"><![CDATA[.]]></wf>
+    <wf sent="2" id="w10" length="1" offset="43"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w11" length="3" offset="44"><![CDATA[The]]></wf>
+    <wf sent="3" id="w12" length="6" offset="48"><![CDATA[rowing]]></wf>
+    <wf sent="3" id="w13" length="12" offset="55"><![CDATA[competitions]]></wf>
+    <wf sent="3" id="w14" length="2" offset="68"><![CDATA[at]]></wf>
+    <wf sent="3" id="w15" length="3" offset="71"><![CDATA[the]]></wf>
+    <wf sent="3" id="w16" length="4" offset="75"><![CDATA[2013]]></wf>
+    <wf sent="3" id="w17" length="13" offset="80"><![CDATA[Mediterranean]]></wf>
+    <wf sent="3" id="w18" length="5" offset="94"><![CDATA[Games]]></wf>
+    <wf sent="3" id="w19" length="2" offset="100"><![CDATA[in]]></wf>
+    <wf sent="3" id="w20" length="6" offset="103"><![CDATA[Mersin]]></wf>
+    <wf sent="3" id="w21" length="4" offset="110"><![CDATA[took]]></wf>
+    <wf sent="3" id="w22" length="5" offset="115"><![CDATA[place]]></wf>
+    <wf sent="3" id="w23" length="7" offset="121"><![CDATA[between]]></wf>
+    <wf sent="3" id="w24" length="2" offset="129"><![CDATA[21]]></wf>
+    <wf sent="3" id="w25" length="4" offset="132"><![CDATA[June]]></wf>
+    <wf sent="3" id="w26" length="3" offset="137"><![CDATA[and]]></wf>
+    <wf sent="3" id="w27" length="2" offset="141"><![CDATA[23]]></wf>
+    <wf sent="3" id="w28" length="4" offset="144"><![CDATA[June]]></wf>
+    <wf sent="3" id="w29" length="2" offset="149"><![CDATA[at]]></wf>
+    <wf sent="3" id="w30" length="3" offset="152"><![CDATA[the]]></wf>
+    <wf sent="3" id="w31" length="8" offset="156"><![CDATA[Çukurova]]></wf>
+    <wf sent="3" id="w32" length="10" offset="165"><![CDATA[University]]></wf>
+    <wf sent="3" id="w33" length="9" offset="176"><![CDATA[Boathouse]]></wf>
+    <wf sent="3" id="w34" length="6" offset="186"><![CDATA[Venues]]></wf>
+    <wf sent="3" id="w35" length="1" offset="192"><![CDATA[.]]></wf>
+    <wf sent="4" id="w36" length="8" offset="194"><![CDATA[Çukurova]]></wf>
+    <wf sent="4" id="w37" length="10" offset="203"><![CDATA[University]]></wf>
+    <wf sent="4" id="w38" length="2" offset="214"><![CDATA[is]]></wf>
+    <wf sent="4" id="w39" length="2" offset="217"><![CDATA[in]]></wf>
+    <wf sent="4" id="w40" length="5" offset="220"><![CDATA[Adana]]></wf>
+    <wf sent="4" id="w41" length="1" offset="225"><![CDATA[.]]></wf>
+    <wf sent="4" id="w42" length="1" offset="226"><![CDATA[
+]]></wf>
+    <wf sent="5" id="w43" length="8" offset="227"><![CDATA[Athletes]]></wf>
+    <wf sent="5" id="w44" length="8" offset="236"><![CDATA[competed]]></wf>
+    <wf sent="5" id="w45" length="2" offset="245"><![CDATA[in]]></wf>
+    <wf sent="5" id="w46" length="1" offset="248"><![CDATA[7]]></wf>
+    <wf sent="5" id="w47" length="6" offset="250"><![CDATA[events]]></wf>
+    <wf sent="5" id="w48" length="1" offset="256"><![CDATA[.]]></wf>
+    <wf sent="6" id="w49" length="5" offset="258"><![CDATA[Women]]></wf>
+    <wf sent="6" id="w50" length="2" offset="263"><![CDATA['s]]></wf>
+    <wf sent="6" id="w51" length="11" offset="266"><![CDATA[lightweight]]></wf>
+    <wf sent="6" id="w52" length="6" offset="278"><![CDATA[double]]></wf>
+    <wf sent="6" id="w53" length="6" offset="285"><![CDATA[sculls]]></wf>
+    <wf sent="6" id="w54" length="3" offset="292"><![CDATA[was]]></wf>
+    <wf sent="6" id="w55" length="9" offset="296"><![CDATA[cancelled]]></wf>
+    <wf sent="6" id="w56" length="7" offset="306"><![CDATA[because]]></wf>
+    <wf sent="6" id="w57" length="3" offset="314"><![CDATA[too]]></wf>
+    <wf sent="6" id="w58" length="3" offset="318"><![CDATA[few]]></wf>
+    <wf sent="6" id="w59" length="7" offset="322"><![CDATA[nations]]></wf>
+    <wf sent="6" id="w60" length="7" offset="330"><![CDATA[applied]]></wf>
+    <wf sent="6" id="w61" length="1" offset="337"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="row" pos="VERB" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2013" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Mediterranean" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Games++" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="rowing" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="2013" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Mediterranean" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Mersin" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="23" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Çukurova" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="University" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Boathouse" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Venues" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Çukurova" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="University" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Adana" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Athletes" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="compete" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="lightweight" pos="ADJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="double" pos="ADJ" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="scull" pos="NOUN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="cancel" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="because" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="too" pos="ADV" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="few" pos="ADJ" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="nation" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="apply" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t3" rfunc="npadvmod"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t8" to="t5" rfunc="det"/>
+    <dep from="t4" to="t8" rfunc="pobj"/>
+    <dep from="t8" to="t6" rfunc="nummod"/>
+    <dep from="t8" to="t7" rfunc="amod"/>
+    <dep from="t2" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t13" to="t11" rfunc="det"/>
+    <dep from="t21" to="t13" rfunc="nsubj"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t16" rfunc="nummod"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t19" to="t20" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="dobj"/>
+    <dep from="t24" to="t23" rfunc="quantmod"/>
+    <dep from="t25" to="t24" rfunc="nummod"/>
+    <dep from="t21" to="t25" rfunc="npadvmod"/>
+    <dep from="t25" to="t26" rfunc="cc"/>
+    <dep from="t28" to="t27" rfunc="nummod"/>
+    <dep from="t25" to="t28" rfunc="conj"/>
+    <dep from="t21" to="t29" rfunc="prep"/>
+    <dep from="t34" to="t30" rfunc="det"/>
+    <dep from="t29" to="t34" rfunc="pobj"/>
+    <dep from="t32" to="t31" rfunc="compound"/>
+    <dep from="t34" to="t32" rfunc="compound"/>
+    <dep from="t34" to="t33" rfunc="compound"/>
+    <dep from="t21" to="t35" rfunc="punct"/>
+    <dep from="t37" to="t36" rfunc="compound"/>
+    <dep from="t38" to="t37" rfunc="nsubj"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t39" to="t40" rfunc="pobj"/>
+    <dep from="t38" to="t41" rfunc="punct"/>
+    <dep from="t41" to="t42" rfunc=""/>
+    <dep from="t44" to="t43" rfunc="nsubj"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t47" to="t46" rfunc="nummod"/>
+    <dep from="t45" to="t47" rfunc="pobj"/>
+    <dep from="t44" to="t48" rfunc="punct"/>
+    <dep from="t53" to="t49" rfunc="poss"/>
+    <dep from="t55" to="t53" rfunc="nsubjpass"/>
+    <dep from="t49" to="t50" rfunc="case"/>
+    <dep from="t53" to="t51" rfunc="amod"/>
+    <dep from="t53" to="t52" rfunc="amod"/>
+    <dep from="t55" to="t54" rfunc="auxpass"/>
+    <dep from="t60" to="t56" rfunc="mark"/>
+    <dep from="t55" to="t60" rfunc="advcl"/>
+    <dep from="t58" to="t57" rfunc="advmod"/>
+    <dep from="t59" to="t58" rfunc="amod"/>
+    <dep from="t60" to="t59" rfunc="nsubj"/>
+    <dep from="t55" to="t61" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--r o w i n g-->
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Rowing_(sport)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 0 1 3   M e d i t e r r a n e a n   G a m e s-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2013_Mediterranean_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/XVII_Giochi_del_Mediterraneo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Middellandse_Zeespelen_2013" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--M e r s i n-->
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mersin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mersin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--Ç u k u r o v a   U n i v e r s i t y-->
+        <target id="t31"/>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Çukurova_University" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--A d a n a-->
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Adana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Adana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-quantified_mass" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t58"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-using" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,1074 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1984 Summer Olympics opening ceremony"/>
+    <public uri="https://en.wikipedia.org/wiki/1984_Summer_Olympics_opening_ceremony"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:12:10UTC" endTimestamp="2020-05-27T22:12:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:12:10UTC" endTimestamp="2020-05-27T22:12:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:12:10UTC" endTimestamp="2020-05-27T22:12:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:12:10UTC" endTimestamp="2020-05-27T22:12:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:52CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1984 Summer Olympics opening ceremony++.
+The opening ceremony of the 1984 Summer Olympic Games took place on the evening of Friday 28 July in the Los Angeles Memorial Coliseum, Los Angeles. As mandated by the Olympic Charter, the proceedings combined the formal ceremonial opening of this international sporting event (including welcoming speeches, hoisting of the flags and the parade of athletes) with an artistic spectacle to showcase the host nation's culture. The 1984 Games were formally opened by President Ronald Reagan. The spectacle was in front of 92,516 attendants. The ceremony was a $5 million production and titled Music of America.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1984]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Summer]]></wf>
+    <wf sent="1" id="w4" length="8" offset="14"><![CDATA[Olympics]]></wf>
+    <wf sent="1" id="w5" length="7" offset="23"><![CDATA[opening]]></wf>
+    <wf sent="1" id="w6" length="10" offset="31"><![CDATA[ceremony++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="41"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="42"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="43"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="7" offset="47"><![CDATA[opening]]></wf>
+    <wf sent="2" id="w11" length="8" offset="55"><![CDATA[ceremony]]></wf>
+    <wf sent="2" id="w12" length="2" offset="64"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="3" offset="67"><![CDATA[the]]></wf>
+    <wf sent="2" id="w14" length="4" offset="71"><![CDATA[1984]]></wf>
+    <wf sent="2" id="w15" length="6" offset="76"><![CDATA[Summer]]></wf>
+    <wf sent="2" id="w16" length="7" offset="83"><![CDATA[Olympic]]></wf>
+    <wf sent="2" id="w17" length="5" offset="91"><![CDATA[Games]]></wf>
+    <wf sent="2" id="w18" length="4" offset="97"><![CDATA[took]]></wf>
+    <wf sent="2" id="w19" length="5" offset="102"><![CDATA[place]]></wf>
+    <wf sent="2" id="w20" length="2" offset="108"><![CDATA[on]]></wf>
+    <wf sent="2" id="w21" length="3" offset="111"><![CDATA[the]]></wf>
+    <wf sent="2" id="w22" length="7" offset="115"><![CDATA[evening]]></wf>
+    <wf sent="2" id="w23" length="2" offset="123"><![CDATA[of]]></wf>
+    <wf sent="2" id="w24" length="6" offset="126"><![CDATA[Friday]]></wf>
+    <wf sent="2" id="w25" length="2" offset="133"><![CDATA[28]]></wf>
+    <wf sent="2" id="w26" length="4" offset="136"><![CDATA[July]]></wf>
+    <wf sent="2" id="w27" length="2" offset="141"><![CDATA[in]]></wf>
+    <wf sent="2" id="w28" length="3" offset="144"><![CDATA[the]]></wf>
+    <wf sent="2" id="w29" length="3" offset="148"><![CDATA[Los]]></wf>
+    <wf sent="2" id="w30" length="7" offset="152"><![CDATA[Angeles]]></wf>
+    <wf sent="2" id="w31" length="8" offset="160"><![CDATA[Memorial]]></wf>
+    <wf sent="2" id="w32" length="8" offset="169"><![CDATA[Coliseum]]></wf>
+    <wf sent="2" id="w33" length="1" offset="177"><![CDATA[,]]></wf>
+    <wf sent="2" id="w34" length="3" offset="179"><![CDATA[Los]]></wf>
+    <wf sent="2" id="w35" length="7" offset="183"><![CDATA[Angeles]]></wf>
+    <wf sent="2" id="w36" length="1" offset="190"><![CDATA[.]]></wf>
+    <wf sent="3" id="w37" length="2" offset="192"><![CDATA[As]]></wf>
+    <wf sent="3" id="w38" length="8" offset="195"><![CDATA[mandated]]></wf>
+    <wf sent="3" id="w39" length="2" offset="204"><![CDATA[by]]></wf>
+    <wf sent="3" id="w40" length="3" offset="207"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="7" offset="211"><![CDATA[Olympic]]></wf>
+    <wf sent="3" id="w42" length="7" offset="219"><![CDATA[Charter]]></wf>
+    <wf sent="3" id="w43" length="1" offset="226"><![CDATA[,]]></wf>
+    <wf sent="3" id="w44" length="3" offset="228"><![CDATA[the]]></wf>
+    <wf sent="3" id="w45" length="11" offset="232"><![CDATA[proceedings]]></wf>
+    <wf sent="3" id="w46" length="8" offset="244"><![CDATA[combined]]></wf>
+    <wf sent="3" id="w47" length="3" offset="253"><![CDATA[the]]></wf>
+    <wf sent="3" id="w48" length="6" offset="257"><![CDATA[formal]]></wf>
+    <wf sent="3" id="w49" length="10" offset="264"><![CDATA[ceremonial]]></wf>
+    <wf sent="3" id="w50" length="7" offset="275"><![CDATA[opening]]></wf>
+    <wf sent="3" id="w51" length="2" offset="283"><![CDATA[of]]></wf>
+    <wf sent="3" id="w52" length="4" offset="286"><![CDATA[this]]></wf>
+    <wf sent="3" id="w53" length="13" offset="291"><![CDATA[international]]></wf>
+    <wf sent="3" id="w54" length="8" offset="305"><![CDATA[sporting]]></wf>
+    <wf sent="3" id="w55" length="5" offset="314"><![CDATA[event]]></wf>
+    <wf sent="3" id="w56" length="1" offset="320"><![CDATA[(]]></wf>
+    <wf sent="3" id="w57" length="9" offset="321"><![CDATA[including]]></wf>
+    <wf sent="3" id="w58" length="9" offset="331"><![CDATA[welcoming]]></wf>
+    <wf sent="3" id="w59" length="8" offset="341"><![CDATA[speeches]]></wf>
+    <wf sent="3" id="w60" length="1" offset="349"><![CDATA[,]]></wf>
+    <wf sent="3" id="w61" length="8" offset="351"><![CDATA[hoisting]]></wf>
+    <wf sent="3" id="w62" length="2" offset="360"><![CDATA[of]]></wf>
+    <wf sent="3" id="w63" length="3" offset="363"><![CDATA[the]]></wf>
+    <wf sent="3" id="w64" length="5" offset="367"><![CDATA[flags]]></wf>
+    <wf sent="3" id="w65" length="3" offset="373"><![CDATA[and]]></wf>
+    <wf sent="3" id="w66" length="3" offset="377"><![CDATA[the]]></wf>
+    <wf sent="3" id="w67" length="6" offset="381"><![CDATA[parade]]></wf>
+    <wf sent="3" id="w68" length="2" offset="388"><![CDATA[of]]></wf>
+    <wf sent="3" id="w69" length="8" offset="391"><![CDATA[athletes]]></wf>
+    <wf sent="3" id="w70" length="1" offset="399"><![CDATA[)]]></wf>
+    <wf sent="3" id="w71" length="4" offset="401"><![CDATA[with]]></wf>
+    <wf sent="3" id="w72" length="2" offset="406"><![CDATA[an]]></wf>
+    <wf sent="3" id="w73" length="8" offset="409"><![CDATA[artistic]]></wf>
+    <wf sent="3" id="w74" length="9" offset="418"><![CDATA[spectacle]]></wf>
+    <wf sent="3" id="w75" length="2" offset="428"><![CDATA[to]]></wf>
+    <wf sent="3" id="w76" length="8" offset="431"><![CDATA[showcase]]></wf>
+    <wf sent="3" id="w77" length="3" offset="440"><![CDATA[the]]></wf>
+    <wf sent="3" id="w78" length="4" offset="444"><![CDATA[host]]></wf>
+    <wf sent="3" id="w79" length="6" offset="449"><![CDATA[nation]]></wf>
+    <wf sent="3" id="w80" length="2" offset="455"><![CDATA['s]]></wf>
+    <wf sent="3" id="w81" length="7" offset="458"><![CDATA[culture]]></wf>
+    <wf sent="3" id="w82" length="1" offset="465"><![CDATA[.]]></wf>
+    <wf sent="4" id="w83" length="3" offset="467"><![CDATA[The]]></wf>
+    <wf sent="4" id="w84" length="4" offset="471"><![CDATA[1984]]></wf>
+    <wf sent="4" id="w85" length="5" offset="476"><![CDATA[Games]]></wf>
+    <wf sent="4" id="w86" length="4" offset="482"><![CDATA[were]]></wf>
+    <wf sent="4" id="w87" length="8" offset="487"><![CDATA[formally]]></wf>
+    <wf sent="4" id="w88" length="6" offset="496"><![CDATA[opened]]></wf>
+    <wf sent="4" id="w89" length="2" offset="503"><![CDATA[by]]></wf>
+    <wf sent="4" id="w90" length="9" offset="506"><![CDATA[President]]></wf>
+    <wf sent="4" id="w91" length="6" offset="516"><![CDATA[Ronald]]></wf>
+    <wf sent="4" id="w92" length="6" offset="523"><![CDATA[Reagan]]></wf>
+    <wf sent="4" id="w93" length="1" offset="529"><![CDATA[.]]></wf>
+    <wf sent="5" id="w94" length="3" offset="531"><![CDATA[The]]></wf>
+    <wf sent="5" id="w95" length="9" offset="535"><![CDATA[spectacle]]></wf>
+    <wf sent="5" id="w96" length="3" offset="545"><![CDATA[was]]></wf>
+    <wf sent="5" id="w97" length="2" offset="549"><![CDATA[in]]></wf>
+    <wf sent="5" id="w98" length="5" offset="552"><![CDATA[front]]></wf>
+    <wf sent="5" id="w99" length="2" offset="558"><![CDATA[of]]></wf>
+    <wf sent="5" id="w100" length="6" offset="561"><![CDATA[92,516]]></wf>
+    <wf sent="5" id="w101" length="10" offset="568"><![CDATA[attendants]]></wf>
+    <wf sent="5" id="w102" length="1" offset="578"><![CDATA[.]]></wf>
+    <wf sent="6" id="w103" length="3" offset="580"><![CDATA[The]]></wf>
+    <wf sent="6" id="w104" length="8" offset="584"><![CDATA[ceremony]]></wf>
+    <wf sent="6" id="w105" length="3" offset="593"><![CDATA[was]]></wf>
+    <wf sent="6" id="w106" length="1" offset="597"><![CDATA[a]]></wf>
+    <wf sent="6" id="w107" length="1" offset="599"><![CDATA[$]]></wf>
+    <wf sent="6" id="w108" length="1" offset="600"><![CDATA[5]]></wf>
+    <wf sent="6" id="w109" length="7" offset="602"><![CDATA[million]]></wf>
+    <wf sent="6" id="w110" length="10" offset="610"><![CDATA[production]]></wf>
+    <wf sent="6" id="w111" length="3" offset="621"><![CDATA[and]]></wf>
+    <wf sent="6" id="w112" length="6" offset="625"><![CDATA[titled]]></wf>
+    <wf sent="6" id="w113" length="5" offset="632"><![CDATA[Music]]></wf>
+    <wf sent="6" id="w114" length="2" offset="638"><![CDATA[of]]></wf>
+    <wf sent="6" id="w115" length="7" offset="641"><![CDATA[America]]></wf>
+    <wf sent="6" id="w116" length="1" offset="648"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1984" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Olympics" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="opening" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="ceremony++" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="opening" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="1984" pos="NUM" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Olympic" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="evening" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Friday" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="28" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Los" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Angeles" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Memorial" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Coliseum" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Los" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Angeles" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="mandate" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Olympic" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Charter" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="proceeding" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="combine" pos="VERB" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="formal" pos="ADJ" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="ceremonial" pos="ADJ" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="opening" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="this" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="international" pos="ADJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="sporting" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="include" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="welcome" pos="VERB" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="speech" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="hoist" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="flag" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="parade" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="athlete" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="artistic" pos="ADJ" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="spectacle" pos="NOUN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="showcase" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="host" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="nation" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="culture" pos="NOUN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="1984" pos="NUM" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="formally" pos="ADV" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="open" pos="VERB" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="President" pos="PROPN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="Ronald" pos="PROPN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="Reagan" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="spectacle" pos="NOUN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="front" pos="NOUN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="92,516" pos="NUM" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="attendant" pos="NOUN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="$" pos="SYM" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="million" pos="NUM" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="production" pos="NOUN" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="title" pos="VERB" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="Music" pos="PROPN" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="America" pos="PROPN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="punct"/>
+    <dep from="t4" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t4" to="t5" rfunc="acl"/>
+    <dep from="t5" to="t6" rfunc="dobj"/>
+    <dep from="t4" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t18" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t17" to="t13" rfunc="det"/>
+    <dep from="t12" to="t17" rfunc="pobj"/>
+    <dep from="t17" to="t14" rfunc="nummod"/>
+    <dep from="t17" to="t15" rfunc="compound"/>
+    <dep from="t17" to="t16" rfunc="compound"/>
+    <dep from="t18" to="t19" rfunc="dobj"/>
+    <dep from="t18" to="t20" rfunc="prep"/>
+    <dep from="t22" to="t21" rfunc="det"/>
+    <dep from="t20" to="t22" rfunc="pobj"/>
+    <dep from="t22" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t26" to="t25" rfunc="nummod"/>
+    <dep from="t24" to="t26" rfunc="appos"/>
+    <dep from="t22" to="t27" rfunc="prep"/>
+    <dep from="t32" to="t28" rfunc="det"/>
+    <dep from="t27" to="t32" rfunc="pobj"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t32" to="t30" rfunc="compound"/>
+    <dep from="t32" to="t31" rfunc="compound"/>
+    <dep from="t32" to="t33" rfunc="punct"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t32" to="t35" rfunc="appos"/>
+    <dep from="t18" to="t36" rfunc="punct"/>
+    <dep from="t38" to="t37" rfunc="mark"/>
+    <dep from="t46" to="t38" rfunc="advcl"/>
+    <dep from="t38" to="t39" rfunc="agent"/>
+    <dep from="t42" to="t40" rfunc="det"/>
+    <dep from="t39" to="t42" rfunc="pobj"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t46" to="t43" rfunc="punct"/>
+    <dep from="t45" to="t44" rfunc="det"/>
+    <dep from="t46" to="t45" rfunc="nsubj"/>
+    <dep from="t50" to="t47" rfunc="det"/>
+    <dep from="t46" to="t50" rfunc="dobj"/>
+    <dep from="t50" to="t48" rfunc="amod"/>
+    <dep from="t50" to="t49" rfunc="amod"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t55" to="t52" rfunc="det"/>
+    <dep from="t51" to="t55" rfunc="pobj"/>
+    <dep from="t55" to="t53" rfunc="amod"/>
+    <dep from="t55" to="t54" rfunc="compound"/>
+    <dep from="t55" to="t56" rfunc="punct"/>
+    <dep from="t55" to="t57" rfunc="prep"/>
+    <dep from="t57" to="t58" rfunc="pcomp"/>
+    <dep from="t58" to="t59" rfunc="dobj"/>
+    <dep from="t58" to="t60" rfunc="punct"/>
+    <dep from="t58" to="t61" rfunc="conj"/>
+    <dep from="t61" to="t62" rfunc="prep"/>
+    <dep from="t64" to="t63" rfunc="det"/>
+    <dep from="t62" to="t64" rfunc="pobj"/>
+    <dep from="t64" to="t65" rfunc="cc"/>
+    <dep from="t67" to="t66" rfunc="det"/>
+    <dep from="t64" to="t67" rfunc="conj"/>
+    <dep from="t67" to="t68" rfunc="prep"/>
+    <dep from="t68" to="t69" rfunc="pobj"/>
+    <dep from="t55" to="t70" rfunc="punct"/>
+    <dep from="t50" to="t71" rfunc="prep"/>
+    <dep from="t74" to="t72" rfunc="det"/>
+    <dep from="t71" to="t74" rfunc="pobj"/>
+    <dep from="t74" to="t73" rfunc="amod"/>
+    <dep from="t76" to="t75" rfunc="aux"/>
+    <dep from="t74" to="t76" rfunc="relcl"/>
+    <dep from="t79" to="t77" rfunc="det"/>
+    <dep from="t81" to="t79" rfunc="poss"/>
+    <dep from="t76" to="t81" rfunc="dobj"/>
+    <dep from="t79" to="t78" rfunc="compound"/>
+    <dep from="t79" to="t80" rfunc="case"/>
+    <dep from="t46" to="t82" rfunc="punct"/>
+    <dep from="t85" to="t83" rfunc="det"/>
+    <dep from="t88" to="t85" rfunc="nsubjpass"/>
+    <dep from="t85" to="t84" rfunc="nummod"/>
+    <dep from="t88" to="t86" rfunc="auxpass"/>
+    <dep from="t88" to="t87" rfunc="advmod"/>
+    <dep from="t88" to="t89" rfunc="agent"/>
+    <dep from="t92" to="t90" rfunc="compound"/>
+    <dep from="t89" to="t92" rfunc="pobj"/>
+    <dep from="t92" to="t91" rfunc="compound"/>
+    <dep from="t88" to="t93" rfunc="punct"/>
+    <dep from="t95" to="t94" rfunc="det"/>
+    <dep from="t96" to="t95" rfunc="nsubj"/>
+    <dep from="t96" to="t97" rfunc="prep"/>
+    <dep from="t97" to="t98" rfunc="pobj"/>
+    <dep from="t98" to="t99" rfunc="prep"/>
+    <dep from="t101" to="t100" rfunc="nummod"/>
+    <dep from="t99" to="t101" rfunc="pobj"/>
+    <dep from="t96" to="t102" rfunc="punct"/>
+    <dep from="t104" to="t103" rfunc="det"/>
+    <dep from="t105" to="t104" rfunc="nsubj"/>
+    <dep from="t110" to="t106" rfunc="det"/>
+    <dep from="t105" to="t110" rfunc="attr"/>
+    <dep from="t109" to="t107" rfunc="quantmod"/>
+    <dep from="t110" to="t109" rfunc="nummod"/>
+    <dep from="t109" to="t108" rfunc="compound"/>
+    <dep from="t105" to="t111" rfunc="cc"/>
+    <dep from="t105" to="t112" rfunc="conj"/>
+    <dep from="t112" to="t113" rfunc="dobj"/>
+    <dep from="t113" to="t114" rfunc="prep"/>
+    <dep from="t114" to="t115" rfunc="pobj"/>
+    <dep from="t105" to="t116" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--1 9 8 4   S u m m e r   O l y m p i c   G a m e s-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1984_Summer_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Giochi_della_XXIII_Olimpiade" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympische_Zomerspelen_1984" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--L o s   A n g e l e s   M e m o r i a l   C o l i s e u m-->
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/LA_Memorial_Coliseum" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--L o s   A n g e l e s-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Los_Angeles" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Los_Angeles_Magazine" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Los_Angeles" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--O l y m p i c   C h a r t e r-->
+        <target id="t41"/>
+        <target id="t42"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Olympic_Charter" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Carta_Olimpica" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympisch_Handvest" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--R o n a l d   R e a g a n-->
+        <target id="t91"/>
+        <target id="t92"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ronald_Reagan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ronald_Reagan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ronald_Reagan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-closure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-deny_or_grant_permission" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_amalgamate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-inclusion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-fields" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t79"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-appellations" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-front_for" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t98"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t109"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-manufacturing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t110"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Vyborg"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Vyborg"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:54:33UTC" endTimestamp="2020-05-28T17:54:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:54:33UTC" endTimestamp="2020-05-28T17:54:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:54:33UTC" endTimestamp="2020-05-28T17:54:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:54:33UTC" endTimestamp="2020-05-28T17:54:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:08CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Vyborg++.
+The Battle of Vyborg was a 1918 Finnish Civil War battle, fought 24–29 April between the Finnish Whites against the Finnish Reds in Vyborg (). Together with the Battle of Tampere and Battle of Helsinki, it was one of the three major urban battles of the Finnish Civil War. The battle is also remembered because of its bloody aftermath, as the Whites executed up to 400 non-aligned military personnel and civilians of Russian and associated ethnicities in an effort to kill all of the suspected Red Guards.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="8" offset="12"><![CDATA[Vyborg++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="26"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="33"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="6" offset="36"><![CDATA[Vyborg]]></wf>
+    <wf sent="2" id="w12" length="3" offset="43"><![CDATA[was]]></wf>
+    <wf sent="2" id="w13" length="1" offset="47"><![CDATA[a]]></wf>
+    <wf sent="2" id="w14" length="4" offset="49"><![CDATA[1918]]></wf>
+    <wf sent="2" id="w15" length="7" offset="54"><![CDATA[Finnish]]></wf>
+    <wf sent="2" id="w16" length="5" offset="62"><![CDATA[Civil]]></wf>
+    <wf sent="2" id="w17" length="3" offset="68"><![CDATA[War]]></wf>
+    <wf sent="2" id="w18" length="6" offset="72"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w19" length="1" offset="78"><![CDATA[,]]></wf>
+    <wf sent="2" id="w20" length="6" offset="80"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w21" length="5" offset="87"><![CDATA[24–29]]></wf>
+    <wf sent="2" id="w22" length="5" offset="93"><![CDATA[April]]></wf>
+    <wf sent="2" id="w23" length="7" offset="99"><![CDATA[between]]></wf>
+    <wf sent="2" id="w24" length="3" offset="107"><![CDATA[the]]></wf>
+    <wf sent="2" id="w25" length="7" offset="111"><![CDATA[Finnish]]></wf>
+    <wf sent="2" id="w26" length="6" offset="119"><![CDATA[Whites]]></wf>
+    <wf sent="2" id="w27" length="7" offset="126"><![CDATA[against]]></wf>
+    <wf sent="2" id="w28" length="3" offset="134"><![CDATA[the]]></wf>
+    <wf sent="2" id="w29" length="7" offset="138"><![CDATA[Finnish]]></wf>
+    <wf sent="2" id="w30" length="4" offset="146"><![CDATA[Reds]]></wf>
+    <wf sent="2" id="w31" length="2" offset="151"><![CDATA[in]]></wf>
+    <wf sent="2" id="w32" length="6" offset="154"><![CDATA[Vyborg]]></wf>
+    <wf sent="2" id="w33" length="1" offset="161"><![CDATA[(]]></wf>
+    <wf sent="2" id="w34" length="1" offset="162"><![CDATA[)]]></wf>
+    <wf sent="2" id="w35" length="1" offset="163"><![CDATA[.]]></wf>
+    <wf sent="3" id="w36" length="8" offset="165"><![CDATA[Together]]></wf>
+    <wf sent="3" id="w37" length="4" offset="174"><![CDATA[with]]></wf>
+    <wf sent="3" id="w38" length="3" offset="179"><![CDATA[the]]></wf>
+    <wf sent="3" id="w39" length="6" offset="183"><![CDATA[Battle]]></wf>
+    <wf sent="3" id="w40" length="2" offset="190"><![CDATA[of]]></wf>
+    <wf sent="3" id="w41" length="7" offset="193"><![CDATA[Tampere]]></wf>
+    <wf sent="3" id="w42" length="3" offset="201"><![CDATA[and]]></wf>
+    <wf sent="3" id="w43" length="6" offset="205"><![CDATA[Battle]]></wf>
+    <wf sent="3" id="w44" length="2" offset="212"><![CDATA[of]]></wf>
+    <wf sent="3" id="w45" length="8" offset="215"><![CDATA[Helsinki]]></wf>
+    <wf sent="3" id="w46" length="1" offset="223"><![CDATA[,]]></wf>
+    <wf sent="3" id="w47" length="2" offset="225"><![CDATA[it]]></wf>
+    <wf sent="3" id="w48" length="3" offset="228"><![CDATA[was]]></wf>
+    <wf sent="3" id="w49" length="3" offset="232"><![CDATA[one]]></wf>
+    <wf sent="3" id="w50" length="2" offset="236"><![CDATA[of]]></wf>
+    <wf sent="3" id="w51" length="3" offset="239"><![CDATA[the]]></wf>
+    <wf sent="3" id="w52" length="5" offset="243"><![CDATA[three]]></wf>
+    <wf sent="3" id="w53" length="5" offset="249"><![CDATA[major]]></wf>
+    <wf sent="3" id="w54" length="5" offset="255"><![CDATA[urban]]></wf>
+    <wf sent="3" id="w55" length="7" offset="261"><![CDATA[battles]]></wf>
+    <wf sent="3" id="w56" length="2" offset="269"><![CDATA[of]]></wf>
+    <wf sent="3" id="w57" length="3" offset="272"><![CDATA[the]]></wf>
+    <wf sent="3" id="w58" length="7" offset="276"><![CDATA[Finnish]]></wf>
+    <wf sent="3" id="w59" length="5" offset="284"><![CDATA[Civil]]></wf>
+    <wf sent="3" id="w60" length="3" offset="290"><![CDATA[War]]></wf>
+    <wf sent="3" id="w61" length="1" offset="293"><![CDATA[.]]></wf>
+    <wf sent="4" id="w62" length="3" offset="295"><![CDATA[The]]></wf>
+    <wf sent="4" id="w63" length="6" offset="299"><![CDATA[battle]]></wf>
+    <wf sent="4" id="w64" length="2" offset="306"><![CDATA[is]]></wf>
+    <wf sent="4" id="w65" length="4" offset="309"><![CDATA[also]]></wf>
+    <wf sent="4" id="w66" length="10" offset="314"><![CDATA[remembered]]></wf>
+    <wf sent="4" id="w67" length="7" offset="325"><![CDATA[because]]></wf>
+    <wf sent="4" id="w68" length="2" offset="333"><![CDATA[of]]></wf>
+    <wf sent="4" id="w69" length="3" offset="336"><![CDATA[its]]></wf>
+    <wf sent="4" id="w70" length="6" offset="340"><![CDATA[bloody]]></wf>
+    <wf sent="4" id="w71" length="9" offset="347"><![CDATA[aftermath]]></wf>
+    <wf sent="4" id="w72" length="1" offset="356"><![CDATA[,]]></wf>
+    <wf sent="4" id="w73" length="2" offset="358"><![CDATA[as]]></wf>
+    <wf sent="4" id="w74" length="3" offset="361"><![CDATA[the]]></wf>
+    <wf sent="4" id="w75" length="6" offset="365"><![CDATA[Whites]]></wf>
+    <wf sent="4" id="w76" length="8" offset="372"><![CDATA[executed]]></wf>
+    <wf sent="4" id="w77" length="2" offset="381"><![CDATA[up]]></wf>
+    <wf sent="4" id="w78" length="2" offset="384"><![CDATA[to]]></wf>
+    <wf sent="4" id="w79" length="3" offset="387"><![CDATA[400]]></wf>
+    <wf sent="4" id="w80" length="3" offset="391"><![CDATA[non]]></wf>
+    <wf sent="4" id="w81" length="1" offset="394"><![CDATA[-]]></wf>
+    <wf sent="4" id="w82" length="7" offset="395"><![CDATA[aligned]]></wf>
+    <wf sent="4" id="w83" length="8" offset="403"><![CDATA[military]]></wf>
+    <wf sent="4" id="w84" length="9" offset="412"><![CDATA[personnel]]></wf>
+    <wf sent="4" id="w85" length="3" offset="422"><![CDATA[and]]></wf>
+    <wf sent="4" id="w86" length="9" offset="426"><![CDATA[civilians]]></wf>
+    <wf sent="4" id="w87" length="2" offset="436"><![CDATA[of]]></wf>
+    <wf sent="4" id="w88" length="7" offset="439"><![CDATA[Russian]]></wf>
+    <wf sent="4" id="w89" length="3" offset="447"><![CDATA[and]]></wf>
+    <wf sent="4" id="w90" length="10" offset="451"><![CDATA[associated]]></wf>
+    <wf sent="4" id="w91" length="11" offset="462"><![CDATA[ethnicities]]></wf>
+    <wf sent="4" id="w92" length="2" offset="474"><![CDATA[in]]></wf>
+    <wf sent="4" id="w93" length="2" offset="477"><![CDATA[an]]></wf>
+    <wf sent="4" id="w94" length="6" offset="480"><![CDATA[effort]]></wf>
+    <wf sent="4" id="w95" length="2" offset="487"><![CDATA[to]]></wf>
+    <wf sent="4" id="w96" length="4" offset="490"><![CDATA[kill]]></wf>
+    <wf sent="4" id="w97" length="3" offset="495"><![CDATA[all]]></wf>
+    <wf sent="4" id="w98" length="2" offset="499"><![CDATA[of]]></wf>
+    <wf sent="4" id="w99" length="3" offset="502"><![CDATA[the]]></wf>
+    <wf sent="4" id="w100" length="9" offset="506"><![CDATA[suspected]]></wf>
+    <wf sent="4" id="w101" length="3" offset="516"><![CDATA[Red]]></wf>
+    <wf sent="4" id="w102" length="6" offset="520"><![CDATA[Guards]]></wf>
+    <wf sent="4" id="w103" length="1" offset="526"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Vyborg++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Vyborg" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="1918" pos="NUM" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Finnish" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="24–29" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Finnish" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Whites" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="against" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Finnish" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Reds" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Vyborg" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="together" pos="ADV" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Tampere" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Helsinki" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="three" pos="NUM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="major" pos="ADJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="urban" pos="ADJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="finnish" pos="ADJ" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="remember" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="because" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="bloody" pos="ADJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="aftermath" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Whites" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="execute" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="up" pos="ADP" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="400" pos="NUM" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="non" pos="ADJ" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="-" pos="ADJ" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="aligned" pos="ADJ" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="military" pos="ADJ" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="personnel" pos="NOUN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="civilian" pos="NOUN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="russian" pos="ADJ" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="associated" pos="ADJ" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="ethnicity" pos="NOUN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="effort" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="kill" pos="VERB" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="all" pos="DET" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="suspect" pos="VERB" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="Red" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="Guards" pos="PROPN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t18" to="t13" rfunc="det"/>
+    <dep from="t12" to="t18" rfunc="attr"/>
+    <dep from="t18" to="t14" rfunc="nummod"/>
+    <dep from="t18" to="t15" rfunc="amod"/>
+    <dep from="t17" to="t16" rfunc="compound"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t18" to="t19" rfunc="punct"/>
+    <dep from="t18" to="t20" rfunc="acl"/>
+    <dep from="t22" to="t21" rfunc="nummod"/>
+    <dep from="t20" to="t22" rfunc="npadvmod"/>
+    <dep from="t20" to="t23" rfunc="prep"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t23" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t20" to="t27" rfunc="prep"/>
+    <dep from="t30" to="t28" rfunc="det"/>
+    <dep from="t27" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t29" rfunc="amod"/>
+    <dep from="t30" to="t31" rfunc="prep"/>
+    <dep from="t31" to="t32" rfunc="pobj"/>
+    <dep from="t18" to="t33" rfunc="punct"/>
+    <dep from="t12" to="t34" rfunc="punct"/>
+    <dep from="t12" to="t35" rfunc="punct"/>
+    <dep from="t37" to="t36" rfunc="advmod"/>
+    <dep from="t48" to="t37" rfunc="prep"/>
+    <dep from="t39" to="t38" rfunc="det"/>
+    <dep from="t37" to="t39" rfunc="pobj"/>
+    <dep from="t39" to="t40" rfunc="prep"/>
+    <dep from="t40" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="cc"/>
+    <dep from="t41" to="t43" rfunc="conj"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t48" to="t46" rfunc="punct"/>
+    <dep from="t48" to="t47" rfunc="nsubj"/>
+    <dep from="t48" to="t49" rfunc="attr"/>
+    <dep from="t49" to="t50" rfunc="prep"/>
+    <dep from="t55" to="t51" rfunc="det"/>
+    <dep from="t50" to="t55" rfunc="pobj"/>
+    <dep from="t55" to="t52" rfunc="nummod"/>
+    <dep from="t55" to="t53" rfunc="amod"/>
+    <dep from="t55" to="t54" rfunc="amod"/>
+    <dep from="t55" to="t56" rfunc="prep"/>
+    <dep from="t60" to="t57" rfunc="det"/>
+    <dep from="t56" to="t60" rfunc="pobj"/>
+    <dep from="t60" to="t58" rfunc="amod"/>
+    <dep from="t60" to="t59" rfunc="compound"/>
+    <dep from="t48" to="t61" rfunc="punct"/>
+    <dep from="t63" to="t62" rfunc="det"/>
+    <dep from="t66" to="t63" rfunc="nsubjpass"/>
+    <dep from="t66" to="t64" rfunc="auxpass"/>
+    <dep from="t66" to="t65" rfunc="advmod"/>
+    <dep from="t66" to="t67" rfunc="prep"/>
+    <dep from="t67" to="t68" rfunc="pcomp"/>
+    <dep from="t71" to="t69" rfunc="poss"/>
+    <dep from="t67" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t70" rfunc="amod"/>
+    <dep from="t66" to="t72" rfunc="punct"/>
+    <dep from="t76" to="t73" rfunc="mark"/>
+    <dep from="t66" to="t76" rfunc="advcl"/>
+    <dep from="t75" to="t74" rfunc="det"/>
+    <dep from="t76" to="t75" rfunc="nsubj"/>
+    <dep from="t79" to="t77" rfunc="quantmod"/>
+    <dep from="t84" to="t79" rfunc="nummod"/>
+    <dep from="t76" to="t84" rfunc="dobj"/>
+    <dep from="t79" to="t78" rfunc="quantmod"/>
+    <dep from="t81" to="t80" rfunc="subtok"/>
+    <dep from="t82" to="t81" rfunc="subtok"/>
+    <dep from="t84" to="t82" rfunc="amod"/>
+    <dep from="t84" to="t83" rfunc="amod"/>
+    <dep from="t84" to="t85" rfunc="cc"/>
+    <dep from="t84" to="t86" rfunc="conj"/>
+    <dep from="t84" to="t87" rfunc="prep"/>
+    <dep from="t91" to="t88" rfunc="amod"/>
+    <dep from="t87" to="t91" rfunc="pobj"/>
+    <dep from="t88" to="t89" rfunc="cc"/>
+    <dep from="t88" to="t90" rfunc="conj"/>
+    <dep from="t76" to="t92" rfunc="prep"/>
+    <dep from="t94" to="t93" rfunc="det"/>
+    <dep from="t92" to="t94" rfunc="pobj"/>
+    <dep from="t96" to="t95" rfunc="aux"/>
+    <dep from="t94" to="t96" rfunc="acl"/>
+    <dep from="t96" to="t97" rfunc="dobj"/>
+    <dep from="t97" to="t98" rfunc="prep"/>
+    <dep from="t102" to="t99" rfunc="det"/>
+    <dep from="t98" to="t102" rfunc="pobj"/>
+    <dep from="t102" to="t100" rfunc="amod"/>
+    <dep from="t102" to="t101" rfunc="compound"/>
+    <dep from="t66" to="t103" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--F i n n i s h   C i v i l   W a r-->
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Finnish_Civil_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_civile_finlandese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Finse_Burgeroorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F i n n i s h   W h i t e s-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/White_Guards_(Finland)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--F i n n i s h   R e d s-->
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Red_Guards_(Finland)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--V y b o r g-->
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Vyborg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Vyborg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Vyborg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--B a t t l e   o f   T a m p e r e-->
+        <target id="t39"/>
+        <target id="t40"/>
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle_of_Tampere" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--B a t t l e   o f   H e l s i n k i-->
+        <target id="t43"/>
+        <target id="t44"/>
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle_of_Helsinki" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-importance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t58"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-memory" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t76"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t83"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-employing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t88"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-collaboration" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attempt" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t94"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-killing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t96"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t100"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

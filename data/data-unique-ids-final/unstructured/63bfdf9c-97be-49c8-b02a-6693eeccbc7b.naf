@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Glastonbury Festival 2008"/>
+    <public uri="https://en.wikipedia.org/wiki/Glastonbury_Festival_2008"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T18:01:59UTC" endTimestamp="2020-05-27T18:01:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:45CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Glastonbury Festival 2008++.
+The 2008 Glastonbury Festival of Contemporary Performing Arts was held from 27 to 29 June 2008.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="11" offset="2"><![CDATA[Glastonbury]]></wf>
+    <wf sent="1" id="w4" length="8" offset="14"><![CDATA[Festival]]></wf>
+    <wf sent="1" id="w5" length="6" offset="23"><![CDATA[2008++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="29"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="30"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="31"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="35"><![CDATA[2008]]></wf>
+    <wf sent="2" id="w10" length="11" offset="40"><![CDATA[Glastonbury]]></wf>
+    <wf sent="2" id="w11" length="8" offset="52"><![CDATA[Festival]]></wf>
+    <wf sent="2" id="w12" length="2" offset="61"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="12" offset="64"><![CDATA[Contemporary]]></wf>
+    <wf sent="2" id="w14" length="10" offset="77"><![CDATA[Performing]]></wf>
+    <wf sent="2" id="w15" length="4" offset="88"><![CDATA[Arts]]></wf>
+    <wf sent="2" id="w16" length="3" offset="93"><![CDATA[was]]></wf>
+    <wf sent="2" id="w17" length="4" offset="97"><![CDATA[held]]></wf>
+    <wf sent="2" id="w18" length="4" offset="102"><![CDATA[from]]></wf>
+    <wf sent="2" id="w19" length="2" offset="107"><![CDATA[27]]></wf>
+    <wf sent="2" id="w20" length="2" offset="110"><![CDATA[to]]></wf>
+    <wf sent="2" id="w21" length="2" offset="113"><![CDATA[29]]></wf>
+    <wf sent="2" id="w22" length="4" offset="116"><![CDATA[June]]></wf>
+    <wf sent="2" id="w23" length="4" offset="121"><![CDATA[2008]]></wf>
+    <wf sent="2" id="w24" length="1" offset="125"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Glastonbury" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Festival" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="2008++" pos="NUM" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Glastonbury" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Festival" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Contemporary" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Performing" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Arts" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="27" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="pobj"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t1" to="t4" rfunc="npadvmod"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t4" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t11" to="t8" rfunc="det"/>
+    <dep from="t17" to="t11" rfunc="nsubjpass"/>
+    <dep from="t11" to="t9" rfunc="nummod"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t15" to="t13" rfunc="compound"/>
+    <dep from="t12" to="t15" rfunc="pobj"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t17" to="t16" rfunc="auxpass"/>
+    <dep from="t17" to="t18" rfunc="prep"/>
+    <dep from="t21" to="t19" rfunc="quantmod"/>
+    <dep from="t22" to="t21" rfunc="nummod"/>
+    <dep from="t18" to="t22" rfunc="pobj"/>
+    <dep from="t21" to="t20" rfunc="quantmod"/>
+    <dep from="t22" to="t23" rfunc="nummod"/>
+    <dep from="t17" to="t24" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--G l a s t o n b u r y   F e s t i v a l   o f   C o n t e m p o r a r y   P e r f o r m i n g   A r t s-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Glastonbury_Festival" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Glastonbury_Festival" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Glastonbury_Festival" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

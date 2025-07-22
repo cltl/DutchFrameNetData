@@ -1,0 +1,2209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2008 Estoril Open"/>
+    <public uri="https://en.wikipedia.org/wiki/2008_Estoril_Open"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:02:07UTC" endTimestamp="2020-05-27T15:02:07UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:02:07UTC" endTimestamp="2020-05-27T15:02:07UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:02:07UTC" endTimestamp="2020-05-27T15:02:07UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:02:07UTC" endTimestamp="2020-05-27T15:02:07UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:23CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2008 Estoril Open++.
+The 2008 Estoril Open was a tennis tournament played on outdoor clay courts. It was the 19th edition of the Estoril Open for the men (the 12th for the women), and was part of the International Series of the 2008 ATP Tour, and of the Tier IV Series of the 2008 WTA Tour. Both the men's and the women's events took place at the Estádio Nacional in Oeiras, Portugal, from April 14 through April 20, 2008.
+The men's draw featured World No. 1, reigning Wimbledon and US Open champion, Australian Open semifinalist Roger Federer, ATP No. 4, Miami Masters winner and 2003 Estoril titlist Nikolay Davydenko, and Rotterdam semifinalist Ivo Karlović. Other seeded players were Australian Open quarterfinalist and Adelaide runner-up Jarkko Nieminen, Rotterdam semifinalist Gilles Simon, Nicolas Mahut, Marc Gicquel and Michael Berrer.
+The women's draw was headlined by Viña del Mar and Acapulco champion Flavia Pennetta, Auckland quarterfinalist Maria Kirilenko, and Antwerp runner-up Karin Knapp. Also present in the field were 2005 Estoril titlist Lucie Šafářová, 2000 Estoril semifinalist Tathiana Garbin, Klára Zakopalová, Sofia Arvidsson and Camille Pin.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2008]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Estoril]]></wf>
+    <wf sent="1" id="w4" length="6" offset="15"><![CDATA[Open++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="21"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="23"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="4" offset="27"><![CDATA[2008]]></wf>
+    <wf sent="2" id="w9" length="7" offset="32"><![CDATA[Estoril]]></wf>
+    <wf sent="2" id="w10" length="4" offset="40"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w11" length="3" offset="45"><![CDATA[was]]></wf>
+    <wf sent="2" id="w12" length="1" offset="49"><![CDATA[a]]></wf>
+    <wf sent="2" id="w13" length="6" offset="51"><![CDATA[tennis]]></wf>
+    <wf sent="2" id="w14" length="10" offset="58"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w15" length="6" offset="69"><![CDATA[played]]></wf>
+    <wf sent="2" id="w16" length="2" offset="76"><![CDATA[on]]></wf>
+    <wf sent="2" id="w17" length="7" offset="79"><![CDATA[outdoor]]></wf>
+    <wf sent="2" id="w18" length="4" offset="87"><![CDATA[clay]]></wf>
+    <wf sent="2" id="w19" length="6" offset="92"><![CDATA[courts]]></wf>
+    <wf sent="2" id="w20" length="1" offset="98"><![CDATA[.]]></wf>
+    <wf sent="3" id="w21" length="2" offset="100"><![CDATA[It]]></wf>
+    <wf sent="3" id="w22" length="3" offset="103"><![CDATA[was]]></wf>
+    <wf sent="3" id="w23" length="3" offset="107"><![CDATA[the]]></wf>
+    <wf sent="3" id="w24" length="4" offset="111"><![CDATA[19th]]></wf>
+    <wf sent="3" id="w25" length="7" offset="116"><![CDATA[edition]]></wf>
+    <wf sent="3" id="w26" length="2" offset="124"><![CDATA[of]]></wf>
+    <wf sent="3" id="w27" length="3" offset="127"><![CDATA[the]]></wf>
+    <wf sent="3" id="w28" length="7" offset="131"><![CDATA[Estoril]]></wf>
+    <wf sent="3" id="w29" length="4" offset="139"><![CDATA[Open]]></wf>
+    <wf sent="3" id="w30" length="3" offset="144"><![CDATA[for]]></wf>
+    <wf sent="3" id="w31" length="3" offset="148"><![CDATA[the]]></wf>
+    <wf sent="3" id="w32" length="3" offset="152"><![CDATA[men]]></wf>
+    <wf sent="3" id="w33" length="1" offset="156"><![CDATA[(]]></wf>
+    <wf sent="3" id="w34" length="3" offset="157"><![CDATA[the]]></wf>
+    <wf sent="3" id="w35" length="4" offset="161"><![CDATA[12th]]></wf>
+    <wf sent="3" id="w36" length="3" offset="166"><![CDATA[for]]></wf>
+    <wf sent="3" id="w37" length="3" offset="170"><![CDATA[the]]></wf>
+    <wf sent="3" id="w38" length="5" offset="174"><![CDATA[women]]></wf>
+    <wf sent="3" id="w39" length="1" offset="179"><![CDATA[)]]></wf>
+    <wf sent="3" id="w40" length="1" offset="180"><![CDATA[,]]></wf>
+    <wf sent="3" id="w41" length="3" offset="182"><![CDATA[and]]></wf>
+    <wf sent="3" id="w42" length="3" offset="186"><![CDATA[was]]></wf>
+    <wf sent="3" id="w43" length="4" offset="190"><![CDATA[part]]></wf>
+    <wf sent="3" id="w44" length="2" offset="195"><![CDATA[of]]></wf>
+    <wf sent="3" id="w45" length="3" offset="198"><![CDATA[the]]></wf>
+    <wf sent="3" id="w46" length="13" offset="202"><![CDATA[International]]></wf>
+    <wf sent="3" id="w47" length="6" offset="216"><![CDATA[Series]]></wf>
+    <wf sent="3" id="w48" length="2" offset="223"><![CDATA[of]]></wf>
+    <wf sent="3" id="w49" length="3" offset="226"><![CDATA[the]]></wf>
+    <wf sent="3" id="w50" length="4" offset="230"><![CDATA[2008]]></wf>
+    <wf sent="3" id="w51" length="3" offset="235"><![CDATA[ATP]]></wf>
+    <wf sent="3" id="w52" length="4" offset="239"><![CDATA[Tour]]></wf>
+    <wf sent="3" id="w53" length="1" offset="243"><![CDATA[,]]></wf>
+    <wf sent="3" id="w54" length="3" offset="245"><![CDATA[and]]></wf>
+    <wf sent="3" id="w55" length="2" offset="249"><![CDATA[of]]></wf>
+    <wf sent="3" id="w56" length="3" offset="252"><![CDATA[the]]></wf>
+    <wf sent="3" id="w57" length="4" offset="256"><![CDATA[Tier]]></wf>
+    <wf sent="3" id="w58" length="2" offset="261"><![CDATA[IV]]></wf>
+    <wf sent="3" id="w59" length="6" offset="264"><![CDATA[Series]]></wf>
+    <wf sent="3" id="w60" length="2" offset="271"><![CDATA[of]]></wf>
+    <wf sent="3" id="w61" length="3" offset="274"><![CDATA[the]]></wf>
+    <wf sent="3" id="w62" length="4" offset="278"><![CDATA[2008]]></wf>
+    <wf sent="3" id="w63" length="3" offset="283"><![CDATA[WTA]]></wf>
+    <wf sent="3" id="w64" length="4" offset="287"><![CDATA[Tour]]></wf>
+    <wf sent="3" id="w65" length="1" offset="291"><![CDATA[.]]></wf>
+    <wf sent="4" id="w66" length="4" offset="293"><![CDATA[Both]]></wf>
+    <wf sent="4" id="w67" length="3" offset="298"><![CDATA[the]]></wf>
+    <wf sent="4" id="w68" length="3" offset="302"><![CDATA[men]]></wf>
+    <wf sent="4" id="w69" length="2" offset="305"><![CDATA['s]]></wf>
+    <wf sent="4" id="w70" length="3" offset="308"><![CDATA[and]]></wf>
+    <wf sent="4" id="w71" length="3" offset="312"><![CDATA[the]]></wf>
+    <wf sent="4" id="w72" length="5" offset="316"><![CDATA[women]]></wf>
+    <wf sent="4" id="w73" length="2" offset="321"><![CDATA['s]]></wf>
+    <wf sent="4" id="w74" length="6" offset="324"><![CDATA[events]]></wf>
+    <wf sent="4" id="w75" length="4" offset="331"><![CDATA[took]]></wf>
+    <wf sent="4" id="w76" length="5" offset="336"><![CDATA[place]]></wf>
+    <wf sent="4" id="w77" length="2" offset="342"><![CDATA[at]]></wf>
+    <wf sent="4" id="w78" length="3" offset="345"><![CDATA[the]]></wf>
+    <wf sent="4" id="w79" length="7" offset="349"><![CDATA[Estádio]]></wf>
+    <wf sent="4" id="w80" length="8" offset="357"><![CDATA[Nacional]]></wf>
+    <wf sent="4" id="w81" length="2" offset="366"><![CDATA[in]]></wf>
+    <wf sent="4" id="w82" length="6" offset="369"><![CDATA[Oeiras]]></wf>
+    <wf sent="4" id="w83" length="1" offset="375"><![CDATA[,]]></wf>
+    <wf sent="4" id="w84" length="8" offset="377"><![CDATA[Portugal]]></wf>
+    <wf sent="4" id="w85" length="1" offset="385"><![CDATA[,]]></wf>
+    <wf sent="4" id="w86" length="4" offset="387"><![CDATA[from]]></wf>
+    <wf sent="4" id="w87" length="5" offset="392"><![CDATA[April]]></wf>
+    <wf sent="4" id="w88" length="2" offset="398"><![CDATA[14]]></wf>
+    <wf sent="4" id="w89" length="7" offset="401"><![CDATA[through]]></wf>
+    <wf sent="4" id="w90" length="5" offset="409"><![CDATA[April]]></wf>
+    <wf sent="4" id="w91" length="2" offset="415"><![CDATA[20]]></wf>
+    <wf sent="4" id="w92" length="1" offset="417"><![CDATA[,]]></wf>
+    <wf sent="4" id="w93" length="4" offset="419"><![CDATA[2008]]></wf>
+    <wf sent="4" id="w94" length="1" offset="423"><![CDATA[.]]></wf>
+    <wf sent="4" id="w95" length="1" offset="424"><![CDATA[
+]]></wf>
+    <wf sent="5" id="w96" length="3" offset="425"><![CDATA[The]]></wf>
+    <wf sent="5" id="w97" length="3" offset="429"><![CDATA[men]]></wf>
+    <wf sent="5" id="w98" length="2" offset="432"><![CDATA['s]]></wf>
+    <wf sent="5" id="w99" length="4" offset="435"><![CDATA[draw]]></wf>
+    <wf sent="5" id="w100" length="8" offset="440"><![CDATA[featured]]></wf>
+    <wf sent="5" id="w101" length="5" offset="449"><![CDATA[World]]></wf>
+    <wf sent="5" id="w102" length="2" offset="455"><![CDATA[No]]></wf>
+    <wf sent="5" id="w103" length="1" offset="457"><![CDATA[.]]></wf>
+    <wf sent="5" id="w104" length="1" offset="459"><![CDATA[1]]></wf>
+    <wf sent="5" id="w105" length="1" offset="460"><![CDATA[,]]></wf>
+    <wf sent="5" id="w106" length="8" offset="462"><![CDATA[reigning]]></wf>
+    <wf sent="5" id="w107" length="9" offset="471"><![CDATA[Wimbledon]]></wf>
+    <wf sent="5" id="w108" length="3" offset="481"><![CDATA[and]]></wf>
+    <wf sent="5" id="w109" length="2" offset="485"><![CDATA[US]]></wf>
+    <wf sent="5" id="w110" length="4" offset="488"><![CDATA[Open]]></wf>
+    <wf sent="5" id="w111" length="8" offset="493"><![CDATA[champion]]></wf>
+    <wf sent="5" id="w112" length="1" offset="501"><![CDATA[,]]></wf>
+    <wf sent="5" id="w113" length="10" offset="503"><![CDATA[Australian]]></wf>
+    <wf sent="5" id="w114" length="4" offset="514"><![CDATA[Open]]></wf>
+    <wf sent="5" id="w115" length="12" offset="519"><![CDATA[semifinalist]]></wf>
+    <wf sent="5" id="w116" length="5" offset="532"><![CDATA[Roger]]></wf>
+    <wf sent="5" id="w117" length="7" offset="538"><![CDATA[Federer]]></wf>
+    <wf sent="5" id="w118" length="1" offset="545"><![CDATA[,]]></wf>
+    <wf sent="5" id="w119" length="3" offset="547"><![CDATA[ATP]]></wf>
+    <wf sent="5" id="w120" length="2" offset="551"><![CDATA[No]]></wf>
+    <wf sent="5" id="w121" length="1" offset="553"><![CDATA[.]]></wf>
+    <wf sent="5" id="w122" length="1" offset="555"><![CDATA[4]]></wf>
+    <wf sent="5" id="w123" length="1" offset="556"><![CDATA[,]]></wf>
+    <wf sent="5" id="w124" length="5" offset="558"><![CDATA[Miami]]></wf>
+    <wf sent="5" id="w125" length="7" offset="564"><![CDATA[Masters]]></wf>
+    <wf sent="5" id="w126" length="6" offset="572"><![CDATA[winner]]></wf>
+    <wf sent="5" id="w127" length="3" offset="579"><![CDATA[and]]></wf>
+    <wf sent="5" id="w128" length="4" offset="583"><![CDATA[2003]]></wf>
+    <wf sent="5" id="w129" length="7" offset="588"><![CDATA[Estoril]]></wf>
+    <wf sent="5" id="w130" length="7" offset="596"><![CDATA[titlist]]></wf>
+    <wf sent="5" id="w131" length="7" offset="604"><![CDATA[Nikolay]]></wf>
+    <wf sent="5" id="w132" length="9" offset="612"><![CDATA[Davydenko]]></wf>
+    <wf sent="5" id="w133" length="1" offset="621"><![CDATA[,]]></wf>
+    <wf sent="5" id="w134" length="3" offset="623"><![CDATA[and]]></wf>
+    <wf sent="5" id="w135" length="9" offset="627"><![CDATA[Rotterdam]]></wf>
+    <wf sent="5" id="w136" length="12" offset="637"><![CDATA[semifinalist]]></wf>
+    <wf sent="5" id="w137" length="3" offset="650"><![CDATA[Ivo]]></wf>
+    <wf sent="5" id="w138" length="8" offset="654"><![CDATA[Karlović]]></wf>
+    <wf sent="5" id="w139" length="1" offset="662"><![CDATA[.]]></wf>
+    <wf sent="6" id="w140" length="5" offset="664"><![CDATA[Other]]></wf>
+    <wf sent="6" id="w141" length="6" offset="670"><![CDATA[seeded]]></wf>
+    <wf sent="6" id="w142" length="7" offset="677"><![CDATA[players]]></wf>
+    <wf sent="6" id="w143" length="4" offset="685"><![CDATA[were]]></wf>
+    <wf sent="6" id="w144" length="10" offset="690"><![CDATA[Australian]]></wf>
+    <wf sent="6" id="w145" length="4" offset="701"><![CDATA[Open]]></wf>
+    <wf sent="6" id="w146" length="15" offset="706"><![CDATA[quarterfinalist]]></wf>
+    <wf sent="6" id="w147" length="3" offset="722"><![CDATA[and]]></wf>
+    <wf sent="6" id="w148" length="8" offset="726"><![CDATA[Adelaide]]></wf>
+    <wf sent="6" id="w149" length="6" offset="735"><![CDATA[runner]]></wf>
+    <wf sent="6" id="w150" length="1" offset="741"><![CDATA[-]]></wf>
+    <wf sent="6" id="w151" length="2" offset="742"><![CDATA[up]]></wf>
+    <wf sent="6" id="w152" length="6" offset="745"><![CDATA[Jarkko]]></wf>
+    <wf sent="6" id="w153" length="8" offset="752"><![CDATA[Nieminen]]></wf>
+    <wf sent="6" id="w154" length="1" offset="760"><![CDATA[,]]></wf>
+    <wf sent="6" id="w155" length="9" offset="762"><![CDATA[Rotterdam]]></wf>
+    <wf sent="6" id="w156" length="12" offset="772"><![CDATA[semifinalist]]></wf>
+    <wf sent="6" id="w157" length="6" offset="785"><![CDATA[Gilles]]></wf>
+    <wf sent="6" id="w158" length="5" offset="792"><![CDATA[Simon]]></wf>
+    <wf sent="6" id="w159" length="1" offset="797"><![CDATA[,]]></wf>
+    <wf sent="6" id="w160" length="7" offset="799"><![CDATA[Nicolas]]></wf>
+    <wf sent="6" id="w161" length="5" offset="807"><![CDATA[Mahut]]></wf>
+    <wf sent="6" id="w162" length="1" offset="812"><![CDATA[,]]></wf>
+    <wf sent="6" id="w163" length="4" offset="814"><![CDATA[Marc]]></wf>
+    <wf sent="6" id="w164" length="7" offset="819"><![CDATA[Gicquel]]></wf>
+    <wf sent="6" id="w165" length="3" offset="827"><![CDATA[and]]></wf>
+    <wf sent="6" id="w166" length="7" offset="831"><![CDATA[Michael]]></wf>
+    <wf sent="6" id="w167" length="6" offset="839"><![CDATA[Berrer]]></wf>
+    <wf sent="6" id="w168" length="1" offset="845"><![CDATA[.]]></wf>
+    <wf sent="6" id="w169" length="1" offset="846"><![CDATA[
+]]></wf>
+    <wf sent="7" id="w170" length="3" offset="847"><![CDATA[The]]></wf>
+    <wf sent="7" id="w171" length="5" offset="851"><![CDATA[women]]></wf>
+    <wf sent="7" id="w172" length="2" offset="856"><![CDATA['s]]></wf>
+    <wf sent="7" id="w173" length="4" offset="859"><![CDATA[draw]]></wf>
+    <wf sent="7" id="w174" length="3" offset="864"><![CDATA[was]]></wf>
+    <wf sent="7" id="w175" length="9" offset="868"><![CDATA[headlined]]></wf>
+    <wf sent="7" id="w176" length="2" offset="878"><![CDATA[by]]></wf>
+    <wf sent="7" id="w177" length="4" offset="881"><![CDATA[Viña]]></wf>
+    <wf sent="7" id="w178" length="3" offset="886"><![CDATA[del]]></wf>
+    <wf sent="7" id="w179" length="3" offset="890"><![CDATA[Mar]]></wf>
+    <wf sent="7" id="w180" length="3" offset="894"><![CDATA[and]]></wf>
+    <wf sent="7" id="w181" length="8" offset="898"><![CDATA[Acapulco]]></wf>
+    <wf sent="7" id="w182" length="8" offset="907"><![CDATA[champion]]></wf>
+    <wf sent="7" id="w183" length="6" offset="916"><![CDATA[Flavia]]></wf>
+    <wf sent="7" id="w184" length="8" offset="923"><![CDATA[Pennetta]]></wf>
+    <wf sent="7" id="w185" length="1" offset="931"><![CDATA[,]]></wf>
+    <wf sent="7" id="w186" length="8" offset="933"><![CDATA[Auckland]]></wf>
+    <wf sent="7" id="w187" length="15" offset="942"><![CDATA[quarterfinalist]]></wf>
+    <wf sent="7" id="w188" length="5" offset="958"><![CDATA[Maria]]></wf>
+    <wf sent="7" id="w189" length="9" offset="964"><![CDATA[Kirilenko]]></wf>
+    <wf sent="7" id="w190" length="1" offset="973"><![CDATA[,]]></wf>
+    <wf sent="7" id="w191" length="3" offset="975"><![CDATA[and]]></wf>
+    <wf sent="7" id="w192" length="7" offset="979"><![CDATA[Antwerp]]></wf>
+    <wf sent="7" id="w193" length="6" offset="987"><![CDATA[runner]]></wf>
+    <wf sent="7" id="w194" length="1" offset="993"><![CDATA[-]]></wf>
+    <wf sent="7" id="w195" length="2" offset="994"><![CDATA[up]]></wf>
+    <wf sent="7" id="w196" length="5" offset="997"><![CDATA[Karin]]></wf>
+    <wf sent="7" id="w197" length="5" offset="1003"><![CDATA[Knapp]]></wf>
+    <wf sent="7" id="w198" length="1" offset="1008"><![CDATA[.]]></wf>
+    <wf sent="8" id="w199" length="4" offset="1010"><![CDATA[Also]]></wf>
+    <wf sent="8" id="w200" length="7" offset="1015"><![CDATA[present]]></wf>
+    <wf sent="8" id="w201" length="2" offset="1023"><![CDATA[in]]></wf>
+    <wf sent="8" id="w202" length="3" offset="1026"><![CDATA[the]]></wf>
+    <wf sent="8" id="w203" length="5" offset="1030"><![CDATA[field]]></wf>
+    <wf sent="8" id="w204" length="4" offset="1036"><![CDATA[were]]></wf>
+    <wf sent="8" id="w205" length="4" offset="1041"><![CDATA[2005]]></wf>
+    <wf sent="8" id="w206" length="7" offset="1046"><![CDATA[Estoril]]></wf>
+    <wf sent="8" id="w207" length="7" offset="1054"><![CDATA[titlist]]></wf>
+    <wf sent="8" id="w208" length="5" offset="1062"><![CDATA[Lucie]]></wf>
+    <wf sent="8" id="w209" length="8" offset="1068"><![CDATA[Šafářová]]></wf>
+    <wf sent="8" id="w210" length="1" offset="1076"><![CDATA[,]]></wf>
+    <wf sent="8" id="w211" length="4" offset="1078"><![CDATA[2000]]></wf>
+    <wf sent="8" id="w212" length="7" offset="1083"><![CDATA[Estoril]]></wf>
+    <wf sent="8" id="w213" length="12" offset="1091"><![CDATA[semifinalist]]></wf>
+    <wf sent="8" id="w214" length="8" offset="1104"><![CDATA[Tathiana]]></wf>
+    <wf sent="8" id="w215" length="6" offset="1113"><![CDATA[Garbin]]></wf>
+    <wf sent="8" id="w216" length="1" offset="1119"><![CDATA[,]]></wf>
+    <wf sent="8" id="w217" length="5" offset="1121"><![CDATA[Klára]]></wf>
+    <wf sent="8" id="w218" length="10" offset="1127"><![CDATA[Zakopalová]]></wf>
+    <wf sent="8" id="w219" length="1" offset="1137"><![CDATA[,]]></wf>
+    <wf sent="8" id="w220" length="5" offset="1139"><![CDATA[Sofia]]></wf>
+    <wf sent="8" id="w221" length="9" offset="1145"><![CDATA[Arvidsson]]></wf>
+    <wf sent="8" id="w222" length="3" offset="1155"><![CDATA[and]]></wf>
+    <wf sent="8" id="w223" length="7" offset="1159"><![CDATA[Camille]]></wf>
+    <wf sent="8" id="w224" length="3" offset="1167"><![CDATA[Pin]]></wf>
+    <wf sent="8" id="w225" length="1" offset="1170"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2008" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Open++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="tennis" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="outdoor" pos="ADJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="clay" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="court" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="19th" pos="ADJ" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="12th" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="International" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="ATP" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Tour" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="Tier" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="IV" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="WTA" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Tour" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="both" pos="CCONJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Estádio" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="Nacional" pos="PROPN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="Oeiras" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Portugal" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="14" pos="NUM" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="20" pos="NUM" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="draw" pos="VERB" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="feature" pos="VERB" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="no" pos="NOUN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="." pos="NOUN" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="reign" pos="VERB" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="Wimbledon" pos="PROPN" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="US" pos="PROPN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="champion" pos="NOUN" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="Australian" pos="PROPN" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="semifinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="Roger" pos="PROPN" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="Federer" pos="PROPN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="ATP" pos="PROPN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="No" pos="PROPN" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="." pos="NOUN" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="4" pos="NUM" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="Miami" pos="PROPN" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="Masters" pos="PROPN" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="2003" pos="NUM" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="titlist" pos="NOUN" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="Nikolay" pos="PROPN" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="Davydenko" pos="PROPN" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="Rotterdam" pos="PROPN" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="semifinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="Ivo" pos="PROPN" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="Karlović" pos="PROPN" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" lemma="other" pos="ADJ" type="open">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" lemma="seeded" pos="ADJ" type="open">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" lemma="player" pos="NOUN" type="open">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" lemma="Australian" pos="PROPN" type="open">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" lemma="quarterfinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" lemma="Adelaide" pos="PROPN" type="open">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term id="t149" lemma="runner" pos="NOUN" type="open">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" lemma="up" pos="PART" type="open">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" lemma="Jarkko" pos="PROPN" type="open">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" lemma="Nieminen" pos="PROPN" type="open">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term id="t154" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" lemma="Rotterdam" pos="PROPN" type="open">
+      <span>
+        <target id="w155"/>
+      </span>
+    </term>
+    <term id="t156" lemma="semifinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term id="t157" lemma="Gilles" pos="PROPN" type="open">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term id="t158" lemma="Simon" pos="PROPN" type="open">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term id="t159" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" lemma="Nicolas" pos="PROPN" type="open">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term id="t161" lemma="Mahut" pos="PROPN" type="open">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term id="t163" lemma="Marc" pos="PROPN" type="open">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term id="t164" lemma="Gicquel" pos="PROPN" type="open">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term id="t165" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w165"/>
+      </span>
+    </term>
+    <term id="t166" lemma="Michael" pos="PROPN" type="open">
+      <span>
+        <target id="w166"/>
+      </span>
+    </term>
+    <term id="t167" lemma="Berrer" pos="PROPN" type="open">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term id="t168" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w168"/>
+      </span>
+    </term>
+    <term id="t169" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w169"/>
+      </span>
+    </term>
+    <term id="t170" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w170"/>
+      </span>
+    </term>
+    <term id="t171" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w171"/>
+      </span>
+    </term>
+    <term id="t172" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w172"/>
+      </span>
+    </term>
+    <term id="t173" lemma="draw" pos="NOUN" type="open">
+      <span>
+        <target id="w173"/>
+      </span>
+    </term>
+    <term id="t174" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w174"/>
+      </span>
+    </term>
+    <term id="t175" lemma="headline" pos="VERB" type="open">
+      <span>
+        <target id="w175"/>
+      </span>
+    </term>
+    <term id="t176" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w176"/>
+      </span>
+    </term>
+    <term id="t177" lemma="Viña" pos="PROPN" type="open">
+      <span>
+        <target id="w177"/>
+      </span>
+    </term>
+    <term id="t178" lemma="del" pos="PROPN" type="open">
+      <span>
+        <target id="w178"/>
+      </span>
+    </term>
+    <term id="t179" lemma="Mar" pos="PROPN" type="open">
+      <span>
+        <target id="w179"/>
+      </span>
+    </term>
+    <term id="t180" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w180"/>
+      </span>
+    </term>
+    <term id="t181" lemma="Acapulco" pos="PROPN" type="open">
+      <span>
+        <target id="w181"/>
+      </span>
+    </term>
+    <term id="t182" lemma="champion" pos="NOUN" type="open">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term id="t183" lemma="Flavia" pos="PROPN" type="open">
+      <span>
+        <target id="w183"/>
+      </span>
+    </term>
+    <term id="t184" lemma="Pennetta" pos="PROPN" type="open">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term id="t185" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term id="t186" lemma="Auckland" pos="PROPN" type="open">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term id="t187" lemma="quarterfinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term id="t188" lemma="Maria" pos="PROPN" type="open">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term id="t189" lemma="Kirilenko" pos="PROPN" type="open">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term id="t192" lemma="Antwerp" pos="PROPN" type="open">
+      <span>
+        <target id="w192"/>
+      </span>
+    </term>
+    <term id="t193" lemma="runner" pos="NOUN" type="open">
+      <span>
+        <target id="w193"/>
+      </span>
+    </term>
+    <term id="t194" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w194"/>
+      </span>
+    </term>
+    <term id="t195" lemma="up" pos="PART" type="open">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" lemma="Karin" pos="PROPN" type="open">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term id="t197" lemma="Knapp" pos="PROPN" type="open">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+    <term id="t198" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w198"/>
+      </span>
+    </term>
+    <term id="t199" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w199"/>
+      </span>
+    </term>
+    <term id="t200" lemma="present" pos="ADJ" type="open">
+      <span>
+        <target id="w200"/>
+      </span>
+    </term>
+    <term id="t201" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w201"/>
+      </span>
+    </term>
+    <term id="t202" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w202"/>
+      </span>
+    </term>
+    <term id="t203" lemma="field" pos="NOUN" type="open">
+      <span>
+        <target id="w203"/>
+      </span>
+    </term>
+    <term id="t204" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w204"/>
+      </span>
+    </term>
+    <term id="t205" lemma="2005" pos="NUM" type="open">
+      <span>
+        <target id="w205"/>
+      </span>
+    </term>
+    <term id="t206" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w206"/>
+      </span>
+    </term>
+    <term id="t207" lemma="titlist" pos="NOUN" type="open">
+      <span>
+        <target id="w207"/>
+      </span>
+    </term>
+    <term id="t208" lemma="Lucie" pos="PROPN" type="open">
+      <span>
+        <target id="w208"/>
+      </span>
+    </term>
+    <term id="t209" lemma="Šafářová" pos="PROPN" type="open">
+      <span>
+        <target id="w209"/>
+      </span>
+    </term>
+    <term id="t210" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w210"/>
+      </span>
+    </term>
+    <term id="t211" lemma="2000" pos="NUM" type="open">
+      <span>
+        <target id="w211"/>
+      </span>
+    </term>
+    <term id="t212" lemma="Estoril" pos="PROPN" type="open">
+      <span>
+        <target id="w212"/>
+      </span>
+    </term>
+    <term id="t213" lemma="semifinalist" pos="NOUN" type="open">
+      <span>
+        <target id="w213"/>
+      </span>
+    </term>
+    <term id="t214" lemma="Tathiana" pos="PROPN" type="open">
+      <span>
+        <target id="w214"/>
+      </span>
+    </term>
+    <term id="t215" lemma="Garbin" pos="PROPN" type="open">
+      <span>
+        <target id="w215"/>
+      </span>
+    </term>
+    <term id="t216" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w216"/>
+      </span>
+    </term>
+    <term id="t217" lemma="Klára" pos="PROPN" type="open">
+      <span>
+        <target id="w217"/>
+      </span>
+    </term>
+    <term id="t218" lemma="Zakopalová" pos="PROPN" type="open">
+      <span>
+        <target id="w218"/>
+      </span>
+    </term>
+    <term id="t219" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w219"/>
+      </span>
+    </term>
+    <term id="t220" lemma="Sofia" pos="PROPN" type="open">
+      <span>
+        <target id="w220"/>
+      </span>
+    </term>
+    <term id="t221" lemma="Arvidsson" pos="PROPN" type="open">
+      <span>
+        <target id="w221"/>
+      </span>
+    </term>
+    <term id="t222" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w222"/>
+      </span>
+    </term>
+    <term id="t223" lemma="Camille" pos="PROPN" type="open">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" lemma="Pin" pos="PROPN" type="open">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t225" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w225"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t11" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t8" rfunc="nummod"/>
+    <dep from="t10" to="t9" rfunc="compound"/>
+    <dep from="t14" to="t12" rfunc="det"/>
+    <dep from="t11" to="t14" rfunc="attr"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t14" to="t15" rfunc="acl"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t19" to="t17" rfunc="amod"/>
+    <dep from="t16" to="t19" rfunc="pobj"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t11" to="t20" rfunc="punct"/>
+    <dep from="t22" to="t21" rfunc="nsubj"/>
+    <dep from="t25" to="t23" rfunc="det"/>
+    <dep from="t22" to="t25" rfunc="attr"/>
+    <dep from="t25" to="t24" rfunc="amod"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t29" to="t27" rfunc="det"/>
+    <dep from="t26" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t25" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="det"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t32" to="t33" rfunc="punct"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="appos"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="det"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t22" to="t39" rfunc="punct"/>
+    <dep from="t22" to="t40" rfunc="punct"/>
+    <dep from="t22" to="t41" rfunc="cc"/>
+    <dep from="t22" to="t42" rfunc="conj"/>
+    <dep from="t42" to="t43" rfunc="attr"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t47" to="t45" rfunc="det"/>
+    <dep from="t44" to="t47" rfunc="pobj"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t52" to="t49" rfunc="det"/>
+    <dep from="t48" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t50" rfunc="nummod"/>
+    <dep from="t52" to="t51" rfunc="compound"/>
+    <dep from="t42" to="t53" rfunc="punct"/>
+    <dep from="t42" to="t54" rfunc="cc"/>
+    <dep from="t42" to="t55" rfunc="conj"/>
+    <dep from="t59" to="t56" rfunc="det"/>
+    <dep from="t55" to="t59" rfunc="pobj"/>
+    <dep from="t59" to="t57" rfunc="compound"/>
+    <dep from="t59" to="t58" rfunc="compound"/>
+    <dep from="t59" to="t60" rfunc="prep"/>
+    <dep from="t64" to="t61" rfunc="det"/>
+    <dep from="t60" to="t64" rfunc="pobj"/>
+    <dep from="t64" to="t62" rfunc="nummod"/>
+    <dep from="t64" to="t63" rfunc="compound"/>
+    <dep from="t22" to="t65" rfunc="punct"/>
+    <dep from="t68" to="t66" rfunc="det"/>
+    <dep from="t74" to="t68" rfunc="poss"/>
+    <dep from="t75" to="t74" rfunc="nsubj"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t68" to="t69" rfunc="case"/>
+    <dep from="t68" to="t70" rfunc="cc"/>
+    <dep from="t72" to="t71" rfunc="det"/>
+    <dep from="t74" to="t72" rfunc="poss"/>
+    <dep from="t72" to="t73" rfunc="case"/>
+    <dep from="t75" to="t76" rfunc="dobj"/>
+    <dep from="t75" to="t77" rfunc="prep"/>
+    <dep from="t80" to="t78" rfunc="det"/>
+    <dep from="t77" to="t80" rfunc="pobj"/>
+    <dep from="t80" to="t79" rfunc="compound"/>
+    <dep from="t80" to="t81" rfunc="prep"/>
+    <dep from="t81" to="t82" rfunc="pobj"/>
+    <dep from="t82" to="t83" rfunc="punct"/>
+    <dep from="t82" to="t84" rfunc="appos"/>
+    <dep from="t75" to="t85" rfunc="punct"/>
+    <dep from="t75" to="t86" rfunc="prep"/>
+    <dep from="t86" to="t87" rfunc="pobj"/>
+    <dep from="t87" to="t88" rfunc="nummod"/>
+    <dep from="t75" to="t89" rfunc="prep"/>
+    <dep from="t89" to="t90" rfunc="pobj"/>
+    <dep from="t90" to="t91" rfunc="nummod"/>
+    <dep from="t90" to="t92" rfunc="punct"/>
+    <dep from="t90" to="t93" rfunc="nummod"/>
+    <dep from="t75" to="t94" rfunc="punct"/>
+    <dep from="t94" to="t95" rfunc=""/>
+    <dep from="t97" to="t96" rfunc="det"/>
+    <dep from="t99" to="t97" rfunc="poss"/>
+    <dep from="t100" to="t99" rfunc="nsubj"/>
+    <dep from="t97" to="t98" rfunc="case"/>
+    <dep from="t103" to="t101" rfunc="compound"/>
+    <dep from="t100" to="t103" rfunc="punct"/>
+    <dep from="t103" to="t102" rfunc="subtok"/>
+    <dep from="t103" to="t104" rfunc="nummod"/>
+    <dep from="t100" to="t105" rfunc="punct"/>
+    <dep from="t100" to="t106" rfunc="advcl"/>
+    <dep from="t106" to="t107" rfunc="dobj"/>
+    <dep from="t107" to="t108" rfunc="cc"/>
+    <dep from="t111" to="t109" rfunc="compound"/>
+    <dep from="t107" to="t111" rfunc="conj"/>
+    <dep from="t111" to="t110" rfunc="amod"/>
+    <dep from="t106" to="t112" rfunc="punct"/>
+    <dep from="t115" to="t113" rfunc="amod"/>
+    <dep from="t117" to="t115" rfunc="compound"/>
+    <dep from="t106" to="t117" rfunc="dobj"/>
+    <dep from="t115" to="t114" rfunc="amod"/>
+    <dep from="t117" to="t116" rfunc="compound"/>
+    <dep from="t117" to="t118" rfunc="punct"/>
+    <dep from="t121" to="t119" rfunc="compound"/>
+    <dep from="t117" to="t121" rfunc="appos"/>
+    <dep from="t121" to="t120" rfunc="subtok"/>
+    <dep from="t121" to="t122" rfunc="nummod"/>
+    <dep from="t117" to="t123" rfunc="punct"/>
+    <dep from="t125" to="t124" rfunc="compound"/>
+    <dep from="t126" to="t125" rfunc="compound"/>
+    <dep from="t117" to="t126" rfunc="conj"/>
+    <dep from="t126" to="t127" rfunc="cc"/>
+    <dep from="t130" to="t128" rfunc="nummod"/>
+    <dep from="t132" to="t130" rfunc="compound"/>
+    <dep from="t126" to="t132" rfunc="conj"/>
+    <dep from="t130" to="t129" rfunc="compound"/>
+    <dep from="t132" to="t131" rfunc="compound"/>
+    <dep from="t132" to="t133" rfunc="punct"/>
+    <dep from="t132" to="t134" rfunc="cc"/>
+    <dep from="t136" to="t135" rfunc="compound"/>
+    <dep from="t138" to="t136" rfunc="compound"/>
+    <dep from="t132" to="t138" rfunc="conj"/>
+    <dep from="t138" to="t137" rfunc="compound"/>
+    <dep from="t100" to="t139" rfunc="punct"/>
+    <dep from="t142" to="t140" rfunc="amod"/>
+    <dep from="t143" to="t142" rfunc="nsubj"/>
+    <dep from="t142" to="t141" rfunc="amod"/>
+    <dep from="t146" to="t144" rfunc="amod"/>
+    <dep from="t143" to="t146" rfunc="attr"/>
+    <dep from="t146" to="t145" rfunc="amod"/>
+    <dep from="t146" to="t147" rfunc="cc"/>
+    <dep from="t149" to="t148" rfunc="amod"/>
+    <dep from="t146" to="t149" rfunc="conj"/>
+    <dep from="t149" to="t150" rfunc="punct"/>
+    <dep from="t149" to="t151" rfunc="prt"/>
+    <dep from="t153" to="t152" rfunc="compound"/>
+    <dep from="t146" to="t153" rfunc="conj"/>
+    <dep from="t143" to="t154" rfunc="punct"/>
+    <dep from="t156" to="t155" rfunc="compound"/>
+    <dep from="t143" to="t156" rfunc="conj"/>
+    <dep from="t158" to="t157" rfunc="compound"/>
+    <dep from="t156" to="t158" rfunc="appos"/>
+    <dep from="t158" to="t159" rfunc="punct"/>
+    <dep from="t161" to="t160" rfunc="compound"/>
+    <dep from="t158" to="t161" rfunc="appos"/>
+    <dep from="t158" to="t162" rfunc="punct"/>
+    <dep from="t164" to="t163" rfunc="compound"/>
+    <dep from="t158" to="t164" rfunc="conj"/>
+    <dep from="t164" to="t165" rfunc="cc"/>
+    <dep from="t167" to="t166" rfunc="compound"/>
+    <dep from="t164" to="t167" rfunc="conj"/>
+    <dep from="t143" to="t168" rfunc="punct"/>
+    <dep from="t168" to="t169" rfunc=""/>
+    <dep from="t171" to="t170" rfunc="det"/>
+    <dep from="t173" to="t171" rfunc="poss"/>
+    <dep from="t175" to="t173" rfunc="nsubjpass"/>
+    <dep from="t171" to="t172" rfunc="case"/>
+    <dep from="t175" to="t174" rfunc="auxpass"/>
+    <dep from="t175" to="t176" rfunc="agent"/>
+    <dep from="t179" to="t177" rfunc="nmod"/>
+    <dep from="t182" to="t179" rfunc="nmod"/>
+    <dep from="t184" to="t182" rfunc="compound"/>
+    <dep from="t176" to="t184" rfunc="pobj"/>
+    <dep from="t179" to="t178" rfunc="nmod"/>
+    <dep from="t179" to="t180" rfunc="cc"/>
+    <dep from="t179" to="t181" rfunc="conj"/>
+    <dep from="t184" to="t183" rfunc="compound"/>
+    <dep from="t184" to="t185" rfunc="punct"/>
+    <dep from="t187" to="t186" rfunc="compound"/>
+    <dep from="t189" to="t187" rfunc="compound"/>
+    <dep from="t184" to="t189" rfunc="conj"/>
+    <dep from="t189" to="t188" rfunc="compound"/>
+    <dep from="t189" to="t190" rfunc="punct"/>
+    <dep from="t184" to="t191" rfunc="cc"/>
+    <dep from="t197" to="t192" rfunc="compound"/>
+    <dep from="t184" to="t197" rfunc="conj"/>
+    <dep from="t197" to="t193" rfunc="amod"/>
+    <dep from="t193" to="t194" rfunc="punct"/>
+    <dep from="t193" to="t195" rfunc="prt"/>
+    <dep from="t197" to="t196" rfunc="compound"/>
+    <dep from="t175" to="t198" rfunc="punct"/>
+    <dep from="t204" to="t199" rfunc="advmod"/>
+    <dep from="t204" to="t200" rfunc="acomp"/>
+    <dep from="t200" to="t201" rfunc="prep"/>
+    <dep from="t203" to="t202" rfunc="det"/>
+    <dep from="t201" to="t203" rfunc="pobj"/>
+    <dep from="t207" to="t205" rfunc="nummod"/>
+    <dep from="t204" to="t207" rfunc="attr"/>
+    <dep from="t207" to="t206" rfunc="compound"/>
+    <dep from="t209" to="t208" rfunc="compound"/>
+    <dep from="t207" to="t209" rfunc="appos"/>
+    <dep from="t209" to="t210" rfunc="punct"/>
+    <dep from="t213" to="t211" rfunc="nummod"/>
+    <dep from="t215" to="t213" rfunc="compound"/>
+    <dep from="t209" to="t215" rfunc="conj"/>
+    <dep from="t213" to="t212" rfunc="compound"/>
+    <dep from="t215" to="t214" rfunc="compound"/>
+    <dep from="t215" to="t216" rfunc="punct"/>
+    <dep from="t218" to="t217" rfunc="compound"/>
+    <dep from="t215" to="t218" rfunc="conj"/>
+    <dep from="t207" to="t219" rfunc="punct"/>
+    <dep from="t221" to="t220" rfunc="compound"/>
+    <dep from="t207" to="t221" rfunc="appos"/>
+    <dep from="t221" to="t222" rfunc="cc"/>
+    <dep from="t224" to="t223" rfunc="compound"/>
+    <dep from="t221" to="t224" rfunc="conj"/>
+    <dep from="t204" to="t225" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--t e n n i s-->
+        <target id="t13"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--E s t o r i l   O p e n-->
+        <target id="t28"/>
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Portugal_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennistoernooi_van_Oeiras" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--I n t e r n a t i o n a l   S e r i e s-->
+        <target id="t46"/>
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/ATP_International_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/ATP_International_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP_International_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 8   A T P   T o u r-->
+        <target id="t50"/>
+        <target id="t51"/>
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_ATP_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/ATP_Tour_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-seizoen_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--T i e r   I V   S e r i e s-->
+        <target id="t57"/>
+        <target id="t58"/>
+        <target id="t59"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tier_IV_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--2 0 0 8   W T A   T o u r-->
+        <target id="t62"/>
+        <target id="t63"/>
+        <target id="t64"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_WTA_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/WTA_Tour_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/WTA-seizoen_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--E s t á d i o   N a c i o n a l-->
+        <target id="t79"/>
+        <target id="t80"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Estádio_Nacional" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Stadio_nazionale_di_Jamor" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Estádio_Nacional" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--O e i r a s-->
+        <target id="t82"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Oeiras_Municipality,_Portugal" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--W o r l d   N o .   1-->
+        <target id="t101"/>
+        <target id="t102"/>
+        <target id="t103"/>
+        <target id="t104"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/List_of_ATP_number_1_ranked_players" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--W i m b l e d o n-->
+        <target id="t107"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2007_Wimbledon_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Torneo_di_Wimbledon_2007" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q746669" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--U S   O p e n-->
+        <target id="t109"/>
+        <target id="t110"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2007_U.S._Open_(tennis)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <span>
+        <!--R o g e r   F e d e r e r-->
+        <target id="t116"/>
+        <target id="t117"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Roger_Federer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Roger_Federer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Roger_Federer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e13" type="UNK">
+      <span>
+        <!--A T P-->
+        <target id="t119"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e14" type="UNK">
+      <span>
+        <!--M i a m i   M a s t e r s-->
+        <target id="t124"/>
+        <target id="t125"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_Miami_Masters" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e15" type="UNK">
+      <span>
+        <!--2 0 0 3   E s t o r i l-->
+        <target id="t128"/>
+        <target id="t129"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2003_Estoril_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Estoril_Open_2003" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q3353312" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e16" type="UNK">
+      <span>
+        <!--N i k o l a y   D a v y d e n k o-->
+        <target id="t131"/>
+        <target id="t132"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Nikolay_Davydenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Nikolaj_Davydenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nikolaj_Davydenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e17" type="UNK">
+      <span>
+        <!--I v o   K a r l o v i ć-->
+        <target id="t137"/>
+        <target id="t138"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ivo_Karlović" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ivo_Karlović" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ivo_Karlović" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e18" type="UNK">
+      <span>
+        <!--A d e l a i d e-->
+        <target id="t148"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_Next_Generation_Adelaide_International" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Next_Generation_Adelaide_International_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Adelaide_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e19" type="UNK">
+      <span>
+        <!--J a r k k o   N i e m i n e n-->
+        <target id="t152"/>
+        <target id="t153"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jarkko_Nieminen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Jarkko_Nieminen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Jarkko_Nieminen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e20" type="UNK">
+      <span>
+        <!--G i l l e s   S i m o n-->
+        <target id="t157"/>
+        <target id="t158"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gilles_Simon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gilles_Simon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gilles_Simon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e21" type="UNK">
+      <span>
+        <!--N i c o l a s   M a h u t-->
+        <target id="t160"/>
+        <target id="t161"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Nicolas_Mahut" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Nicolas_Mahut" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nicolas_Mahut" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e22" type="UNK">
+      <span>
+        <!--M a r c   G i c q u e l-->
+        <target id="t163"/>
+        <target id="t164"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marc_Gicquel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Marc_Gicquel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Marc_Gicquel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e23" type="UNK">
+      <span>
+        <!--M i c h a e l   B e r r e r-->
+        <target id="t166"/>
+        <target id="t167"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Michael_Berrer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Michael_Berrer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Michael_Berrer" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e24" type="UNK">
+      <span>
+        <!--V i ñ a   d e l   M a r-->
+        <target id="t177"/>
+        <target id="t178"/>
+        <target id="t179"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_Cachantún_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Cachantún_Cup_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/WTA-toernooi_van_Viña_del_Mar_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e25" type="UNK">
+      <span>
+        <!--A c a p u l c o-->
+        <target id="t181"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_Abierto_Mexicano_Telcel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Abierto_Mexicano_Telcel_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennistoernooi_van_Acapulco_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q2602277" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e26" type="UNK">
+      <span>
+        <!--F l a v i a   P e n n e t t a-->
+        <target id="t183"/>
+        <target id="t184"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Flavia_Pennetta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Flavia_Pennetta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Flavia_Pennetta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e27" type="UNK">
+      <span>
+        <!--M a r i a   K i r i l e n k o-->
+        <target id="t188"/>
+        <target id="t189"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Maria_Kirilenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Marija_Kirilenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Maria_Kirilenko" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e28" type="UNK">
+      <span>
+        <!--A n t w e r p-->
+        <target id="t192"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008_Proximus_Diamond_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Proximus_Diamond_Games_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/WTA-toernooi_van_Antwerpen_2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e29" type="UNK">
+      <span>
+        <!--K a r i n   K n a p p-->
+        <target id="t196"/>
+        <target id="t197"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Karin_Knapp" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Karin_Knapp" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Karin_Knapp" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e30" type="UNK">
+      <span>
+        <!--2 0 0 5   E s t o r i l-->
+        <target id="t205"/>
+        <target id="t206"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2005_Estoril_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Estoril_Open_2005" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennistoernooi_van_Estoril_2005" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q3353316" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e31" type="UNK">
+      <span>
+        <!--L u c i e   Š a f á ř o v á-->
+        <target id="t208"/>
+        <target id="t209"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lucie_Šafářová" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Lucie_Šafářová" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Lucie_Šafářová" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e32" type="UNK">
+      <span>
+        <!--T a t h i a n a   G a r b i n-->
+        <target id="t214"/>
+        <target id="t215"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tathiana_Garbin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tathiana_Garbin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tathiana_Garbin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e33" type="UNK">
+      <span>
+        <!--K l á r a   Z a k o p a l o v á-->
+        <target id="t217"/>
+        <target id="t218"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Klára_Zakopalová" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e34" type="UNK">
+      <span>
+        <!--S o f i a   A r v i d s s o n-->
+        <target id="t220"/>
+        <target id="t221"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Sofia_Arvidsson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Sofia_Arvidsson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Sofia_Arvidsson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e35" type="UNK">
+      <span>
+        <!--C a m i l l e   P i n-->
+        <target id="t223"/>
+        <target id="t224"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Camille_Pin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Camille_Pin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Camille_Pin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-judicial_body" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-closure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t74"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t76"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-create_physical_artwork" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t99"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t106"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-closure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t110"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-closure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t114"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t126"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-increment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t140"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t171"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-create_physical_artwork" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t173"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

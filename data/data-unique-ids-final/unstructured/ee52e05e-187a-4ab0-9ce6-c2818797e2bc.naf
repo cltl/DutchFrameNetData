@@ -1,0 +1,990 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1989 Dunhill Cup"/>
+    <public uri="https://en.wikipedia.org/wiki/1989_Dunhill_Cup"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T08:26:29UTC" endTimestamp="2020-05-28T08:26:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T08:26:29UTC" endTimestamp="2020-05-28T08:26:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T08:26:29UTC" endTimestamp="2020-05-28T08:26:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T08:26:29UTC" endTimestamp="2020-05-28T08:26:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:37CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1989 Dunhill Cup++.
+The 1989 Dunhill Cup was the fifth Dunhill Cup. It was a team tournament featuring 16 countries, each represented by three players. The Cup was played 28 September – 1 October at the Old Course at St Andrews in Scotland. The sponsor was the Alfred Dunhill company. The American team of Mark Calcavecchia, Tom Kite, and Curtis Strange beat the Japanese team of Hajime Meshiai, Naomichi Ozaki, and Koichi Suzuki in the final. It was the first time that the number one seeded team won the Cup.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1989]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Dunhill]]></wf>
+    <wf sent="1" id="w4" length="5" offset="15"><![CDATA[Cup++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="4" offset="26"><![CDATA[1989]]></wf>
+    <wf sent="2" id="w9" length="7" offset="31"><![CDATA[Dunhill]]></wf>
+    <wf sent="2" id="w10" length="3" offset="39"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w11" length="3" offset="43"><![CDATA[was]]></wf>
+    <wf sent="2" id="w12" length="3" offset="47"><![CDATA[the]]></wf>
+    <wf sent="2" id="w13" length="5" offset="51"><![CDATA[fifth]]></wf>
+    <wf sent="2" id="w14" length="7" offset="57"><![CDATA[Dunhill]]></wf>
+    <wf sent="2" id="w15" length="3" offset="65"><![CDATA[Cup]]></wf>
+    <wf sent="2" id="w16" length="1" offset="68"><![CDATA[.]]></wf>
+    <wf sent="3" id="w17" length="2" offset="70"><![CDATA[It]]></wf>
+    <wf sent="3" id="w18" length="3" offset="73"><![CDATA[was]]></wf>
+    <wf sent="3" id="w19" length="1" offset="77"><![CDATA[a]]></wf>
+    <wf sent="3" id="w20" length="4" offset="79"><![CDATA[team]]></wf>
+    <wf sent="3" id="w21" length="10" offset="84"><![CDATA[tournament]]></wf>
+    <wf sent="3" id="w22" length="9" offset="95"><![CDATA[featuring]]></wf>
+    <wf sent="3" id="w23" length="2" offset="105"><![CDATA[16]]></wf>
+    <wf sent="3" id="w24" length="9" offset="108"><![CDATA[countries]]></wf>
+    <wf sent="3" id="w25" length="1" offset="117"><![CDATA[,]]></wf>
+    <wf sent="3" id="w26" length="4" offset="119"><![CDATA[each]]></wf>
+    <wf sent="3" id="w27" length="11" offset="124"><![CDATA[represented]]></wf>
+    <wf sent="3" id="w28" length="2" offset="136"><![CDATA[by]]></wf>
+    <wf sent="3" id="w29" length="5" offset="139"><![CDATA[three]]></wf>
+    <wf sent="3" id="w30" length="7" offset="145"><![CDATA[players]]></wf>
+    <wf sent="3" id="w31" length="1" offset="152"><![CDATA[.]]></wf>
+    <wf sent="4" id="w32" length="3" offset="154"><![CDATA[The]]></wf>
+    <wf sent="4" id="w33" length="3" offset="158"><![CDATA[Cup]]></wf>
+    <wf sent="4" id="w34" length="3" offset="162"><![CDATA[was]]></wf>
+    <wf sent="4" id="w35" length="6" offset="166"><![CDATA[played]]></wf>
+    <wf sent="4" id="w36" length="2" offset="173"><![CDATA[28]]></wf>
+    <wf sent="4" id="w37" length="9" offset="176"><![CDATA[September]]></wf>
+    <wf sent="4" id="w38" length="1" offset="186"><![CDATA[–]]></wf>
+    <wf sent="4" id="w39" length="1" offset="188"><![CDATA[1]]></wf>
+    <wf sent="4" id="w40" length="7" offset="190"><![CDATA[October]]></wf>
+    <wf sent="4" id="w41" length="2" offset="198"><![CDATA[at]]></wf>
+    <wf sent="4" id="w42" length="3" offset="201"><![CDATA[the]]></wf>
+    <wf sent="4" id="w43" length="3" offset="205"><![CDATA[Old]]></wf>
+    <wf sent="4" id="w44" length="6" offset="209"><![CDATA[Course]]></wf>
+    <wf sent="4" id="w45" length="2" offset="216"><![CDATA[at]]></wf>
+    <wf sent="4" id="w46" length="2" offset="219"><![CDATA[St]]></wf>
+    <wf sent="4" id="w47" length="7" offset="222"><![CDATA[Andrews]]></wf>
+    <wf sent="4" id="w48" length="2" offset="230"><![CDATA[in]]></wf>
+    <wf sent="4" id="w49" length="8" offset="233"><![CDATA[Scotland]]></wf>
+    <wf sent="4" id="w50" length="1" offset="241"><![CDATA[.]]></wf>
+    <wf sent="5" id="w51" length="3" offset="243"><![CDATA[The]]></wf>
+    <wf sent="5" id="w52" length="7" offset="247"><![CDATA[sponsor]]></wf>
+    <wf sent="5" id="w53" length="3" offset="255"><![CDATA[was]]></wf>
+    <wf sent="5" id="w54" length="3" offset="259"><![CDATA[the]]></wf>
+    <wf sent="5" id="w55" length="6" offset="263"><![CDATA[Alfred]]></wf>
+    <wf sent="5" id="w56" length="7" offset="270"><![CDATA[Dunhill]]></wf>
+    <wf sent="5" id="w57" length="7" offset="278"><![CDATA[company]]></wf>
+    <wf sent="5" id="w58" length="1" offset="285"><![CDATA[.]]></wf>
+    <wf sent="6" id="w59" length="3" offset="287"><![CDATA[The]]></wf>
+    <wf sent="6" id="w60" length="8" offset="291"><![CDATA[American]]></wf>
+    <wf sent="6" id="w61" length="4" offset="300"><![CDATA[team]]></wf>
+    <wf sent="6" id="w62" length="2" offset="305"><![CDATA[of]]></wf>
+    <wf sent="6" id="w63" length="4" offset="308"><![CDATA[Mark]]></wf>
+    <wf sent="6" id="w64" length="12" offset="313"><![CDATA[Calcavecchia]]></wf>
+    <wf sent="6" id="w65" length="1" offset="325"><![CDATA[,]]></wf>
+    <wf sent="6" id="w66" length="3" offset="327"><![CDATA[Tom]]></wf>
+    <wf sent="6" id="w67" length="4" offset="331"><![CDATA[Kite]]></wf>
+    <wf sent="6" id="w68" length="1" offset="335"><![CDATA[,]]></wf>
+    <wf sent="6" id="w69" length="3" offset="337"><![CDATA[and]]></wf>
+    <wf sent="6" id="w70" length="6" offset="341"><![CDATA[Curtis]]></wf>
+    <wf sent="6" id="w71" length="7" offset="348"><![CDATA[Strange]]></wf>
+    <wf sent="6" id="w72" length="4" offset="356"><![CDATA[beat]]></wf>
+    <wf sent="6" id="w73" length="3" offset="361"><![CDATA[the]]></wf>
+    <wf sent="6" id="w74" length="8" offset="365"><![CDATA[Japanese]]></wf>
+    <wf sent="6" id="w75" length="4" offset="374"><![CDATA[team]]></wf>
+    <wf sent="6" id="w76" length="2" offset="379"><![CDATA[of]]></wf>
+    <wf sent="6" id="w77" length="6" offset="382"><![CDATA[Hajime]]></wf>
+    <wf sent="6" id="w78" length="7" offset="389"><![CDATA[Meshiai]]></wf>
+    <wf sent="6" id="w79" length="1" offset="396"><![CDATA[,]]></wf>
+    <wf sent="6" id="w80" length="8" offset="398"><![CDATA[Naomichi]]></wf>
+    <wf sent="6" id="w81" length="5" offset="407"><![CDATA[Ozaki]]></wf>
+    <wf sent="6" id="w82" length="1" offset="412"><![CDATA[,]]></wf>
+    <wf sent="6" id="w83" length="3" offset="414"><![CDATA[and]]></wf>
+    <wf sent="6" id="w84" length="6" offset="418"><![CDATA[Koichi]]></wf>
+    <wf sent="6" id="w85" length="6" offset="425"><![CDATA[Suzuki]]></wf>
+    <wf sent="6" id="w86" length="2" offset="432"><![CDATA[in]]></wf>
+    <wf sent="6" id="w87" length="3" offset="435"><![CDATA[the]]></wf>
+    <wf sent="6" id="w88" length="5" offset="439"><![CDATA[final]]></wf>
+    <wf sent="6" id="w89" length="1" offset="444"><![CDATA[.]]></wf>
+    <wf sent="7" id="w90" length="2" offset="446"><![CDATA[It]]></wf>
+    <wf sent="7" id="w91" length="3" offset="449"><![CDATA[was]]></wf>
+    <wf sent="7" id="w92" length="3" offset="453"><![CDATA[the]]></wf>
+    <wf sent="7" id="w93" length="5" offset="457"><![CDATA[first]]></wf>
+    <wf sent="7" id="w94" length="4" offset="463"><![CDATA[time]]></wf>
+    <wf sent="7" id="w95" length="4" offset="468"><![CDATA[that]]></wf>
+    <wf sent="7" id="w96" length="3" offset="473"><![CDATA[the]]></wf>
+    <wf sent="7" id="w97" length="6" offset="477"><![CDATA[number]]></wf>
+    <wf sent="7" id="w98" length="3" offset="484"><![CDATA[one]]></wf>
+    <wf sent="7" id="w99" length="6" offset="488"><![CDATA[seeded]]></wf>
+    <wf sent="7" id="w100" length="4" offset="495"><![CDATA[team]]></wf>
+    <wf sent="7" id="w101" length="3" offset="500"><![CDATA[won]]></wf>
+    <wf sent="7" id="w102" length="3" offset="504"><![CDATA[the]]></wf>
+    <wf sent="7" id="w103" length="3" offset="508"><![CDATA[Cup]]></wf>
+    <wf sent="7" id="w104" length="1" offset="511"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1989" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Dunhill" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Cup++" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="1989" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Dunhill" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="fifth" pos="ADJ" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Dunhill" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="feature" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="country" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="each" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="represent" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="three" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="player" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="play" pos="VERB" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="28" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Old" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="course" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="St" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Andrews" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="sponsor" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Alfred" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Dunhill" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="company" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="american" pos="ADJ" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="Mark" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Calcavecchia" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="Tom" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Kite" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Curtis" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="Strange" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="beat" pos="VERB" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="japanese" pos="ADJ" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Hajime" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="Meshiai" pos="PROPN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="Naomichi" pos="PROPN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="Ozaki" pos="PROPN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Koichi" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Suzuki" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="final" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="time" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="that" pos="ADP" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="number" pos="NOUN" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="seeded" pos="ADJ" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="Cup" pos="PROPN" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t4" rfunc="punct"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t11" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t8" rfunc="nummod"/>
+    <dep from="t10" to="t9" rfunc="compound"/>
+    <dep from="t15" to="t12" rfunc="det"/>
+    <dep from="t11" to="t15" rfunc="attr"/>
+    <dep from="t15" to="t13" rfunc="amod"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t11" to="t16" rfunc="punct"/>
+    <dep from="t18" to="t17" rfunc="nsubj"/>
+    <dep from="t21" to="t19" rfunc="det"/>
+    <dep from="t18" to="t21" rfunc="attr"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t21" to="t22" rfunc="acl"/>
+    <dep from="t24" to="t23" rfunc="nummod"/>
+    <dep from="t22" to="t24" rfunc="dobj"/>
+    <dep from="t24" to="t25" rfunc="punct"/>
+    <dep from="t27" to="t26" rfunc="nsubj"/>
+    <dep from="t21" to="t27" rfunc="acl"/>
+    <dep from="t27" to="t28" rfunc="agent"/>
+    <dep from="t30" to="t29" rfunc="nummod"/>
+    <dep from="t28" to="t30" rfunc="pobj"/>
+    <dep from="t18" to="t31" rfunc="punct"/>
+    <dep from="t33" to="t32" rfunc="det"/>
+    <dep from="t35" to="t33" rfunc="nsubjpass"/>
+    <dep from="t35" to="t34" rfunc="auxpass"/>
+    <dep from="t37" to="t36" rfunc="nummod"/>
+    <dep from="t38" to="t37" rfunc="nmod"/>
+    <dep from="t35" to="t38" rfunc="npadvmod"/>
+    <dep from="t40" to="t39" rfunc="nummod"/>
+    <dep from="t38" to="t40" rfunc="appos"/>
+    <dep from="t35" to="t41" rfunc="prep"/>
+    <dep from="t44" to="t42" rfunc="det"/>
+    <dep from="t41" to="t44" rfunc="pobj"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t45" to="t47" rfunc="pobj"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t48" to="t49" rfunc="pobj"/>
+    <dep from="t35" to="t50" rfunc="punct"/>
+    <dep from="t52" to="t51" rfunc="det"/>
+    <dep from="t53" to="t52" rfunc="nsubj"/>
+    <dep from="t57" to="t54" rfunc="det"/>
+    <dep from="t53" to="t57" rfunc="attr"/>
+    <dep from="t56" to="t55" rfunc="compound"/>
+    <dep from="t57" to="t56" rfunc="compound"/>
+    <dep from="t53" to="t58" rfunc="punct"/>
+    <dep from="t61" to="t59" rfunc="det"/>
+    <dep from="t72" to="t61" rfunc="nsubj"/>
+    <dep from="t61" to="t60" rfunc="amod"/>
+    <dep from="t61" to="t62" rfunc="prep"/>
+    <dep from="t64" to="t63" rfunc="compound"/>
+    <dep from="t62" to="t64" rfunc="pobj"/>
+    <dep from="t64" to="t65" rfunc="punct"/>
+    <dep from="t67" to="t66" rfunc="compound"/>
+    <dep from="t64" to="t67" rfunc="conj"/>
+    <dep from="t67" to="t68" rfunc="punct"/>
+    <dep from="t61" to="t69" rfunc="cc"/>
+    <dep from="t71" to="t70" rfunc="compound"/>
+    <dep from="t72" to="t71" rfunc="nsubj"/>
+    <dep from="t75" to="t73" rfunc="det"/>
+    <dep from="t72" to="t75" rfunc="dobj"/>
+    <dep from="t75" to="t74" rfunc="amod"/>
+    <dep from="t75" to="t76" rfunc="prep"/>
+    <dep from="t78" to="t77" rfunc="compound"/>
+    <dep from="t76" to="t78" rfunc="pobj"/>
+    <dep from="t78" to="t79" rfunc="punct"/>
+    <dep from="t81" to="t80" rfunc="compound"/>
+    <dep from="t78" to="t81" rfunc="conj"/>
+    <dep from="t81" to="t82" rfunc="punct"/>
+    <dep from="t81" to="t83" rfunc="cc"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t81" to="t85" rfunc="conj"/>
+    <dep from="t72" to="t86" rfunc="prep"/>
+    <dep from="t88" to="t87" rfunc="det"/>
+    <dep from="t86" to="t88" rfunc="pobj"/>
+    <dep from="t72" to="t89" rfunc="punct"/>
+    <dep from="t91" to="t90" rfunc="nsubj"/>
+    <dep from="t94" to="t92" rfunc="det"/>
+    <dep from="t91" to="t94" rfunc="attr"/>
+    <dep from="t94" to="t93" rfunc="amod"/>
+    <dep from="t101" to="t95" rfunc="advmod"/>
+    <dep from="t94" to="t101" rfunc="relcl"/>
+    <dep from="t100" to="t96" rfunc="det"/>
+    <dep from="t101" to="t100" rfunc="nsubj"/>
+    <dep from="t100" to="t97" rfunc="nmod"/>
+    <dep from="t97" to="t98" rfunc="nummod"/>
+    <dep from="t100" to="t99" rfunc="amod"/>
+    <dep from="t103" to="t102" rfunc="det"/>
+    <dep from="t101" to="t103" rfunc="dobj"/>
+    <dep from="t91" to="t104" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--D u n h i l l   C u p-->
+        <target id="t14"/>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Dunhill_Cup" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--O l d   C o u r s e   a t   S t   A n d r e w s-->
+        <target id="t43"/>
+        <target id="t44"/>
+        <target id="t45"/>
+        <target id="t46"/>
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Old_Course_at_St_Andrews" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S c o t l a n d-->
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Scotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Scozia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Schotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--A l f r e d   D u n h i l l-->
+        <target id="t55"/>
+        <target id="t56"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Alfred_Dunhill" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--M a r k   C a l c a v e c c h i a-->
+        <target id="t63"/>
+        <target id="t64"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mark_Calcavecchia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mark_Calcavecchia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Mark_Calcavecchia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--T o m   K i t e-->
+        <target id="t66"/>
+        <target id="t67"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tom_Kite" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tom_Kite" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tom_Kite" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--C u r t i s   S t r a n g e-->
+        <target id="t70"/>
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Curtis_Strange" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Curtis_Strange" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Curtis_Strange" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--H a j i m e   M e s h i a i-->
+        <target id="t77"/>
+        <target id="t78"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hajime_Meshiai" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--N a o m i c h i   O z a k i-->
+        <target id="t80"/>
+        <target id="t81"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Naomichi_Ozaki" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Joe_Ozaki" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--K o i c h i   S u z u k i-->
+        <target id="t84"/>
+        <target id="t85"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Koichi_Suzuki" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-communicate_categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performers_and_roles" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-businesses" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t61"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cause_harm" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t93"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-quantified_mass" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t97"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t98"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t100"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

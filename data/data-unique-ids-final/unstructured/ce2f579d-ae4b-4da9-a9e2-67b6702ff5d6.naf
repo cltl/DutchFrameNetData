@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Sint-Petersburg 2006"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Sint-Petersburg_2006"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:00:44UTC" endTimestamp="2020-05-27T15:00:44UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:00:44UTC" endTimestamp="2020-05-27T15:00:44UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:00:44UTC" endTimestamp="2020-05-27T15:00:44UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:00:44UTC" endTimestamp="2020-05-27T15:00:44UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Sint-Petersburg 2006++.
+Het ATP-toernooi van Sint-Petersburg 2006 (met de officiële naam St. Petersburg Open 2006) werd van 21 tot en met 29 oktober 2006 gespeeld in de Russische stad Sint-Petersburg.
+Mario Ančić won het toernooi. Hij versloeg in de finale Thomas Johansson.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="4" offset="19"><![CDATA[Sint]]></wf>
+    <wf sent="1" id="w8" length="1" offset="23"><![CDATA[-]]></wf>
+    <wf sent="1" id="w9" length="10" offset="24"><![CDATA[Petersburg]]></wf>
+    <wf sent="1" id="w10" length="6" offset="35"><![CDATA[2006++]]></wf>
+    <wf sent="1" id="w11" length="1" offset="41"><![CDATA[.]]></wf>
+    <wf sent="1" id="w12" length="1" offset="42"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w13" length="3" offset="43"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w14" length="3" offset="47"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w15" length="1" offset="50"><![CDATA[-]]></wf>
+    <wf sent="2" id="w16" length="8" offset="51"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w17" length="3" offset="60"><![CDATA[van]]></wf>
+    <wf sent="2" id="w18" length="4" offset="64"><![CDATA[Sint]]></wf>
+    <wf sent="2" id="w19" length="1" offset="68"><![CDATA[-]]></wf>
+    <wf sent="2" id="w20" length="10" offset="69"><![CDATA[Petersburg]]></wf>
+    <wf sent="2" id="w21" length="4" offset="80"><![CDATA[2006]]></wf>
+    <wf sent="2" id="w22" length="1" offset="85"><![CDATA[(]]></wf>
+    <wf sent="2" id="w23" length="3" offset="86"><![CDATA[met]]></wf>
+    <wf sent="2" id="w24" length="2" offset="90"><![CDATA[de]]></wf>
+    <wf sent="2" id="w25" length="9" offset="93"><![CDATA[officiële]]></wf>
+    <wf sent="2" id="w26" length="4" offset="103"><![CDATA[naam]]></wf>
+    <wf sent="2" id="w27" length="3" offset="108"><![CDATA[St.]]></wf>
+    <wf sent="2" id="w28" length="10" offset="112"><![CDATA[Petersburg]]></wf>
+    <wf sent="2" id="w29" length="4" offset="123"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w30" length="4" offset="128"><![CDATA[2006]]></wf>
+    <wf sent="2" id="w31" length="1" offset="132"><![CDATA[)]]></wf>
+    <wf sent="2" id="w32" length="4" offset="134"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w33" length="3" offset="139"><![CDATA[van]]></wf>
+    <wf sent="2" id="w34" length="2" offset="143"><![CDATA[21]]></wf>
+    <wf sent="2" id="w35" length="3" offset="146"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w36" length="2" offset="150"><![CDATA[en]]></wf>
+    <wf sent="2" id="w37" length="3" offset="153"><![CDATA[met]]></wf>
+    <wf sent="2" id="w38" length="2" offset="157"><![CDATA[29]]></wf>
+    <wf sent="2" id="w39" length="7" offset="160"><![CDATA[oktober]]></wf>
+    <wf sent="2" id="w40" length="4" offset="168"><![CDATA[2006]]></wf>
+    <wf sent="2" id="w41" length="8" offset="173"><![CDATA[gespeeld]]></wf>
+    <wf sent="2" id="w42" length="2" offset="182"><![CDATA[in]]></wf>
+    <wf sent="2" id="w43" length="2" offset="185"><![CDATA[de]]></wf>
+    <wf sent="2" id="w44" length="9" offset="188"><![CDATA[Russische]]></wf>
+    <wf sent="2" id="w45" length="4" offset="198"><![CDATA[stad]]></wf>
+    <wf sent="2" id="w46" length="4" offset="203"><![CDATA[Sint]]></wf>
+    <wf sent="2" id="w47" length="1" offset="207"><![CDATA[-]]></wf>
+    <wf sent="2" id="w48" length="10" offset="208"><![CDATA[Petersburg]]></wf>
+    <wf sent="2" id="w49" length="1" offset="218"><![CDATA[.]]></wf>
+    <wf sent="2" id="w50" length="1" offset="219"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w51" length="5" offset="220"><![CDATA[Mario]]></wf>
+    <wf sent="3" id="w52" length="5" offset="226"><![CDATA[Ančić]]></wf>
+    <wf sent="3" id="w53" length="3" offset="232"><![CDATA[won]]></wf>
+    <wf sent="3" id="w54" length="3" offset="236"><![CDATA[het]]></wf>
+    <wf sent="3" id="w55" length="8" offset="240"><![CDATA[toernooi]]></wf>
+    <wf sent="3" id="w56" length="1" offset="248"><![CDATA[.]]></wf>
+    <wf sent="4" id="w57" length="3" offset="250"><![CDATA[Hij]]></wf>
+    <wf sent="4" id="w58" length="8" offset="254"><![CDATA[versloeg]]></wf>
+    <wf sent="4" id="w59" length="2" offset="263"><![CDATA[in]]></wf>
+    <wf sent="4" id="w60" length="2" offset="266"><![CDATA[de]]></wf>
+    <wf sent="4" id="w61" length="6" offset="269"><![CDATA[finale]]></wf>
+    <wf sent="4" id="w62" length="6" offset="276"><![CDATA[Thomas]]></wf>
+    <wf sent="4" id="w63" length="9" offset="283"><![CDATA[Johansson]]></wf>
+    <wf sent="4" id="w64" length="1" offset="292"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="sint" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="petersburg" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2006++" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="sint" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="petersburg" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="2006" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="naam" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="st." pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="petersburg" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="open" pos="X" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="2006" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="oktob" pos="NUM" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="2006" pos="NUM" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="russisch" pos="ADJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="stad" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="sint" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="petersburg" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="mario" pos="NOUN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="ančić" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="hij" pos="PRON" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="verslaan" pos="VERB" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="thoma" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="johansson" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t7" to="t8" rfunc="compound"/>
+    <dep from="t7" to="t9" rfunc="compound"/>
+    <dep from="t5" to="t10" rfunc="nummod"/>
+    <dep from="t1" to="t11" rfunc="punct"/>
+    <dep from="t11" to="t12" rfunc=""/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t41" to="t14" rfunc="nsubj"/>
+    <dep from="t16" to="t15" rfunc="nmod"/>
+    <dep from="t14" to="t16" rfunc="nmod"/>
+    <dep from="t18" to="t17" rfunc="case"/>
+    <dep from="t16" to="t18" rfunc="nmod"/>
+    <dep from="t18" to="t19" rfunc="compound"/>
+    <dep from="t18" to="t20" rfunc="compound"/>
+    <dep from="t18" to="t21" rfunc="nummod"/>
+    <dep from="t16" to="t22" rfunc="punct"/>
+    <dep from="t26" to="t23" rfunc="case"/>
+    <dep from="t16" to="t26" rfunc="nmod"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t26" to="t25" rfunc="amod"/>
+    <dep from="t26" to="t27" rfunc="appos"/>
+    <dep from="t27" to="t28" rfunc="flat"/>
+    <dep from="t27" to="t29" rfunc="flat"/>
+    <dep from="t26" to="t30" rfunc="nummod"/>
+    <dep from="t41" to="t31" rfunc="punct"/>
+    <dep from="t41" to="t32" rfunc="aux"/>
+    <dep from="t34" to="t33" rfunc="case"/>
+    <dep from="t41" to="t34" rfunc="obl"/>
+    <dep from="t34" to="t35" rfunc="cc"/>
+    <dep from="t35" to="t36" rfunc="compound"/>
+    <dep from="t35" to="t37" rfunc="compound"/>
+    <dep from="t35" to="t38" rfunc="advmod"/>
+    <dep from="t38" to="t39" rfunc="compound"/>
+    <dep from="t38" to="t40" rfunc="compound"/>
+    <dep from="t45" to="t42" rfunc="case"/>
+    <dep from="t41" to="t45" rfunc="obl"/>
+    <dep from="t45" to="t43" rfunc="det"/>
+    <dep from="t45" to="t44" rfunc="amod"/>
+    <dep from="t45" to="t46" rfunc="appos"/>
+    <dep from="t45" to="t47" rfunc="nmod"/>
+    <dep from="t45" to="t48" rfunc="appos"/>
+    <dep from="t41" to="t49" rfunc="punct"/>
+    <dep from="t49" to="t50" rfunc=""/>
+    <dep from="t53" to="t51" rfunc="nsubj"/>
+    <dep from="t51" to="t52" rfunc="flat"/>
+    <dep from="t55" to="t54" rfunc="det"/>
+    <dep from="t53" to="t55" rfunc="obj"/>
+    <dep from="t53" to="t56" rfunc="punct"/>
+    <dep from="t58" to="t57" rfunc="nsubj"/>
+    <dep from="t61" to="t59" rfunc="case"/>
+    <dep from="t58" to="t61" rfunc="obl"/>
+    <dep from="t61" to="t60" rfunc="det"/>
+    <dep from="t61" to="t62" rfunc="appos"/>
+    <dep from="t62" to="t63" rfunc="flat"/>
+    <dep from="t58" to="t64" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   S i n t - P e t e r s b u r g-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Sint-Petersburg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/St._Petersburg_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/St._Petersburg_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 1-->
+        <target id="t34"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/21_oktober" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/21_ottobre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/October_21" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 9   o k t o b e r-->
+        <target id="t38"/>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/29_oktober" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/29_ottobre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/October_29" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 6-->
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2006" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/2006" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/2006" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--R u s s i s c h e-->
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Rusland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Russia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Russia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q159" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--S i n t - P e t e r s b u r g-->
+        <target id="t46"/>
+        <target id="t47"/>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Sint-Petersburg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/San_Pietroburgo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Saint_Petersburg" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--M a r i o   A n č i ć-->
+        <target id="t51"/>
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Mario_Ančić" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mario_Ančić" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mario_Ančić" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--T h o m a s   J o h a n s s o n-->
+        <target id="t62"/>
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thomas_Johansson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Thomas_Johansson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Thomas_Johansson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q159" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

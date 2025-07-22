@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Sorauren"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Sorauren"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:55:36UTC" endTimestamp="2020-05-28T17:55:37UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:55:36UTC" endTimestamp="2020-05-28T17:55:37UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:55:36UTC" endTimestamp="2020-05-28T17:55:37UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:55:36UTC" endTimestamp="2020-05-28T17:55:37UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:01CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Sorauren++.
+The Battle of Sorauren was part of a series of engagements in late July 1813 called the Battle of the Pyrenees in which a combined British and Portuguese force under Sir Arthur Wellesley held off Marshal Soult's French forces attempting to relieve Pamplona.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="10" offset="12"><![CDATA[Sorauren++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="23"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="24"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="28"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="35"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="8" offset="38"><![CDATA[Sorauren]]></wf>
+    <wf sent="2" id="w12" length="3" offset="47"><![CDATA[was]]></wf>
+    <wf sent="2" id="w13" length="4" offset="51"><![CDATA[part]]></wf>
+    <wf sent="2" id="w14" length="2" offset="56"><![CDATA[of]]></wf>
+    <wf sent="2" id="w15" length="1" offset="59"><![CDATA[a]]></wf>
+    <wf sent="2" id="w16" length="6" offset="61"><![CDATA[series]]></wf>
+    <wf sent="2" id="w17" length="2" offset="68"><![CDATA[of]]></wf>
+    <wf sent="2" id="w18" length="11" offset="71"><![CDATA[engagements]]></wf>
+    <wf sent="2" id="w19" length="2" offset="83"><![CDATA[in]]></wf>
+    <wf sent="2" id="w20" length="4" offset="86"><![CDATA[late]]></wf>
+    <wf sent="2" id="w21" length="4" offset="91"><![CDATA[July]]></wf>
+    <wf sent="2" id="w22" length="4" offset="96"><![CDATA[1813]]></wf>
+    <wf sent="2" id="w23" length="6" offset="101"><![CDATA[called]]></wf>
+    <wf sent="2" id="w24" length="3" offset="108"><![CDATA[the]]></wf>
+    <wf sent="2" id="w25" length="6" offset="112"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w26" length="2" offset="119"><![CDATA[of]]></wf>
+    <wf sent="2" id="w27" length="3" offset="122"><![CDATA[the]]></wf>
+    <wf sent="2" id="w28" length="8" offset="126"><![CDATA[Pyrenees]]></wf>
+    <wf sent="2" id="w29" length="2" offset="135"><![CDATA[in]]></wf>
+    <wf sent="2" id="w30" length="5" offset="138"><![CDATA[which]]></wf>
+    <wf sent="2" id="w31" length="1" offset="144"><![CDATA[a]]></wf>
+    <wf sent="2" id="w32" length="8" offset="146"><![CDATA[combined]]></wf>
+    <wf sent="2" id="w33" length="7" offset="155"><![CDATA[British]]></wf>
+    <wf sent="2" id="w34" length="3" offset="163"><![CDATA[and]]></wf>
+    <wf sent="2" id="w35" length="10" offset="167"><![CDATA[Portuguese]]></wf>
+    <wf sent="2" id="w36" length="5" offset="178"><![CDATA[force]]></wf>
+    <wf sent="2" id="w37" length="5" offset="184"><![CDATA[under]]></wf>
+    <wf sent="2" id="w38" length="3" offset="190"><![CDATA[Sir]]></wf>
+    <wf sent="2" id="w39" length="6" offset="194"><![CDATA[Arthur]]></wf>
+    <wf sent="2" id="w40" length="9" offset="201"><![CDATA[Wellesley]]></wf>
+    <wf sent="2" id="w41" length="4" offset="211"><![CDATA[held]]></wf>
+    <wf sent="2" id="w42" length="3" offset="216"><![CDATA[off]]></wf>
+    <wf sent="2" id="w43" length="7" offset="220"><![CDATA[Marshal]]></wf>
+    <wf sent="2" id="w44" length="5" offset="228"><![CDATA[Soult]]></wf>
+    <wf sent="2" id="w45" length="2" offset="233"><![CDATA['s]]></wf>
+    <wf sent="2" id="w46" length="6" offset="236"><![CDATA[French]]></wf>
+    <wf sent="2" id="w47" length="6" offset="243"><![CDATA[forces]]></wf>
+    <wf sent="2" id="w48" length="10" offset="250"><![CDATA[attempting]]></wf>
+    <wf sent="2" id="w49" length="2" offset="261"><![CDATA[to]]></wf>
+    <wf sent="2" id="w50" length="7" offset="264"><![CDATA[relieve]]></wf>
+    <wf sent="2" id="w51" length="8" offset="272"><![CDATA[Pamplona]]></wf>
+    <wf sent="2" id="w52" length="1" offset="280"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Sorauren++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Sorauren" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="series" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="engagement" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="late" pos="ADJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="July" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="1813" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="call" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Pyrenees" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="combine" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="british" pos="ADJ" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="portuguese" pos="ADJ" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="under" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Sir" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Arthur" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Wellesley" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="off" pos="PART" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Marshal" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Soult" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="french" pos="ADJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="attempt" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="relieve" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Pamplona" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t12" to="t13" rfunc="attr"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t17" to="t18" rfunc="pobj"/>
+    <dep from="t16" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="amod"/>
+    <dep from="t19" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="nummod"/>
+    <dep from="t16" to="t23" rfunc="acl"/>
+    <dep from="t25" to="t24" rfunc="det"/>
+    <dep from="t23" to="t25" rfunc="oprd"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t28" to="t27" rfunc="det"/>
+    <dep from="t26" to="t28" rfunc="pobj"/>
+    <dep from="t41" to="t29" rfunc="prep"/>
+    <dep from="t16" to="t41" rfunc="relcl"/>
+    <dep from="t29" to="t30" rfunc="pobj"/>
+    <dep from="t36" to="t31" rfunc="det"/>
+    <dep from="t41" to="t36" rfunc="nsubj"/>
+    <dep from="t36" to="t32" rfunc="amod"/>
+    <dep from="t36" to="t33" rfunc="amod"/>
+    <dep from="t33" to="t34" rfunc="cc"/>
+    <dep from="t33" to="t35" rfunc="conj"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t40" to="t38" rfunc="compound"/>
+    <dep from="t37" to="t40" rfunc="pobj"/>
+    <dep from="t40" to="t39" rfunc="compound"/>
+    <dep from="t41" to="t42" rfunc="prt"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t47" to="t44" rfunc="poss"/>
+    <dep from="t41" to="t47" rfunc="dobj"/>
+    <dep from="t44" to="t45" rfunc="case"/>
+    <dep from="t47" to="t46" rfunc="amod"/>
+    <dep from="t47" to="t48" rfunc="acl"/>
+    <dep from="t50" to="t49" rfunc="aux"/>
+    <dep from="t48" to="t50" rfunc="xcomp"/>
+    <dep from="t50" to="t51" rfunc="dobj"/>
+    <dep from="t12" to="t52" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--B a t t l e   o f   t h e   P y r e n e e s-->
+        <target id="t25"/>
+        <target id="t26"/>
+        <target id="t27"/>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle_of_the_Pyrenees" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q2890693" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B r i t i s h-->
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q145" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--P o r t u g u e s e-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Portugal" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Portugal" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Portugal" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q45" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--A r t h u r   W e l l e s l e y-->
+        <target id="t39"/>
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Arthur_Wellesley,_I_duca_di_Wellington" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--S o u l t-->
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jean-de-Dieu_Soult" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Nicolas_Jean-de-Dieu_Soult" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nicolas_Jean-de-Dieu_Soult" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--F r e n c h-->
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/France" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/France" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q142" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-referring_by_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_amalgamate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attempt" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1982 Toronto municipal election"/>
+    <public uri="https://en.wikipedia.org/wiki/1982_Toronto_municipal_election"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:36:19UTC" endTimestamp="2020-05-27T19:36:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:36:19UTC" endTimestamp="2020-05-27T19:36:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:36:19UTC" endTimestamp="2020-05-27T19:36:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:36:19UTC" endTimestamp="2020-05-27T19:36:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:55CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1982 Toronto municipal election++.
+The 1982 Toronto municipal election was held on November 8, 1982, in Metropolitan Toronto, Ontario, Canada. Mayors, controllers, city councillors and school board trustees were elected in the municipalities of Toronto, York, East York, North York, Etobicoke and Scarborough.
+Art Eggleton was re-elected as Mayor of Toronto, and Mel Lastman was re-elected as Mayor of North York.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1982]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Toronto]]></wf>
+    <wf sent="1" id="w4" length="9" offset="15"><![CDATA[municipal]]></wf>
+    <wf sent="1" id="w5" length="10" offset="25"><![CDATA[election++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="41"><![CDATA[1982]]></wf>
+    <wf sent="2" id="w10" length="7" offset="46"><![CDATA[Toronto]]></wf>
+    <wf sent="2" id="w11" length="9" offset="54"><![CDATA[municipal]]></wf>
+    <wf sent="2" id="w12" length="8" offset="64"><![CDATA[election]]></wf>
+    <wf sent="2" id="w13" length="3" offset="73"><![CDATA[was]]></wf>
+    <wf sent="2" id="w14" length="4" offset="77"><![CDATA[held]]></wf>
+    <wf sent="2" id="w15" length="2" offset="82"><![CDATA[on]]></wf>
+    <wf sent="2" id="w16" length="8" offset="85"><![CDATA[November]]></wf>
+    <wf sent="2" id="w17" length="1" offset="94"><![CDATA[8]]></wf>
+    <wf sent="2" id="w18" length="1" offset="95"><![CDATA[,]]></wf>
+    <wf sent="2" id="w19" length="4" offset="97"><![CDATA[1982]]></wf>
+    <wf sent="2" id="w20" length="1" offset="101"><![CDATA[,]]></wf>
+    <wf sent="2" id="w21" length="2" offset="103"><![CDATA[in]]></wf>
+    <wf sent="2" id="w22" length="12" offset="106"><![CDATA[Metropolitan]]></wf>
+    <wf sent="2" id="w23" length="7" offset="119"><![CDATA[Toronto]]></wf>
+    <wf sent="2" id="w24" length="1" offset="126"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="7" offset="128"><![CDATA[Ontario]]></wf>
+    <wf sent="2" id="w26" length="1" offset="135"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="6" offset="137"><![CDATA[Canada]]></wf>
+    <wf sent="2" id="w28" length="1" offset="143"><![CDATA[.]]></wf>
+    <wf sent="3" id="w29" length="6" offset="145"><![CDATA[Mayors]]></wf>
+    <wf sent="3" id="w30" length="1" offset="151"><![CDATA[,]]></wf>
+    <wf sent="3" id="w31" length="11" offset="153"><![CDATA[controllers]]></wf>
+    <wf sent="3" id="w32" length="1" offset="164"><![CDATA[,]]></wf>
+    <wf sent="3" id="w33" length="4" offset="166"><![CDATA[city]]></wf>
+    <wf sent="3" id="w34" length="11" offset="171"><![CDATA[councillors]]></wf>
+    <wf sent="3" id="w35" length="3" offset="183"><![CDATA[and]]></wf>
+    <wf sent="3" id="w36" length="6" offset="187"><![CDATA[school]]></wf>
+    <wf sent="3" id="w37" length="5" offset="194"><![CDATA[board]]></wf>
+    <wf sent="3" id="w38" length="8" offset="200"><![CDATA[trustees]]></wf>
+    <wf sent="3" id="w39" length="4" offset="209"><![CDATA[were]]></wf>
+    <wf sent="3" id="w40" length="7" offset="214"><![CDATA[elected]]></wf>
+    <wf sent="3" id="w41" length="2" offset="222"><![CDATA[in]]></wf>
+    <wf sent="3" id="w42" length="3" offset="225"><![CDATA[the]]></wf>
+    <wf sent="3" id="w43" length="14" offset="229"><![CDATA[municipalities]]></wf>
+    <wf sent="3" id="w44" length="2" offset="244"><![CDATA[of]]></wf>
+    <wf sent="3" id="w45" length="7" offset="247"><![CDATA[Toronto]]></wf>
+    <wf sent="3" id="w46" length="1" offset="254"><![CDATA[,]]></wf>
+    <wf sent="3" id="w47" length="4" offset="256"><![CDATA[York]]></wf>
+    <wf sent="3" id="w48" length="1" offset="260"><![CDATA[,]]></wf>
+    <wf sent="3" id="w49" length="4" offset="262"><![CDATA[East]]></wf>
+    <wf sent="3" id="w50" length="4" offset="267"><![CDATA[York]]></wf>
+    <wf sent="3" id="w51" length="1" offset="271"><![CDATA[,]]></wf>
+    <wf sent="3" id="w52" length="5" offset="273"><![CDATA[North]]></wf>
+    <wf sent="3" id="w53" length="4" offset="279"><![CDATA[York]]></wf>
+    <wf sent="3" id="w54" length="1" offset="283"><![CDATA[,]]></wf>
+    <wf sent="3" id="w55" length="9" offset="285"><![CDATA[Etobicoke]]></wf>
+    <wf sent="3" id="w56" length="3" offset="295"><![CDATA[and]]></wf>
+    <wf sent="3" id="w57" length="11" offset="299"><![CDATA[Scarborough]]></wf>
+    <wf sent="3" id="w58" length="1" offset="310"><![CDATA[.]]></wf>
+    <wf sent="3" id="w59" length="1" offset="311"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w60" length="3" offset="312"><![CDATA[Art]]></wf>
+    <wf sent="4" id="w61" length="8" offset="316"><![CDATA[Eggleton]]></wf>
+    <wf sent="4" id="w62" length="3" offset="325"><![CDATA[was]]></wf>
+    <wf sent="4" id="w63" length="2" offset="329"><![CDATA[re]]></wf>
+    <wf sent="4" id="w64" length="1" offset="331"><![CDATA[-]]></wf>
+    <wf sent="4" id="w65" length="7" offset="332"><![CDATA[elected]]></wf>
+    <wf sent="4" id="w66" length="2" offset="340"><![CDATA[as]]></wf>
+    <wf sent="4" id="w67" length="5" offset="343"><![CDATA[Mayor]]></wf>
+    <wf sent="4" id="w68" length="2" offset="349"><![CDATA[of]]></wf>
+    <wf sent="4" id="w69" length="7" offset="352"><![CDATA[Toronto]]></wf>
+    <wf sent="4" id="w70" length="1" offset="359"><![CDATA[,]]></wf>
+    <wf sent="4" id="w71" length="3" offset="361"><![CDATA[and]]></wf>
+    <wf sent="4" id="w72" length="3" offset="365"><![CDATA[Mel]]></wf>
+    <wf sent="4" id="w73" length="7" offset="369"><![CDATA[Lastman]]></wf>
+    <wf sent="4" id="w74" length="3" offset="377"><![CDATA[was]]></wf>
+    <wf sent="4" id="w75" length="2" offset="381"><![CDATA[re]]></wf>
+    <wf sent="4" id="w76" length="1" offset="383"><![CDATA[-]]></wf>
+    <wf sent="4" id="w77" length="7" offset="384"><![CDATA[elected]]></wf>
+    <wf sent="4" id="w78" length="2" offset="392"><![CDATA[as]]></wf>
+    <wf sent="4" id="w79" length="5" offset="395"><![CDATA[Mayor]]></wf>
+    <wf sent="4" id="w80" length="2" offset="401"><![CDATA[of]]></wf>
+    <wf sent="4" id="w81" length="5" offset="404"><![CDATA[North]]></wf>
+    <wf sent="4" id="w82" length="4" offset="410"><![CDATA[York]]></wf>
+    <wf sent="4" id="w83" length="1" offset="414"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1982" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Toronto" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1982" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Toronto" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="8" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="1982" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Metropolitan" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Toronto" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Ontario" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="mayor" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="controller" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="city" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="councillor" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="school" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="board" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="trustee" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="municipality" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Toronto" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="York" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="East" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="York" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="North" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="York" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Etobicoke" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="Scarborough" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Art" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="Eggleton" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="re" pos="VERB" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="-" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="Toronto" pos="PROPN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="Mel" pos="PROPN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="Lastman" pos="PROPN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="re" pos="VERB" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="-" pos="VERB" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="North" pos="PROPN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="York" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t14" to="t12" rfunc="nsubjpass"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="nmod"/>
+    <dep from="t12" to="t11" rfunc="amod"/>
+    <dep from="t14" to="t13" rfunc="auxpass"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t15" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t16" to="t18" rfunc="punct"/>
+    <dep from="t16" to="t19" rfunc="nummod"/>
+    <dep from="t16" to="t20" rfunc="punct"/>
+    <dep from="t16" to="t21" rfunc="prep"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="pobj"/>
+    <dep from="t23" to="t24" rfunc="punct"/>
+    <dep from="t23" to="t25" rfunc="conj"/>
+    <dep from="t25" to="t26" rfunc="punct"/>
+    <dep from="t25" to="t27" rfunc="npadvmod"/>
+    <dep from="t14" to="t28" rfunc="punct"/>
+    <dep from="t40" to="t29" rfunc="nsubjpass"/>
+    <dep from="t29" to="t30" rfunc="punct"/>
+    <dep from="t29" to="t31" rfunc="conj"/>
+    <dep from="t31" to="t32" rfunc="punct"/>
+    <dep from="t34" to="t33" rfunc="compound"/>
+    <dep from="t31" to="t34" rfunc="conj"/>
+    <dep from="t34" to="t35" rfunc="cc"/>
+    <dep from="t37" to="t36" rfunc="compound"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t34" to="t38" rfunc="conj"/>
+    <dep from="t40" to="t39" rfunc="auxpass"/>
+    <dep from="t40" to="t41" rfunc="prep"/>
+    <dep from="t43" to="t42" rfunc="det"/>
+    <dep from="t41" to="t43" rfunc="pobj"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t45" to="t46" rfunc="punct"/>
+    <dep from="t45" to="t47" rfunc="conj"/>
+    <dep from="t47" to="t48" rfunc="punct"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t47" to="t50" rfunc="conj"/>
+    <dep from="t50" to="t51" rfunc="punct"/>
+    <dep from="t53" to="t52" rfunc="compound"/>
+    <dep from="t50" to="t53" rfunc="conj"/>
+    <dep from="t53" to="t54" rfunc="punct"/>
+    <dep from="t53" to="t55" rfunc="conj"/>
+    <dep from="t55" to="t56" rfunc="cc"/>
+    <dep from="t55" to="t57" rfunc="conj"/>
+    <dep from="t40" to="t58" rfunc="punct"/>
+    <dep from="t58" to="t59" rfunc=""/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t65" to="t61" rfunc="nsubjpass"/>
+    <dep from="t65" to="t62" rfunc="auxpass"/>
+    <dep from="t64" to="t63" rfunc="subtok"/>
+    <dep from="t65" to="t64" rfunc="subtok"/>
+    <dep from="t65" to="t66" rfunc="prep"/>
+    <dep from="t66" to="t67" rfunc="pobj"/>
+    <dep from="t67" to="t68" rfunc="prep"/>
+    <dep from="t68" to="t69" rfunc="pobj"/>
+    <dep from="t65" to="t70" rfunc="punct"/>
+    <dep from="t65" to="t71" rfunc="cc"/>
+    <dep from="t73" to="t72" rfunc="compound"/>
+    <dep from="t77" to="t73" rfunc="nsubjpass"/>
+    <dep from="t65" to="t77" rfunc="conj"/>
+    <dep from="t77" to="t74" rfunc="auxpass"/>
+    <dep from="t76" to="t75" rfunc="subtok"/>
+    <dep from="t77" to="t76" rfunc="subtok"/>
+    <dep from="t77" to="t78" rfunc="prep"/>
+    <dep from="t78" to="t79" rfunc="pobj"/>
+    <dep from="t79" to="t80" rfunc="prep"/>
+    <dep from="t82" to="t81" rfunc="compound"/>
+    <dep from="t80" to="t82" rfunc="pobj"/>
+    <dep from="t77" to="t83" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M e t r o p o l i t a n   T o r o n t o-->
+        <target id="t22"/>
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Metropolitan_Toronto" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--O n t a r i o-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ontario" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--T o r o n t o-->
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Toronto" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--Y o r k-->
+        <target id="t47"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/York,_Toronto" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--E a s t   Y o r k-->
+        <target id="t49"/>
+        <target id="t50"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/East_York" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--N o r t h   Y o r k-->
+        <target id="t52"/>
+        <target id="t53"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/North_York" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--E t o b i c o k e-->
+        <target id="t55"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Etobicoke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--S c a r b o r o u g h-->
+        <target id="t57"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Scarborough,_Toronto" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Scarborough" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Scarborough" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--A r t   E g g l e t o n-->
+        <target id="t60"/>
+        <target id="t61"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Art_Eggleton" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--M a y o r   o f   T o r o n t o-->
+        <target id="t67"/>
+        <target id="t68"/>
+        <target id="t69"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mayor_of_Toronto" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--M e l   L a s t m a n-->
+        <target id="t72"/>
+        <target id="t73"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mel_Lastman" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <span>
+        <!--M a y o r   o f   N o r t h   Y o r k-->
+        <target id="t79"/>
+        <target id="t80"/>
+        <target id="t81"/>
+        <target id="t82"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mayor_of_North_York" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-direction" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-fields" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t67"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t79"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

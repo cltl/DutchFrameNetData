@@ -1,0 +1,1208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2019 E3 Binckbank Classic"/>
+    <public uri="https://en.wikipedia.org/wiki/2019_E3_Binckbank_Classic"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T18:52:24UTC" endTimestamp="2020-05-28T18:52:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T18:52:24UTC" endTimestamp="2020-05-28T18:52:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T18:52:24UTC" endTimestamp="2020-05-28T18:52:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T18:52:24UTC" endTimestamp="2020-05-28T18:52:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:44CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2019 E3 Binckbank Classic++.
+The 2019 E3 BinckBank Classic is a road cycling one-day race, scheduled to be held on 29 March 2019 in Belgium. It is the 62nd edition of E3 Harelbeke and the eleventh event of the 2019 UCI World Tour.
+The event was rebranded "E3 BinckBank Classic" due to a sponsorship agreement with Dutch online discount broker BinckBank. However, the race perpetuates its ties with Harelbeke, which continues to host the start and finish. The total distance is, featuring 15 categorized climbs in the Flemish Ardennes and five flat sectors of cobbled roads. Dutch rider Niki Terpstra won the previous edition in 2018.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2019]]></wf>
+    <wf sent="1" id="w3" length="2" offset="7"><![CDATA[E3]]></wf>
+    <wf sent="1" id="w4" length="9" offset="10"><![CDATA[Binckbank]]></wf>
+    <wf sent="1" id="w5" length="9" offset="20"><![CDATA[Classic++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="29"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="30"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="31"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="35"><![CDATA[2019]]></wf>
+    <wf sent="2" id="w10" length="2" offset="40"><![CDATA[E3]]></wf>
+    <wf sent="2" id="w11" length="9" offset="43"><![CDATA[BinckBank]]></wf>
+    <wf sent="2" id="w12" length="7" offset="53"><![CDATA[Classic]]></wf>
+    <wf sent="2" id="w13" length="2" offset="61"><![CDATA[is]]></wf>
+    <wf sent="2" id="w14" length="1" offset="64"><![CDATA[a]]></wf>
+    <wf sent="2" id="w15" length="4" offset="66"><![CDATA[road]]></wf>
+    <wf sent="2" id="w16" length="7" offset="71"><![CDATA[cycling]]></wf>
+    <wf sent="2" id="w17" length="3" offset="79"><![CDATA[one]]></wf>
+    <wf sent="2" id="w18" length="1" offset="82"><![CDATA[-]]></wf>
+    <wf sent="2" id="w19" length="3" offset="83"><![CDATA[day]]></wf>
+    <wf sent="2" id="w20" length="4" offset="87"><![CDATA[race]]></wf>
+    <wf sent="2" id="w21" length="1" offset="91"><![CDATA[,]]></wf>
+    <wf sent="2" id="w22" length="9" offset="93"><![CDATA[scheduled]]></wf>
+    <wf sent="2" id="w23" length="2" offset="103"><![CDATA[to]]></wf>
+    <wf sent="2" id="w24" length="2" offset="106"><![CDATA[be]]></wf>
+    <wf sent="2" id="w25" length="4" offset="109"><![CDATA[held]]></wf>
+    <wf sent="2" id="w26" length="2" offset="114"><![CDATA[on]]></wf>
+    <wf sent="2" id="w27" length="2" offset="117"><![CDATA[29]]></wf>
+    <wf sent="2" id="w28" length="5" offset="120"><![CDATA[March]]></wf>
+    <wf sent="2" id="w29" length="4" offset="126"><![CDATA[2019]]></wf>
+    <wf sent="2" id="w30" length="2" offset="131"><![CDATA[in]]></wf>
+    <wf sent="2" id="w31" length="7" offset="134"><![CDATA[Belgium]]></wf>
+    <wf sent="2" id="w32" length="1" offset="141"><![CDATA[.]]></wf>
+    <wf sent="3" id="w33" length="2" offset="143"><![CDATA[It]]></wf>
+    <wf sent="3" id="w34" length="2" offset="146"><![CDATA[is]]></wf>
+    <wf sent="3" id="w35" length="3" offset="149"><![CDATA[the]]></wf>
+    <wf sent="3" id="w36" length="4" offset="153"><![CDATA[62nd]]></wf>
+    <wf sent="3" id="w37" length="7" offset="158"><![CDATA[edition]]></wf>
+    <wf sent="3" id="w38" length="2" offset="166"><![CDATA[of]]></wf>
+    <wf sent="3" id="w39" length="2" offset="169"><![CDATA[E3]]></wf>
+    <wf sent="3" id="w40" length="9" offset="172"><![CDATA[Harelbeke]]></wf>
+    <wf sent="3" id="w41" length="3" offset="182"><![CDATA[and]]></wf>
+    <wf sent="3" id="w42" length="3" offset="186"><![CDATA[the]]></wf>
+    <wf sent="3" id="w43" length="8" offset="190"><![CDATA[eleventh]]></wf>
+    <wf sent="3" id="w44" length="5" offset="199"><![CDATA[event]]></wf>
+    <wf sent="3" id="w45" length="2" offset="205"><![CDATA[of]]></wf>
+    <wf sent="3" id="w46" length="3" offset="208"><![CDATA[the]]></wf>
+    <wf sent="3" id="w47" length="4" offset="212"><![CDATA[2019]]></wf>
+    <wf sent="3" id="w48" length="3" offset="217"><![CDATA[UCI]]></wf>
+    <wf sent="3" id="w49" length="5" offset="221"><![CDATA[World]]></wf>
+    <wf sent="3" id="w50" length="4" offset="227"><![CDATA[Tour]]></wf>
+    <wf sent="3" id="w51" length="1" offset="231"><![CDATA[.]]></wf>
+    <wf sent="3" id="w52" length="1" offset="232"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w53" length="3" offset="233"><![CDATA[The]]></wf>
+    <wf sent="4" id="w54" length="5" offset="237"><![CDATA[event]]></wf>
+    <wf sent="4" id="w55" length="3" offset="243"><![CDATA[was]]></wf>
+    <wf sent="4" id="w56" length="9" offset="247"><![CDATA[rebranded]]></wf>
+    <wf sent="4" id="w57" length="1" offset="257"><![CDATA["]]></wf>
+    <wf sent="4" id="w58" length="2" offset="258"><![CDATA[E3]]></wf>
+    <wf sent="4" id="w59" length="9" offset="261"><![CDATA[BinckBank]]></wf>
+    <wf sent="4" id="w60" length="7" offset="271"><![CDATA[Classic]]></wf>
+    <wf sent="4" id="w61" length="1" offset="278"><![CDATA["]]></wf>
+    <wf sent="4" id="w62" length="3" offset="280"><![CDATA[due]]></wf>
+    <wf sent="4" id="w63" length="2" offset="284"><![CDATA[to]]></wf>
+    <wf sent="4" id="w64" length="1" offset="287"><![CDATA[a]]></wf>
+    <wf sent="4" id="w65" length="11" offset="289"><![CDATA[sponsorship]]></wf>
+    <wf sent="4" id="w66" length="9" offset="301"><![CDATA[agreement]]></wf>
+    <wf sent="4" id="w67" length="4" offset="311"><![CDATA[with]]></wf>
+    <wf sent="4" id="w68" length="5" offset="316"><![CDATA[Dutch]]></wf>
+    <wf sent="4" id="w69" length="6" offset="322"><![CDATA[online]]></wf>
+    <wf sent="4" id="w70" length="8" offset="329"><![CDATA[discount]]></wf>
+    <wf sent="4" id="w71" length="6" offset="338"><![CDATA[broker]]></wf>
+    <wf sent="4" id="w72" length="9" offset="345"><![CDATA[BinckBank]]></wf>
+    <wf sent="4" id="w73" length="1" offset="354"><![CDATA[.]]></wf>
+    <wf sent="5" id="w74" length="7" offset="356"><![CDATA[However]]></wf>
+    <wf sent="5" id="w75" length="1" offset="363"><![CDATA[,]]></wf>
+    <wf sent="5" id="w76" length="3" offset="365"><![CDATA[the]]></wf>
+    <wf sent="5" id="w77" length="4" offset="369"><![CDATA[race]]></wf>
+    <wf sent="5" id="w78" length="11" offset="374"><![CDATA[perpetuates]]></wf>
+    <wf sent="5" id="w79" length="3" offset="386"><![CDATA[its]]></wf>
+    <wf sent="5" id="w80" length="4" offset="390"><![CDATA[ties]]></wf>
+    <wf sent="5" id="w81" length="4" offset="395"><![CDATA[with]]></wf>
+    <wf sent="5" id="w82" length="9" offset="400"><![CDATA[Harelbeke]]></wf>
+    <wf sent="5" id="w83" length="1" offset="409"><![CDATA[,]]></wf>
+    <wf sent="5" id="w84" length="5" offset="411"><![CDATA[which]]></wf>
+    <wf sent="5" id="w85" length="9" offset="417"><![CDATA[continues]]></wf>
+    <wf sent="5" id="w86" length="2" offset="427"><![CDATA[to]]></wf>
+    <wf sent="5" id="w87" length="4" offset="430"><![CDATA[host]]></wf>
+    <wf sent="5" id="w88" length="3" offset="435"><![CDATA[the]]></wf>
+    <wf sent="5" id="w89" length="5" offset="439"><![CDATA[start]]></wf>
+    <wf sent="5" id="w90" length="3" offset="445"><![CDATA[and]]></wf>
+    <wf sent="5" id="w91" length="6" offset="449"><![CDATA[finish]]></wf>
+    <wf sent="5" id="w92" length="1" offset="455"><![CDATA[.]]></wf>
+    <wf sent="6" id="w93" length="3" offset="457"><![CDATA[The]]></wf>
+    <wf sent="6" id="w94" length="5" offset="461"><![CDATA[total]]></wf>
+    <wf sent="6" id="w95" length="8" offset="467"><![CDATA[distance]]></wf>
+    <wf sent="6" id="w96" length="2" offset="476"><![CDATA[is]]></wf>
+    <wf sent="6" id="w97" length="1" offset="478"><![CDATA[,]]></wf>
+    <wf sent="6" id="w98" length="9" offset="480"><![CDATA[featuring]]></wf>
+    <wf sent="6" id="w99" length="2" offset="490"><![CDATA[15]]></wf>
+    <wf sent="6" id="w100" length="11" offset="493"><![CDATA[categorized]]></wf>
+    <wf sent="6" id="w101" length="6" offset="505"><![CDATA[climbs]]></wf>
+    <wf sent="6" id="w102" length="2" offset="512"><![CDATA[in]]></wf>
+    <wf sent="6" id="w103" length="3" offset="515"><![CDATA[the]]></wf>
+    <wf sent="6" id="w104" length="7" offset="519"><![CDATA[Flemish]]></wf>
+    <wf sent="6" id="w105" length="8" offset="527"><![CDATA[Ardennes]]></wf>
+    <wf sent="6" id="w106" length="3" offset="536"><![CDATA[and]]></wf>
+    <wf sent="6" id="w107" length="4" offset="540"><![CDATA[five]]></wf>
+    <wf sent="6" id="w108" length="4" offset="545"><![CDATA[flat]]></wf>
+    <wf sent="6" id="w109" length="7" offset="550"><![CDATA[sectors]]></wf>
+    <wf sent="6" id="w110" length="2" offset="558"><![CDATA[of]]></wf>
+    <wf sent="6" id="w111" length="7" offset="561"><![CDATA[cobbled]]></wf>
+    <wf sent="6" id="w112" length="5" offset="569"><![CDATA[roads]]></wf>
+    <wf sent="6" id="w113" length="1" offset="574"><![CDATA[.]]></wf>
+    <wf sent="7" id="w114" length="5" offset="576"><![CDATA[Dutch]]></wf>
+    <wf sent="7" id="w115" length="5" offset="582"><![CDATA[rider]]></wf>
+    <wf sent="7" id="w116" length="4" offset="588"><![CDATA[Niki]]></wf>
+    <wf sent="7" id="w117" length="8" offset="593"><![CDATA[Terpstra]]></wf>
+    <wf sent="7" id="w118" length="3" offset="602"><![CDATA[won]]></wf>
+    <wf sent="7" id="w119" length="3" offset="606"><![CDATA[the]]></wf>
+    <wf sent="7" id="w120" length="8" offset="610"><![CDATA[previous]]></wf>
+    <wf sent="7" id="w121" length="7" offset="619"><![CDATA[edition]]></wf>
+    <wf sent="7" id="w122" length="2" offset="627"><![CDATA[in]]></wf>
+    <wf sent="7" id="w123" length="4" offset="630"><![CDATA[2018]]></wf>
+    <wf sent="7" id="w124" length="1" offset="634"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2019" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="E3" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Binckbank" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Classic++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2019" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="E3" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="BinckBank" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Classic" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="road" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="cycle" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="schedule" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="2019" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Belgium" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="62nd" pos="ADJ" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="E3" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Harelbeke" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="eleventh" pos="ADJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="2019" pos="NUM" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="UCI" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Tour" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="rebrande" pos="VERB" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="E3" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="BinckBank" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Classic" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="due" pos="ADP" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="sponsorship" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="agreement" pos="NOUN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="dutch" pos="ADJ" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="online" pos="ADJ" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="discount" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="broker" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="BinckBank" pos="PROPN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="however" pos="ADV" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="perpetuate" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="tie" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="Harelbeke" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="continue" pos="VERB" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="host" pos="VERB" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="start" pos="NOUN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="finish" pos="NOUN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="total" pos="ADJ" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="distance" pos="NOUN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="feature" pos="VERB" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="15" pos="NUM" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="categorize" pos="VERB" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="climb" pos="NOUN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="Flemish" pos="PROPN" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="Ardennes" pos="PROPN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="five" pos="NUM" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="flat" pos="ADJ" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="sector" pos="NOUN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="cobble" pos="VERB" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="road" pos="NOUN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="dutch" pos="ADJ" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="rider" pos="NOUN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="Niki" pos="PROPN" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="Terpstra" pos="PROPN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="previous" pos="ADJ" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="2018" pos="NUM" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t3" to="t2" rfunc="subtok"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t13" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t20" to="t14" rfunc="det"/>
+    <dep from="t13" to="t20" rfunc="attr"/>
+    <dep from="t16" to="t15" rfunc="npadvmod"/>
+    <dep from="t20" to="t16" rfunc="amod"/>
+    <dep from="t19" to="t17" rfunc="nummod"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t19" to="t18" rfunc="punct"/>
+    <dep from="t20" to="t21" rfunc="punct"/>
+    <dep from="t20" to="t22" rfunc="acl"/>
+    <dep from="t25" to="t23" rfunc="aux"/>
+    <dep from="t22" to="t25" rfunc="xcomp"/>
+    <dep from="t25" to="t24" rfunc="auxpass"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t28" to="t27" rfunc="nummod"/>
+    <dep from="t26" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t29" rfunc="nummod"/>
+    <dep from="t25" to="t30" rfunc="prep"/>
+    <dep from="t30" to="t31" rfunc="pobj"/>
+    <dep from="t13" to="t32" rfunc="punct"/>
+    <dep from="t34" to="t33" rfunc="nsubj"/>
+    <dep from="t37" to="t35" rfunc="det"/>
+    <dep from="t34" to="t37" rfunc="attr"/>
+    <dep from="t37" to="t36" rfunc="amod"/>
+    <dep from="t37" to="t38" rfunc="prep"/>
+    <dep from="t40" to="t39" rfunc="compound"/>
+    <dep from="t38" to="t40" rfunc="pobj"/>
+    <dep from="t40" to="t41" rfunc="cc"/>
+    <dep from="t44" to="t42" rfunc="det"/>
+    <dep from="t40" to="t44" rfunc="conj"/>
+    <dep from="t44" to="t43" rfunc="amod"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t50" to="t46" rfunc="det"/>
+    <dep from="t45" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t47" rfunc="nummod"/>
+    <dep from="t50" to="t48" rfunc="compound"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t34" to="t51" rfunc="punct"/>
+    <dep from="t51" to="t52" rfunc=""/>
+    <dep from="t54" to="t53" rfunc="det"/>
+    <dep from="t56" to="t54" rfunc="nsubjpass"/>
+    <dep from="t56" to="t55" rfunc="auxpass"/>
+    <dep from="t58" to="t57" rfunc="punct"/>
+    <dep from="t60" to="t58" rfunc="compound"/>
+    <dep from="t56" to="t60" rfunc="oprd"/>
+    <dep from="t60" to="t59" rfunc="compound"/>
+    <dep from="t62" to="t61" rfunc="punct"/>
+    <dep from="t56" to="t62" rfunc="prep"/>
+    <dep from="t62" to="t63" rfunc="pcomp"/>
+    <dep from="t66" to="t64" rfunc="det"/>
+    <dep from="t62" to="t66" rfunc="pobj"/>
+    <dep from="t66" to="t65" rfunc="compound"/>
+    <dep from="t66" to="t67" rfunc="prep"/>
+    <dep from="t71" to="t68" rfunc="amod"/>
+    <dep from="t67" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t69" rfunc="amod"/>
+    <dep from="t71" to="t70" rfunc="compound"/>
+    <dep from="t71" to="t72" rfunc="appos"/>
+    <dep from="t56" to="t73" rfunc="punct"/>
+    <dep from="t78" to="t74" rfunc="advmod"/>
+    <dep from="t78" to="t75" rfunc="punct"/>
+    <dep from="t77" to="t76" rfunc="det"/>
+    <dep from="t78" to="t77" rfunc="nsubj"/>
+    <dep from="t80" to="t79" rfunc="poss"/>
+    <dep from="t78" to="t80" rfunc="dobj"/>
+    <dep from="t80" to="t81" rfunc="prep"/>
+    <dep from="t81" to="t82" rfunc="pobj"/>
+    <dep from="t82" to="t83" rfunc="punct"/>
+    <dep from="t85" to="t84" rfunc="nsubj"/>
+    <dep from="t82" to="t85" rfunc="relcl"/>
+    <dep from="t87" to="t86" rfunc="aux"/>
+    <dep from="t85" to="t87" rfunc="xcomp"/>
+    <dep from="t89" to="t88" rfunc="det"/>
+    <dep from="t87" to="t89" rfunc="dobj"/>
+    <dep from="t89" to="t90" rfunc="cc"/>
+    <dep from="t89" to="t91" rfunc="conj"/>
+    <dep from="t78" to="t92" rfunc="punct"/>
+    <dep from="t95" to="t93" rfunc="det"/>
+    <dep from="t96" to="t95" rfunc="nsubj"/>
+    <dep from="t95" to="t94" rfunc="amod"/>
+    <dep from="t96" to="t97" rfunc="punct"/>
+    <dep from="t96" to="t98" rfunc="advcl"/>
+    <dep from="t101" to="t99" rfunc="nummod"/>
+    <dep from="t98" to="t101" rfunc="dobj"/>
+    <dep from="t101" to="t100" rfunc="amod"/>
+    <dep from="t101" to="t102" rfunc="prep"/>
+    <dep from="t105" to="t103" rfunc="det"/>
+    <dep from="t102" to="t105" rfunc="pobj"/>
+    <dep from="t105" to="t104" rfunc="compound"/>
+    <dep from="t101" to="t106" rfunc="cc"/>
+    <dep from="t109" to="t107" rfunc="nummod"/>
+    <dep from="t101" to="t109" rfunc="conj"/>
+    <dep from="t109" to="t108" rfunc="amod"/>
+    <dep from="t109" to="t110" rfunc="prep"/>
+    <dep from="t112" to="t111" rfunc="amod"/>
+    <dep from="t110" to="t112" rfunc="pobj"/>
+    <dep from="t96" to="t113" rfunc="punct"/>
+    <dep from="t115" to="t114" rfunc="amod"/>
+    <dep from="t117" to="t115" rfunc="compound"/>
+    <dep from="t118" to="t117" rfunc="nsubj"/>
+    <dep from="t117" to="t116" rfunc="compound"/>
+    <dep from="t121" to="t119" rfunc="det"/>
+    <dep from="t118" to="t121" rfunc="dobj"/>
+    <dep from="t121" to="t120" rfunc="amod"/>
+    <dep from="t118" to="t122" rfunc="prep"/>
+    <dep from="t122" to="t123" rfunc="pobj"/>
+    <dep from="t118" to="t124" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--r o a d   c y c l i n g-->
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Road_cycling" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--E 3   H a r e l b e k e-->
+        <target id="t39"/>
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/E3_Harelbeke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 0 1 9   U C I   W o r l d   T o u r-->
+        <target id="t47"/>
+        <target id="t48"/>
+        <target id="t49"/>
+        <target id="t50"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2019_UCI_World_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/UCI_World_Tour_2019" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/UCI_World_Tour_2019" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--B i n c k B a n k-->
+        <target id="t72"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/BinckBank" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/BinckBank" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--H a r e l b e k e-->
+        <target id="t82"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Harelbeke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Harelbeke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Harelbeke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--F l e m i s h   A r d e n n e s-->
+        <target id="t104"/>
+        <target id="t105"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Flemish_Ardennes" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Vlaamse_Ardennen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--N i k i   T e r p s t r a-->
+        <target id="t116"/>
+        <target id="t117"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Niki_Terpstra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Niki_Terpstra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Niki_Terpstra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--p r e v i o u s   e d i t i o n-->
+        <target id="t120"/>
+        <target id="t121"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2018_E3_Harelbeke" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/E3_Harelbeke_2018" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/E3_Harelbeke_2018" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q47008047" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-operate_vehicle" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-timetable" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-make_agreement_on_action" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t68"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_connection" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t80"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-activity_ongoing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t85"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t89"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-activity_finish" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t91"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-amounting_to" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t94"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t107"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-building_subparts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t108"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-fields" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t109"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t112"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t114"/>
+      </span>
+    </predicate>
+    <predicate id="pr26" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t120"/>
+      </span>
+    </predicate>
+    <predicate id="pr27" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t121"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Placito"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Placito"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:57:29UTC" endTimestamp="2020-05-28T17:57:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:57:29UTC" endTimestamp="2020-05-28T17:57:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:57:29UTC" endTimestamp="2020-05-28T17:57:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:57:29UTC" endTimestamp="2020-05-28T17:57:29UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:13CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Placito++.
+The Battle of Placito or Battle of the Placito was an engagement between ethnic Mexican settlers, Confederate soldiers and Apache warriors. It took place at the now abandoned village of Placitas in Confederate Arizona. The action is a part of the Apache Wars of the mid to late nineteenth century.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="9" offset="12"><![CDATA[Placito++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="21"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="22"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="23"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="27"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="34"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="7" offset="37"><![CDATA[Placito]]></wf>
+    <wf sent="2" id="w12" length="2" offset="45"><![CDATA[or]]></wf>
+    <wf sent="2" id="w13" length="6" offset="48"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w14" length="2" offset="55"><![CDATA[of]]></wf>
+    <wf sent="2" id="w15" length="3" offset="58"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="7" offset="62"><![CDATA[Placito]]></wf>
+    <wf sent="2" id="w17" length="3" offset="70"><![CDATA[was]]></wf>
+    <wf sent="2" id="w18" length="2" offset="74"><![CDATA[an]]></wf>
+    <wf sent="2" id="w19" length="10" offset="77"><![CDATA[engagement]]></wf>
+    <wf sent="2" id="w20" length="7" offset="88"><![CDATA[between]]></wf>
+    <wf sent="2" id="w21" length="6" offset="96"><![CDATA[ethnic]]></wf>
+    <wf sent="2" id="w22" length="7" offset="103"><![CDATA[Mexican]]></wf>
+    <wf sent="2" id="w23" length="8" offset="111"><![CDATA[settlers]]></wf>
+    <wf sent="2" id="w24" length="1" offset="119"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="11" offset="121"><![CDATA[Confederate]]></wf>
+    <wf sent="2" id="w26" length="8" offset="133"><![CDATA[soldiers]]></wf>
+    <wf sent="2" id="w27" length="3" offset="142"><![CDATA[and]]></wf>
+    <wf sent="2" id="w28" length="6" offset="146"><![CDATA[Apache]]></wf>
+    <wf sent="2" id="w29" length="8" offset="153"><![CDATA[warriors]]></wf>
+    <wf sent="2" id="w30" length="1" offset="161"><![CDATA[.]]></wf>
+    <wf sent="3" id="w31" length="2" offset="163"><![CDATA[It]]></wf>
+    <wf sent="3" id="w32" length="4" offset="166"><![CDATA[took]]></wf>
+    <wf sent="3" id="w33" length="5" offset="171"><![CDATA[place]]></wf>
+    <wf sent="3" id="w34" length="2" offset="177"><![CDATA[at]]></wf>
+    <wf sent="3" id="w35" length="3" offset="180"><![CDATA[the]]></wf>
+    <wf sent="3" id="w36" length="3" offset="184"><![CDATA[now]]></wf>
+    <wf sent="3" id="w37" length="9" offset="188"><![CDATA[abandoned]]></wf>
+    <wf sent="3" id="w38" length="7" offset="198"><![CDATA[village]]></wf>
+    <wf sent="3" id="w39" length="2" offset="206"><![CDATA[of]]></wf>
+    <wf sent="3" id="w40" length="8" offset="209"><![CDATA[Placitas]]></wf>
+    <wf sent="3" id="w41" length="2" offset="218"><![CDATA[in]]></wf>
+    <wf sent="3" id="w42" length="11" offset="221"><![CDATA[Confederate]]></wf>
+    <wf sent="3" id="w43" length="7" offset="233"><![CDATA[Arizona]]></wf>
+    <wf sent="3" id="w44" length="1" offset="240"><![CDATA[.]]></wf>
+    <wf sent="4" id="w45" length="3" offset="242"><![CDATA[The]]></wf>
+    <wf sent="4" id="w46" length="6" offset="246"><![CDATA[action]]></wf>
+    <wf sent="4" id="w47" length="2" offset="253"><![CDATA[is]]></wf>
+    <wf sent="4" id="w48" length="1" offset="256"><![CDATA[a]]></wf>
+    <wf sent="4" id="w49" length="4" offset="258"><![CDATA[part]]></wf>
+    <wf sent="4" id="w50" length="2" offset="263"><![CDATA[of]]></wf>
+    <wf sent="4" id="w51" length="3" offset="266"><![CDATA[the]]></wf>
+    <wf sent="4" id="w52" length="6" offset="270"><![CDATA[Apache]]></wf>
+    <wf sent="4" id="w53" length="4" offset="277"><![CDATA[Wars]]></wf>
+    <wf sent="4" id="w54" length="2" offset="282"><![CDATA[of]]></wf>
+    <wf sent="4" id="w55" length="3" offset="285"><![CDATA[the]]></wf>
+    <wf sent="4" id="w56" length="3" offset="289"><![CDATA[mid]]></wf>
+    <wf sent="4" id="w57" length="2" offset="293"><![CDATA[to]]></wf>
+    <wf sent="4" id="w58" length="4" offset="296"><![CDATA[late]]></wf>
+    <wf sent="4" id="w59" length="10" offset="301"><![CDATA[nineteenth]]></wf>
+    <wf sent="4" id="w60" length="7" offset="312"><![CDATA[century]]></wf>
+    <wf sent="4" id="w61" length="1" offset="319"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Placito++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Placito" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="or" pos="CCONJ" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Placito" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="engagement" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="ethnic" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="mexican" pos="ADJ" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="settler" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Confederate" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="soldier" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Apache" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="warrior" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="now" pos="ADV" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="abandon" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="village" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Placitas" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Confederate" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Arizona" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="action" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Apache" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Wars" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="mid" pos="ADJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="late" pos="ADJ" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="nineteenth" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="century" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t17" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t11" to="t12" rfunc="cc"/>
+    <dep from="t11" to="t13" rfunc="conj"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t19" to="t18" rfunc="det"/>
+    <dep from="t17" to="t19" rfunc="attr"/>
+    <dep from="t19" to="t20" rfunc="prep"/>
+    <dep from="t23" to="t21" rfunc="amod"/>
+    <dep from="t20" to="t23" rfunc="pobj"/>
+    <dep from="t23" to="t22" rfunc="amod"/>
+    <dep from="t23" to="t24" rfunc="punct"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t23" to="t26" rfunc="conj"/>
+    <dep from="t26" to="t27" rfunc="cc"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t26" to="t29" rfunc="conj"/>
+    <dep from="t17" to="t30" rfunc="punct"/>
+    <dep from="t32" to="t31" rfunc="nsubj"/>
+    <dep from="t32" to="t33" rfunc="dobj"/>
+    <dep from="t32" to="t34" rfunc="prep"/>
+    <dep from="t38" to="t35" rfunc="det"/>
+    <dep from="t34" to="t38" rfunc="pobj"/>
+    <dep from="t37" to="t36" rfunc="advmod"/>
+    <dep from="t38" to="t37" rfunc="amod"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t39" to="t40" rfunc="pobj"/>
+    <dep from="t38" to="t41" rfunc="prep"/>
+    <dep from="t43" to="t42" rfunc="compound"/>
+    <dep from="t41" to="t43" rfunc="pobj"/>
+    <dep from="t32" to="t44" rfunc="punct"/>
+    <dep from="t46" to="t45" rfunc="det"/>
+    <dep from="t47" to="t46" rfunc="nsubj"/>
+    <dep from="t49" to="t48" rfunc="det"/>
+    <dep from="t47" to="t49" rfunc="attr"/>
+    <dep from="t49" to="t50" rfunc="prep"/>
+    <dep from="t53" to="t51" rfunc="det"/>
+    <dep from="t50" to="t53" rfunc="pobj"/>
+    <dep from="t53" to="t52" rfunc="compound"/>
+    <dep from="t53" to="t54" rfunc="prep"/>
+    <dep from="t56" to="t55" rfunc="det"/>
+    <dep from="t54" to="t56" rfunc="pobj"/>
+    <dep from="t49" to="t57" rfunc="prep"/>
+    <dep from="t60" to="t58" rfunc="amod"/>
+    <dep from="t57" to="t60" rfunc="pobj"/>
+    <dep from="t60" to="t59" rfunc="amod"/>
+    <dep from="t47" to="t61" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M e x i c a n-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mexico" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q96" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--C o n f e d e r a t e-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Confederate_States_of_America" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Stati_Confederati_d'America" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Geconfedereerde_Staten_van_Amerika" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q81931" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--A p a c h e-->
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Apache" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/L'ultimo_Apache" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Apachen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--v i l l a g e-->
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Village" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Villaggi_degli_Stati_Uniti_d'America" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Dorp" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--P l a c i t a s-->
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Placitas,_New_Mexico_(abandoned_village)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--C o n f e d e r a t e   A r i z o n a-->
+        <target id="t42"/>
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Confederate_Arizona" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Territorio_Confederato_dell'Arizona" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--A p a c h e   W a r s-->
+        <target id="t52"/>
+        <target id="t53"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Apache_Wars" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerre_apache" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-colonization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-member_of_military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_collocation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-abandonment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t58"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

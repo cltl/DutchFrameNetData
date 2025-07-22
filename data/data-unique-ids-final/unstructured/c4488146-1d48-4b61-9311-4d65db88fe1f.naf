@@ -1,0 +1,1414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2005 United Kingdom local elections"/>
+    <public uri="https://en.wikipedia.org/wiki/2005_United_Kingdom_local_elections"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:43:47UTC" endTimestamp="2020-05-27T19:43:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:43:47UTC" endTimestamp="2020-05-27T19:43:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:43:47UTC" endTimestamp="2020-05-27T19:43:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:43:47UTC" endTimestamp="2020-05-27T19:43:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:40CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2005 United Kingdom local elections++.
+Elections for local government were held in the England and Northern Ireland on 5 May 2005 along with the 2005 general election across the entire United Kingdom. In addition, the Isle of Wight held a local referendum on the issue of a directly elected mayor.
+Despite losing the general election held on the same day, the Conservatives made some gains at Labour's expense, providing some comfort to the party. Conservative leader Michael Howard resigned soon afterwards and was succeeded by David Cameron, who had a decent platform to build on in his challenge to lead the Conservatives to a general election victory; the party had increased its share of council seats and importantly its share of seats in parliament.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2005]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[United]]></wf>
+    <wf sent="1" id="w4" length="7" offset="14"><![CDATA[Kingdom]]></wf>
+    <wf sent="1" id="w5" length="5" offset="22"><![CDATA[local]]></wf>
+    <wf sent="1" id="w6" length="11" offset="28"><![CDATA[elections++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="39"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="40"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="9" offset="41"><![CDATA[Elections]]></wf>
+    <wf sent="2" id="w10" length="3" offset="51"><![CDATA[for]]></wf>
+    <wf sent="2" id="w11" length="5" offset="55"><![CDATA[local]]></wf>
+    <wf sent="2" id="w12" length="10" offset="61"><![CDATA[government]]></wf>
+    <wf sent="2" id="w13" length="4" offset="72"><![CDATA[were]]></wf>
+    <wf sent="2" id="w14" length="4" offset="77"><![CDATA[held]]></wf>
+    <wf sent="2" id="w15" length="2" offset="82"><![CDATA[in]]></wf>
+    <wf sent="2" id="w16" length="3" offset="85"><![CDATA[the]]></wf>
+    <wf sent="2" id="w17" length="7" offset="89"><![CDATA[England]]></wf>
+    <wf sent="2" id="w18" length="3" offset="97"><![CDATA[and]]></wf>
+    <wf sent="2" id="w19" length="8" offset="101"><![CDATA[Northern]]></wf>
+    <wf sent="2" id="w20" length="7" offset="110"><![CDATA[Ireland]]></wf>
+    <wf sent="2" id="w21" length="2" offset="118"><![CDATA[on]]></wf>
+    <wf sent="2" id="w22" length="1" offset="121"><![CDATA[5]]></wf>
+    <wf sent="2" id="w23" length="3" offset="123"><![CDATA[May]]></wf>
+    <wf sent="2" id="w24" length="4" offset="127"><![CDATA[2005]]></wf>
+    <wf sent="2" id="w25" length="5" offset="132"><![CDATA[along]]></wf>
+    <wf sent="2" id="w26" length="4" offset="138"><![CDATA[with]]></wf>
+    <wf sent="2" id="w27" length="3" offset="143"><![CDATA[the]]></wf>
+    <wf sent="2" id="w28" length="4" offset="147"><![CDATA[2005]]></wf>
+    <wf sent="2" id="w29" length="7" offset="152"><![CDATA[general]]></wf>
+    <wf sent="2" id="w30" length="8" offset="160"><![CDATA[election]]></wf>
+    <wf sent="2" id="w31" length="6" offset="169"><![CDATA[across]]></wf>
+    <wf sent="2" id="w32" length="3" offset="176"><![CDATA[the]]></wf>
+    <wf sent="2" id="w33" length="6" offset="180"><![CDATA[entire]]></wf>
+    <wf sent="2" id="w34" length="6" offset="187"><![CDATA[United]]></wf>
+    <wf sent="2" id="w35" length="7" offset="194"><![CDATA[Kingdom]]></wf>
+    <wf sent="2" id="w36" length="1" offset="201"><![CDATA[.]]></wf>
+    <wf sent="3" id="w37" length="2" offset="203"><![CDATA[In]]></wf>
+    <wf sent="3" id="w38" length="8" offset="206"><![CDATA[addition]]></wf>
+    <wf sent="3" id="w39" length="1" offset="214"><![CDATA[,]]></wf>
+    <wf sent="3" id="w40" length="3" offset="216"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="4" offset="220"><![CDATA[Isle]]></wf>
+    <wf sent="3" id="w42" length="2" offset="225"><![CDATA[of]]></wf>
+    <wf sent="3" id="w43" length="5" offset="228"><![CDATA[Wight]]></wf>
+    <wf sent="3" id="w44" length="4" offset="234"><![CDATA[held]]></wf>
+    <wf sent="3" id="w45" length="1" offset="239"><![CDATA[a]]></wf>
+    <wf sent="3" id="w46" length="5" offset="241"><![CDATA[local]]></wf>
+    <wf sent="3" id="w47" length="10" offset="247"><![CDATA[referendum]]></wf>
+    <wf sent="3" id="w48" length="2" offset="258"><![CDATA[on]]></wf>
+    <wf sent="3" id="w49" length="3" offset="261"><![CDATA[the]]></wf>
+    <wf sent="3" id="w50" length="5" offset="265"><![CDATA[issue]]></wf>
+    <wf sent="3" id="w51" length="2" offset="271"><![CDATA[of]]></wf>
+    <wf sent="3" id="w52" length="1" offset="274"><![CDATA[a]]></wf>
+    <wf sent="3" id="w53" length="8" offset="276"><![CDATA[directly]]></wf>
+    <wf sent="3" id="w54" length="7" offset="285"><![CDATA[elected]]></wf>
+    <wf sent="3" id="w55" length="5" offset="293"><![CDATA[mayor]]></wf>
+    <wf sent="3" id="w56" length="1" offset="298"><![CDATA[.]]></wf>
+    <wf sent="3" id="w57" length="1" offset="299"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w58" length="7" offset="300"><![CDATA[Despite]]></wf>
+    <wf sent="4" id="w59" length="6" offset="308"><![CDATA[losing]]></wf>
+    <wf sent="4" id="w60" length="3" offset="315"><![CDATA[the]]></wf>
+    <wf sent="4" id="w61" length="7" offset="319"><![CDATA[general]]></wf>
+    <wf sent="4" id="w62" length="8" offset="327"><![CDATA[election]]></wf>
+    <wf sent="4" id="w63" length="4" offset="336"><![CDATA[held]]></wf>
+    <wf sent="4" id="w64" length="2" offset="341"><![CDATA[on]]></wf>
+    <wf sent="4" id="w65" length="3" offset="344"><![CDATA[the]]></wf>
+    <wf sent="4" id="w66" length="4" offset="348"><![CDATA[same]]></wf>
+    <wf sent="4" id="w67" length="3" offset="353"><![CDATA[day]]></wf>
+    <wf sent="4" id="w68" length="1" offset="356"><![CDATA[,]]></wf>
+    <wf sent="4" id="w69" length="3" offset="358"><![CDATA[the]]></wf>
+    <wf sent="4" id="w70" length="13" offset="362"><![CDATA[Conservatives]]></wf>
+    <wf sent="4" id="w71" length="4" offset="376"><![CDATA[made]]></wf>
+    <wf sent="4" id="w72" length="4" offset="381"><![CDATA[some]]></wf>
+    <wf sent="4" id="w73" length="5" offset="386"><![CDATA[gains]]></wf>
+    <wf sent="4" id="w74" length="2" offset="392"><![CDATA[at]]></wf>
+    <wf sent="4" id="w75" length="6" offset="395"><![CDATA[Labour]]></wf>
+    <wf sent="4" id="w76" length="2" offset="401"><![CDATA['s]]></wf>
+    <wf sent="4" id="w77" length="7" offset="404"><![CDATA[expense]]></wf>
+    <wf sent="4" id="w78" length="1" offset="411"><![CDATA[,]]></wf>
+    <wf sent="4" id="w79" length="9" offset="413"><![CDATA[providing]]></wf>
+    <wf sent="4" id="w80" length="4" offset="423"><![CDATA[some]]></wf>
+    <wf sent="4" id="w81" length="7" offset="428"><![CDATA[comfort]]></wf>
+    <wf sent="4" id="w82" length="2" offset="436"><![CDATA[to]]></wf>
+    <wf sent="4" id="w83" length="3" offset="439"><![CDATA[the]]></wf>
+    <wf sent="4" id="w84" length="5" offset="443"><![CDATA[party]]></wf>
+    <wf sent="4" id="w85" length="1" offset="448"><![CDATA[.]]></wf>
+    <wf sent="5" id="w86" length="12" offset="450"><![CDATA[Conservative]]></wf>
+    <wf sent="5" id="w87" length="6" offset="463"><![CDATA[leader]]></wf>
+    <wf sent="5" id="w88" length="7" offset="470"><![CDATA[Michael]]></wf>
+    <wf sent="5" id="w89" length="6" offset="478"><![CDATA[Howard]]></wf>
+    <wf sent="5" id="w90" length="8" offset="485"><![CDATA[resigned]]></wf>
+    <wf sent="5" id="w91" length="4" offset="494"><![CDATA[soon]]></wf>
+    <wf sent="5" id="w92" length="10" offset="499"><![CDATA[afterwards]]></wf>
+    <wf sent="5" id="w93" length="3" offset="510"><![CDATA[and]]></wf>
+    <wf sent="5" id="w94" length="3" offset="514"><![CDATA[was]]></wf>
+    <wf sent="5" id="w95" length="9" offset="518"><![CDATA[succeeded]]></wf>
+    <wf sent="5" id="w96" length="2" offset="528"><![CDATA[by]]></wf>
+    <wf sent="5" id="w97" length="5" offset="531"><![CDATA[David]]></wf>
+    <wf sent="5" id="w98" length="7" offset="537"><![CDATA[Cameron]]></wf>
+    <wf sent="5" id="w99" length="1" offset="544"><![CDATA[,]]></wf>
+    <wf sent="5" id="w100" length="3" offset="546"><![CDATA[who]]></wf>
+    <wf sent="5" id="w101" length="3" offset="550"><![CDATA[had]]></wf>
+    <wf sent="5" id="w102" length="1" offset="554"><![CDATA[a]]></wf>
+    <wf sent="5" id="w103" length="6" offset="556"><![CDATA[decent]]></wf>
+    <wf sent="5" id="w104" length="8" offset="563"><![CDATA[platform]]></wf>
+    <wf sent="5" id="w105" length="2" offset="572"><![CDATA[to]]></wf>
+    <wf sent="5" id="w106" length="5" offset="575"><![CDATA[build]]></wf>
+    <wf sent="5" id="w107" length="2" offset="581"><![CDATA[on]]></wf>
+    <wf sent="5" id="w108" length="2" offset="584"><![CDATA[in]]></wf>
+    <wf sent="5" id="w109" length="3" offset="587"><![CDATA[his]]></wf>
+    <wf sent="5" id="w110" length="9" offset="591"><![CDATA[challenge]]></wf>
+    <wf sent="5" id="w111" length="2" offset="601"><![CDATA[to]]></wf>
+    <wf sent="5" id="w112" length="4" offset="604"><![CDATA[lead]]></wf>
+    <wf sent="5" id="w113" length="3" offset="609"><![CDATA[the]]></wf>
+    <wf sent="5" id="w114" length="13" offset="613"><![CDATA[Conservatives]]></wf>
+    <wf sent="5" id="w115" length="2" offset="627"><![CDATA[to]]></wf>
+    <wf sent="5" id="w116" length="1" offset="630"><![CDATA[a]]></wf>
+    <wf sent="5" id="w117" length="7" offset="632"><![CDATA[general]]></wf>
+    <wf sent="5" id="w118" length="8" offset="640"><![CDATA[election]]></wf>
+    <wf sent="5" id="w119" length="7" offset="649"><![CDATA[victory]]></wf>
+    <wf sent="5" id="w120" length="1" offset="656"><![CDATA[;]]></wf>
+    <wf sent="5" id="w121" length="3" offset="658"><![CDATA[the]]></wf>
+    <wf sent="5" id="w122" length="5" offset="662"><![CDATA[party]]></wf>
+    <wf sent="5" id="w123" length="3" offset="668"><![CDATA[had]]></wf>
+    <wf sent="5" id="w124" length="9" offset="672"><![CDATA[increased]]></wf>
+    <wf sent="5" id="w125" length="3" offset="682"><![CDATA[its]]></wf>
+    <wf sent="5" id="w126" length="5" offset="686"><![CDATA[share]]></wf>
+    <wf sent="5" id="w127" length="2" offset="692"><![CDATA[of]]></wf>
+    <wf sent="5" id="w128" length="7" offset="695"><![CDATA[council]]></wf>
+    <wf sent="5" id="w129" length="5" offset="703"><![CDATA[seats]]></wf>
+    <wf sent="5" id="w130" length="3" offset="709"><![CDATA[and]]></wf>
+    <wf sent="5" id="w131" length="11" offset="713"><![CDATA[importantly]]></wf>
+    <wf sent="5" id="w132" length="3" offset="725"><![CDATA[its]]></wf>
+    <wf sent="5" id="w133" length="5" offset="729"><![CDATA[share]]></wf>
+    <wf sent="5" id="w134" length="2" offset="735"><![CDATA[of]]></wf>
+    <wf sent="5" id="w135" length="5" offset="738"><![CDATA[seats]]></wf>
+    <wf sent="5" id="w136" length="2" offset="744"><![CDATA[in]]></wf>
+    <wf sent="5" id="w137" length="10" offset="747"><![CDATA[parliament]]></wf>
+    <wf sent="5" id="w138" length="1" offset="757"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2005" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Kingdom" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="local" pos="ADJ" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="elections++" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="local" pos="ADJ" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="government" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="England" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Northern" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Ireland" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="2005" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="along" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="2005" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="general" pos="ADJ" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="across" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="entire" pos="ADJ" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Kingdom" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="addition" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Isle" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Wight" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="local" pos="ADJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="referendum" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="issue" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="directly" pos="ADV" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="mayor" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="despite" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="lose" pos="VERB" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="general" pos="ADJ" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="same" pos="ADJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Conservatives" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="make" pos="VERB" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="some" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="gain" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Labour" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="expense" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="provide" pos="VERB" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="some" pos="DET" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="comfort" pos="NOUN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="party" pos="NOUN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="conservative" pos="ADJ" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="leader" pos="NOUN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="Michael" pos="PROPN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="Howard" pos="PROPN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="resign" pos="VERB" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="soon" pos="ADV" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="afterwards" pos="ADV" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="succeed" pos="VERB" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="David" pos="PROPN" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Cameron" pos="PROPN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="decent" pos="ADJ" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="platform" pos="NOUN" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="build" pos="VERB" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="on" pos="PART" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="challenge" pos="NOUN" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="lead" pos="VERB" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="Conservatives" pos="PROPN" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="general" pos="ADJ" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="victory" pos="NOUN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma=";" pos="PUNCT" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="party" pos="NOUN" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="increase" pos="VERB" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="share" pos="NOUN" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="council" pos="NOUN" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="importantly" pos="ADV" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="share" pos="NOUN" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="parliament" pos="NOUN" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="cc"/>
+    <dep from="t6" to="t2" rfunc="dep"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t6" to="t4" rfunc="nmod"/>
+    <dep from="t6" to="t5" rfunc="amod"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t14" to="t9" rfunc="nsubjpass"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t12" to="t11" rfunc="amod"/>
+    <dep from="t10" to="t12" rfunc="pobj"/>
+    <dep from="t14" to="t13" rfunc="auxpass"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t20" to="t16" rfunc="det"/>
+    <dep from="t15" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t17" rfunc="nmod"/>
+    <dep from="t17" to="t18" rfunc="cc"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t14" to="t21" rfunc="prep"/>
+    <dep from="t23" to="t22" rfunc="nummod"/>
+    <dep from="t21" to="t23" rfunc="pobj"/>
+    <dep from="t23" to="t24" rfunc="nummod"/>
+    <dep from="t14" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t30" to="t27" rfunc="det"/>
+    <dep from="t26" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t28" rfunc="nummod"/>
+    <dep from="t30" to="t29" rfunc="amod"/>
+    <dep from="t30" to="t31" rfunc="prep"/>
+    <dep from="t35" to="t32" rfunc="det"/>
+    <dep from="t31" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t33" rfunc="amod"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t14" to="t36" rfunc="punct"/>
+    <dep from="t44" to="t37" rfunc="prep"/>
+    <dep from="t37" to="t38" rfunc="pobj"/>
+    <dep from="t44" to="t39" rfunc="punct"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t44" to="t41" rfunc="nsubj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t42" to="t43" rfunc="pobj"/>
+    <dep from="t47" to="t45" rfunc="det"/>
+    <dep from="t44" to="t47" rfunc="dobj"/>
+    <dep from="t47" to="t46" rfunc="amod"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t48" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t55" to="t52" rfunc="det"/>
+    <dep from="t51" to="t55" rfunc="pobj"/>
+    <dep from="t54" to="t53" rfunc="advmod"/>
+    <dep from="t55" to="t54" rfunc="amod"/>
+    <dep from="t44" to="t56" rfunc="punct"/>
+    <dep from="t56" to="t57" rfunc=""/>
+    <dep from="t71" to="t58" rfunc="prep"/>
+    <dep from="t58" to="t59" rfunc="pcomp"/>
+    <dep from="t62" to="t60" rfunc="det"/>
+    <dep from="t59" to="t62" rfunc="dobj"/>
+    <dep from="t62" to="t61" rfunc="amod"/>
+    <dep from="t62" to="t63" rfunc="acl"/>
+    <dep from="t63" to="t64" rfunc="prep"/>
+    <dep from="t67" to="t65" rfunc="det"/>
+    <dep from="t64" to="t67" rfunc="pobj"/>
+    <dep from="t67" to="t66" rfunc="amod"/>
+    <dep from="t71" to="t68" rfunc="punct"/>
+    <dep from="t70" to="t69" rfunc="det"/>
+    <dep from="t71" to="t70" rfunc="nsubj"/>
+    <dep from="t73" to="t72" rfunc="det"/>
+    <dep from="t71" to="t73" rfunc="dobj"/>
+    <dep from="t71" to="t74" rfunc="prep"/>
+    <dep from="t77" to="t75" rfunc="poss"/>
+    <dep from="t74" to="t77" rfunc="pobj"/>
+    <dep from="t75" to="t76" rfunc="case"/>
+    <dep from="t71" to="t78" rfunc="punct"/>
+    <dep from="t71" to="t79" rfunc="advcl"/>
+    <dep from="t81" to="t80" rfunc="det"/>
+    <dep from="t79" to="t81" rfunc="dobj"/>
+    <dep from="t79" to="t82" rfunc="dative"/>
+    <dep from="t84" to="t83" rfunc="det"/>
+    <dep from="t82" to="t84" rfunc="pobj"/>
+    <dep from="t71" to="t85" rfunc="punct"/>
+    <dep from="t87" to="t86" rfunc="amod"/>
+    <dep from="t89" to="t87" rfunc="compound"/>
+    <dep from="t90" to="t89" rfunc="nsubj"/>
+    <dep from="t124" to="t90" rfunc="ccomp"/>
+    <dep from="t89" to="t88" rfunc="compound"/>
+    <dep from="t92" to="t91" rfunc="advmod"/>
+    <dep from="t90" to="t92" rfunc="advmod"/>
+    <dep from="t90" to="t93" rfunc="cc"/>
+    <dep from="t95" to="t94" rfunc="auxpass"/>
+    <dep from="t90" to="t95" rfunc="conj"/>
+    <dep from="t95" to="t96" rfunc="agent"/>
+    <dep from="t98" to="t97" rfunc="compound"/>
+    <dep from="t96" to="t98" rfunc="pobj"/>
+    <dep from="t98" to="t99" rfunc="punct"/>
+    <dep from="t101" to="t100" rfunc="nsubj"/>
+    <dep from="t98" to="t101" rfunc="relcl"/>
+    <dep from="t104" to="t102" rfunc="det"/>
+    <dep from="t101" to="t104" rfunc="dobj"/>
+    <dep from="t104" to="t103" rfunc="amod"/>
+    <dep from="t106" to="t105" rfunc="aux"/>
+    <dep from="t104" to="t106" rfunc="relcl"/>
+    <dep from="t106" to="t107" rfunc="prt"/>
+    <dep from="t106" to="t108" rfunc="prep"/>
+    <dep from="t110" to="t109" rfunc="poss"/>
+    <dep from="t108" to="t110" rfunc="pobj"/>
+    <dep from="t112" to="t111" rfunc="aux"/>
+    <dep from="t106" to="t112" rfunc="advcl"/>
+    <dep from="t114" to="t113" rfunc="det"/>
+    <dep from="t112" to="t114" rfunc="dobj"/>
+    <dep from="t112" to="t115" rfunc="prep"/>
+    <dep from="t119" to="t116" rfunc="det"/>
+    <dep from="t115" to="t119" rfunc="pobj"/>
+    <dep from="t119" to="t117" rfunc="amod"/>
+    <dep from="t119" to="t118" rfunc="compound"/>
+    <dep from="t124" to="t120" rfunc="punct"/>
+    <dep from="t122" to="t121" rfunc="det"/>
+    <dep from="t124" to="t122" rfunc="nsubj"/>
+    <dep from="t124" to="t123" rfunc="aux"/>
+    <dep from="t126" to="t125" rfunc="poss"/>
+    <dep from="t124" to="t126" rfunc="dobj"/>
+    <dep from="t126" to="t127" rfunc="prep"/>
+    <dep from="t129" to="t128" rfunc="compound"/>
+    <dep from="t127" to="t129" rfunc="pobj"/>
+    <dep from="t129" to="t130" rfunc="cc"/>
+    <dep from="t133" to="t131" rfunc="advmod"/>
+    <dep from="t129" to="t133" rfunc="conj"/>
+    <dep from="t133" to="t132" rfunc="poss"/>
+    <dep from="t133" to="t134" rfunc="prep"/>
+    <dep from="t134" to="t135" rfunc="pobj"/>
+    <dep from="t135" to="t136" rfunc="prep"/>
+    <dep from="t136" to="t137" rfunc="pobj"/>
+    <dep from="t124" to="t138" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--l o c a l   g o v e r n m e n t-->
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Local_government_in_the_United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--E n g l a n d-->
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/England" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Inghilterra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Engeland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--N o r t h e r n   I r e l a n d-->
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Northern_Ireland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Irlanda_del_Nord" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Noord-Ierland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 5   g e n e r a l   e l e c t i o n-->
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_Kingdom_general_election" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--U n i t e d   K i n g d o m-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q145" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--I s l e   o f   W i g h t-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Isle_of_Wight" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Isola_di_Wight" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wight" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--d i r e c t l y   e l e c t e d   m a y o r-->
+        <target id="t53"/>
+        <target id="t54"/>
+        <target id="t55"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Elected_mayors_in_the_United_Kingdom" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--M i c h a e l   H o w a r d-->
+        <target id="t88"/>
+        <target id="t89"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Michael_Howard" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Michael_Howard" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Michael_Howard" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--D a v i d   C a m e r o n-->
+        <target id="t97"/>
+        <target id="t98"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/David_Cameron" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/David_Cameron" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/David_Cameron" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q145" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t4"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t5"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t11"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ranked_expectation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-point_of_dispute" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t61"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-identicality" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t67"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_position_on_a_scale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-expensiveness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-supply" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t79"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-experiencer_focus" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr26" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-time_vector" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t92"/>
+      </span>
+    </predicate>
+    <predicate id="pr27" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t95"/>
+      </span>
+    </predicate>
+    <predicate id="pr28" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-desirability" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t103"/>
+      </span>
+    </predicate>
+    <predicate id="pr29" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-building" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t106"/>
+      </span>
+    </predicate>
+    <predicate id="pr30" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t112"/>
+      </span>
+    </predicate>
+    <predicate id="pr31" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t117"/>
+      </span>
+    </predicate>
+    <predicate id="pr32" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t118"/>
+      </span>
+    </predicate>
+    <predicate id="pr33" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t119"/>
+      </span>
+    </predicate>
+    <predicate id="pr34" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t122"/>
+      </span>
+    </predicate>
+    <predicate id="pr35" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_position_on_a_scale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t124"/>
+      </span>
+    </predicate>
+    <predicate id="pr36" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-clothing_parts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t129"/>
+      </span>
+    </predicate>
+    <predicate id="pr37" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-clothing_parts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t135"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

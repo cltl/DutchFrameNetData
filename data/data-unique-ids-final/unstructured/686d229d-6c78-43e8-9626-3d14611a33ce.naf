@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1986 Asian Games"/>
+    <public uri="https://en.wikipedia.org/wiki/1986_Asian_Games"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T13:25:08UTC" endTimestamp="2020-05-28T13:25:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T13:25:08UTC" endTimestamp="2020-05-28T13:25:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T13:25:08UTC" endTimestamp="2020-05-28T13:25:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T13:25:08UTC" endTimestamp="2020-05-28T13:25:08UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:04CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1986 Asian Games++.
+The 1986 Asian Games (), also known as the 10th Asian Games and the X Asiad were held from 20 September to 5 October 1986, in Seoul, South Korea. The city was supposed to host the 1970 games, but it received security threats from neighbouring North Korea, forcing it to give up hosting the games to previous 1966 host Bangkok, Thailand. The venues and facilities of the 10th Asiad were the same venues and facilities that would be used in the 1988 Summer Olympics, as it was considered a test event.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1986]]></wf>
+    <wf sent="2" id="w3" length="5" offset="7"><![CDATA[Asian]]></wf>
+    <wf sent="2" id="w4" length="7" offset="13"><![CDATA[Games++]]></wf>
+    <wf sent="2" id="w5" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="2" id="w6" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w7" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="3" id="w8" length="4" offset="26"><![CDATA[1986]]></wf>
+    <wf sent="3" id="w9" length="5" offset="31"><![CDATA[Asian]]></wf>
+    <wf sent="3" id="w10" length="5" offset="37"><![CDATA[Games]]></wf>
+    <wf sent="3" id="w11" length="1" offset="43"><![CDATA[(]]></wf>
+    <wf sent="3" id="w12" length="1" offset="44"><![CDATA[)]]></wf>
+    <wf sent="3" id="w13" length="1" offset="45"><![CDATA[,]]></wf>
+    <wf sent="3" id="w14" length="4" offset="47"><![CDATA[also]]></wf>
+    <wf sent="3" id="w15" length="5" offset="52"><![CDATA[known]]></wf>
+    <wf sent="3" id="w16" length="2" offset="58"><![CDATA[as]]></wf>
+    <wf sent="3" id="w17" length="3" offset="61"><![CDATA[the]]></wf>
+    <wf sent="3" id="w18" length="4" offset="65"><![CDATA[10th]]></wf>
+    <wf sent="3" id="w19" length="5" offset="70"><![CDATA[Asian]]></wf>
+    <wf sent="3" id="w20" length="5" offset="76"><![CDATA[Games]]></wf>
+    <wf sent="3" id="w21" length="3" offset="82"><![CDATA[and]]></wf>
+    <wf sent="3" id="w22" length="3" offset="86"><![CDATA[the]]></wf>
+    <wf sent="3" id="w23" length="1" offset="90"><![CDATA[X]]></wf>
+    <wf sent="3" id="w24" length="5" offset="92"><![CDATA[Asiad]]></wf>
+    <wf sent="3" id="w25" length="4" offset="98"><![CDATA[were]]></wf>
+    <wf sent="3" id="w26" length="4" offset="103"><![CDATA[held]]></wf>
+    <wf sent="3" id="w27" length="4" offset="108"><![CDATA[from]]></wf>
+    <wf sent="3" id="w28" length="2" offset="113"><![CDATA[20]]></wf>
+    <wf sent="3" id="w29" length="9" offset="116"><![CDATA[September]]></wf>
+    <wf sent="3" id="w30" length="2" offset="126"><![CDATA[to]]></wf>
+    <wf sent="3" id="w31" length="1" offset="129"><![CDATA[5]]></wf>
+    <wf sent="3" id="w32" length="7" offset="131"><![CDATA[October]]></wf>
+    <wf sent="3" id="w33" length="4" offset="139"><![CDATA[1986]]></wf>
+    <wf sent="3" id="w34" length="1" offset="143"><![CDATA[,]]></wf>
+    <wf sent="3" id="w35" length="2" offset="145"><![CDATA[in]]></wf>
+    <wf sent="3" id="w36" length="5" offset="148"><![CDATA[Seoul]]></wf>
+    <wf sent="3" id="w37" length="1" offset="153"><![CDATA[,]]></wf>
+    <wf sent="3" id="w38" length="5" offset="155"><![CDATA[South]]></wf>
+    <wf sent="3" id="w39" length="5" offset="161"><![CDATA[Korea]]></wf>
+    <wf sent="3" id="w40" length="1" offset="166"><![CDATA[.]]></wf>
+    <wf sent="4" id="w41" length="3" offset="168"><![CDATA[The]]></wf>
+    <wf sent="4" id="w42" length="4" offset="172"><![CDATA[city]]></wf>
+    <wf sent="4" id="w43" length="3" offset="177"><![CDATA[was]]></wf>
+    <wf sent="4" id="w44" length="8" offset="181"><![CDATA[supposed]]></wf>
+    <wf sent="4" id="w45" length="2" offset="190"><![CDATA[to]]></wf>
+    <wf sent="4" id="w46" length="4" offset="193"><![CDATA[host]]></wf>
+    <wf sent="4" id="w47" length="3" offset="198"><![CDATA[the]]></wf>
+    <wf sent="4" id="w48" length="4" offset="202"><![CDATA[1970]]></wf>
+    <wf sent="4" id="w49" length="5" offset="207"><![CDATA[games]]></wf>
+    <wf sent="4" id="w50" length="1" offset="212"><![CDATA[,]]></wf>
+    <wf sent="4" id="w51" length="3" offset="214"><![CDATA[but]]></wf>
+    <wf sent="4" id="w52" length="2" offset="218"><![CDATA[it]]></wf>
+    <wf sent="4" id="w53" length="8" offset="221"><![CDATA[received]]></wf>
+    <wf sent="4" id="w54" length="8" offset="230"><![CDATA[security]]></wf>
+    <wf sent="4" id="w55" length="7" offset="239"><![CDATA[threats]]></wf>
+    <wf sent="4" id="w56" length="4" offset="247"><![CDATA[from]]></wf>
+    <wf sent="4" id="w57" length="12" offset="252"><![CDATA[neighbouring]]></wf>
+    <wf sent="4" id="w58" length="5" offset="265"><![CDATA[North]]></wf>
+    <wf sent="4" id="w59" length="5" offset="271"><![CDATA[Korea]]></wf>
+    <wf sent="4" id="w60" length="1" offset="276"><![CDATA[,]]></wf>
+    <wf sent="4" id="w61" length="7" offset="278"><![CDATA[forcing]]></wf>
+    <wf sent="4" id="w62" length="2" offset="286"><![CDATA[it]]></wf>
+    <wf sent="4" id="w63" length="2" offset="289"><![CDATA[to]]></wf>
+    <wf sent="4" id="w64" length="4" offset="292"><![CDATA[give]]></wf>
+    <wf sent="4" id="w65" length="2" offset="297"><![CDATA[up]]></wf>
+    <wf sent="4" id="w66" length="7" offset="300"><![CDATA[hosting]]></wf>
+    <wf sent="4" id="w67" length="3" offset="308"><![CDATA[the]]></wf>
+    <wf sent="4" id="w68" length="5" offset="312"><![CDATA[games]]></wf>
+    <wf sent="4" id="w69" length="2" offset="318"><![CDATA[to]]></wf>
+    <wf sent="4" id="w70" length="8" offset="321"><![CDATA[previous]]></wf>
+    <wf sent="4" id="w71" length="4" offset="330"><![CDATA[1966]]></wf>
+    <wf sent="4" id="w72" length="4" offset="335"><![CDATA[host]]></wf>
+    <wf sent="4" id="w73" length="7" offset="340"><![CDATA[Bangkok]]></wf>
+    <wf sent="4" id="w74" length="1" offset="347"><![CDATA[,]]></wf>
+    <wf sent="4" id="w75" length="8" offset="349"><![CDATA[Thailand]]></wf>
+    <wf sent="4" id="w76" length="1" offset="357"><![CDATA[.]]></wf>
+    <wf sent="5" id="w77" length="3" offset="359"><![CDATA[The]]></wf>
+    <wf sent="5" id="w78" length="6" offset="363"><![CDATA[venues]]></wf>
+    <wf sent="5" id="w79" length="3" offset="370"><![CDATA[and]]></wf>
+    <wf sent="5" id="w80" length="10" offset="374"><![CDATA[facilities]]></wf>
+    <wf sent="5" id="w81" length="2" offset="385"><![CDATA[of]]></wf>
+    <wf sent="5" id="w82" length="3" offset="388"><![CDATA[the]]></wf>
+    <wf sent="5" id="w83" length="4" offset="392"><![CDATA[10th]]></wf>
+    <wf sent="5" id="w84" length="5" offset="397"><![CDATA[Asiad]]></wf>
+    <wf sent="5" id="w85" length="4" offset="403"><![CDATA[were]]></wf>
+    <wf sent="5" id="w86" length="3" offset="408"><![CDATA[the]]></wf>
+    <wf sent="5" id="w87" length="4" offset="412"><![CDATA[same]]></wf>
+    <wf sent="5" id="w88" length="6" offset="417"><![CDATA[venues]]></wf>
+    <wf sent="5" id="w89" length="3" offset="424"><![CDATA[and]]></wf>
+    <wf sent="5" id="w90" length="10" offset="428"><![CDATA[facilities]]></wf>
+    <wf sent="5" id="w91" length="4" offset="439"><![CDATA[that]]></wf>
+    <wf sent="5" id="w92" length="5" offset="444"><![CDATA[would]]></wf>
+    <wf sent="5" id="w93" length="2" offset="450"><![CDATA[be]]></wf>
+    <wf sent="5" id="w94" length="4" offset="453"><![CDATA[used]]></wf>
+    <wf sent="5" id="w95" length="2" offset="458"><![CDATA[in]]></wf>
+    <wf sent="5" id="w96" length="3" offset="461"><![CDATA[the]]></wf>
+    <wf sent="5" id="w97" length="4" offset="465"><![CDATA[1988]]></wf>
+    <wf sent="5" id="w98" length="6" offset="470"><![CDATA[Summer]]></wf>
+    <wf sent="5" id="w99" length="8" offset="477"><![CDATA[Olympics]]></wf>
+    <wf sent="5" id="w100" length="1" offset="485"><![CDATA[,]]></wf>
+    <wf sent="5" id="w101" length="2" offset="487"><![CDATA[as]]></wf>
+    <wf sent="5" id="w102" length="2" offset="490"><![CDATA[it]]></wf>
+    <wf sent="5" id="w103" length="3" offset="493"><![CDATA[was]]></wf>
+    <wf sent="5" id="w104" length="10" offset="497"><![CDATA[considered]]></wf>
+    <wf sent="5" id="w105" length="1" offset="508"><![CDATA[a]]></wf>
+    <wf sent="5" id="w106" length="4" offset="510"><![CDATA[test]]></wf>
+    <wf sent="5" id="w107" length="5" offset="515"><![CDATA[event]]></wf>
+    <wf sent="5" id="w108" length="1" offset="520"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1986" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="asian" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Games++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="1986" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Asian" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="know" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="10th" pos="ADJ" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Asian" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="X" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Asiad" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="20" pos="NUM" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="1986" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Seoul" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="South" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Korea" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="city" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="suppose" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="host" pos="VERB" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="1970" pos="NUM" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="game" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="but" pos="CCONJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="receive" pos="VERB" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="security" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="threat" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="neighbour" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="North" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="Korea" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="force" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="give" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="up" pos="PART" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="host" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="game" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="previous" pos="ADJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="1966" pos="NUM" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="host" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="Bangkok" pos="PROPN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Thailand" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="venue" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="facility" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="10th" pos="ADJ" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Asiad" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="same" pos="ADJ" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="venue" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="facility" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="that" pos="DET" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="would" pos="VERB" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="use" pos="VERB" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="1988" pos="NUM" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="Olympics" pos="PROPN" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="consider" pos="VERB" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="test" pos="NOUN" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t26" to="t10" rfunc="nsubjpass"/>
+    <dep from="t10" to="t8" rfunc="nummod"/>
+    <dep from="t10" to="t9" rfunc="compound"/>
+    <dep from="t10" to="t11" rfunc="punct"/>
+    <dep from="t10" to="t12" rfunc="punct"/>
+    <dep from="t10" to="t13" rfunc="punct"/>
+    <dep from="t15" to="t14" rfunc="advmod"/>
+    <dep from="t10" to="t15" rfunc="acl"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t20" to="t17" rfunc="det"/>
+    <dep from="t16" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t18" rfunc="amod"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t20" to="t21" rfunc="cc"/>
+    <dep from="t24" to="t22" rfunc="det"/>
+    <dep from="t20" to="t24" rfunc="conj"/>
+    <dep from="t24" to="t23" rfunc="compound"/>
+    <dep from="t26" to="t25" rfunc="auxpass"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t29" to="t28" rfunc="nummod"/>
+    <dep from="t27" to="t29" rfunc="pobj"/>
+    <dep from="t26" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t32" to="t33" rfunc="nummod"/>
+    <dep from="t26" to="t34" rfunc="punct"/>
+    <dep from="t26" to="t35" rfunc="prep"/>
+    <dep from="t35" to="t36" rfunc="pobj"/>
+    <dep from="t36" to="t37" rfunc="punct"/>
+    <dep from="t39" to="t38" rfunc="compound"/>
+    <dep from="t36" to="t39" rfunc="appos"/>
+    <dep from="t26" to="t40" rfunc="punct"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t44" to="t42" rfunc="nsubjpass"/>
+    <dep from="t44" to="t43" rfunc="auxpass"/>
+    <dep from="t46" to="t45" rfunc="aux"/>
+    <dep from="t44" to="t46" rfunc="xcomp"/>
+    <dep from="t49" to="t47" rfunc="det"/>
+    <dep from="t46" to="t49" rfunc="dobj"/>
+    <dep from="t49" to="t48" rfunc="nummod"/>
+    <dep from="t44" to="t50" rfunc="punct"/>
+    <dep from="t44" to="t51" rfunc="cc"/>
+    <dep from="t53" to="t52" rfunc="nsubj"/>
+    <dep from="t44" to="t53" rfunc="conj"/>
+    <dep from="t55" to="t54" rfunc="compound"/>
+    <dep from="t53" to="t55" rfunc="dobj"/>
+    <dep from="t53" to="t56" rfunc="prep"/>
+    <dep from="t59" to="t57" rfunc="amod"/>
+    <dep from="t56" to="t59" rfunc="pobj"/>
+    <dep from="t59" to="t58" rfunc="compound"/>
+    <dep from="t53" to="t60" rfunc="punct"/>
+    <dep from="t53" to="t61" rfunc="advcl"/>
+    <dep from="t61" to="t62" rfunc="dobj"/>
+    <dep from="t64" to="t63" rfunc="aux"/>
+    <dep from="t61" to="t64" rfunc="xcomp"/>
+    <dep from="t64" to="t65" rfunc="prt"/>
+    <dep from="t64" to="t66" rfunc="xcomp"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t66" to="t68" rfunc="dobj"/>
+    <dep from="t66" to="t69" rfunc="prep"/>
+    <dep from="t73" to="t70" rfunc="amod"/>
+    <dep from="t69" to="t73" rfunc="pobj"/>
+    <dep from="t72" to="t71" rfunc="nummod"/>
+    <dep from="t73" to="t72" rfunc="compound"/>
+    <dep from="t73" to="t74" rfunc="punct"/>
+    <dep from="t73" to="t75" rfunc="npadvmod"/>
+    <dep from="t53" to="t76" rfunc="punct"/>
+    <dep from="t78" to="t77" rfunc="det"/>
+    <dep from="t85" to="t78" rfunc="nsubj"/>
+    <dep from="t78" to="t79" rfunc="cc"/>
+    <dep from="t78" to="t80" rfunc="conj"/>
+    <dep from="t78" to="t81" rfunc="prep"/>
+    <dep from="t84" to="t82" rfunc="det"/>
+    <dep from="t81" to="t84" rfunc="pobj"/>
+    <dep from="t84" to="t83" rfunc="amod"/>
+    <dep from="t88" to="t86" rfunc="det"/>
+    <dep from="t85" to="t88" rfunc="attr"/>
+    <dep from="t88" to="t87" rfunc="amod"/>
+    <dep from="t88" to="t89" rfunc="cc"/>
+    <dep from="t88" to="t90" rfunc="conj"/>
+    <dep from="t94" to="t91" rfunc="nsubjpass"/>
+    <dep from="t88" to="t94" rfunc="relcl"/>
+    <dep from="t94" to="t92" rfunc="aux"/>
+    <dep from="t94" to="t93" rfunc="auxpass"/>
+    <dep from="t94" to="t95" rfunc="prep"/>
+    <dep from="t99" to="t96" rfunc="det"/>
+    <dep from="t95" to="t99" rfunc="pobj"/>
+    <dep from="t99" to="t97" rfunc="nummod"/>
+    <dep from="t99" to="t98" rfunc="compound"/>
+    <dep from="t85" to="t100" rfunc="punct"/>
+    <dep from="t104" to="t101" rfunc="mark"/>
+    <dep from="t85" to="t104" rfunc="advcl"/>
+    <dep from="t104" to="t102" rfunc="nsubjpass"/>
+    <dep from="t104" to="t103" rfunc="auxpass"/>
+    <dep from="t107" to="t105" rfunc="det"/>
+    <dep from="t104" to="t107" rfunc="oprd"/>
+    <dep from="t107" to="t106" rfunc="compound"/>
+    <dep from="t85" to="t108" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A s i a n   G a m e s-->
+        <target id="t9"/>
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Asian_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Giochi_asiatici" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Aziatische_Spelen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--S e o u l-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Seoul" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Seoel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1 9 7 0   g a m e s-->
+        <target id="t48"/>
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1970_Asian_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/VI_Giochi_asiatici" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Aziatische_Spelen_1970" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--v e n u e s-->
+        <target id="t88"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Venues_of_the_1988_Summer_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--1 9 8 8   S u m m e r   O l y m p i c s-->
+        <target id="t97"/>
+        <target id="t98"/>
+        <target id="t99"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1988_Summer_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Giochi_della_XXIV_Olimpiade" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympische_Zomerspelen_1988" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-opinion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-receiving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_at_risk" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-risky_situation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-giving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t70"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t80"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-identicality" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t88"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-using" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t94"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t104"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-operational_testing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t106"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

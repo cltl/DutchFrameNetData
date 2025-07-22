@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Nickelodeon Kids' Choice Awards 2010"/>
+    <public uri="https://nl.wikipedia.org/wiki/Nickelodeon_Kids%27_Choice_Awards_2010"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:15:11UTC" endTimestamp="2020-05-27T22:15:11UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:15:11UTC" endTimestamp="2020-05-27T22:15:11UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:15:11UTC" endTimestamp="2020-05-27T22:15:11UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:15:11UTC" endTimestamp="2020-05-27T22:15:11UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Nickelodeon Kids' Choice Awards 2010++.
+Nickelodeon Kids' Choice Awards 2010 was de 23e editie van de jaarlijkse prijsuitreikingshow van kinderzender Nickelodeon.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="11" offset="2"><![CDATA[Nickelodeon]]></wf>
+    <wf sent="1" id="w4" length="4" offset="14"><![CDATA[Kids]]></wf>
+    <wf sent="1" id="w5" length="1" offset="18"><![CDATA[']]></wf>
+    <wf sent="1" id="w6" length="6" offset="20"><![CDATA[Choice]]></wf>
+    <wf sent="1" id="w7" length="6" offset="27"><![CDATA[Awards]]></wf>
+    <wf sent="1" id="w8" length="6" offset="34"><![CDATA[2010++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="40"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="41"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="11" offset="42"><![CDATA[Nickelodeon]]></wf>
+    <wf sent="2" id="w12" length="4" offset="54"><![CDATA[Kids]]></wf>
+    <wf sent="2" id="w13" length="1" offset="58"><![CDATA[']]></wf>
+    <wf sent="2" id="w14" length="6" offset="60"><![CDATA[Choice]]></wf>
+    <wf sent="2" id="w15" length="6" offset="67"><![CDATA[Awards]]></wf>
+    <wf sent="2" id="w16" length="4" offset="74"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w17" length="3" offset="79"><![CDATA[was]]></wf>
+    <wf sent="2" id="w18" length="2" offset="83"><![CDATA[de]]></wf>
+    <wf sent="2" id="w19" length="3" offset="86"><![CDATA[23e]]></wf>
+    <wf sent="2" id="w20" length="6" offset="90"><![CDATA[editie]]></wf>
+    <wf sent="2" id="w21" length="3" offset="97"><![CDATA[van]]></wf>
+    <wf sent="2" id="w22" length="2" offset="101"><![CDATA[de]]></wf>
+    <wf sent="2" id="w23" length="10" offset="104"><![CDATA[jaarlijkse]]></wf>
+    <wf sent="2" id="w24" length="19" offset="115"><![CDATA[prijsuitreikingshow]]></wf>
+    <wf sent="2" id="w25" length="3" offset="135"><![CDATA[van]]></wf>
+    <wf sent="2" id="w26" length="12" offset="139"><![CDATA[kinderzender]]></wf>
+    <wf sent="2" id="w27" length="11" offset="152"><![CDATA[Nickelodeon]]></wf>
+    <wf sent="2" id="w28" length="1" offset="163"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="nickelodeon" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="kids" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="'" pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="choice" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="awards" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2010++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="nickelodeon" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="kids" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="'" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="choice" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="awards" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="23e" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="editie" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="jaarlijks" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="prijsuitreikingshow" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="kinderzender" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="nickelodeon" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t3" to="t4" rfunc="flat"/>
+    <dep from="t6" to="t5" rfunc="punct"/>
+    <dep from="t8" to="t6" rfunc="obj"/>
+    <dep from="t1" to="t8" rfunc="dep"/>
+    <dep from="t6" to="t7" rfunc="flat"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t20" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t12" rfunc="flat"/>
+    <dep from="t14" to="t13" rfunc="punct"/>
+    <dep from="t11" to="t14" rfunc="conj"/>
+    <dep from="t14" to="t15" rfunc="flat"/>
+    <dep from="t14" to="t16" rfunc="nummod"/>
+    <dep from="t20" to="t17" rfunc="cop"/>
+    <dep from="t20" to="t18" rfunc="det"/>
+    <dep from="t20" to="t19" rfunc="amod"/>
+    <dep from="t24" to="t21" rfunc="case"/>
+    <dep from="t20" to="t24" rfunc="nmod"/>
+    <dep from="t24" to="t22" rfunc="det"/>
+    <dep from="t24" to="t23" rfunc="amod"/>
+    <dep from="t26" to="t25" rfunc="case"/>
+    <dep from="t24" to="t26" rfunc="nmod"/>
+    <dep from="t26" to="t27" rfunc="appos"/>
+    <dep from="t20" to="t28" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--N i c k e l o d e o n-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nickelodeon_(Nederland/Vlaanderen)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Huesca"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Huesca"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:53:32UTC" endTimestamp="2020-05-28T17:53:32UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:53:32UTC" endTimestamp="2020-05-28T17:53:32UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:53:32UTC" endTimestamp="2020-05-28T17:53:32UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:53:32UTC" endTimestamp="2020-05-28T17:53:32UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:25CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Huesca++.
+The Battle of Huesca was fought during the First Carlist War on May 24, 1837, between Spanish Constitutionalists and Carlists. During the course of the battle, the French Foreign Legion, which had been attached to the Cristinist army, suffered heavy casualties resulting in its strength been halved. The result of the battle was a decisive Carlist victory.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="8" offset="12"><![CDATA[Huesca++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="26"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="33"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="6" offset="36"><![CDATA[Huesca]]></wf>
+    <wf sent="2" id="w12" length="3" offset="43"><![CDATA[was]]></wf>
+    <wf sent="2" id="w13" length="6" offset="47"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w14" length="6" offset="54"><![CDATA[during]]></wf>
+    <wf sent="2" id="w15" length="3" offset="61"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="5" offset="65"><![CDATA[First]]></wf>
+    <wf sent="2" id="w17" length="7" offset="71"><![CDATA[Carlist]]></wf>
+    <wf sent="2" id="w18" length="3" offset="79"><![CDATA[War]]></wf>
+    <wf sent="2" id="w19" length="2" offset="83"><![CDATA[on]]></wf>
+    <wf sent="2" id="w20" length="3" offset="86"><![CDATA[May]]></wf>
+    <wf sent="2" id="w21" length="2" offset="90"><![CDATA[24]]></wf>
+    <wf sent="2" id="w22" length="1" offset="92"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="4" offset="94"><![CDATA[1837]]></wf>
+    <wf sent="2" id="w24" length="1" offset="98"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="7" offset="100"><![CDATA[between]]></wf>
+    <wf sent="2" id="w26" length="7" offset="108"><![CDATA[Spanish]]></wf>
+    <wf sent="2" id="w27" length="18" offset="116"><![CDATA[Constitutionalists]]></wf>
+    <wf sent="2" id="w28" length="3" offset="135"><![CDATA[and]]></wf>
+    <wf sent="2" id="w29" length="8" offset="139"><![CDATA[Carlists]]></wf>
+    <wf sent="2" id="w30" length="1" offset="147"><![CDATA[.]]></wf>
+    <wf sent="3" id="w31" length="6" offset="149"><![CDATA[During]]></wf>
+    <wf sent="3" id="w32" length="3" offset="156"><![CDATA[the]]></wf>
+    <wf sent="3" id="w33" length="6" offset="160"><![CDATA[course]]></wf>
+    <wf sent="3" id="w34" length="2" offset="167"><![CDATA[of]]></wf>
+    <wf sent="3" id="w35" length="3" offset="170"><![CDATA[the]]></wf>
+    <wf sent="3" id="w36" length="6" offset="174"><![CDATA[battle]]></wf>
+    <wf sent="3" id="w37" length="1" offset="180"><![CDATA[,]]></wf>
+    <wf sent="3" id="w38" length="3" offset="182"><![CDATA[the]]></wf>
+    <wf sent="3" id="w39" length="6" offset="186"><![CDATA[French]]></wf>
+    <wf sent="3" id="w40" length="7" offset="193"><![CDATA[Foreign]]></wf>
+    <wf sent="3" id="w41" length="6" offset="201"><![CDATA[Legion]]></wf>
+    <wf sent="3" id="w42" length="1" offset="207"><![CDATA[,]]></wf>
+    <wf sent="3" id="w43" length="5" offset="209"><![CDATA[which]]></wf>
+    <wf sent="3" id="w44" length="3" offset="215"><![CDATA[had]]></wf>
+    <wf sent="3" id="w45" length="4" offset="219"><![CDATA[been]]></wf>
+    <wf sent="3" id="w46" length="8" offset="224"><![CDATA[attached]]></wf>
+    <wf sent="3" id="w47" length="2" offset="233"><![CDATA[to]]></wf>
+    <wf sent="3" id="w48" length="3" offset="236"><![CDATA[the]]></wf>
+    <wf sent="3" id="w49" length="10" offset="240"><![CDATA[Cristinist]]></wf>
+    <wf sent="3" id="w50" length="4" offset="251"><![CDATA[army]]></wf>
+    <wf sent="3" id="w51" length="1" offset="255"><![CDATA[,]]></wf>
+    <wf sent="3" id="w52" length="8" offset="257"><![CDATA[suffered]]></wf>
+    <wf sent="3" id="w53" length="5" offset="266"><![CDATA[heavy]]></wf>
+    <wf sent="3" id="w54" length="10" offset="272"><![CDATA[casualties]]></wf>
+    <wf sent="3" id="w55" length="9" offset="283"><![CDATA[resulting]]></wf>
+    <wf sent="3" id="w56" length="2" offset="293"><![CDATA[in]]></wf>
+    <wf sent="3" id="w57" length="3" offset="296"><![CDATA[its]]></wf>
+    <wf sent="3" id="w58" length="8" offset="300"><![CDATA[strength]]></wf>
+    <wf sent="3" id="w59" length="4" offset="309"><![CDATA[been]]></wf>
+    <wf sent="3" id="w60" length="6" offset="314"><![CDATA[halved]]></wf>
+    <wf sent="3" id="w61" length="1" offset="320"><![CDATA[.]]></wf>
+    <wf sent="4" id="w62" length="3" offset="322"><![CDATA[The]]></wf>
+    <wf sent="4" id="w63" length="6" offset="326"><![CDATA[result]]></wf>
+    <wf sent="4" id="w64" length="2" offset="333"><![CDATA[of]]></wf>
+    <wf sent="4" id="w65" length="3" offset="336"><![CDATA[the]]></wf>
+    <wf sent="4" id="w66" length="6" offset="340"><![CDATA[battle]]></wf>
+    <wf sent="4" id="w67" length="3" offset="347"><![CDATA[was]]></wf>
+    <wf sent="4" id="w68" length="1" offset="351"><![CDATA[a]]></wf>
+    <wf sent="4" id="w69" length="8" offset="353"><![CDATA[decisive]]></wf>
+    <wf sent="4" id="w70" length="7" offset="362"><![CDATA[Carlist]]></wf>
+    <wf sent="4" id="w71" length="7" offset="370"><![CDATA[victory]]></wf>
+    <wf sent="4" id="w72" length="1" offset="377"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Huesca++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Huesca" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="First" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Carlist" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="24" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="1837" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Spanish" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Constitutionalists" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Carlists" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="course" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="french" pos="ADJ" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Foreign" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Legion" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="attach" pos="VERB" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Cristinist" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="army" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="suffer" pos="VERB" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="heavy" pos="ADJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="casualty" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="result" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="strength" pos="NOUN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="halve" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="result" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="decisive" pos="ADJ" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Carlist" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="victory" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t13" to="t9" rfunc="nsubjpass"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t13" to="t12" rfunc="auxpass"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t16" rfunc="compound"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t13" to="t19" rfunc="prep"/>
+    <dep from="t19" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t21" rfunc="nummod"/>
+    <dep from="t20" to="t22" rfunc="punct"/>
+    <dep from="t20" to="t23" rfunc="nummod"/>
+    <dep from="t20" to="t24" rfunc="punct"/>
+    <dep from="t20" to="t25" rfunc="prep"/>
+    <dep from="t27" to="t26" rfunc="compound"/>
+    <dep from="t25" to="t27" rfunc="pobj"/>
+    <dep from="t27" to="t28" rfunc="cc"/>
+    <dep from="t27" to="t29" rfunc="conj"/>
+    <dep from="t13" to="t30" rfunc="punct"/>
+    <dep from="t52" to="t31" rfunc="prep"/>
+    <dep from="t33" to="t32" rfunc="det"/>
+    <dep from="t31" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="det"/>
+    <dep from="t34" to="t36" rfunc="pobj"/>
+    <dep from="t52" to="t37" rfunc="punct"/>
+    <dep from="t41" to="t38" rfunc="det"/>
+    <dep from="t52" to="t41" rfunc="nsubj"/>
+    <dep from="t41" to="t39" rfunc="amod"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t41" to="t42" rfunc="punct"/>
+    <dep from="t46" to="t43" rfunc="nsubjpass"/>
+    <dep from="t41" to="t46" rfunc="relcl"/>
+    <dep from="t46" to="t44" rfunc="aux"/>
+    <dep from="t46" to="t45" rfunc="auxpass"/>
+    <dep from="t46" to="t47" rfunc="prep"/>
+    <dep from="t50" to="t48" rfunc="det"/>
+    <dep from="t47" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t41" to="t51" rfunc="punct"/>
+    <dep from="t54" to="t53" rfunc="amod"/>
+    <dep from="t52" to="t54" rfunc="dobj"/>
+    <dep from="t54" to="t55" rfunc="acl"/>
+    <dep from="t55" to="t56" rfunc="prep"/>
+    <dep from="t58" to="t57" rfunc="poss"/>
+    <dep from="t56" to="t58" rfunc="pobj"/>
+    <dep from="t60" to="t59" rfunc="auxpass"/>
+    <dep from="t52" to="t60" rfunc="advcl"/>
+    <dep from="t52" to="t61" rfunc="punct"/>
+    <dep from="t63" to="t62" rfunc="det"/>
+    <dep from="t67" to="t63" rfunc="nsubj"/>
+    <dep from="t63" to="t64" rfunc="prep"/>
+    <dep from="t66" to="t65" rfunc="det"/>
+    <dep from="t64" to="t66" rfunc="pobj"/>
+    <dep from="t71" to="t68" rfunc="det"/>
+    <dep from="t67" to="t71" rfunc="attr"/>
+    <dep from="t71" to="t69" rfunc="amod"/>
+    <dep from="t71" to="t70" rfunc="amod"/>
+    <dep from="t67" to="t72" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--F i r s t   C a r l i s t   W a r-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/First_Carlist_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Eerste_Carlistenoorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F r e n c h   F o r e i g n   L e g i o n-->
+        <target id="t39"/>
+        <target id="t40"/>
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/French_Foreign_Legion" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Legione_straniera_francese" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Frans_Vreemdelingenlegioen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-first_experience" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_collocation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-foreign_or_domestic_country" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attaching" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-catastrophe" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-resolve_problem" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-importance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

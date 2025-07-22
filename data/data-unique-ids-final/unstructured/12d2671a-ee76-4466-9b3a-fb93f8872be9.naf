@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Quito 2017"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Quito_2017"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:11:30UTC" endTimestamp="2020-05-27T15:11:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:11:30UTC" endTimestamp="2020-05-27T15:11:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:11:30UTC" endTimestamp="2020-05-27T15:11:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:11:30UTC" endTimestamp="2020-05-27T15:11:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Quito 2017++.
+Het ATP-toernooi van Quito 2017 (met de officiële naam Ecuador Open Quito 2017) werd van 6 tot en met 12 februari 2017 gespeeld in de Ecuadoraanse hoofdstad Quito. Er werd gespeeld op gravelbanen van de Club Jacarandá.
+Het enkelspel werd gewonnen door Víctor Estrella Burgos. Hij won de finale van Paolo Lorenzi met 6-7(2), 7-5 en 7-6(6).
+Het dubbelspel werd gewonnen door James Cerretani en Philipp Oswald. Zij wonnen de finale na opgave van Julio Peralta en Horacio Zeballos met 6-3 en 2-1.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="5" offset="19"><![CDATA[Quito]]></wf>
+    <wf sent="1" id="w8" length="6" offset="25"><![CDATA[2017++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="31"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="32"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="33"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="3" offset="37"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w13" length="1" offset="40"><![CDATA[-]]></wf>
+    <wf sent="2" id="w14" length="8" offset="41"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w15" length="3" offset="50"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="5" offset="54"><![CDATA[Quito]]></wf>
+    <wf sent="2" id="w17" length="4" offset="60"><![CDATA[2017]]></wf>
+    <wf sent="2" id="w18" length="1" offset="65"><![CDATA[(]]></wf>
+    <wf sent="2" id="w19" length="3" offset="66"><![CDATA[met]]></wf>
+    <wf sent="2" id="w20" length="2" offset="70"><![CDATA[de]]></wf>
+    <wf sent="2" id="w21" length="9" offset="73"><![CDATA[officiële]]></wf>
+    <wf sent="2" id="w22" length="4" offset="83"><![CDATA[naam]]></wf>
+    <wf sent="2" id="w23" length="7" offset="88"><![CDATA[Ecuador]]></wf>
+    <wf sent="2" id="w24" length="4" offset="96"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w25" length="5" offset="101"><![CDATA[Quito]]></wf>
+    <wf sent="2" id="w26" length="4" offset="107"><![CDATA[2017]]></wf>
+    <wf sent="2" id="w27" length="1" offset="111"><![CDATA[)]]></wf>
+    <wf sent="2" id="w28" length="4" offset="113"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w29" length="3" offset="118"><![CDATA[van]]></wf>
+    <wf sent="2" id="w30" length="1" offset="122"><![CDATA[6]]></wf>
+    <wf sent="2" id="w31" length="3" offset="124"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w32" length="2" offset="128"><![CDATA[en]]></wf>
+    <wf sent="2" id="w33" length="3" offset="131"><![CDATA[met]]></wf>
+    <wf sent="2" id="w34" length="2" offset="135"><![CDATA[12]]></wf>
+    <wf sent="2" id="w35" length="8" offset="138"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w36" length="4" offset="147"><![CDATA[2017]]></wf>
+    <wf sent="2" id="w37" length="8" offset="152"><![CDATA[gespeeld]]></wf>
+    <wf sent="2" id="w38" length="2" offset="161"><![CDATA[in]]></wf>
+    <wf sent="2" id="w39" length="2" offset="164"><![CDATA[de]]></wf>
+    <wf sent="2" id="w40" length="12" offset="167"><![CDATA[Ecuadoraanse]]></wf>
+    <wf sent="2" id="w41" length="9" offset="180"><![CDATA[hoofdstad]]></wf>
+    <wf sent="2" id="w42" length="5" offset="190"><![CDATA[Quito]]></wf>
+    <wf sent="2" id="w43" length="1" offset="195"><![CDATA[.]]></wf>
+    <wf sent="3" id="w44" length="2" offset="197"><![CDATA[Er]]></wf>
+    <wf sent="3" id="w45" length="4" offset="200"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w46" length="8" offset="205"><![CDATA[gespeeld]]></wf>
+    <wf sent="3" id="w47" length="2" offset="214"><![CDATA[op]]></wf>
+    <wf sent="3" id="w48" length="11" offset="217"><![CDATA[gravelbanen]]></wf>
+    <wf sent="3" id="w49" length="3" offset="229"><![CDATA[van]]></wf>
+    <wf sent="3" id="w50" length="2" offset="233"><![CDATA[de]]></wf>
+    <wf sent="3" id="w51" length="4" offset="236"><![CDATA[Club]]></wf>
+    <wf sent="3" id="w52" length="9" offset="241"><![CDATA[Jacarandá]]></wf>
+    <wf sent="3" id="w53" length="1" offset="250"><![CDATA[.]]></wf>
+    <wf sent="3" id="w54" length="1" offset="251"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w55" length="3" offset="252"><![CDATA[Het]]></wf>
+    <wf sent="4" id="w56" length="9" offset="256"><![CDATA[enkelspel]]></wf>
+    <wf sent="4" id="w57" length="4" offset="266"><![CDATA[werd]]></wf>
+    <wf sent="4" id="w58" length="8" offset="271"><![CDATA[gewonnen]]></wf>
+    <wf sent="4" id="w59" length="4" offset="280"><![CDATA[door]]></wf>
+    <wf sent="4" id="w60" length="6" offset="285"><![CDATA[Víctor]]></wf>
+    <wf sent="4" id="w61" length="8" offset="292"><![CDATA[Estrella]]></wf>
+    <wf sent="4" id="w62" length="6" offset="301"><![CDATA[Burgos]]></wf>
+    <wf sent="4" id="w63" length="1" offset="307"><![CDATA[.]]></wf>
+    <wf sent="5" id="w64" length="3" offset="309"><![CDATA[Hij]]></wf>
+    <wf sent="5" id="w65" length="3" offset="313"><![CDATA[won]]></wf>
+    <wf sent="5" id="w66" length="2" offset="317"><![CDATA[de]]></wf>
+    <wf sent="5" id="w67" length="6" offset="320"><![CDATA[finale]]></wf>
+    <wf sent="5" id="w68" length="3" offset="327"><![CDATA[van]]></wf>
+    <wf sent="5" id="w69" length="5" offset="331"><![CDATA[Paolo]]></wf>
+    <wf sent="5" id="w70" length="7" offset="337"><![CDATA[Lorenzi]]></wf>
+    <wf sent="5" id="w71" length="3" offset="345"><![CDATA[met]]></wf>
+    <wf sent="5" id="w72" length="1" offset="349"><![CDATA[6]]></wf>
+    <wf sent="5" id="w73" length="1" offset="350"><![CDATA[-]]></wf>
+    <wf sent="5" id="w74" length="3" offset="351"><![CDATA[7(2]]></wf>
+    <wf sent="5" id="w75" length="1" offset="354"><![CDATA[)]]></wf>
+    <wf sent="5" id="w76" length="1" offset="355"><![CDATA[,]]></wf>
+    <wf sent="5" id="w77" length="1" offset="357"><![CDATA[7]]></wf>
+    <wf sent="5" id="w78" length="1" offset="358"><![CDATA[-]]></wf>
+    <wf sent="5" id="w79" length="1" offset="359"><![CDATA[5]]></wf>
+    <wf sent="5" id="w80" length="2" offset="361"><![CDATA[en]]></wf>
+    <wf sent="5" id="w81" length="1" offset="364"><![CDATA[7]]></wf>
+    <wf sent="5" id="w82" length="1" offset="365"><![CDATA[-]]></wf>
+    <wf sent="5" id="w83" length="3" offset="366"><![CDATA[6(6]]></wf>
+    <wf sent="5" id="w84" length="1" offset="369"><![CDATA[)]]></wf>
+    <wf sent="5" id="w85" length="1" offset="370"><![CDATA[.]]></wf>
+    <wf sent="5" id="w86" length="1" offset="371"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w87" length="3" offset="372"><![CDATA[Het]]></wf>
+    <wf sent="6" id="w88" length="10" offset="376"><![CDATA[dubbelspel]]></wf>
+    <wf sent="6" id="w89" length="4" offset="387"><![CDATA[werd]]></wf>
+    <wf sent="6" id="w90" length="8" offset="392"><![CDATA[gewonnen]]></wf>
+    <wf sent="6" id="w91" length="4" offset="401"><![CDATA[door]]></wf>
+    <wf sent="6" id="w92" length="5" offset="406"><![CDATA[James]]></wf>
+    <wf sent="6" id="w93" length="9" offset="412"><![CDATA[Cerretani]]></wf>
+    <wf sent="6" id="w94" length="2" offset="422"><![CDATA[en]]></wf>
+    <wf sent="6" id="w95" length="7" offset="425"><![CDATA[Philipp]]></wf>
+    <wf sent="6" id="w96" length="6" offset="433"><![CDATA[Oswald]]></wf>
+    <wf sent="6" id="w97" length="1" offset="439"><![CDATA[.]]></wf>
+    <wf sent="7" id="w98" length="3" offset="441"><![CDATA[Zij]]></wf>
+    <wf sent="7" id="w99" length="6" offset="445"><![CDATA[wonnen]]></wf>
+    <wf sent="7" id="w100" length="2" offset="452"><![CDATA[de]]></wf>
+    <wf sent="7" id="w101" length="6" offset="455"><![CDATA[finale]]></wf>
+    <wf sent="7" id="w102" length="2" offset="462"><![CDATA[na]]></wf>
+    <wf sent="7" id="w103" length="6" offset="465"><![CDATA[opgave]]></wf>
+    <wf sent="7" id="w104" length="3" offset="472"><![CDATA[van]]></wf>
+    <wf sent="7" id="w105" length="5" offset="476"><![CDATA[Julio]]></wf>
+    <wf sent="7" id="w106" length="7" offset="482"><![CDATA[Peralta]]></wf>
+    <wf sent="7" id="w107" length="2" offset="490"><![CDATA[en]]></wf>
+    <wf sent="7" id="w108" length="7" offset="493"><![CDATA[Horacio]]></wf>
+    <wf sent="7" id="w109" length="8" offset="501"><![CDATA[Zeballos]]></wf>
+    <wf sent="7" id="w110" length="3" offset="510"><![CDATA[met]]></wf>
+    <wf sent="7" id="w111" length="1" offset="514"><![CDATA[6]]></wf>
+    <wf sent="7" id="w112" length="1" offset="515"><![CDATA[-]]></wf>
+    <wf sent="7" id="w113" length="1" offset="516"><![CDATA[3]]></wf>
+    <wf sent="7" id="w114" length="2" offset="518"><![CDATA[en]]></wf>
+    <wf sent="7" id="w115" length="1" offset="521"><![CDATA[2]]></wf>
+    <wf sent="7" id="w116" length="1" offset="522"><![CDATA[-]]></wf>
+    <wf sent="7" id="w117" length="1" offset="523"><![CDATA[1]]></wf>
+    <wf sent="7" id="w118" length="1" offset="524"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="quito" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2017++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="quito" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="naam" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="ecuador" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="open" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="quito" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="6" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="12" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="2017" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="ecuadoraans" pos="ADJ" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="hoofdstad" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="quito" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="gravelbaan" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="club" pos="NOUN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="jacarandá" pos="X" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="enkelspel" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="víctor" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="estrella" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="burgos" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="hij" pos="PRON" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="paolo" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="lorenzi" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="6" pos="NUM" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="7(2" pos="NUM" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="6(6" pos="NUM" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="dubbelspel" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="jame" pos="NOUN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="cerretani" pos="PROPN" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="philipp" pos="NOUN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="oswald" pos="VERB" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="zij" pos="PRON" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="winnen" pos="VERB" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="finale" pos="NOUN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="na" pos="ADP" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="opgave" pos="NOUN" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="julio" pos="NOUN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="peralta" pos="PROPN" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="horacio" pos="NOUN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="zeballos" pos="PROPN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="6" pos="NUM" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="2" pos="NUM" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t7" to="t8" rfunc="flat"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t12" to="t11" rfunc="det"/>
+    <dep from="t37" to="t12" rfunc="nsubj"/>
+    <dep from="t14" to="t13" rfunc="nmod"/>
+    <dep from="t12" to="t14" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t14" to="t16" rfunc="nmod"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t14" to="t18" rfunc="punct"/>
+    <dep from="t22" to="t19" rfunc="case"/>
+    <dep from="t14" to="t22" rfunc="nmod"/>
+    <dep from="t22" to="t20" rfunc="det"/>
+    <dep from="t22" to="t21" rfunc="amod"/>
+    <dep from="t22" to="t23" rfunc="appos"/>
+    <dep from="t23" to="t24" rfunc="flat"/>
+    <dep from="t23" to="t25" rfunc="flat"/>
+    <dep from="t23" to="t26" rfunc="nummod"/>
+    <dep from="t37" to="t27" rfunc="punct"/>
+    <dep from="t37" to="t28" rfunc="aux"/>
+    <dep from="t30" to="t29" rfunc="case"/>
+    <dep from="t37" to="t30" rfunc="obl"/>
+    <dep from="t30" to="t31" rfunc="cc"/>
+    <dep from="t31" to="t32" rfunc="compound"/>
+    <dep from="t34" to="t33" rfunc="case"/>
+    <dep from="t31" to="t34" rfunc="advmod"/>
+    <dep from="t34" to="t35" rfunc="compound"/>
+    <dep from="t34" to="t36" rfunc="compound"/>
+    <dep from="t41" to="t38" rfunc="case"/>
+    <dep from="t37" to="t41" rfunc="obl"/>
+    <dep from="t41" to="t39" rfunc="det"/>
+    <dep from="t41" to="t40" rfunc="amod"/>
+    <dep from="t41" to="t42" rfunc="appos"/>
+    <dep from="t37" to="t43" rfunc="punct"/>
+    <dep from="t46" to="t44" rfunc="advmod"/>
+    <dep from="t46" to="t45" rfunc="aux"/>
+    <dep from="t48" to="t47" rfunc="case"/>
+    <dep from="t46" to="t48" rfunc="obl"/>
+    <dep from="t51" to="t49" rfunc="case"/>
+    <dep from="t48" to="t51" rfunc="advmod"/>
+    <dep from="t51" to="t50" rfunc="det"/>
+    <dep from="t51" to="t52" rfunc="flat"/>
+    <dep from="t46" to="t53" rfunc="punct"/>
+    <dep from="t53" to="t54" rfunc=""/>
+    <dep from="t56" to="t55" rfunc="det"/>
+    <dep from="t58" to="t56" rfunc="nsubj"/>
+    <dep from="t58" to="t57" rfunc="aux"/>
+    <dep from="t60" to="t59" rfunc="case"/>
+    <dep from="t58" to="t60" rfunc="advmod"/>
+    <dep from="t60" to="t61" rfunc="flat"/>
+    <dep from="t60" to="t62" rfunc="flat"/>
+    <dep from="t58" to="t63" rfunc="punct"/>
+    <dep from="t65" to="t64" rfunc="nsubj"/>
+    <dep from="t67" to="t66" rfunc="det"/>
+    <dep from="t65" to="t67" rfunc="obj"/>
+    <dep from="t69" to="t68" rfunc="case"/>
+    <dep from="t67" to="t69" rfunc="nmod"/>
+    <dep from="t69" to="t70" rfunc="flat"/>
+    <dep from="t72" to="t71" rfunc="case"/>
+    <dep from="t67" to="t72" rfunc="nummod"/>
+    <dep from="t67" to="t73" rfunc="nmod"/>
+    <dep from="t67" to="t74" rfunc="nmod"/>
+    <dep from="t65" to="t75" rfunc="punct"/>
+    <dep from="t65" to="t76" rfunc="punct"/>
+    <dep from="t65" to="t77" rfunc="dep"/>
+    <dep from="t77" to="t78" rfunc="compound"/>
+    <dep from="t77" to="t79" rfunc="compound"/>
+    <dep from="t81" to="t80" rfunc="cc"/>
+    <dep from="t77" to="t81" rfunc="conj"/>
+    <dep from="t65" to="t82" rfunc="nmod"/>
+    <dep from="t82" to="t83" rfunc="compound"/>
+    <dep from="t65" to="t84" rfunc="punct"/>
+    <dep from="t65" to="t85" rfunc="punct"/>
+    <dep from="t85" to="t86" rfunc=""/>
+    <dep from="t88" to="t87" rfunc="det"/>
+    <dep from="t90" to="t88" rfunc="nsubj"/>
+    <dep from="t90" to="t89" rfunc="aux"/>
+    <dep from="t92" to="t91" rfunc="case"/>
+    <dep from="t90" to="t92" rfunc="advmod"/>
+    <dep from="t92" to="t93" rfunc="flat"/>
+    <dep from="t95" to="t94" rfunc="cc"/>
+    <dep from="t92" to="t95" rfunc="conj"/>
+    <dep from="t95" to="t96" rfunc="flat"/>
+    <dep from="t90" to="t97" rfunc="punct"/>
+    <dep from="t99" to="t98" rfunc="nsubj"/>
+    <dep from="t101" to="t100" rfunc="det"/>
+    <dep from="t99" to="t101" rfunc="obj"/>
+    <dep from="t103" to="t102" rfunc="case"/>
+    <dep from="t99" to="t103" rfunc="obl"/>
+    <dep from="t105" to="t104" rfunc="case"/>
+    <dep from="t103" to="t105" rfunc="nmod"/>
+    <dep from="t105" to="t106" rfunc="flat"/>
+    <dep from="t108" to="t107" rfunc="cc"/>
+    <dep from="t105" to="t108" rfunc="conj"/>
+    <dep from="t108" to="t109" rfunc="flat"/>
+    <dep from="t111" to="t110" rfunc="case"/>
+    <dep from="t99" to="t111" rfunc="obl"/>
+    <dep from="t111" to="t112" rfunc="compound"/>
+    <dep from="t111" to="t113" rfunc="compound"/>
+    <dep from="t115" to="t114" rfunc="cc"/>
+    <dep from="t111" to="t115" rfunc="conj"/>
+    <dep from="t99" to="t116" rfunc="nmod"/>
+    <dep from="t99" to="t117" rfunc="obl"/>
+    <dep from="t99" to="t118" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   Q u i t o-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ecuador_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ecuador_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--6-->
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/6_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/6_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_6" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1 2   f e b r u a r i-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/12_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/12_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_12" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 1 7-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2017" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/2017" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/2017" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--Q u i t o-->
+        <target id="t42"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--V í c t o r   E s t r e l l a   B u r g o s-->
+        <target id="t60"/>
+        <target id="t61"/>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Víctor_Estrella_Burgos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Víctor_Estrella_Burgos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Víctor_Estrella_Burgos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--P a o l o   L o r e n z i-->
+        <target id="t69"/>
+        <target id="t70"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Paolo_Lorenzi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Paolo_Lorenzi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Paolo_Lorenzi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--J a m e s   C e r r e t a n i-->
+        <target id="t92"/>
+        <target id="t93"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/James_Cerretani" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/James_Cerretani" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/James_Cerretani" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--P h i l i p p   O s w a l d-->
+        <target id="t95"/>
+        <target id="t96"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Philipp_Oswald" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Philipp_Oswald" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Philipp_Oswald" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--J u l i o   P e r a l t a-->
+        <target id="t105"/>
+        <target id="t106"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Julio_Peralta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Julio_Peralta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Julio_Peralta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--H o r a c i o   Z e b a l l o s-->
+        <target id="t108"/>
+        <target id="t109"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Horacio_Zeballos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Horacio_Zeballos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Horacio_Zeballos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

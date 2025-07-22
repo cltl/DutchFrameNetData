@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="First Battle of Pocotaligo"/>
+    <public uri="https://en.wikipedia.org/wiki/First_Battle_of_Pocotaligo"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:52:56UTC" endTimestamp="2020-05-28T17:52:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:52:56UTC" endTimestamp="2020-05-28T17:52:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:52:56UTC" endTimestamp="2020-05-28T17:52:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:52:56UTC" endTimestamp="2020-05-28T17:52:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:22CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++First Battle of Pocotaligo++.
+The First Battle of Pocotaligo was a battle in the American Civil War fought on May 29, 1862 near Yemassee, South Carolina. The Union objective was to sever the Charleston and Savannah Railroad and thus isolate Charleston, South Carolina.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="5" offset="2"><![CDATA[First]]></wf>
+    <wf sent="1" id="w4" length="6" offset="8"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w5" length="2" offset="15"><![CDATA[of]]></wf>
+    <wf sent="1" id="w6" length="12" offset="18"><![CDATA[Pocotaligo++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="30"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="31"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="32"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="5" offset="36"><![CDATA[First]]></wf>
+    <wf sent="2" id="w11" length="6" offset="42"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w12" length="2" offset="49"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="10" offset="52"><![CDATA[Pocotaligo]]></wf>
+    <wf sent="2" id="w14" length="3" offset="63"><![CDATA[was]]></wf>
+    <wf sent="2" id="w15" length="1" offset="67"><![CDATA[a]]></wf>
+    <wf sent="2" id="w16" length="6" offset="69"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w17" length="2" offset="76"><![CDATA[in]]></wf>
+    <wf sent="2" id="w18" length="3" offset="79"><![CDATA[the]]></wf>
+    <wf sent="2" id="w19" length="8" offset="83"><![CDATA[American]]></wf>
+    <wf sent="2" id="w20" length="5" offset="92"><![CDATA[Civil]]></wf>
+    <wf sent="2" id="w21" length="3" offset="98"><![CDATA[War]]></wf>
+    <wf sent="2" id="w22" length="6" offset="102"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w23" length="2" offset="109"><![CDATA[on]]></wf>
+    <wf sent="2" id="w24" length="3" offset="112"><![CDATA[May]]></wf>
+    <wf sent="2" id="w25" length="2" offset="116"><![CDATA[29]]></wf>
+    <wf sent="2" id="w26" length="1" offset="118"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="4" offset="120"><![CDATA[1862]]></wf>
+    <wf sent="2" id="w28" length="4" offset="125"><![CDATA[near]]></wf>
+    <wf sent="2" id="w29" length="8" offset="130"><![CDATA[Yemassee]]></wf>
+    <wf sent="2" id="w30" length="1" offset="138"><![CDATA[,]]></wf>
+    <wf sent="2" id="w31" length="5" offset="140"><![CDATA[South]]></wf>
+    <wf sent="2" id="w32" length="8" offset="146"><![CDATA[Carolina]]></wf>
+    <wf sent="2" id="w33" length="1" offset="154"><![CDATA[.]]></wf>
+    <wf sent="3" id="w34" length="3" offset="156"><![CDATA[The]]></wf>
+    <wf sent="3" id="w35" length="5" offset="160"><![CDATA[Union]]></wf>
+    <wf sent="3" id="w36" length="9" offset="166"><![CDATA[objective]]></wf>
+    <wf sent="3" id="w37" length="3" offset="176"><![CDATA[was]]></wf>
+    <wf sent="3" id="w38" length="2" offset="180"><![CDATA[to]]></wf>
+    <wf sent="3" id="w39" length="5" offset="183"><![CDATA[sever]]></wf>
+    <wf sent="3" id="w40" length="3" offset="189"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="10" offset="193"><![CDATA[Charleston]]></wf>
+    <wf sent="3" id="w42" length="3" offset="204"><![CDATA[and]]></wf>
+    <wf sent="3" id="w43" length="8" offset="208"><![CDATA[Savannah]]></wf>
+    <wf sent="3" id="w44" length="8" offset="217"><![CDATA[Railroad]]></wf>
+    <wf sent="3" id="w45" length="3" offset="226"><![CDATA[and]]></wf>
+    <wf sent="3" id="w46" length="4" offset="230"><![CDATA[thus]]></wf>
+    <wf sent="3" id="w47" length="7" offset="235"><![CDATA[isolate]]></wf>
+    <wf sent="3" id="w48" length="10" offset="243"><![CDATA[Charleston]]></wf>
+    <wf sent="3" id="w49" length="1" offset="253"><![CDATA[,]]></wf>
+    <wf sent="3" id="w50" length="5" offset="255"><![CDATA[South]]></wf>
+    <wf sent="3" id="w51" length="8" offset="261"><![CDATA[Carolina]]></wf>
+    <wf sent="3" id="w52" length="1" offset="269"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="First" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Pocotaligo++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="First" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Pocotaligo" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="American" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1862" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="near" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Yemassee" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="South" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Carolina" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="objective" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="sever" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Charleston" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Savannah" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Railroad" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="thus" pos="ADV" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="isolate" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Charleston" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="South" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Carolina" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t1" to="t4" rfunc="conj"/>
+    <dep from="t4" to="t5" rfunc="prep"/>
+    <dep from="t5" to="t6" rfunc="pobj"/>
+    <dep from="t4" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t14" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t12" to="t13" rfunc="pobj"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t14" to="t16" rfunc="attr"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t21" to="t18" rfunc="det"/>
+    <dep from="t17" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t16" to="t22" rfunc="acl"/>
+    <dep from="t22" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="nummod"/>
+    <dep from="t24" to="t26" rfunc="punct"/>
+    <dep from="t24" to="t27" rfunc="nummod"/>
+    <dep from="t24" to="t28" rfunc="prep"/>
+    <dep from="t28" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t30" rfunc="punct"/>
+    <dep from="t32" to="t31" rfunc="compound"/>
+    <dep from="t29" to="t32" rfunc="appos"/>
+    <dep from="t14" to="t33" rfunc="punct"/>
+    <dep from="t36" to="t34" rfunc="det"/>
+    <dep from="t37" to="t36" rfunc="nsubj"/>
+    <dep from="t36" to="t35" rfunc="compound"/>
+    <dep from="t39" to="t38" rfunc="aux"/>
+    <dep from="t37" to="t39" rfunc="xcomp"/>
+    <dep from="t44" to="t40" rfunc="det"/>
+    <dep from="t39" to="t44" rfunc="dobj"/>
+    <dep from="t44" to="t41" rfunc="nmod"/>
+    <dep from="t41" to="t42" rfunc="cc"/>
+    <dep from="t41" to="t43" rfunc="conj"/>
+    <dep from="t39" to="t45" rfunc="cc"/>
+    <dep from="t47" to="t46" rfunc="advmod"/>
+    <dep from="t39" to="t47" rfunc="conj"/>
+    <dep from="t47" to="t48" rfunc="dobj"/>
+    <dep from="t48" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t48" to="t51" rfunc="appos"/>
+    <dep from="t37" to="t52" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A m e r i c a n   C i v i l   W a r-->
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/American_Civil_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_di_secessione_americana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Amerikaanse_Burgeroorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--Y e m a s s e e-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Yemassee,_South_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Yemassee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Yemassee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S o u t h   C a r o l i n a-->
+        <target id="t31"/>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/South_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Carolina_del_Sud" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/South_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--C h a r l e s t o n   a n d   S a v a n n a h   R a i l r o a d-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Charleston_and_Savannah_Railroad" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C h a r l e s t o n ,   S o u t h   C a r o l i n a-->
+        <target id="t48"/>
+        <target id="t49"/>
+        <target id="t50"/>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Charleston,_South_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-first_experience" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t3"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-first_experience" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-purpose" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-separating" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Olompali"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Olompali"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:50:21UTC" endTimestamp="2020-05-28T17:50:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:50:21UTC" endTimestamp="2020-05-28T17:50:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:50:21UTC" endTimestamp="2020-05-28T17:50:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:50:21UTC" endTimestamp="2020-05-28T17:50:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:54CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Olompali++.
+The Battle of Olómpali was fought on June 24, 1846, in present-day Marin County, California. It was the only battle of the Bear Flag Revolt. The site is now a part of the Olompali State Historic Park.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="10" offset="12"><![CDATA[Olompali++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="23"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="24"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="28"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="35"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="8" offset="38"><![CDATA[Olómpali]]></wf>
+    <wf sent="2" id="w12" length="3" offset="47"><![CDATA[was]]></wf>
+    <wf sent="2" id="w13" length="6" offset="51"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w14" length="2" offset="58"><![CDATA[on]]></wf>
+    <wf sent="2" id="w15" length="4" offset="61"><![CDATA[June]]></wf>
+    <wf sent="2" id="w16" length="2" offset="66"><![CDATA[24]]></wf>
+    <wf sent="2" id="w17" length="1" offset="68"><![CDATA[,]]></wf>
+    <wf sent="2" id="w18" length="4" offset="70"><![CDATA[1846]]></wf>
+    <wf sent="2" id="w19" length="1" offset="74"><![CDATA[,]]></wf>
+    <wf sent="2" id="w20" length="2" offset="76"><![CDATA[in]]></wf>
+    <wf sent="2" id="w21" length="7" offset="79"><![CDATA[present]]></wf>
+    <wf sent="2" id="w22" length="1" offset="86"><![CDATA[-]]></wf>
+    <wf sent="2" id="w23" length="3" offset="87"><![CDATA[day]]></wf>
+    <wf sent="2" id="w24" length="5" offset="91"><![CDATA[Marin]]></wf>
+    <wf sent="2" id="w25" length="6" offset="97"><![CDATA[County]]></wf>
+    <wf sent="2" id="w26" length="1" offset="103"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="10" offset="105"><![CDATA[California]]></wf>
+    <wf sent="2" id="w28" length="1" offset="115"><![CDATA[.]]></wf>
+    <wf sent="3" id="w29" length="2" offset="117"><![CDATA[It]]></wf>
+    <wf sent="3" id="w30" length="3" offset="120"><![CDATA[was]]></wf>
+    <wf sent="3" id="w31" length="3" offset="124"><![CDATA[the]]></wf>
+    <wf sent="3" id="w32" length="4" offset="128"><![CDATA[only]]></wf>
+    <wf sent="3" id="w33" length="6" offset="133"><![CDATA[battle]]></wf>
+    <wf sent="3" id="w34" length="2" offset="140"><![CDATA[of]]></wf>
+    <wf sent="3" id="w35" length="3" offset="143"><![CDATA[the]]></wf>
+    <wf sent="3" id="w36" length="4" offset="147"><![CDATA[Bear]]></wf>
+    <wf sent="3" id="w37" length="4" offset="152"><![CDATA[Flag]]></wf>
+    <wf sent="3" id="w38" length="6" offset="157"><![CDATA[Revolt]]></wf>
+    <wf sent="3" id="w39" length="1" offset="163"><![CDATA[.]]></wf>
+    <wf sent="4" id="w40" length="3" offset="165"><![CDATA[The]]></wf>
+    <wf sent="4" id="w41" length="4" offset="169"><![CDATA[site]]></wf>
+    <wf sent="4" id="w42" length="2" offset="174"><![CDATA[is]]></wf>
+    <wf sent="4" id="w43" length="3" offset="177"><![CDATA[now]]></wf>
+    <wf sent="4" id="w44" length="1" offset="181"><![CDATA[a]]></wf>
+    <wf sent="4" id="w45" length="4" offset="183"><![CDATA[part]]></wf>
+    <wf sent="4" id="w46" length="2" offset="188"><![CDATA[of]]></wf>
+    <wf sent="4" id="w47" length="3" offset="191"><![CDATA[the]]></wf>
+    <wf sent="4" id="w48" length="8" offset="195"><![CDATA[Olompali]]></wf>
+    <wf sent="4" id="w49" length="5" offset="204"><![CDATA[State]]></wf>
+    <wf sent="4" id="w50" length="8" offset="210"><![CDATA[Historic]]></wf>
+    <wf sent="4" id="w51" length="4" offset="219"><![CDATA[Park]]></wf>
+    <wf sent="4" id="w52" length="1" offset="223"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Olompali++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Olómpali" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="24" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="1846" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="present" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Marin" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="County" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="California" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="only" pos="ADJ" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Bear" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Flag" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Revolt" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="site" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="now" pos="ADV" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="part" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Olompali" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="State" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Historic" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Park" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t13" to="t9" rfunc="nsubjpass"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t13" to="t12" rfunc="auxpass"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t14" to="t15" rfunc="pobj"/>
+    <dep from="t15" to="t16" rfunc="nummod"/>
+    <dep from="t15" to="t17" rfunc="punct"/>
+    <dep from="t15" to="t18" rfunc="nummod"/>
+    <dep from="t15" to="t19" rfunc="punct"/>
+    <dep from="t13" to="t20" rfunc="prep"/>
+    <dep from="t23" to="t21" rfunc="amod"/>
+    <dep from="t25" to="t23" rfunc="compound"/>
+    <dep from="t20" to="t25" rfunc="pobj"/>
+    <dep from="t23" to="t22" rfunc="punct"/>
+    <dep from="t25" to="t24" rfunc="compound"/>
+    <dep from="t25" to="t26" rfunc="punct"/>
+    <dep from="t25" to="t27" rfunc="appos"/>
+    <dep from="t13" to="t28" rfunc="punct"/>
+    <dep from="t30" to="t29" rfunc="nsubj"/>
+    <dep from="t33" to="t31" rfunc="det"/>
+    <dep from="t30" to="t33" rfunc="attr"/>
+    <dep from="t33" to="t32" rfunc="amod"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t38" to="t35" rfunc="det"/>
+    <dep from="t34" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t36" rfunc="compound"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t30" to="t39" rfunc="punct"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t42" to="t41" rfunc="nsubj"/>
+    <dep from="t42" to="t43" rfunc="advmod"/>
+    <dep from="t45" to="t44" rfunc="det"/>
+    <dep from="t42" to="t45" rfunc="attr"/>
+    <dep from="t45" to="t46" rfunc="prep"/>
+    <dep from="t51" to="t47" rfunc="det"/>
+    <dep from="t46" to="t51" rfunc="pobj"/>
+    <dep from="t51" to="t48" rfunc="compound"/>
+    <dep from="t51" to="t49" rfunc="compound"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t42" to="t52" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M a r i n   C o u n t y-->
+        <target id="t24"/>
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marin_County" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--C a l i f o r n i a-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/California" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Vecchia_California" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--B e a r   F l a g   R e v o l t-->
+        <target id="t36"/>
+        <target id="t37"/>
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Bear_Flag_Revolt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--O l o m p a l i   S t a t e   H i s t o r i c   P a r k-->
+        <target id="t48"/>
+        <target id="t49"/>
+        <target id="t50"/>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Olompali_State_Historic_Park" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_whole" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Nederlandse kampioenschappen indooratletiek 2004"/>
+    <public uri="https://nl.wikipedia.org/wiki/Nederlandse_kampioenschappen_indooratletiek_2004"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:48:45UTC" endTimestamp="2020-05-27T16:48:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:48:45UTC" endTimestamp="2020-05-27T16:48:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:48:45UTC" endTimestamp="2020-05-27T16:48:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:48:45UTC" endTimestamp="2020-05-27T16:48:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Nederlandse kampioenschappen indooratletiek 2004++.
+De Nederlandse kampioenschappen indooratletiek 2004 werden gehouden in Gent op zaterdag 21 februari 2004.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="11" offset="2"><![CDATA[Nederlandse]]></wf>
+    <wf sent="1" id="w4" length="16" offset="14"><![CDATA[kampioenschappen]]></wf>
+    <wf sent="1" id="w5" length="14" offset="31"><![CDATA[indooratletiek]]></wf>
+    <wf sent="1" id="w6" length="6" offset="46"><![CDATA[2004++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="52"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="53"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="2" offset="54"><![CDATA[De]]></wf>
+    <wf sent="2" id="w10" length="11" offset="57"><![CDATA[Nederlandse]]></wf>
+    <wf sent="2" id="w11" length="16" offset="69"><![CDATA[kampioenschappen]]></wf>
+    <wf sent="2" id="w12" length="14" offset="86"><![CDATA[indooratletiek]]></wf>
+    <wf sent="2" id="w13" length="4" offset="101"><![CDATA[2004]]></wf>
+    <wf sent="2" id="w14" length="6" offset="106"><![CDATA[werden]]></wf>
+    <wf sent="2" id="w15" length="8" offset="113"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w16" length="2" offset="122"><![CDATA[in]]></wf>
+    <wf sent="2" id="w17" length="4" offset="125"><![CDATA[Gent]]></wf>
+    <wf sent="2" id="w18" length="2" offset="130"><![CDATA[op]]></wf>
+    <wf sent="2" id="w19" length="8" offset="133"><![CDATA[zaterdag]]></wf>
+    <wf sent="2" id="w20" length="2" offset="142"><![CDATA[21]]></wf>
+    <wf sent="2" id="w21" length="8" offset="145"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w22" length="4" offset="154"><![CDATA[2004]]></wf>
+    <wf sent="2" id="w23" length="1" offset="158"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="nederlands" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="kampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="indooratletiek" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2004++" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="nederlands" pos="ADJ" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="kampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="indooratletiek" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="gent" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="zaterdag" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="2004" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t2" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="obj"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="advmod"/>
+    <dep from="t1" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t15" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t10" rfunc="amod"/>
+    <dep from="t11" to="t12" rfunc="nmod"/>
+    <dep from="t12" to="t13" rfunc="appos"/>
+    <dep from="t15" to="t14" rfunc="aux"/>
+    <dep from="t17" to="t16" rfunc="case"/>
+    <dep from="t15" to="t17" rfunc="obl"/>
+    <dep from="t19" to="t18" rfunc="case"/>
+    <dep from="t17" to="t19" rfunc="nmod"/>
+    <dep from="t19" to="t20" rfunc="nummod"/>
+    <dep from="t19" to="t21" rfunc="flat"/>
+    <dep from="t19" to="t22" rfunc="nummod"/>
+    <dep from="t15" to="t23" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--N e d e r l a n d s e   k a m p i o e n s c h a p p e n   i n d o o r a t l e t i e k-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nederlandse_kampioenschappen_indooratletiek" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Dutch_Indoor_Athletics_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--G e n t-->
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gent" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gand" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ghent" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

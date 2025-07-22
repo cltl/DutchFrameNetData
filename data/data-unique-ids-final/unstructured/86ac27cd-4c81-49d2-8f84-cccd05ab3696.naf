@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1992 Los Angeles Film Critics Association Awards"/>
+    <public uri="https://en.wikipedia.org/wiki/1992_Los_Angeles_Film_Critics_Association_Awards"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:10:20UTC" endTimestamp="2020-05-27T22:10:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:10:20UTC" endTimestamp="2020-05-27T22:10:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:10:20UTC" endTimestamp="2020-05-27T22:10:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:10:20UTC" endTimestamp="2020-05-27T22:10:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:47CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1992 Los Angeles Film Critics Association Awards++.
+The 18th Los Angeles Film Critics Association Awards, honoring the best in film for 1992, were given on 12 December 1992.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1992]]></wf>
+    <wf sent="1" id="w3" length="3" offset="7"><![CDATA[Los]]></wf>
+    <wf sent="1" id="w4" length="7" offset="11"><![CDATA[Angeles]]></wf>
+    <wf sent="1" id="w5" length="4" offset="19"><![CDATA[Film]]></wf>
+    <wf sent="1" id="w6" length="7" offset="24"><![CDATA[Critics]]></wf>
+    <wf sent="1" id="w7" length="11" offset="32"><![CDATA[Association]]></wf>
+    <wf sent="1" id="w8" length="8" offset="44"><![CDATA[Awards++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="52"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="53"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="54"><![CDATA[The]]></wf>
+    <wf sent="2" id="w12" length="4" offset="58"><![CDATA[18th]]></wf>
+    <wf sent="2" id="w13" length="3" offset="63"><![CDATA[Los]]></wf>
+    <wf sent="2" id="w14" length="7" offset="67"><![CDATA[Angeles]]></wf>
+    <wf sent="2" id="w15" length="4" offset="75"><![CDATA[Film]]></wf>
+    <wf sent="2" id="w16" length="7" offset="80"><![CDATA[Critics]]></wf>
+    <wf sent="2" id="w17" length="11" offset="88"><![CDATA[Association]]></wf>
+    <wf sent="2" id="w18" length="6" offset="100"><![CDATA[Awards]]></wf>
+    <wf sent="2" id="w19" length="1" offset="106"><![CDATA[,]]></wf>
+    <wf sent="2" id="w20" length="8" offset="108"><![CDATA[honoring]]></wf>
+    <wf sent="2" id="w21" length="3" offset="117"><![CDATA[the]]></wf>
+    <wf sent="2" id="w22" length="4" offset="121"><![CDATA[best]]></wf>
+    <wf sent="2" id="w23" length="2" offset="126"><![CDATA[in]]></wf>
+    <wf sent="2" id="w24" length="4" offset="129"><![CDATA[film]]></wf>
+    <wf sent="2" id="w25" length="3" offset="134"><![CDATA[for]]></wf>
+    <wf sent="2" id="w26" length="4" offset="138"><![CDATA[1992]]></wf>
+    <wf sent="2" id="w27" length="1" offset="142"><![CDATA[,]]></wf>
+    <wf sent="2" id="w28" length="4" offset="144"><![CDATA[were]]></wf>
+    <wf sent="2" id="w29" length="5" offset="149"><![CDATA[given]]></wf>
+    <wf sent="2" id="w30" length="2" offset="155"><![CDATA[on]]></wf>
+    <wf sent="2" id="w31" length="2" offset="158"><![CDATA[12]]></wf>
+    <wf sent="2" id="w32" length="8" offset="161"><![CDATA[December]]></wf>
+    <wf sent="2" id="w33" length="4" offset="170"><![CDATA[1992]]></wf>
+    <wf sent="2" id="w34" length="1" offset="174"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1992" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Los" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Angeles" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Film" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Critics" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Association" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Awards++" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="18th" pos="ADJ" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Los" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Angeles" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Film" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Critics" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Association" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Awards" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="honor" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="good" pos="ADJ" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="film" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="1992" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="give" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="12" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="December" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="1992" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t8" to="t1" rfunc="cc"/>
+    <dep from="t8" to="t2" rfunc="nmod"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t8" to="t4" rfunc="compound"/>
+    <dep from="t7" to="t5" rfunc="compound"/>
+    <dep from="t8" to="t7" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="compound"/>
+    <dep from="t8" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t18" to="t11" rfunc="det"/>
+    <dep from="t29" to="t18" rfunc="nsubjpass"/>
+    <dep from="t18" to="t12" rfunc="amod"/>
+    <dep from="t14" to="t13" rfunc="compound"/>
+    <dep from="t18" to="t14" rfunc="compound"/>
+    <dep from="t18" to="t15" rfunc="compound"/>
+    <dep from="t18" to="t16" rfunc="compound"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t18" to="t19" rfunc="punct"/>
+    <dep from="t18" to="t20" rfunc="acl"/>
+    <dep from="t22" to="t21" rfunc="det"/>
+    <dep from="t20" to="t22" rfunc="dobj"/>
+    <dep from="t20" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t20" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="pobj"/>
+    <dep from="t18" to="t27" rfunc="punct"/>
+    <dep from="t29" to="t28" rfunc="auxpass"/>
+    <dep from="t29" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t32" to="t33" rfunc="nummod"/>
+    <dep from="t29" to="t34" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--1 9 9 2-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1992_in_film" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Film_in_1992" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-compliance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-required_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-behind_the_scenes" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-giving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Franse parlementsverkiezingen 1871"/>
+    <public uri="https://nl.wikipedia.org/wiki/Franse_parlementsverkiezingen_1871"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T20:59:19UTC" endTimestamp="2020-05-27T20:59:19UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T20:59:19UTC" endTimestamp="2020-05-27T20:59:19UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T20:59:19UTC" endTimestamp="2020-05-27T20:59:19UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T20:59:19UTC" endTimestamp="2020-05-27T20:59:19UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Franse parlementsverkiezingen 1871++.
+In 1871 werden er tweemaal parlementsverkiezingen in Frankrijk gehouden.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Franse]]></wf>
+    <wf sent="1" id="w4" length="22" offset="9"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="1" id="w5" length="6" offset="32"><![CDATA[1871++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="38"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="39"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="2" offset="40"><![CDATA[In]]></wf>
+    <wf sent="2" id="w9" length="4" offset="43"><![CDATA[1871]]></wf>
+    <wf sent="2" id="w10" length="6" offset="48"><![CDATA[werden]]></wf>
+    <wf sent="2" id="w11" length="2" offset="55"><![CDATA[er]]></wf>
+    <wf sent="2" id="w12" length="8" offset="58"><![CDATA[tweemaal]]></wf>
+    <wf sent="2" id="w13" length="22" offset="67"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="2" id="w14" length="2" offset="90"><![CDATA[in]]></wf>
+    <wf sent="2" id="w15" length="9" offset="93"><![CDATA[Frankrijk]]></wf>
+    <wf sent="2" id="w16" length="8" offset="103"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w17" length="1" offset="111"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="frans" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="1871++" pos="NUM" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1871" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="tweemaal" pos="ADV" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="frankrijk" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="nmod"/>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t4" to="t5" rfunc="nummod"/>
+    <dep from="t4" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="case"/>
+    <dep from="t16" to="t9" rfunc="obl"/>
+    <dep from="t16" to="t10" rfunc="aux"/>
+    <dep from="t16" to="t11" rfunc="advmod"/>
+    <dep from="t16" to="t12" rfunc="advmod"/>
+    <dep from="t16" to="t13" rfunc="obj"/>
+    <dep from="t15" to="t14" rfunc="case"/>
+    <dep from="t16" to="t15" rfunc="obl"/>
+    <dep from="t16" to="t17" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--1 8 7 1-->
+        <target id="t9"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1871" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1871" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1871" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F r a n k r i j k-->
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Frankrijk" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Portale:Francia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/France_Pavilion_at_Epcot" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q142" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q142" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

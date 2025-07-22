@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2010 Japan Super Series"/>
+    <public uri="https://en.wikipedia.org/wiki/2010_Japan_Super_Series"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:47:11UTC" endTimestamp="2020-05-27T16:47:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:47:11UTC" endTimestamp="2020-05-27T16:47:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:47:11UTC" endTimestamp="2020-05-27T16:47:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:47:11UTC" endTimestamp="2020-05-27T16:47:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:37CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2010 Japan Super Series++.
+The 2010 Japan Open Super Series was a top level badminton competition which was held from September 21, 2010 to September 26, 2010 in Tokyo, Japan. It was the seventh BWF Super Series competition on the 2010 BWF Super Series schedule. The total purse for the event was $200,000.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2010]]></wf>
+    <wf sent="1" id="w3" length="5" offset="7"><![CDATA[Japan]]></wf>
+    <wf sent="1" id="w4" length="5" offset="13"><![CDATA[Super]]></wf>
+    <wf sent="1" id="w5" length="8" offset="19"><![CDATA[Series++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="27"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="28"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="29"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="33"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w10" length="5" offset="38"><![CDATA[Japan]]></wf>
+    <wf sent="2" id="w11" length="4" offset="44"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w12" length="5" offset="49"><![CDATA[Super]]></wf>
+    <wf sent="2" id="w13" length="6" offset="55"><![CDATA[Series]]></wf>
+    <wf sent="2" id="w14" length="3" offset="62"><![CDATA[was]]></wf>
+    <wf sent="2" id="w15" length="1" offset="66"><![CDATA[a]]></wf>
+    <wf sent="2" id="w16" length="3" offset="68"><![CDATA[top]]></wf>
+    <wf sent="2" id="w17" length="5" offset="72"><![CDATA[level]]></wf>
+    <wf sent="2" id="w18" length="9" offset="78"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w19" length="11" offset="88"><![CDATA[competition]]></wf>
+    <wf sent="2" id="w20" length="5" offset="100"><![CDATA[which]]></wf>
+    <wf sent="2" id="w21" length="3" offset="106"><![CDATA[was]]></wf>
+    <wf sent="2" id="w22" length="4" offset="110"><![CDATA[held]]></wf>
+    <wf sent="2" id="w23" length="4" offset="115"><![CDATA[from]]></wf>
+    <wf sent="2" id="w24" length="9" offset="120"><![CDATA[September]]></wf>
+    <wf sent="2" id="w25" length="2" offset="130"><![CDATA[21]]></wf>
+    <wf sent="2" id="w26" length="1" offset="132"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="4" offset="134"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w28" length="2" offset="139"><![CDATA[to]]></wf>
+    <wf sent="2" id="w29" length="9" offset="142"><![CDATA[September]]></wf>
+    <wf sent="2" id="w30" length="2" offset="152"><![CDATA[26]]></wf>
+    <wf sent="2" id="w31" length="1" offset="154"><![CDATA[,]]></wf>
+    <wf sent="2" id="w32" length="4" offset="156"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w33" length="2" offset="161"><![CDATA[in]]></wf>
+    <wf sent="2" id="w34" length="5" offset="164"><![CDATA[Tokyo]]></wf>
+    <wf sent="2" id="w35" length="1" offset="169"><![CDATA[,]]></wf>
+    <wf sent="2" id="w36" length="5" offset="171"><![CDATA[Japan]]></wf>
+    <wf sent="2" id="w37" length="1" offset="176"><![CDATA[.]]></wf>
+    <wf sent="3" id="w38" length="2" offset="178"><![CDATA[It]]></wf>
+    <wf sent="3" id="w39" length="3" offset="181"><![CDATA[was]]></wf>
+    <wf sent="3" id="w40" length="3" offset="185"><![CDATA[the]]></wf>
+    <wf sent="3" id="w41" length="7" offset="189"><![CDATA[seventh]]></wf>
+    <wf sent="3" id="w42" length="3" offset="197"><![CDATA[BWF]]></wf>
+    <wf sent="3" id="w43" length="5" offset="201"><![CDATA[Super]]></wf>
+    <wf sent="3" id="w44" length="6" offset="207"><![CDATA[Series]]></wf>
+    <wf sent="3" id="w45" length="11" offset="214"><![CDATA[competition]]></wf>
+    <wf sent="3" id="w46" length="2" offset="226"><![CDATA[on]]></wf>
+    <wf sent="3" id="w47" length="3" offset="229"><![CDATA[the]]></wf>
+    <wf sent="3" id="w48" length="4" offset="233"><![CDATA[2010]]></wf>
+    <wf sent="3" id="w49" length="3" offset="238"><![CDATA[BWF]]></wf>
+    <wf sent="3" id="w50" length="5" offset="242"><![CDATA[Super]]></wf>
+    <wf sent="3" id="w51" length="6" offset="248"><![CDATA[Series]]></wf>
+    <wf sent="3" id="w52" length="8" offset="255"><![CDATA[schedule]]></wf>
+    <wf sent="3" id="w53" length="1" offset="263"><![CDATA[.]]></wf>
+    <wf sent="4" id="w54" length="3" offset="265"><![CDATA[The]]></wf>
+    <wf sent="4" id="w55" length="5" offset="269"><![CDATA[total]]></wf>
+    <wf sent="4" id="w56" length="5" offset="275"><![CDATA[purse]]></wf>
+    <wf sent="4" id="w57" length="3" offset="281"><![CDATA[for]]></wf>
+    <wf sent="4" id="w58" length="3" offset="285"><![CDATA[the]]></wf>
+    <wf sent="4" id="w59" length="5" offset="289"><![CDATA[event]]></wf>
+    <wf sent="4" id="w60" length="3" offset="295"><![CDATA[was]]></wf>
+    <wf sent="4" id="w61" length="1" offset="299"><![CDATA[$]]></wf>
+    <wf sent="4" id="w62" length="7" offset="300"><![CDATA[200,000]]></wf>
+    <wf sent="4" id="w63" length="1" offset="307"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2010" pos="VERB" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Japan" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Super" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Series++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Japan" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Open" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Super" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="top" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="level" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="26" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Tokyo" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Japan" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="seventh" pos="ADJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="BWF" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Super" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="competition" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="BWF" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Super" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Series" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="schedule" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="total" pos="ADJ" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="purse" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="$" pos="SYM" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="200,000" pos="NUM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="nmod"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t13" to="t8" rfunc="det"/>
+    <dep from="t14" to="t13" rfunc="nsubj"/>
+    <dep from="t13" to="t9" rfunc="nummod"/>
+    <dep from="t13" to="t10" rfunc="compound"/>
+    <dep from="t13" to="t11" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t19" to="t15" rfunc="det"/>
+    <dep from="t14" to="t19" rfunc="attr"/>
+    <dep from="t17" to="t16" rfunc="amod"/>
+    <dep from="t19" to="t17" rfunc="compound"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t22" to="t20" rfunc="nsubjpass"/>
+    <dep from="t19" to="t22" rfunc="relcl"/>
+    <dep from="t22" to="t21" rfunc="auxpass"/>
+    <dep from="t22" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="nummod"/>
+    <dep from="t24" to="t26" rfunc="punct"/>
+    <dep from="t24" to="t27" rfunc="nummod"/>
+    <dep from="t22" to="t28" rfunc="prep"/>
+    <dep from="t28" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t30" rfunc="nummod"/>
+    <dep from="t29" to="t31" rfunc="punct"/>
+    <dep from="t29" to="t32" rfunc="nummod"/>
+    <dep from="t29" to="t33" rfunc="prep"/>
+    <dep from="t33" to="t34" rfunc="pobj"/>
+    <dep from="t34" to="t35" rfunc="punct"/>
+    <dep from="t34" to="t36" rfunc="appos"/>
+    <dep from="t14" to="t37" rfunc="punct"/>
+    <dep from="t39" to="t38" rfunc="nsubj"/>
+    <dep from="t45" to="t40" rfunc="det"/>
+    <dep from="t39" to="t45" rfunc="attr"/>
+    <dep from="t45" to="t41" rfunc="amod"/>
+    <dep from="t44" to="t42" rfunc="compound"/>
+    <dep from="t45" to="t44" rfunc="compound"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t45" to="t46" rfunc="prep"/>
+    <dep from="t52" to="t47" rfunc="det"/>
+    <dep from="t46" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t48" rfunc="nummod"/>
+    <dep from="t51" to="t49" rfunc="compound"/>
+    <dep from="t52" to="t51" rfunc="compound"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t39" to="t53" rfunc="punct"/>
+    <dep from="t56" to="t54" rfunc="det"/>
+    <dep from="t60" to="t56" rfunc="nsubj"/>
+    <dep from="t56" to="t55" rfunc="amod"/>
+    <dep from="t56" to="t57" rfunc="prep"/>
+    <dep from="t59" to="t58" rfunc="det"/>
+    <dep from="t57" to="t59" rfunc="pobj"/>
+    <dep from="t62" to="t61" rfunc="nmod"/>
+    <dep from="t60" to="t62" rfunc="attr"/>
+    <dep from="t60" to="t63" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--T o k y o-->
+        <target id="t34"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tokyo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--J a p a n-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Japan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Japan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q17" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 0 1 0   B W F   S u p e r   S e r i e s-->
+        <target id="t48"/>
+        <target id="t49"/>
+        <target id="t50"/>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2010_BWF_Super_Series" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/BWF_Super_Series_2010" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q17" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-amounting_to" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

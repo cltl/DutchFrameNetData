@@ -1,0 +1,1591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Wilson's Wharf"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Wilson%27s_Wharf"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:50:51UTC" endTimestamp="2020-05-28T17:50:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:50:51UTC" endTimestamp="2020-05-28T17:50:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:50:51UTC" endTimestamp="2020-05-28T17:50:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:50:51UTC" endTimestamp="2020-05-28T17:50:51UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:59CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Wilson's Wharf++.
+The Battle of Wilson's Wharf (also called the Battle of Fort Pocahontas) was a battle in Union Lt. Gen. Ulysses S. Grant's Overland Campaign against Confederate Gen. Robert E. Lee's Army of Northern Virginia.
+On May 24, Confederate Maj. Gen. Fitzhugh Lee's cavalry division (about 2,500 men) attacked the Union supply depot at Wilson's Wharf, on the James River in eastern Charles City, Virginia. They were repulsed by two African American regiments (about 1,100 men) of the United States Colored Troops (USCT) under the command of Brig. Gen. Edward A. Wild, who were in the process of constructing a fortification there, which was subsequently named Fort Pocahontas. The battle was the first combat encounter of Robert E. Lee's Army of Northern Virginia with African-American troops.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="6" offset="12"><![CDATA[Wilson]]></wf>
+    <wf sent="1" id="w6" length="2" offset="18"><![CDATA['s]]></wf>
+    <wf sent="1" id="w7" length="7" offset="21"><![CDATA[Wharf++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="28"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="29"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="30"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="6" offset="34"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w12" length="2" offset="41"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="6" offset="44"><![CDATA[Wilson]]></wf>
+    <wf sent="2" id="w14" length="2" offset="50"><![CDATA['s]]></wf>
+    <wf sent="2" id="w15" length="5" offset="53"><![CDATA[Wharf]]></wf>
+    <wf sent="2" id="w16" length="1" offset="59"><![CDATA[(]]></wf>
+    <wf sent="2" id="w17" length="4" offset="60"><![CDATA[also]]></wf>
+    <wf sent="2" id="w18" length="6" offset="65"><![CDATA[called]]></wf>
+    <wf sent="2" id="w19" length="3" offset="72"><![CDATA[the]]></wf>
+    <wf sent="2" id="w20" length="6" offset="76"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w21" length="2" offset="83"><![CDATA[of]]></wf>
+    <wf sent="2" id="w22" length="4" offset="86"><![CDATA[Fort]]></wf>
+    <wf sent="2" id="w23" length="10" offset="91"><![CDATA[Pocahontas]]></wf>
+    <wf sent="2" id="w24" length="1" offset="101"><![CDATA[)]]></wf>
+    <wf sent="2" id="w25" length="3" offset="103"><![CDATA[was]]></wf>
+    <wf sent="2" id="w26" length="1" offset="107"><![CDATA[a]]></wf>
+    <wf sent="2" id="w27" length="6" offset="109"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w28" length="2" offset="116"><![CDATA[in]]></wf>
+    <wf sent="2" id="w29" length="5" offset="119"><![CDATA[Union]]></wf>
+    <wf sent="2" id="w30" length="2" offset="125"><![CDATA[Lt]]></wf>
+    <wf sent="2" id="w31" length="1" offset="127"><![CDATA[.]]></wf>
+    <wf sent="2" id="w32" length="4" offset="129"><![CDATA[Gen.]]></wf>
+    <wf sent="2" id="w33" length="7" offset="134"><![CDATA[Ulysses]]></wf>
+    <wf sent="2" id="w34" length="2" offset="142"><![CDATA[S.]]></wf>
+    <wf sent="2" id="w35" length="5" offset="145"><![CDATA[Grant]]></wf>
+    <wf sent="2" id="w36" length="2" offset="150"><![CDATA['s]]></wf>
+    <wf sent="2" id="w37" length="8" offset="153"><![CDATA[Overland]]></wf>
+    <wf sent="2" id="w38" length="8" offset="162"><![CDATA[Campaign]]></wf>
+    <wf sent="2" id="w39" length="7" offset="171"><![CDATA[against]]></wf>
+    <wf sent="2" id="w40" length="11" offset="179"><![CDATA[Confederate]]></wf>
+    <wf sent="2" id="w41" length="4" offset="191"><![CDATA[Gen.]]></wf>
+    <wf sent="2" id="w42" length="6" offset="196"><![CDATA[Robert]]></wf>
+    <wf sent="2" id="w43" length="2" offset="203"><![CDATA[E.]]></wf>
+    <wf sent="2" id="w44" length="3" offset="206"><![CDATA[Lee]]></wf>
+    <wf sent="2" id="w45" length="2" offset="209"><![CDATA['s]]></wf>
+    <wf sent="2" id="w46" length="4" offset="212"><![CDATA[Army]]></wf>
+    <wf sent="2" id="w47" length="2" offset="217"><![CDATA[of]]></wf>
+    <wf sent="2" id="w48" length="8" offset="220"><![CDATA[Northern]]></wf>
+    <wf sent="2" id="w49" length="8" offset="229"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w50" length="1" offset="237"><![CDATA[.]]></wf>
+    <wf sent="2" id="w51" length="1" offset="238"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w52" length="2" offset="239"><![CDATA[On]]></wf>
+    <wf sent="3" id="w53" length="3" offset="242"><![CDATA[May]]></wf>
+    <wf sent="3" id="w54" length="2" offset="246"><![CDATA[24]]></wf>
+    <wf sent="3" id="w55" length="1" offset="248"><![CDATA[,]]></wf>
+    <wf sent="3" id="w56" length="11" offset="250"><![CDATA[Confederate]]></wf>
+    <wf sent="3" id="w57" length="3" offset="262"><![CDATA[Maj]]></wf>
+    <wf sent="3" id="w58" length="1" offset="265"><![CDATA[.]]></wf>
+    <wf sent="4" id="w59" length="4" offset="267"><![CDATA[Gen.]]></wf>
+    <wf sent="4" id="w60" length="8" offset="272"><![CDATA[Fitzhugh]]></wf>
+    <wf sent="4" id="w61" length="3" offset="281"><![CDATA[Lee]]></wf>
+    <wf sent="4" id="w62" length="2" offset="284"><![CDATA['s]]></wf>
+    <wf sent="4" id="w63" length="7" offset="287"><![CDATA[cavalry]]></wf>
+    <wf sent="4" id="w64" length="8" offset="295"><![CDATA[division]]></wf>
+    <wf sent="4" id="w65" length="1" offset="304"><![CDATA[(]]></wf>
+    <wf sent="4" id="w66" length="5" offset="305"><![CDATA[about]]></wf>
+    <wf sent="4" id="w67" length="5" offset="311"><![CDATA[2,500]]></wf>
+    <wf sent="4" id="w68" length="3" offset="317"><![CDATA[men]]></wf>
+    <wf sent="4" id="w69" length="1" offset="320"><![CDATA[)]]></wf>
+    <wf sent="4" id="w70" length="8" offset="322"><![CDATA[attacked]]></wf>
+    <wf sent="4" id="w71" length="3" offset="331"><![CDATA[the]]></wf>
+    <wf sent="4" id="w72" length="5" offset="335"><![CDATA[Union]]></wf>
+    <wf sent="4" id="w73" length="6" offset="341"><![CDATA[supply]]></wf>
+    <wf sent="4" id="w74" length="5" offset="348"><![CDATA[depot]]></wf>
+    <wf sent="4" id="w75" length="2" offset="354"><![CDATA[at]]></wf>
+    <wf sent="4" id="w76" length="6" offset="357"><![CDATA[Wilson]]></wf>
+    <wf sent="4" id="w77" length="2" offset="363"><![CDATA['s]]></wf>
+    <wf sent="4" id="w78" length="5" offset="366"><![CDATA[Wharf]]></wf>
+    <wf sent="4" id="w79" length="1" offset="371"><![CDATA[,]]></wf>
+    <wf sent="4" id="w80" length="2" offset="373"><![CDATA[on]]></wf>
+    <wf sent="4" id="w81" length="3" offset="376"><![CDATA[the]]></wf>
+    <wf sent="4" id="w82" length="5" offset="380"><![CDATA[James]]></wf>
+    <wf sent="4" id="w83" length="5" offset="386"><![CDATA[River]]></wf>
+    <wf sent="4" id="w84" length="2" offset="392"><![CDATA[in]]></wf>
+    <wf sent="4" id="w85" length="7" offset="395"><![CDATA[eastern]]></wf>
+    <wf sent="4" id="w86" length="7" offset="403"><![CDATA[Charles]]></wf>
+    <wf sent="4" id="w87" length="4" offset="411"><![CDATA[City]]></wf>
+    <wf sent="4" id="w88" length="1" offset="415"><![CDATA[,]]></wf>
+    <wf sent="4" id="w89" length="8" offset="417"><![CDATA[Virginia]]></wf>
+    <wf sent="4" id="w90" length="1" offset="425"><![CDATA[.]]></wf>
+    <wf sent="5" id="w91" length="4" offset="427"><![CDATA[They]]></wf>
+    <wf sent="5" id="w92" length="4" offset="432"><![CDATA[were]]></wf>
+    <wf sent="5" id="w93" length="8" offset="437"><![CDATA[repulsed]]></wf>
+    <wf sent="5" id="w94" length="2" offset="446"><![CDATA[by]]></wf>
+    <wf sent="5" id="w95" length="3" offset="449"><![CDATA[two]]></wf>
+    <wf sent="5" id="w96" length="7" offset="453"><![CDATA[African]]></wf>
+    <wf sent="5" id="w97" length="8" offset="461"><![CDATA[American]]></wf>
+    <wf sent="5" id="w98" length="9" offset="470"><![CDATA[regiments]]></wf>
+    <wf sent="5" id="w99" length="1" offset="480"><![CDATA[(]]></wf>
+    <wf sent="5" id="w100" length="5" offset="481"><![CDATA[about]]></wf>
+    <wf sent="5" id="w101" length="5" offset="487"><![CDATA[1,100]]></wf>
+    <wf sent="5" id="w102" length="3" offset="493"><![CDATA[men]]></wf>
+    <wf sent="5" id="w103" length="1" offset="496"><![CDATA[)]]></wf>
+    <wf sent="5" id="w104" length="2" offset="498"><![CDATA[of]]></wf>
+    <wf sent="5" id="w105" length="3" offset="501"><![CDATA[the]]></wf>
+    <wf sent="5" id="w106" length="6" offset="505"><![CDATA[United]]></wf>
+    <wf sent="5" id="w107" length="6" offset="512"><![CDATA[States]]></wf>
+    <wf sent="5" id="w108" length="7" offset="519"><![CDATA[Colored]]></wf>
+    <wf sent="5" id="w109" length="6" offset="527"><![CDATA[Troops]]></wf>
+    <wf sent="5" id="w110" length="1" offset="534"><![CDATA[(]]></wf>
+    <wf sent="5" id="w111" length="4" offset="535"><![CDATA[USCT]]></wf>
+    <wf sent="5" id="w112" length="1" offset="539"><![CDATA[)]]></wf>
+    <wf sent="5" id="w113" length="5" offset="541"><![CDATA[under]]></wf>
+    <wf sent="5" id="w114" length="3" offset="547"><![CDATA[the]]></wf>
+    <wf sent="5" id="w115" length="7" offset="551"><![CDATA[command]]></wf>
+    <wf sent="5" id="w116" length="2" offset="559"><![CDATA[of]]></wf>
+    <wf sent="5" id="w117" length="4" offset="562"><![CDATA[Brig]]></wf>
+    <wf sent="5" id="w118" length="1" offset="566"><![CDATA[.]]></wf>
+    <wf sent="6" id="w119" length="4" offset="568"><![CDATA[Gen.]]></wf>
+    <wf sent="6" id="w120" length="6" offset="573"><![CDATA[Edward]]></wf>
+    <wf sent="6" id="w121" length="2" offset="580"><![CDATA[A.]]></wf>
+    <wf sent="6" id="w122" length="4" offset="583"><![CDATA[Wild]]></wf>
+    <wf sent="6" id="w123" length="1" offset="587"><![CDATA[,]]></wf>
+    <wf sent="6" id="w124" length="3" offset="589"><![CDATA[who]]></wf>
+    <wf sent="6" id="w125" length="4" offset="593"><![CDATA[were]]></wf>
+    <wf sent="6" id="w126" length="2" offset="598"><![CDATA[in]]></wf>
+    <wf sent="6" id="w127" length="3" offset="601"><![CDATA[the]]></wf>
+    <wf sent="6" id="w128" length="7" offset="605"><![CDATA[process]]></wf>
+    <wf sent="6" id="w129" length="2" offset="613"><![CDATA[of]]></wf>
+    <wf sent="6" id="w130" length="12" offset="616"><![CDATA[constructing]]></wf>
+    <wf sent="6" id="w131" length="1" offset="629"><![CDATA[a]]></wf>
+    <wf sent="6" id="w132" length="13" offset="631"><![CDATA[fortification]]></wf>
+    <wf sent="6" id="w133" length="5" offset="645"><![CDATA[there]]></wf>
+    <wf sent="6" id="w134" length="1" offset="650"><![CDATA[,]]></wf>
+    <wf sent="6" id="w135" length="5" offset="652"><![CDATA[which]]></wf>
+    <wf sent="6" id="w136" length="3" offset="658"><![CDATA[was]]></wf>
+    <wf sent="6" id="w137" length="12" offset="662"><![CDATA[subsequently]]></wf>
+    <wf sent="6" id="w138" length="5" offset="675"><![CDATA[named]]></wf>
+    <wf sent="6" id="w139" length="4" offset="681"><![CDATA[Fort]]></wf>
+    <wf sent="6" id="w140" length="10" offset="686"><![CDATA[Pocahontas]]></wf>
+    <wf sent="6" id="w141" length="1" offset="696"><![CDATA[.]]></wf>
+    <wf sent="7" id="w142" length="3" offset="698"><![CDATA[The]]></wf>
+    <wf sent="7" id="w143" length="6" offset="702"><![CDATA[battle]]></wf>
+    <wf sent="7" id="w144" length="3" offset="709"><![CDATA[was]]></wf>
+    <wf sent="7" id="w145" length="3" offset="713"><![CDATA[the]]></wf>
+    <wf sent="7" id="w146" length="5" offset="717"><![CDATA[first]]></wf>
+    <wf sent="7" id="w147" length="6" offset="723"><![CDATA[combat]]></wf>
+    <wf sent="7" id="w148" length="9" offset="730"><![CDATA[encounter]]></wf>
+    <wf sent="7" id="w149" length="2" offset="740"><![CDATA[of]]></wf>
+    <wf sent="7" id="w150" length="6" offset="743"><![CDATA[Robert]]></wf>
+    <wf sent="7" id="w151" length="2" offset="750"><![CDATA[E.]]></wf>
+    <wf sent="7" id="w152" length="3" offset="753"><![CDATA[Lee]]></wf>
+    <wf sent="7" id="w153" length="2" offset="756"><![CDATA['s]]></wf>
+    <wf sent="7" id="w154" length="4" offset="759"><![CDATA[Army]]></wf>
+    <wf sent="7" id="w155" length="2" offset="764"><![CDATA[of]]></wf>
+    <wf sent="7" id="w156" length="8" offset="767"><![CDATA[Northern]]></wf>
+    <wf sent="7" id="w157" length="8" offset="776"><![CDATA[Virginia]]></wf>
+    <wf sent="7" id="w158" length="4" offset="785"><![CDATA[with]]></wf>
+    <wf sent="7" id="w159" length="7" offset="790"><![CDATA[African]]></wf>
+    <wf sent="7" id="w160" length="1" offset="797"><![CDATA[-]]></wf>
+    <wf sent="7" id="w161" length="8" offset="798"><![CDATA[American]]></wf>
+    <wf sent="7" id="w162" length="6" offset="807"><![CDATA[troops]]></wf>
+    <wf sent="7" id="w163" length="1" offset="813"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Wilson" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Wharf++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Wilson" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Wharf" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="call" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Fort" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Pocahontas" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Lt" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Gen." pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Ulysses" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="S." pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Grant" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Overland" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Campaign" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="against" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Confederate" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Gen." pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Robert" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="E." pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Lee" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Army" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Northern" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="24" pos="NUM" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Confederate" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="Maj" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="Gen." pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Fitzhugh" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="Lee" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="cavalry" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="division" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="about" pos="ADV" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="2,500" pos="NUM" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="attack" pos="VERB" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="supply" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="depot" pos="NOUN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="Wilson" pos="PROPN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="Wharf" pos="PROPN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="James" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="River" pos="PROPN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="eastern" pos="ADJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="Charles" pos="PROPN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="repulse" pos="VERB" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="african" pos="ADJ" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="american" pos="ADJ" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="regiment" pos="NOUN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="about" pos="ADV" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="1,100" pos="NUM" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="Colored" pos="PROPN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="troop" pos="NOUN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="USCT" pos="PROPN" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="under" pos="ADP" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="command" pos="NOUN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="Brig" pos="PROPN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="Gen." pos="PROPN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="Edward" pos="PROPN" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="A." pos="PROPN" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="Wild" pos="PROPN" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="process" pos="NOUN" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="construct" pos="VERB" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="fortification" pos="NOUN" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="there" pos="ADV" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="subsequently" pos="ADV" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="name" pos="VERB" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="Fort" pos="PROPN" type="open">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" lemma="Pocahontas" pos="PROPN" type="open">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" lemma="combat" pos="NOUN" type="open">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" lemma="encounter" pos="NOUN" type="open">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term id="t149" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" lemma="Robert" pos="PROPN" type="open">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" lemma="E." pos="PROPN" type="open">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" lemma="Lee" pos="PROPN" type="open">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term id="t154" lemma="Army" pos="PROPN" type="open">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w155"/>
+      </span>
+    </term>
+    <term id="t156" lemma="Northern" pos="PROPN" type="open">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term id="t157" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term id="t158" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term id="t159" lemma="african" pos="ADJ" type="open">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term id="t161" lemma="american" pos="ADJ" type="open">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" lemma="troop" pos="NOUN" type="open">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term id="t163" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t7" to="t5" rfunc="poss"/>
+    <dep from="t4" to="t7" rfunc="pobj"/>
+    <dep from="t5" to="t6" rfunc="case"/>
+    <dep from="t3" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t11" to="t10" rfunc="det"/>
+    <dep from="t18" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t15" to="t13" rfunc="poss"/>
+    <dep from="t12" to="t15" rfunc="pobj"/>
+    <dep from="t13" to="t14" rfunc="case"/>
+    <dep from="t18" to="t16" rfunc="punct"/>
+    <dep from="t18" to="t17" rfunc="advmod"/>
+    <dep from="t20" to="t19" rfunc="det"/>
+    <dep from="t18" to="t20" rfunc="dobj"/>
+    <dep from="t20" to="t21" rfunc="prep"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="pobj"/>
+    <dep from="t18" to="t24" rfunc="punct"/>
+    <dep from="t18" to="t25" rfunc="conj"/>
+    <dep from="t27" to="t26" rfunc="det"/>
+    <dep from="t25" to="t27" rfunc="attr"/>
+    <dep from="t27" to="t28" rfunc="prep"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t31" to="t30" rfunc="subtok"/>
+    <dep from="t32" to="t31" rfunc="subtok"/>
+    <dep from="t35" to="t32" rfunc="compound"/>
+    <dep from="t38" to="t35" rfunc="poss"/>
+    <dep from="t28" to="t38" rfunc="pobj"/>
+    <dep from="t35" to="t33" rfunc="compound"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t35" to="t36" rfunc="case"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t44" to="t41" rfunc="compound"/>
+    <dep from="t46" to="t44" rfunc="poss"/>
+    <dep from="t39" to="t46" rfunc="pobj"/>
+    <dep from="t44" to="t42" rfunc="compound"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t44" to="t45" rfunc="case"/>
+    <dep from="t46" to="t47" rfunc="prep"/>
+    <dep from="t49" to="t48" rfunc="compound"/>
+    <dep from="t47" to="t49" rfunc="pobj"/>
+    <dep from="t18" to="t50" rfunc="punct"/>
+    <dep from="t50" to="t51" rfunc=""/>
+    <dep from="t52" to="t53" rfunc="pobj"/>
+    <dep from="t53" to="t54" rfunc="nummod"/>
+    <dep from="t52" to="t55" rfunc="punct"/>
+    <dep from="t57" to="t56" rfunc="compound"/>
+    <dep from="t58" to="t57" rfunc="subtok"/>
+    <dep from="t52" to="t58" rfunc="punct"/>
+    <dep from="t61" to="t59" rfunc="compound"/>
+    <dep from="t64" to="t61" rfunc="poss"/>
+    <dep from="t70" to="t64" rfunc="nsubj"/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t61" to="t62" rfunc="case"/>
+    <dep from="t64" to="t63" rfunc="compound"/>
+    <dep from="t64" to="t65" rfunc="punct"/>
+    <dep from="t67" to="t66" rfunc="advmod"/>
+    <dep from="t68" to="t67" rfunc="nummod"/>
+    <dep from="t64" to="t68" rfunc="appos"/>
+    <dep from="t64" to="t69" rfunc="punct"/>
+    <dep from="t74" to="t71" rfunc="det"/>
+    <dep from="t70" to="t74" rfunc="dobj"/>
+    <dep from="t74" to="t72" rfunc="compound"/>
+    <dep from="t74" to="t73" rfunc="compound"/>
+    <dep from="t70" to="t75" rfunc="prep"/>
+    <dep from="t78" to="t76" rfunc="poss"/>
+    <dep from="t75" to="t78" rfunc="pobj"/>
+    <dep from="t76" to="t77" rfunc="case"/>
+    <dep from="t70" to="t79" rfunc="punct"/>
+    <dep from="t70" to="t80" rfunc="prep"/>
+    <dep from="t83" to="t81" rfunc="det"/>
+    <dep from="t80" to="t83" rfunc="pobj"/>
+    <dep from="t83" to="t82" rfunc="compound"/>
+    <dep from="t83" to="t84" rfunc="prep"/>
+    <dep from="t87" to="t85" rfunc="amod"/>
+    <dep from="t84" to="t87" rfunc="pobj"/>
+    <dep from="t87" to="t86" rfunc="compound"/>
+    <dep from="t87" to="t88" rfunc="punct"/>
+    <dep from="t87" to="t89" rfunc="appos"/>
+    <dep from="t70" to="t90" rfunc="punct"/>
+    <dep from="t93" to="t91" rfunc="nsubjpass"/>
+    <dep from="t93" to="t92" rfunc="auxpass"/>
+    <dep from="t93" to="t94" rfunc="agent"/>
+    <dep from="t98" to="t95" rfunc="nummod"/>
+    <dep from="t94" to="t98" rfunc="pobj"/>
+    <dep from="t97" to="t96" rfunc="amod"/>
+    <dep from="t98" to="t97" rfunc="amod"/>
+    <dep from="t98" to="t99" rfunc="punct"/>
+    <dep from="t101" to="t100" rfunc="advmod"/>
+    <dep from="t102" to="t101" rfunc="nummod"/>
+    <dep from="t98" to="t102" rfunc="appos"/>
+    <dep from="t102" to="t103" rfunc="punct"/>
+    <dep from="t102" to="t104" rfunc="prep"/>
+    <dep from="t109" to="t105" rfunc="det"/>
+    <dep from="t104" to="t109" rfunc="pobj"/>
+    <dep from="t107" to="t106" rfunc="compound"/>
+    <dep from="t109" to="t107" rfunc="compound"/>
+    <dep from="t109" to="t108" rfunc="compound"/>
+    <dep from="t111" to="t110" rfunc="punct"/>
+    <dep from="t109" to="t111" rfunc="appos"/>
+    <dep from="t109" to="t112" rfunc="punct"/>
+    <dep from="t98" to="t113" rfunc="prep"/>
+    <dep from="t115" to="t114" rfunc="det"/>
+    <dep from="t113" to="t115" rfunc="pobj"/>
+    <dep from="t115" to="t116" rfunc="prep"/>
+    <dep from="t116" to="t117" rfunc="pobj"/>
+    <dep from="t93" to="t118" rfunc="punct"/>
+    <dep from="t122" to="t119" rfunc="compound"/>
+    <dep from="t122" to="t120" rfunc="compound"/>
+    <dep from="t122" to="t121" rfunc="compound"/>
+    <dep from="t122" to="t123" rfunc="punct"/>
+    <dep from="t125" to="t124" rfunc="nsubj"/>
+    <dep from="t122" to="t125" rfunc="relcl"/>
+    <dep from="t125" to="t126" rfunc="prep"/>
+    <dep from="t128" to="t127" rfunc="det"/>
+    <dep from="t126" to="t128" rfunc="pobj"/>
+    <dep from="t128" to="t129" rfunc="prep"/>
+    <dep from="t129" to="t130" rfunc="pcomp"/>
+    <dep from="t132" to="t131" rfunc="det"/>
+    <dep from="t130" to="t132" rfunc="dobj"/>
+    <dep from="t132" to="t133" rfunc="advmod"/>
+    <dep from="t132" to="t134" rfunc="punct"/>
+    <dep from="t138" to="t135" rfunc="nsubjpass"/>
+    <dep from="t132" to="t138" rfunc="relcl"/>
+    <dep from="t138" to="t136" rfunc="auxpass"/>
+    <dep from="t138" to="t137" rfunc="advmod"/>
+    <dep from="t140" to="t139" rfunc="compound"/>
+    <dep from="t138" to="t140" rfunc="oprd"/>
+    <dep from="t122" to="t141" rfunc="punct"/>
+    <dep from="t143" to="t142" rfunc="det"/>
+    <dep from="t144" to="t143" rfunc="nsubj"/>
+    <dep from="t148" to="t145" rfunc="det"/>
+    <dep from="t144" to="t148" rfunc="attr"/>
+    <dep from="t148" to="t146" rfunc="amod"/>
+    <dep from="t148" to="t147" rfunc="compound"/>
+    <dep from="t148" to="t149" rfunc="prep"/>
+    <dep from="t152" to="t150" rfunc="compound"/>
+    <dep from="t154" to="t152" rfunc="poss"/>
+    <dep from="t149" to="t154" rfunc="pobj"/>
+    <dep from="t152" to="t151" rfunc="compound"/>
+    <dep from="t152" to="t153" rfunc="case"/>
+    <dep from="t154" to="t155" rfunc="prep"/>
+    <dep from="t157" to="t156" rfunc="compound"/>
+    <dep from="t155" to="t157" rfunc="pobj"/>
+    <dep from="t154" to="t158" rfunc="prep"/>
+    <dep from="t161" to="t159" rfunc="amod"/>
+    <dep from="t162" to="t161" rfunc="amod"/>
+    <dep from="t158" to="t162" rfunc="pobj"/>
+    <dep from="t161" to="t160" rfunc="punct"/>
+    <dep from="t144" to="t163" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--U n i o n-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Union_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Union_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--L t .   G e n .-->
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lieutenant_general_(United_States)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--U l y s s e s   S .   G r a n t-->
+        <target id="t33"/>
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ulysses_S._Grant" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ulysses_S._Grant" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ulysses_S._Grant" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--O v e r l a n d   C a m p a i g n-->
+        <target id="t37"/>
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Overland_Campaign" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campagna_terrestre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Overlandveldtocht" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C o n f e d e r a t e-->
+        <target id="t40"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Confederate_States_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Confederate_States_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--R o b e r t   E .   L e e-->
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Robert_E._Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Robert_Edward_Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Robert_E._Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--A r m y   o f   N o r t h e r n   V i r g i n i a-->
+        <target id="t46"/>
+        <target id="t47"/>
+        <target id="t48"/>
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Armata_Confederata_della_Virginia_Settentrionale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--M a j .   G e n .-->
+        <target id="t57"/>
+        <target id="t58"/>
+        <target id="t59"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Major_General_(CSA)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--F i t z h u g h   L e e-->
+        <target id="t60"/>
+        <target id="t61"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Fitzhugh_Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Fitzhugh_Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Fitzhugh_Lee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--c a v a l r y-->
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cavalry" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Cavalerie" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--d i v i s i o n-->
+        <target id="t64"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Division_(military)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <span>
+        <!--J a m e s   R i v e r-->
+        <target id="t82"/>
+        <target id="t83"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/James_River_(Virginia)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e13" type="UNK">
+      <span>
+        <!--C h a r l e s   C i t y ,   V i r g i n i a-->
+        <target id="t86"/>
+        <target id="t87"/>
+        <target id="t88"/>
+        <target id="t89"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Charles_City,_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Charles_City" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e14" type="UNK">
+      <span>
+        <!--A f r i c a n   A m e r i c a n-->
+        <target id="t96"/>
+        <target id="t97"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/African_American" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e15" type="UNK">
+      <span>
+        <!--U n i t e d   S t a t e s   C o l o r e d   T r o o p s-->
+        <target id="t106"/>
+        <target id="t107"/>
+        <target id="t108"/>
+        <target id="t109"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_States_Colored_Troops" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/United_States_Colored_Troops" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e16" type="UNK">
+      <span>
+        <!--B r i g .   G e n .-->
+        <target id="t117"/>
+        <target id="t118"/>
+        <target id="t119"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Brigadier_general_(United_States)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e17" type="UNK">
+      <span>
+        <!--E d w a r d   A .   W i l d-->
+        <target id="t120"/>
+        <target id="t121"/>
+        <target id="t122"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Edward_A._Wild" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e18" type="UNK">
+      <span>
+        <!--F o r t   P o c a h o n t a s-->
+        <target id="t139"/>
+        <target id="t140"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Fort_Pocahontas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e19" type="UNK">
+      <span>
+        <!--A r m y   o f   N o r t h e r n   V i r g i n i a-->
+        <target id="t154"/>
+        <target id="t155"/>
+        <target id="t156"/>
+        <target id="t157"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Armata_Confederata_della_Virginia_Settentrionale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-referring_by_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-non-commutative_process" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attack" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t70"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-store" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t74"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-natural_features" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t83"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t85"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t97"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t115"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t128"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-building" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t130"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t132"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t133"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t137"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_named" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t138"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t143"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t146"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t147"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t154"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t156"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t161"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

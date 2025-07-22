@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Wereldkampioenschappen noords skiën 2001"/>
+    <public uri="https://nl.wikipedia.org/wiki/Wereldkampioenschappen_noords_ski%C3%ABn_2001"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T09:28:26UTC" endTimestamp="2020-05-28T09:28:26UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T09:28:26UTC" endTimestamp="2020-05-28T09:28:26UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T09:28:26UTC" endTimestamp="2020-05-28T09:28:26UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T09:28:26UTC" endTimestamp="2020-05-28T09:28:26UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Wereldkampioenschappen noords skiën 2001++.
+De wereldkampioenschappen noords skiën 2001 werden van 15 februari tot en met 25 februari 2001 gehouden in Lahti.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="22" offset="2"><![CDATA[Wereldkampioenschappen]]></wf>
+    <wf sent="1" id="w4" length="6" offset="25"><![CDATA[noords]]></wf>
+    <wf sent="1" id="w5" length="5" offset="32"><![CDATA[skiën]]></wf>
+    <wf sent="1" id="w6" length="6" offset="38"><![CDATA[2001++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="44"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="45"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="2" offset="46"><![CDATA[De]]></wf>
+    <wf sent="2" id="w10" length="22" offset="49"><![CDATA[wereldkampioenschappen]]></wf>
+    <wf sent="2" id="w11" length="6" offset="72"><![CDATA[noords]]></wf>
+    <wf sent="2" id="w12" length="5" offset="79"><![CDATA[skiën]]></wf>
+    <wf sent="2" id="w13" length="4" offset="85"><![CDATA[2001]]></wf>
+    <wf sent="2" id="w14" length="6" offset="90"><![CDATA[werden]]></wf>
+    <wf sent="2" id="w15" length="3" offset="97"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="2" offset="101"><![CDATA[15]]></wf>
+    <wf sent="2" id="w17" length="8" offset="104"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w18" length="3" offset="113"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w19" length="2" offset="117"><![CDATA[en]]></wf>
+    <wf sent="2" id="w20" length="3" offset="120"><![CDATA[met]]></wf>
+    <wf sent="2" id="w21" length="2" offset="124"><![CDATA[25]]></wf>
+    <wf sent="2" id="w22" length="8" offset="127"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w23" length="4" offset="136"><![CDATA[2001]]></wf>
+    <wf sent="2" id="w24" length="8" offset="141"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w25" length="2" offset="150"><![CDATA[in]]></wf>
+    <wf sent="2" id="w26" length="5" offset="153"><![CDATA[Lahti]]></wf>
+    <wf sent="2" id="w27" length="1" offset="158"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="wereldkampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="noords" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="ski" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2001++" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="wereldkampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="noords" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="ski" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="15" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="lahti" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t6" to="t1" rfunc="det:nummod"/>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="nmod"/>
+    <dep from="t1" to="t4" rfunc="obl"/>
+    <dep from="t1" to="t5" rfunc="compound"/>
+    <dep from="t6" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t10" to="t9" rfunc="det"/>
+    <dep from="t12" to="t10" rfunc="nsubj"/>
+    <dep from="t24" to="t12" rfunc="nsubj"/>
+    <dep from="t10" to="t11" rfunc="appos"/>
+    <dep from="t12" to="t13" rfunc="nummod"/>
+    <dep from="t24" to="t14" rfunc="aux"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t24" to="t16" rfunc="obl"/>
+    <dep from="t16" to="t17" rfunc="compound"/>
+    <dep from="t24" to="t18" rfunc="advmod"/>
+    <dep from="t18" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="case"/>
+    <dep from="t24" to="t21" rfunc="obl"/>
+    <dep from="t21" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="compound"/>
+    <dep from="t26" to="t25" rfunc="case"/>
+    <dep from="t24" to="t26" rfunc="obl"/>
+    <dep from="t24" to="t27" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--w e r e l d k a m p i o e n s c h a p p e n   n o o r d s   s k i ë n-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wereldkampioenschappen_noords_skiën" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Categoria:Campionati_mondiali_di_sci_nordico" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 5   f e b r u a r i-->
+        <target id="t16"/>
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/15_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/15_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_15" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 5   f e b r u a r i-->
+        <target id="t21"/>
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/25_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/25_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_25" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 1-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2001" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/2001" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/2001" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--L a h t i-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Lahti" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Lahti" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lahti" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

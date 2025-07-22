@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1989 Bavarian Tennis Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/1989_Bavarian_Tennis_Championships"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:14:06UTC" endTimestamp="2020-05-27T15:14:06UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:14:06UTC" endTimestamp="2020-05-27T15:14:06UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:14:06UTC" endTimestamp="2020-05-27T15:14:06UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:14:06UTC" endTimestamp="2020-05-27T15:14:06UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:30CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1989 Bavarian Tennis Championships++.
+The 1989 Bavarian Tennis Championships was an Association of Tennis Professionals men's tennis tournament held in Munich, Germany. The tournament was held from 1 May through 7 May 1989. Andrei Chesnokov won the singles title.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1989]]></wf>
+    <wf sent="1" id="w3" length="8" offset="7"><![CDATA[Bavarian]]></wf>
+    <wf sent="1" id="w4" length="6" offset="16"><![CDATA[Tennis]]></wf>
+    <wf sent="1" id="w5" length="15" offset="23"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="38"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="39"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="40"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="44"><![CDATA[1989]]></wf>
+    <wf sent="2" id="w10" length="8" offset="49"><![CDATA[Bavarian]]></wf>
+    <wf sent="2" id="w11" length="6" offset="58"><![CDATA[Tennis]]></wf>
+    <wf sent="2" id="w12" length="13" offset="65"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w13" length="3" offset="79"><![CDATA[was]]></wf>
+    <wf sent="2" id="w14" length="2" offset="83"><![CDATA[an]]></wf>
+    <wf sent="2" id="w15" length="11" offset="86"><![CDATA[Association]]></wf>
+    <wf sent="2" id="w16" length="2" offset="98"><![CDATA[of]]></wf>
+    <wf sent="2" id="w17" length="6" offset="101"><![CDATA[Tennis]]></wf>
+    <wf sent="2" id="w18" length="13" offset="108"><![CDATA[Professionals]]></wf>
+    <wf sent="2" id="w19" length="3" offset="122"><![CDATA[men]]></wf>
+    <wf sent="2" id="w20" length="2" offset="125"><![CDATA['s]]></wf>
+    <wf sent="2" id="w21" length="6" offset="128"><![CDATA[tennis]]></wf>
+    <wf sent="2" id="w22" length="10" offset="135"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w23" length="4" offset="146"><![CDATA[held]]></wf>
+    <wf sent="2" id="w24" length="2" offset="151"><![CDATA[in]]></wf>
+    <wf sent="2" id="w25" length="6" offset="154"><![CDATA[Munich]]></wf>
+    <wf sent="2" id="w26" length="1" offset="160"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="7" offset="162"><![CDATA[Germany]]></wf>
+    <wf sent="2" id="w28" length="1" offset="169"><![CDATA[.]]></wf>
+    <wf sent="3" id="w29" length="3" offset="171"><![CDATA[The]]></wf>
+    <wf sent="3" id="w30" length="10" offset="175"><![CDATA[tournament]]></wf>
+    <wf sent="3" id="w31" length="3" offset="186"><![CDATA[was]]></wf>
+    <wf sent="3" id="w32" length="4" offset="190"><![CDATA[held]]></wf>
+    <wf sent="3" id="w33" length="4" offset="195"><![CDATA[from]]></wf>
+    <wf sent="3" id="w34" length="1" offset="200"><![CDATA[1]]></wf>
+    <wf sent="3" id="w35" length="3" offset="202"><![CDATA[May]]></wf>
+    <wf sent="3" id="w36" length="7" offset="206"><![CDATA[through]]></wf>
+    <wf sent="3" id="w37" length="1" offset="214"><![CDATA[7]]></wf>
+    <wf sent="3" id="w38" length="3" offset="216"><![CDATA[May]]></wf>
+    <wf sent="3" id="w39" length="4" offset="220"><![CDATA[1989]]></wf>
+    <wf sent="3" id="w40" length="1" offset="224"><![CDATA[.]]></wf>
+    <wf sent="4" id="w41" length="6" offset="226"><![CDATA[Andrei]]></wf>
+    <wf sent="4" id="w42" length="9" offset="233"><![CDATA[Chesnokov]]></wf>
+    <wf sent="4" id="w43" length="3" offset="243"><![CDATA[won]]></wf>
+    <wf sent="4" id="w44" length="3" offset="247"><![CDATA[the]]></wf>
+    <wf sent="4" id="w45" length="7" offset="251"><![CDATA[singles]]></wf>
+    <wf sent="4" id="w46" length="5" offset="259"><![CDATA[title]]></wf>
+    <wf sent="4" id="w47" length="1" offset="264"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1989" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Bavarian" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1989" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Bavarian" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Association" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Professionals" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="tennis" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Munich" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Germany" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="1989" pos="NUM" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Andrei" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Chesnokov" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="single" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="title" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="compound"/>
+    <dep from="t5" to="t3" rfunc="amod"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t13" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t15" to="t14" rfunc="det"/>
+    <dep from="t13" to="t15" rfunc="attr"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t22" to="t19" rfunc="poss"/>
+    <dep from="t16" to="t22" rfunc="pobj"/>
+    <dep from="t19" to="t20" rfunc="case"/>
+    <dep from="t22" to="t21" rfunc="compound"/>
+    <dep from="t22" to="t23" rfunc="acl"/>
+    <dep from="t23" to="t24" rfunc="prep"/>
+    <dep from="t24" to="t25" rfunc="pobj"/>
+    <dep from="t25" to="t26" rfunc="punct"/>
+    <dep from="t25" to="t27" rfunc="appos"/>
+    <dep from="t13" to="t28" rfunc="punct"/>
+    <dep from="t30" to="t29" rfunc="det"/>
+    <dep from="t32" to="t30" rfunc="nsubjpass"/>
+    <dep from="t32" to="t31" rfunc="auxpass"/>
+    <dep from="t32" to="t33" rfunc="prep"/>
+    <dep from="t35" to="t34" rfunc="nummod"/>
+    <dep from="t33" to="t35" rfunc="pobj"/>
+    <dep from="t32" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="nummod"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t39" rfunc="nummod"/>
+    <dep from="t32" to="t40" rfunc="punct"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t43" to="t42" rfunc="nsubj"/>
+    <dep from="t46" to="t44" rfunc="det"/>
+    <dep from="t43" to="t46" rfunc="dobj"/>
+    <dep from="t46" to="t45" rfunc="compound"/>
+    <dep from="t43" to="t47" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--B a v a r i a n   T e n n i s   C h a m p i o n s h i p s-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Bavarian_International_Tennis_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/BMW_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_München" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A s s o c i a t i o n   o f   T e n n i s   P r o f e s s i o n a l s-->
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Association_of_Tennis_Professionals" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--t e n n i s-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tennis" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M u n i c h-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Munich" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Monaco_di_Baviera" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/München" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--A n d r e i   C h e s n o k o v-->
+        <target id="t41"/>
+        <target id="t42"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Andrei_Chesnokov" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Andrej_Česnokov" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Andrej_Tsjesnokov" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-sole_instance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

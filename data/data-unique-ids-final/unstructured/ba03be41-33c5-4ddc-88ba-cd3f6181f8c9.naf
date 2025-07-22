@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Monte Carlo 1999"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Monte_Carlo_1999"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T14:55:58UTC" endTimestamp="2020-05-27T14:55:59UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T14:55:58UTC" endTimestamp="2020-05-27T14:55:59UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T14:55:58UTC" endTimestamp="2020-05-27T14:55:59UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T14:55:58UTC" endTimestamp="2020-05-27T14:55:59UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Monte Carlo 1999++.
+Het Monte Carlo Open van 1999 werd gespeeld van 19 tot en met 25 april in het Monegaskse Monte Carlo. Het tennistoernooi wer gespeeld op de gravelbanen van de Monte Carlo Country Club.
+In het enkelspel versloeg de Braziliaan Gustavo Kuerten de Chileen Marcelo Ríos. In de dubbelspelfinale versloeg het Frans/Britse koppel Olivier Delaître/Tim Henman het Tsjechische duo Jiří Novák/David Rikl.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="5" offset="19"><![CDATA[Monte]]></wf>
+    <wf sent="1" id="w8" length="5" offset="25"><![CDATA[Carlo]]></wf>
+    <wf sent="1" id="w9" length="6" offset="31"><![CDATA[1999++]]></wf>
+    <wf sent="1" id="w10" length="1" offset="37"><![CDATA[.]]></wf>
+    <wf sent="1" id="w11" length="1" offset="38"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w12" length="3" offset="39"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w13" length="5" offset="43"><![CDATA[Monte]]></wf>
+    <wf sent="2" id="w14" length="5" offset="49"><![CDATA[Carlo]]></wf>
+    <wf sent="2" id="w15" length="4" offset="55"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w16" length="3" offset="60"><![CDATA[van]]></wf>
+    <wf sent="2" id="w17" length="4" offset="64"><![CDATA[1999]]></wf>
+    <wf sent="2" id="w18" length="4" offset="69"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w19" length="8" offset="74"><![CDATA[gespeeld]]></wf>
+    <wf sent="2" id="w20" length="3" offset="83"><![CDATA[van]]></wf>
+    <wf sent="2" id="w21" length="2" offset="87"><![CDATA[19]]></wf>
+    <wf sent="2" id="w22" length="3" offset="90"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w23" length="2" offset="94"><![CDATA[en]]></wf>
+    <wf sent="2" id="w24" length="3" offset="97"><![CDATA[met]]></wf>
+    <wf sent="2" id="w25" length="2" offset="101"><![CDATA[25]]></wf>
+    <wf sent="2" id="w26" length="5" offset="104"><![CDATA[april]]></wf>
+    <wf sent="2" id="w27" length="2" offset="110"><![CDATA[in]]></wf>
+    <wf sent="2" id="w28" length="3" offset="113"><![CDATA[het]]></wf>
+    <wf sent="2" id="w29" length="10" offset="117"><![CDATA[Monegaskse]]></wf>
+    <wf sent="2" id="w30" length="5" offset="128"><![CDATA[Monte]]></wf>
+    <wf sent="2" id="w31" length="5" offset="134"><![CDATA[Carlo]]></wf>
+    <wf sent="2" id="w32" length="1" offset="139"><![CDATA[.]]></wf>
+    <wf sent="3" id="w33" length="3" offset="141"><![CDATA[Het]]></wf>
+    <wf sent="3" id="w34" length="14" offset="145"><![CDATA[tennistoernooi]]></wf>
+    <wf sent="3" id="w35" length="3" offset="160"><![CDATA[wer]]></wf>
+    <wf sent="3" id="w36" length="8" offset="164"><![CDATA[gespeeld]]></wf>
+    <wf sent="3" id="w37" length="2" offset="173"><![CDATA[op]]></wf>
+    <wf sent="3" id="w38" length="2" offset="176"><![CDATA[de]]></wf>
+    <wf sent="3" id="w39" length="11" offset="179"><![CDATA[gravelbanen]]></wf>
+    <wf sent="3" id="w40" length="3" offset="191"><![CDATA[van]]></wf>
+    <wf sent="3" id="w41" length="2" offset="195"><![CDATA[de]]></wf>
+    <wf sent="3" id="w42" length="5" offset="198"><![CDATA[Monte]]></wf>
+    <wf sent="3" id="w43" length="5" offset="204"><![CDATA[Carlo]]></wf>
+    <wf sent="3" id="w44" length="7" offset="210"><![CDATA[Country]]></wf>
+    <wf sent="3" id="w45" length="4" offset="218"><![CDATA[Club]]></wf>
+    <wf sent="3" id="w46" length="1" offset="222"><![CDATA[.]]></wf>
+    <wf sent="3" id="w47" length="1" offset="223"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w48" length="2" offset="224"><![CDATA[In]]></wf>
+    <wf sent="4" id="w49" length="3" offset="227"><![CDATA[het]]></wf>
+    <wf sent="4" id="w50" length="9" offset="231"><![CDATA[enkelspel]]></wf>
+    <wf sent="4" id="w51" length="8" offset="241"><![CDATA[versloeg]]></wf>
+    <wf sent="4" id="w52" length="2" offset="250"><![CDATA[de]]></wf>
+    <wf sent="4" id="w53" length="10" offset="253"><![CDATA[Braziliaan]]></wf>
+    <wf sent="4" id="w54" length="7" offset="264"><![CDATA[Gustavo]]></wf>
+    <wf sent="4" id="w55" length="7" offset="272"><![CDATA[Kuerten]]></wf>
+    <wf sent="4" id="w56" length="2" offset="280"><![CDATA[de]]></wf>
+    <wf sent="4" id="w57" length="7" offset="283"><![CDATA[Chileen]]></wf>
+    <wf sent="4" id="w58" length="7" offset="291"><![CDATA[Marcelo]]></wf>
+    <wf sent="4" id="w59" length="4" offset="299"><![CDATA[Ríos]]></wf>
+    <wf sent="4" id="w60" length="1" offset="303"><![CDATA[.]]></wf>
+    <wf sent="5" id="w61" length="2" offset="305"><![CDATA[In]]></wf>
+    <wf sent="5" id="w62" length="2" offset="308"><![CDATA[de]]></wf>
+    <wf sent="5" id="w63" length="16" offset="311"><![CDATA[dubbelspelfinale]]></wf>
+    <wf sent="5" id="w64" length="8" offset="328"><![CDATA[versloeg]]></wf>
+    <wf sent="5" id="w65" length="3" offset="337"><![CDATA[het]]></wf>
+    <wf sent="5" id="w66" length="5" offset="341"><![CDATA[Frans]]></wf>
+    <wf sent="5" id="w67" length="1" offset="346"><![CDATA[/]]></wf>
+    <wf sent="5" id="w68" length="6" offset="347"><![CDATA[Britse]]></wf>
+    <wf sent="5" id="w69" length="6" offset="354"><![CDATA[koppel]]></wf>
+    <wf sent="5" id="w70" length="7" offset="361"><![CDATA[Olivier]]></wf>
+    <wf sent="5" id="w71" length="8" offset="369"><![CDATA[Delaître]]></wf>
+    <wf sent="5" id="w72" length="1" offset="377"><![CDATA[/]]></wf>
+    <wf sent="5" id="w73" length="3" offset="378"><![CDATA[Tim]]></wf>
+    <wf sent="5" id="w74" length="6" offset="382"><![CDATA[Henman]]></wf>
+    <wf sent="5" id="w75" length="3" offset="389"><![CDATA[het]]></wf>
+    <wf sent="5" id="w76" length="11" offset="393"><![CDATA[Tsjechische]]></wf>
+    <wf sent="5" id="w77" length="3" offset="405"><![CDATA[duo]]></wf>
+    <wf sent="5" id="w78" length="4" offset="409"><![CDATA[Jiří]]></wf>
+    <wf sent="5" id="w79" length="5" offset="414"><![CDATA[Novák]]></wf>
+    <wf sent="5" id="w80" length="1" offset="419"><![CDATA[/]]></wf>
+    <wf sent="5" id="w81" length="5" offset="420"><![CDATA[David]]></wf>
+    <wf sent="5" id="w82" length="4" offset="426"><![CDATA[Rikl]]></wf>
+    <wf sent="5" id="w83" length="1" offset="430"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="monte" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="carlo" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1999++" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="monte" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="carlo" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="open" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="1999" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="19" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="april" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="monegaskse" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="monte" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="carlo" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="tennistoernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="wer" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="gravelbaan" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="monte" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="carlo" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="country" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="club" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="enkelspel" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="verslaan" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="braziliaan" pos="NOUN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="gustavo" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="kuerten" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="chile" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="marcelo" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="ríos" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="dubbelspelfinal" pos="ADJ" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="verslaan" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="frans" pos="ADJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="/" pos="PUNCT" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="brits" pos="ADJ" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="koppel" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="olivier" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="delaître" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="/" pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="tim" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="henman" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="tsjechisch" pos="ADJ" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="duo" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="jiří" pos="NOUN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="novák" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="/" pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="david" pos="NOUN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="rikl" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t9" to="t7" rfunc="nmod"/>
+    <dep from="t5" to="t9" rfunc="nummod"/>
+    <dep from="t7" to="t8" rfunc="flat"/>
+    <dep from="t1" to="t10" rfunc="punct"/>
+    <dep from="t10" to="t11" rfunc=""/>
+    <dep from="t13" to="t12" rfunc="det"/>
+    <dep from="t19" to="t13" rfunc="nsubj"/>
+    <dep from="t13" to="t14" rfunc="flat"/>
+    <dep from="t13" to="t15" rfunc="flat"/>
+    <dep from="t17" to="t16" rfunc="case"/>
+    <dep from="t13" to="t17" rfunc="obl"/>
+    <dep from="t19" to="t18" rfunc="aux"/>
+    <dep from="t22" to="t20" rfunc="case"/>
+    <dep from="t19" to="t22" rfunc="advmod"/>
+    <dep from="t22" to="t21" rfunc="nummod"/>
+    <dep from="t22" to="t23" rfunc="compound"/>
+    <dep from="t22" to="t24" rfunc="compound"/>
+    <dep from="t22" to="t25" rfunc="obl"/>
+    <dep from="t25" to="t26" rfunc="compound"/>
+    <dep from="t29" to="t27" rfunc="case"/>
+    <dep from="t19" to="t29" rfunc="obl"/>
+    <dep from="t29" to="t28" rfunc="det"/>
+    <dep from="t29" to="t30" rfunc="compound"/>
+    <dep from="t29" to="t31" rfunc="flat"/>
+    <dep from="t19" to="t32" rfunc="punct"/>
+    <dep from="t34" to="t33" rfunc="det"/>
+    <dep from="t36" to="t34" rfunc="nsubj"/>
+    <dep from="t34" to="t35" rfunc="nmod"/>
+    <dep from="t39" to="t37" rfunc="case"/>
+    <dep from="t36" to="t39" rfunc="obl"/>
+    <dep from="t39" to="t38" rfunc="det"/>
+    <dep from="t42" to="t40" rfunc="case"/>
+    <dep from="t39" to="t42" rfunc="nmod"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t42" to="t43" rfunc="flat"/>
+    <dep from="t42" to="t44" rfunc="flat"/>
+    <dep from="t42" to="t45" rfunc="flat"/>
+    <dep from="t36" to="t46" rfunc="punct"/>
+    <dep from="t46" to="t47" rfunc=""/>
+    <dep from="t50" to="t48" rfunc="case"/>
+    <dep from="t51" to="t50" rfunc="obl"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t53" to="t52" rfunc="det"/>
+    <dep from="t51" to="t53" rfunc="nsubj"/>
+    <dep from="t53" to="t54" rfunc="appos"/>
+    <dep from="t53" to="t55" rfunc="flat"/>
+    <dep from="t57" to="t56" rfunc="det"/>
+    <dep from="t51" to="t57" rfunc="obj"/>
+    <dep from="t57" to="t58" rfunc="flat"/>
+    <dep from="t57" to="t59" rfunc="flat"/>
+    <dep from="t51" to="t60" rfunc="punct"/>
+    <dep from="t63" to="t61" rfunc="case"/>
+    <dep from="t64" to="t63" rfunc="obl"/>
+    <dep from="t63" to="t62" rfunc="det"/>
+    <dep from="t66" to="t65" rfunc="det"/>
+    <dep from="t69" to="t66" rfunc="amod"/>
+    <dep from="t64" to="t69" rfunc="nsubj"/>
+    <dep from="t66" to="t67" rfunc="compound"/>
+    <dep from="t66" to="t68" rfunc="compound"/>
+    <dep from="t69" to="t70" rfunc="appos"/>
+    <dep from="t70" to="t71" rfunc="flat"/>
+    <dep from="t70" to="t72" rfunc="flat"/>
+    <dep from="t70" to="t73" rfunc="flat"/>
+    <dep from="t73" to="t74" rfunc="flat"/>
+    <dep from="t77" to="t75" rfunc="det"/>
+    <dep from="t69" to="t77" rfunc="appos"/>
+    <dep from="t77" to="t76" rfunc="amod"/>
+    <dep from="t77" to="t78" rfunc="appos"/>
+    <dep from="t78" to="t79" rfunc="flat"/>
+    <dep from="t78" to="t80" rfunc="flat"/>
+    <dep from="t78" to="t81" rfunc="flat"/>
+    <dep from="t78" to="t82" rfunc="flat"/>
+    <dep from="t64" to="t83" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M o n t e   C a r l o   O p e n-->
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Monte_Carlo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Monte-Carlo_Rolex_Masters" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Monte-Carlo_Masters" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 9-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/19_april" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/19_aprile" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/April_19" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--2 5   a p r i l-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/25_april" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/25_aprile" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/April_25" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M o n e g a s k s e-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Monaco" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Principato_di_Monaco" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Monaco" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q235" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--M o n t e   C a r l o-->
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Monte_Carlo_(Monaco)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--G u s t a v o   K u e r t e n-->
+        <target id="t54"/>
+        <target id="t55"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gustavo_Kuerten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gustavo_Kuerten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gustavo_Kuerten" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--M a r c e l o   R í o s-->
+        <target id="t58"/>
+        <target id="t59"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Marcelo_Ríos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Marcelo_Ríos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marcelo_Ríos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--O l i v i e r   D e l a î t r e-->
+        <target id="t70"/>
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olivier_Delaître" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Olivier_Delaître" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Olivier_Delaître" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--T i m   H e n m a n-->
+        <target id="t73"/>
+        <target id="t74"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tim_Henman" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tim_Henman" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tim_Henman" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--J i ř í   N o v á k-->
+        <target id="t78"/>
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Jiří_Novák" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Jiří_Novák" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jiří_Novák" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--D a v i d   R i k l-->
+        <target id="t81"/>
+        <target id="t82"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/David_Rikl" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/David_Rikl" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/David_Rikl" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q235" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

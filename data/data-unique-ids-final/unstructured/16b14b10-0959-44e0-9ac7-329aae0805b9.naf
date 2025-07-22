@@ -1,0 +1,828 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Varna"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Varna"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:52:33UTC" endTimestamp="2020-05-28T17:52:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:52:33UTC" endTimestamp="2020-05-28T17:52:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:52:33UTC" endTimestamp="2020-05-28T17:52:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:52:33UTC" endTimestamp="2020-05-28T17:52:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:57CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Varna++.
+The Battle of Varna took place on 10 November 1444 near Varna in eastern Bulgaria. The Ottoman Army under Sultan Murad II defeated the Hungarian–Polish and Wallachian armies commanded by Władysław III of Poland (also King of Hungary), John Hunyadi (acting as commander of the combined Christian forces) and Mircea II of Wallachia. It was the final battle of the Crusade of Varna.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="7" offset="12"><![CDATA[Varna++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="19"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="20"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="21"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="25"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="32"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="5" offset="35"><![CDATA[Varna]]></wf>
+    <wf sent="2" id="w12" length="4" offset="41"><![CDATA[took]]></wf>
+    <wf sent="2" id="w13" length="5" offset="46"><![CDATA[place]]></wf>
+    <wf sent="2" id="w14" length="2" offset="52"><![CDATA[on]]></wf>
+    <wf sent="2" id="w15" length="2" offset="55"><![CDATA[10]]></wf>
+    <wf sent="2" id="w16" length="8" offset="58"><![CDATA[November]]></wf>
+    <wf sent="2" id="w17" length="4" offset="67"><![CDATA[1444]]></wf>
+    <wf sent="2" id="w18" length="4" offset="72"><![CDATA[near]]></wf>
+    <wf sent="2" id="w19" length="5" offset="77"><![CDATA[Varna]]></wf>
+    <wf sent="2" id="w20" length="2" offset="83"><![CDATA[in]]></wf>
+    <wf sent="2" id="w21" length="7" offset="86"><![CDATA[eastern]]></wf>
+    <wf sent="2" id="w22" length="8" offset="94"><![CDATA[Bulgaria]]></wf>
+    <wf sent="2" id="w23" length="1" offset="102"><![CDATA[.]]></wf>
+    <wf sent="3" id="w24" length="3" offset="104"><![CDATA[The]]></wf>
+    <wf sent="3" id="w25" length="7" offset="108"><![CDATA[Ottoman]]></wf>
+    <wf sent="3" id="w26" length="4" offset="116"><![CDATA[Army]]></wf>
+    <wf sent="3" id="w27" length="5" offset="121"><![CDATA[under]]></wf>
+    <wf sent="3" id="w28" length="6" offset="127"><![CDATA[Sultan]]></wf>
+    <wf sent="3" id="w29" length="5" offset="134"><![CDATA[Murad]]></wf>
+    <wf sent="3" id="w30" length="2" offset="140"><![CDATA[II]]></wf>
+    <wf sent="3" id="w31" length="8" offset="143"><![CDATA[defeated]]></wf>
+    <wf sent="3" id="w32" length="3" offset="152"><![CDATA[the]]></wf>
+    <wf sent="3" id="w33" length="9" offset="156"><![CDATA[Hungarian]]></wf>
+    <wf sent="3" id="w34" length="1" offset="165"><![CDATA[–]]></wf>
+    <wf sent="3" id="w35" length="6" offset="166"><![CDATA[Polish]]></wf>
+    <wf sent="3" id="w36" length="3" offset="173"><![CDATA[and]]></wf>
+    <wf sent="3" id="w37" length="10" offset="177"><![CDATA[Wallachian]]></wf>
+    <wf sent="3" id="w38" length="6" offset="188"><![CDATA[armies]]></wf>
+    <wf sent="3" id="w39" length="9" offset="195"><![CDATA[commanded]]></wf>
+    <wf sent="3" id="w40" length="2" offset="205"><![CDATA[by]]></wf>
+    <wf sent="3" id="w41" length="9" offset="208"><![CDATA[Władysław]]></wf>
+    <wf sent="3" id="w42" length="3" offset="218"><![CDATA[III]]></wf>
+    <wf sent="3" id="w43" length="2" offset="222"><![CDATA[of]]></wf>
+    <wf sent="3" id="w44" length="6" offset="225"><![CDATA[Poland]]></wf>
+    <wf sent="3" id="w45" length="1" offset="232"><![CDATA[(]]></wf>
+    <wf sent="3" id="w46" length="4" offset="233"><![CDATA[also]]></wf>
+    <wf sent="3" id="w47" length="4" offset="238"><![CDATA[King]]></wf>
+    <wf sent="3" id="w48" length="2" offset="243"><![CDATA[of]]></wf>
+    <wf sent="3" id="w49" length="7" offset="246"><![CDATA[Hungary]]></wf>
+    <wf sent="3" id="w50" length="1" offset="253"><![CDATA[)]]></wf>
+    <wf sent="3" id="w51" length="1" offset="254"><![CDATA[,]]></wf>
+    <wf sent="3" id="w52" length="4" offset="256"><![CDATA[John]]></wf>
+    <wf sent="3" id="w53" length="7" offset="261"><![CDATA[Hunyadi]]></wf>
+    <wf sent="3" id="w54" length="1" offset="269"><![CDATA[(]]></wf>
+    <wf sent="3" id="w55" length="6" offset="270"><![CDATA[acting]]></wf>
+    <wf sent="3" id="w56" length="2" offset="277"><![CDATA[as]]></wf>
+    <wf sent="3" id="w57" length="9" offset="280"><![CDATA[commander]]></wf>
+    <wf sent="3" id="w58" length="2" offset="290"><![CDATA[of]]></wf>
+    <wf sent="3" id="w59" length="3" offset="293"><![CDATA[the]]></wf>
+    <wf sent="3" id="w60" length="8" offset="297"><![CDATA[combined]]></wf>
+    <wf sent="3" id="w61" length="9" offset="306"><![CDATA[Christian]]></wf>
+    <wf sent="3" id="w62" length="6" offset="316"><![CDATA[forces]]></wf>
+    <wf sent="3" id="w63" length="1" offset="322"><![CDATA[)]]></wf>
+    <wf sent="3" id="w64" length="3" offset="324"><![CDATA[and]]></wf>
+    <wf sent="3" id="w65" length="6" offset="328"><![CDATA[Mircea]]></wf>
+    <wf sent="3" id="w66" length="2" offset="335"><![CDATA[II]]></wf>
+    <wf sent="3" id="w67" length="2" offset="338"><![CDATA[of]]></wf>
+    <wf sent="3" id="w68" length="9" offset="341"><![CDATA[Wallachia]]></wf>
+    <wf sent="3" id="w69" length="1" offset="350"><![CDATA[.]]></wf>
+    <wf sent="4" id="w70" length="2" offset="352"><![CDATA[It]]></wf>
+    <wf sent="4" id="w71" length="3" offset="355"><![CDATA[was]]></wf>
+    <wf sent="4" id="w72" length="3" offset="359"><![CDATA[the]]></wf>
+    <wf sent="4" id="w73" length="5" offset="363"><![CDATA[final]]></wf>
+    <wf sent="4" id="w74" length="6" offset="369"><![CDATA[battle]]></wf>
+    <wf sent="4" id="w75" length="2" offset="376"><![CDATA[of]]></wf>
+    <wf sent="4" id="w76" length="3" offset="379"><![CDATA[the]]></wf>
+    <wf sent="4" id="w77" length="7" offset="383"><![CDATA[Crusade]]></wf>
+    <wf sent="4" id="w78" length="2" offset="391"><![CDATA[of]]></wf>
+    <wf sent="4" id="w79" length="5" offset="394"><![CDATA[Varna]]></wf>
+    <wf sent="4" id="w80" length="1" offset="399"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Varna++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Varna" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="10" pos="NUM" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="1444" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="near" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Varna" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="eastern" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Bulgaria" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Ottoman" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Army" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="under" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Sultan" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Murad" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="II" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Hungarian" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="–" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="polish" pos="ADJ" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="wallachian" pos="ADJ" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="army" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="command" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Władysław" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="III" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Poland" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="King" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Hungary" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="John" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Hunyadi" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="act" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="commander" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="combine" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="christian" pos="ADJ" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="Mircea" pos="PROPN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="II" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Wallachia" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="final" pos="ADJ" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Crusade" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Varna" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t12" to="t13" rfunc="dobj"/>
+    <dep from="t12" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="nummod"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t16" to="t18" rfunc="prep"/>
+    <dep from="t18" to="t19" rfunc="pobj"/>
+    <dep from="t16" to="t20" rfunc="prep"/>
+    <dep from="t22" to="t21" rfunc="amod"/>
+    <dep from="t20" to="t22" rfunc="pobj"/>
+    <dep from="t12" to="t23" rfunc="punct"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t31" to="t26" rfunc="nsubj"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t30" to="t28" rfunc="compound"/>
+    <dep from="t27" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t35" to="t32" rfunc="det"/>
+    <dep from="t38" to="t35" rfunc="amod"/>
+    <dep from="t31" to="t38" rfunc="dobj"/>
+    <dep from="t35" to="t33" rfunc="amod"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t35" to="t36" rfunc="cc"/>
+    <dep from="t35" to="t37" rfunc="conj"/>
+    <dep from="t38" to="t39" rfunc="acl"/>
+    <dep from="t39" to="t40" rfunc="agent"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t40" to="t42" rfunc="pobj"/>
+    <dep from="t42" to="t43" rfunc="prep"/>
+    <dep from="t43" to="t44" rfunc="pobj"/>
+    <dep from="t42" to="t45" rfunc="punct"/>
+    <dep from="t47" to="t46" rfunc="advmod"/>
+    <dep from="t42" to="t47" rfunc="appos"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t48" to="t49" rfunc="pobj"/>
+    <dep from="t38" to="t50" rfunc="punct"/>
+    <dep from="t31" to="t51" rfunc="punct"/>
+    <dep from="t53" to="t52" rfunc="compound"/>
+    <dep from="t31" to="t53" rfunc="npadvmod"/>
+    <dep from="t53" to="t54" rfunc="punct"/>
+    <dep from="t53" to="t55" rfunc="acl"/>
+    <dep from="t55" to="t56" rfunc="prep"/>
+    <dep from="t56" to="t57" rfunc="pobj"/>
+    <dep from="t57" to="t58" rfunc="prep"/>
+    <dep from="t62" to="t59" rfunc="det"/>
+    <dep from="t58" to="t62" rfunc="pobj"/>
+    <dep from="t62" to="t60" rfunc="amod"/>
+    <dep from="t62" to="t61" rfunc="amod"/>
+    <dep from="t55" to="t63" rfunc="punct"/>
+    <dep from="t53" to="t64" rfunc="cc"/>
+    <dep from="t66" to="t65" rfunc="compound"/>
+    <dep from="t53" to="t66" rfunc="conj"/>
+    <dep from="t66" to="t67" rfunc="prep"/>
+    <dep from="t67" to="t68" rfunc="pobj"/>
+    <dep from="t31" to="t69" rfunc="punct"/>
+    <dep from="t71" to="t70" rfunc="nsubj"/>
+    <dep from="t74" to="t72" rfunc="det"/>
+    <dep from="t71" to="t74" rfunc="attr"/>
+    <dep from="t74" to="t73" rfunc="amod"/>
+    <dep from="t74" to="t75" rfunc="prep"/>
+    <dep from="t77" to="t76" rfunc="det"/>
+    <dep from="t75" to="t77" rfunc="pobj"/>
+    <dep from="t77" to="t78" rfunc="prep"/>
+    <dep from="t78" to="t79" rfunc="pobj"/>
+    <dep from="t71" to="t80" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--V a r n a-->
+        <target id="t19"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Varna" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Varṇa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B u l g a r i a-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Bulgaria" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Bulgaria" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Bulgarije" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q219" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--O t t o m a n   A r m y-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Military_of_the_Ottoman_Empire" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Osmanlı_İmparatorluğu_Ordusu" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S u l t a n   M u r a d   I I-->
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Murad_II" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Murad_II" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Murat_II" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--H u n g a r i a n-->
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hungary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ungheria" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Hongarije" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q28" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--P o l i s h-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Poland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Polonia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q36" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--W ł a d y s ł a w   I I I   o f   P o l a n d-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Władysław_III_of_Poland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ladislao_III_di_Polonia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wladislaus_van_Varna" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--K i n g   o f   H u n g a r y-->
+        <target id="t47"/>
+        <target id="t48"/>
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/King_of_Hungary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--J o h n   H u n y a d i-->
+        <target id="t52"/>
+        <target id="t53"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/John_Hunyadi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/János_Hunyadi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Johannes_Hunyadi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--M i r c e a   I I   o f   W a l l a c h i a-->
+        <target id="t65"/>
+        <target id="t66"/>
+        <target id="t67"/>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mircea_II_of_Wallachia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mircea_II_di_Valacchia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--C r u s a d e   o f   V a r n a-->
+        <target id="t77"/>
+        <target id="t78"/>
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Crusade_of_Varna" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_amalgamate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_religion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t61"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t73"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t74"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

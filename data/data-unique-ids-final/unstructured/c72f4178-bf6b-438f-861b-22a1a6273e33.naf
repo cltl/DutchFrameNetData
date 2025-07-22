@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Santa Inés"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Santa_In%C3%A9s"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:48:19UTC" endTimestamp="2020-05-28T17:48:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:48:19UTC" endTimestamp="2020-05-28T17:48:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:48:19UTC" endTimestamp="2020-05-28T17:48:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:48:19UTC" endTimestamp="2020-05-28T17:48:19UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:40CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Santa Inés++.
+The Battle of Santa Inés was a Venezuelan military confrontation occurred between December 9 and 10, 1859, during the Federal War between the federal forces under General Ezequiel Zamora, and the conservative government of General Pedro Estanislao Ramos, with a victory for the former. It was located about 36 km<nowiki/>southwest of Barinas.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="5" offset="12"><![CDATA[Santa]]></wf>
+    <wf sent="1" id="w6" length="6" offset="18"><![CDATA[Inés++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="24"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="25"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="26"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="6" offset="30"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w11" length="2" offset="37"><![CDATA[of]]></wf>
+    <wf sent="2" id="w12" length="5" offset="40"><![CDATA[Santa]]></wf>
+    <wf sent="2" id="w13" length="4" offset="46"><![CDATA[Inés]]></wf>
+    <wf sent="2" id="w14" length="3" offset="51"><![CDATA[was]]></wf>
+    <wf sent="2" id="w15" length="1" offset="55"><![CDATA[a]]></wf>
+    <wf sent="2" id="w16" length="10" offset="57"><![CDATA[Venezuelan]]></wf>
+    <wf sent="2" id="w17" length="8" offset="68"><![CDATA[military]]></wf>
+    <wf sent="2" id="w18" length="13" offset="77"><![CDATA[confrontation]]></wf>
+    <wf sent="2" id="w19" length="8" offset="91"><![CDATA[occurred]]></wf>
+    <wf sent="2" id="w20" length="7" offset="100"><![CDATA[between]]></wf>
+    <wf sent="2" id="w21" length="8" offset="108"><![CDATA[December]]></wf>
+    <wf sent="2" id="w22" length="1" offset="117"><![CDATA[9]]></wf>
+    <wf sent="2" id="w23" length="3" offset="119"><![CDATA[and]]></wf>
+    <wf sent="2" id="w24" length="2" offset="123"><![CDATA[10]]></wf>
+    <wf sent="2" id="w25" length="1" offset="125"><![CDATA[,]]></wf>
+    <wf sent="2" id="w26" length="4" offset="127"><![CDATA[1859]]></wf>
+    <wf sent="2" id="w27" length="1" offset="131"><![CDATA[,]]></wf>
+    <wf sent="2" id="w28" length="6" offset="133"><![CDATA[during]]></wf>
+    <wf sent="2" id="w29" length="3" offset="140"><![CDATA[the]]></wf>
+    <wf sent="2" id="w30" length="7" offset="144"><![CDATA[Federal]]></wf>
+    <wf sent="2" id="w31" length="3" offset="152"><![CDATA[War]]></wf>
+    <wf sent="2" id="w32" length="7" offset="156"><![CDATA[between]]></wf>
+    <wf sent="2" id="w33" length="3" offset="164"><![CDATA[the]]></wf>
+    <wf sent="2" id="w34" length="7" offset="168"><![CDATA[federal]]></wf>
+    <wf sent="2" id="w35" length="6" offset="176"><![CDATA[forces]]></wf>
+    <wf sent="2" id="w36" length="5" offset="183"><![CDATA[under]]></wf>
+    <wf sent="2" id="w37" length="7" offset="189"><![CDATA[General]]></wf>
+    <wf sent="2" id="w38" length="8" offset="197"><![CDATA[Ezequiel]]></wf>
+    <wf sent="2" id="w39" length="6" offset="206"><![CDATA[Zamora]]></wf>
+    <wf sent="2" id="w40" length="1" offset="212"><![CDATA[,]]></wf>
+    <wf sent="2" id="w41" length="3" offset="214"><![CDATA[and]]></wf>
+    <wf sent="2" id="w42" length="3" offset="218"><![CDATA[the]]></wf>
+    <wf sent="2" id="w43" length="12" offset="222"><![CDATA[conservative]]></wf>
+    <wf sent="2" id="w44" length="10" offset="235"><![CDATA[government]]></wf>
+    <wf sent="2" id="w45" length="2" offset="246"><![CDATA[of]]></wf>
+    <wf sent="2" id="w46" length="7" offset="249"><![CDATA[General]]></wf>
+    <wf sent="2" id="w47" length="5" offset="257"><![CDATA[Pedro]]></wf>
+    <wf sent="2" id="w48" length="10" offset="263"><![CDATA[Estanislao]]></wf>
+    <wf sent="2" id="w49" length="5" offset="274"><![CDATA[Ramos]]></wf>
+    <wf sent="2" id="w50" length="1" offset="279"><![CDATA[,]]></wf>
+    <wf sent="2" id="w51" length="4" offset="281"><![CDATA[with]]></wf>
+    <wf sent="2" id="w52" length="1" offset="286"><![CDATA[a]]></wf>
+    <wf sent="2" id="w53" length="7" offset="288"><![CDATA[victory]]></wf>
+    <wf sent="2" id="w54" length="3" offset="296"><![CDATA[for]]></wf>
+    <wf sent="2" id="w55" length="3" offset="300"><![CDATA[the]]></wf>
+    <wf sent="2" id="w56" length="6" offset="304"><![CDATA[former]]></wf>
+    <wf sent="2" id="w57" length="1" offset="310"><![CDATA[.]]></wf>
+    <wf sent="3" id="w58" length="2" offset="312"><![CDATA[It]]></wf>
+    <wf sent="3" id="w59" length="3" offset="315"><![CDATA[was]]></wf>
+    <wf sent="3" id="w60" length="7" offset="319"><![CDATA[located]]></wf>
+    <wf sent="3" id="w61" length="5" offset="327"><![CDATA[about]]></wf>
+    <wf sent="3" id="w62" length="2" offset="333"><![CDATA[36]]></wf>
+    <wf sent="3" id="w63" length="2" offset="336"><![CDATA[km]]></wf>
+    <wf sent="3" id="w64" length="1" offset="338"><![CDATA[<]]></wf>
+    <wf sent="3" id="w65" length="17" offset="339"><![CDATA[nowiki/>southwest]]></wf>
+    <wf sent="3" id="w66" length="2" offset="357"><![CDATA[of]]></wf>
+    <wf sent="3" id="w67" length="7" offset="360"><![CDATA[Barinas]]></wf>
+    <wf sent="3" id="w68" length="1" offset="367"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Santa" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Inés++" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Santa" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Inés" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="venezuelan" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="military" pos="ADJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="confrontation" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="occur" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="December" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="9" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="10" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="1859" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Federal" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="federal" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="under" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="General" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Ezequiel" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Zamora" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="conservative" pos="ADJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="government" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="General" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Pedro" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Estanislao" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Ramos" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="victory" pos="NOUN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="former" pos="ADJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="locate" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="about" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="36" pos="NUM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="km" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="&lt;" pos="X" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="nowiki/&gt;southwest" pos="NUM" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Barinas" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t4" to="t6" rfunc="pobj"/>
+    <dep from="t3" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t10" to="t9" rfunc="det"/>
+    <dep from="t14" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t11" rfunc="prep"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t11" to="t13" rfunc="pobj"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="attr"/>
+    <dep from="t18" to="t16" rfunc="amod"/>
+    <dep from="t18" to="t17" rfunc="amod"/>
+    <dep from="t18" to="t19" rfunc="acl"/>
+    <dep from="t19" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="nummod"/>
+    <dep from="t21" to="t23" rfunc="cc"/>
+    <dep from="t21" to="t24" rfunc="conj"/>
+    <dep from="t21" to="t25" rfunc="punct"/>
+    <dep from="t21" to="t26" rfunc="nummod"/>
+    <dep from="t14" to="t27" rfunc="punct"/>
+    <dep from="t14" to="t28" rfunc="prep"/>
+    <dep from="t31" to="t29" rfunc="det"/>
+    <dep from="t28" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t31" to="t32" rfunc="prep"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t39" to="t37" rfunc="compound"/>
+    <dep from="t36" to="t39" rfunc="pobj"/>
+    <dep from="t39" to="t38" rfunc="compound"/>
+    <dep from="t14" to="t40" rfunc="punct"/>
+    <dep from="t14" to="t41" rfunc="cc"/>
+    <dep from="t44" to="t42" rfunc="det"/>
+    <dep from="t14" to="t44" rfunc="conj"/>
+    <dep from="t44" to="t43" rfunc="amod"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t49" to="t46" rfunc="compound"/>
+    <dep from="t45" to="t49" rfunc="pobj"/>
+    <dep from="t49" to="t47" rfunc="compound"/>
+    <dep from="t49" to="t48" rfunc="compound"/>
+    <dep from="t44" to="t50" rfunc="punct"/>
+    <dep from="t44" to="t51" rfunc="prep"/>
+    <dep from="t53" to="t52" rfunc="det"/>
+    <dep from="t51" to="t53" rfunc="pobj"/>
+    <dep from="t53" to="t54" rfunc="prep"/>
+    <dep from="t56" to="t55" rfunc="det"/>
+    <dep from="t54" to="t56" rfunc="pobj"/>
+    <dep from="t14" to="t57" rfunc="punct"/>
+    <dep from="t60" to="t58" rfunc="nsubjpass"/>
+    <dep from="t60" to="t59" rfunc="auxpass"/>
+    <dep from="t62" to="t61" rfunc="advmod"/>
+    <dep from="t63" to="t62" rfunc="nummod"/>
+    <dep from="t60" to="t63" rfunc="npadvmod"/>
+    <dep from="t65" to="t64" rfunc="amod"/>
+    <dep from="t60" to="t65" rfunc="advcl"/>
+    <dep from="t65" to="t66" rfunc="prep"/>
+    <dep from="t66" to="t67" rfunc="pobj"/>
+    <dep from="t60" to="t68" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--m i l i t a r y   c o n f r o n t a t i o n-->
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Battaglia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Veldslag" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F e d e r a l   W a r-->
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Federal_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--E z e q u i e l   Z a m o r a-->
+        <target id="t38"/>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ezequiel_Zamora" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--P e d r o   E s t a n i s l a o   R a m o s-->
+        <target id="t47"/>
+        <target id="t48"/>
+        <target id="t49"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Pedro_Estanislao_Ramos" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--k m-->
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Km" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kemet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--B a r i n a s-->
+        <target id="t67"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Barinas,_Barinas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Barinas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

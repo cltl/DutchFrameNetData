@@ -1,0 +1,1376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Annan"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Annan"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:53:33UTC" endTimestamp="2020-05-28T17:53:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:53:33UTC" endTimestamp="2020-05-28T17:53:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:53:33UTC" endTimestamp="2020-05-28T17:53:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:53:33UTC" endTimestamp="2020-05-28T17:53:33UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:49CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Annan++.
+The Battle of Annan, known in the sources as the Camisade of Annan took place on 16 December 1332. It took place at Annan, Dumfries and Galloway in Scotland. In it the Bruce loyalist supporters of King David II of Scotland (son of Robert the Bruce) surprised Edward Balliol and his supporters while they were in bed, and completely threw them out of Scotland. The Bruce loyalists were led by Sir Archibald Douglas, supported by John Randolph, 3rd Earl of Moray, the Steward, the future Robert II of Scotland, and Simon Fraser. Balliol had seized the Scottish crown after the Battle of Dupplin Moor (10–11 August 1332). Robert the Bruce had died on 7 June 1329. At the time of Annan, David was seven years old.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="7" offset="12"><![CDATA[Annan++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="19"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="20"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="21"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="25"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="32"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="5" offset="35"><![CDATA[Annan]]></wf>
+    <wf sent="2" id="w12" length="1" offset="40"><![CDATA[,]]></wf>
+    <wf sent="2" id="w13" length="5" offset="42"><![CDATA[known]]></wf>
+    <wf sent="2" id="w14" length="2" offset="48"><![CDATA[in]]></wf>
+    <wf sent="2" id="w15" length="3" offset="51"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="7" offset="55"><![CDATA[sources]]></wf>
+    <wf sent="2" id="w17" length="2" offset="63"><![CDATA[as]]></wf>
+    <wf sent="2" id="w18" length="3" offset="66"><![CDATA[the]]></wf>
+    <wf sent="2" id="w19" length="8" offset="70"><![CDATA[Camisade]]></wf>
+    <wf sent="2" id="w20" length="2" offset="79"><![CDATA[of]]></wf>
+    <wf sent="2" id="w21" length="5" offset="82"><![CDATA[Annan]]></wf>
+    <wf sent="2" id="w22" length="4" offset="88"><![CDATA[took]]></wf>
+    <wf sent="2" id="w23" length="5" offset="93"><![CDATA[place]]></wf>
+    <wf sent="2" id="w24" length="2" offset="99"><![CDATA[on]]></wf>
+    <wf sent="2" id="w25" length="2" offset="102"><![CDATA[16]]></wf>
+    <wf sent="2" id="w26" length="8" offset="105"><![CDATA[December]]></wf>
+    <wf sent="2" id="w27" length="4" offset="114"><![CDATA[1332]]></wf>
+    <wf sent="2" id="w28" length="1" offset="118"><![CDATA[.]]></wf>
+    <wf sent="3" id="w29" length="2" offset="120"><![CDATA[It]]></wf>
+    <wf sent="3" id="w30" length="4" offset="123"><![CDATA[took]]></wf>
+    <wf sent="3" id="w31" length="5" offset="128"><![CDATA[place]]></wf>
+    <wf sent="3" id="w32" length="2" offset="134"><![CDATA[at]]></wf>
+    <wf sent="3" id="w33" length="5" offset="137"><![CDATA[Annan]]></wf>
+    <wf sent="3" id="w34" length="1" offset="142"><![CDATA[,]]></wf>
+    <wf sent="3" id="w35" length="8" offset="144"><![CDATA[Dumfries]]></wf>
+    <wf sent="3" id="w36" length="3" offset="153"><![CDATA[and]]></wf>
+    <wf sent="3" id="w37" length="8" offset="157"><![CDATA[Galloway]]></wf>
+    <wf sent="3" id="w38" length="2" offset="166"><![CDATA[in]]></wf>
+    <wf sent="3" id="w39" length="8" offset="169"><![CDATA[Scotland]]></wf>
+    <wf sent="3" id="w40" length="1" offset="177"><![CDATA[.]]></wf>
+    <wf sent="4" id="w41" length="2" offset="179"><![CDATA[In]]></wf>
+    <wf sent="4" id="w42" length="2" offset="182"><![CDATA[it]]></wf>
+    <wf sent="4" id="w43" length="3" offset="185"><![CDATA[the]]></wf>
+    <wf sent="4" id="w44" length="5" offset="189"><![CDATA[Bruce]]></wf>
+    <wf sent="4" id="w45" length="8" offset="195"><![CDATA[loyalist]]></wf>
+    <wf sent="4" id="w46" length="10" offset="204"><![CDATA[supporters]]></wf>
+    <wf sent="4" id="w47" length="2" offset="215"><![CDATA[of]]></wf>
+    <wf sent="4" id="w48" length="4" offset="218"><![CDATA[King]]></wf>
+    <wf sent="4" id="w49" length="5" offset="223"><![CDATA[David]]></wf>
+    <wf sent="4" id="w50" length="2" offset="229"><![CDATA[II]]></wf>
+    <wf sent="4" id="w51" length="2" offset="232"><![CDATA[of]]></wf>
+    <wf sent="4" id="w52" length="8" offset="235"><![CDATA[Scotland]]></wf>
+    <wf sent="4" id="w53" length="1" offset="244"><![CDATA[(]]></wf>
+    <wf sent="4" id="w54" length="3" offset="245"><![CDATA[son]]></wf>
+    <wf sent="4" id="w55" length="2" offset="249"><![CDATA[of]]></wf>
+    <wf sent="4" id="w56" length="6" offset="252"><![CDATA[Robert]]></wf>
+    <wf sent="4" id="w57" length="3" offset="259"><![CDATA[the]]></wf>
+    <wf sent="4" id="w58" length="5" offset="263"><![CDATA[Bruce]]></wf>
+    <wf sent="4" id="w59" length="1" offset="268"><![CDATA[)]]></wf>
+    <wf sent="4" id="w60" length="9" offset="270"><![CDATA[surprised]]></wf>
+    <wf sent="4" id="w61" length="6" offset="280"><![CDATA[Edward]]></wf>
+    <wf sent="4" id="w62" length="7" offset="287"><![CDATA[Balliol]]></wf>
+    <wf sent="4" id="w63" length="3" offset="295"><![CDATA[and]]></wf>
+    <wf sent="4" id="w64" length="3" offset="299"><![CDATA[his]]></wf>
+    <wf sent="4" id="w65" length="10" offset="303"><![CDATA[supporters]]></wf>
+    <wf sent="4" id="w66" length="5" offset="314"><![CDATA[while]]></wf>
+    <wf sent="4" id="w67" length="4" offset="320"><![CDATA[they]]></wf>
+    <wf sent="4" id="w68" length="4" offset="325"><![CDATA[were]]></wf>
+    <wf sent="4" id="w69" length="2" offset="330"><![CDATA[in]]></wf>
+    <wf sent="4" id="w70" length="3" offset="333"><![CDATA[bed]]></wf>
+    <wf sent="4" id="w71" length="1" offset="336"><![CDATA[,]]></wf>
+    <wf sent="4" id="w72" length="3" offset="338"><![CDATA[and]]></wf>
+    <wf sent="4" id="w73" length="10" offset="342"><![CDATA[completely]]></wf>
+    <wf sent="4" id="w74" length="5" offset="353"><![CDATA[threw]]></wf>
+    <wf sent="4" id="w75" length="4" offset="359"><![CDATA[them]]></wf>
+    <wf sent="4" id="w76" length="3" offset="364"><![CDATA[out]]></wf>
+    <wf sent="4" id="w77" length="2" offset="368"><![CDATA[of]]></wf>
+    <wf sent="4" id="w78" length="8" offset="371"><![CDATA[Scotland]]></wf>
+    <wf sent="4" id="w79" length="1" offset="379"><![CDATA[.]]></wf>
+    <wf sent="5" id="w80" length="3" offset="381"><![CDATA[The]]></wf>
+    <wf sent="5" id="w81" length="5" offset="385"><![CDATA[Bruce]]></wf>
+    <wf sent="5" id="w82" length="9" offset="391"><![CDATA[loyalists]]></wf>
+    <wf sent="5" id="w83" length="4" offset="401"><![CDATA[were]]></wf>
+    <wf sent="5" id="w84" length="3" offset="406"><![CDATA[led]]></wf>
+    <wf sent="5" id="w85" length="2" offset="410"><![CDATA[by]]></wf>
+    <wf sent="5" id="w86" length="3" offset="413"><![CDATA[Sir]]></wf>
+    <wf sent="5" id="w87" length="9" offset="417"><![CDATA[Archibald]]></wf>
+    <wf sent="5" id="w88" length="7" offset="427"><![CDATA[Douglas]]></wf>
+    <wf sent="5" id="w89" length="1" offset="434"><![CDATA[,]]></wf>
+    <wf sent="5" id="w90" length="9" offset="436"><![CDATA[supported]]></wf>
+    <wf sent="5" id="w91" length="2" offset="446"><![CDATA[by]]></wf>
+    <wf sent="5" id="w92" length="4" offset="449"><![CDATA[John]]></wf>
+    <wf sent="5" id="w93" length="8" offset="454"><![CDATA[Randolph]]></wf>
+    <wf sent="5" id="w94" length="1" offset="462"><![CDATA[,]]></wf>
+    <wf sent="5" id="w95" length="3" offset="464"><![CDATA[3rd]]></wf>
+    <wf sent="5" id="w96" length="4" offset="468"><![CDATA[Earl]]></wf>
+    <wf sent="5" id="w97" length="2" offset="473"><![CDATA[of]]></wf>
+    <wf sent="5" id="w98" length="5" offset="476"><![CDATA[Moray]]></wf>
+    <wf sent="5" id="w99" length="1" offset="481"><![CDATA[,]]></wf>
+    <wf sent="5" id="w100" length="3" offset="483"><![CDATA[the]]></wf>
+    <wf sent="5" id="w101" length="7" offset="487"><![CDATA[Steward]]></wf>
+    <wf sent="5" id="w102" length="1" offset="494"><![CDATA[,]]></wf>
+    <wf sent="5" id="w103" length="3" offset="496"><![CDATA[the]]></wf>
+    <wf sent="5" id="w104" length="6" offset="500"><![CDATA[future]]></wf>
+    <wf sent="5" id="w105" length="6" offset="507"><![CDATA[Robert]]></wf>
+    <wf sent="5" id="w106" length="2" offset="514"><![CDATA[II]]></wf>
+    <wf sent="5" id="w107" length="2" offset="517"><![CDATA[of]]></wf>
+    <wf sent="5" id="w108" length="8" offset="520"><![CDATA[Scotland]]></wf>
+    <wf sent="5" id="w109" length="1" offset="528"><![CDATA[,]]></wf>
+    <wf sent="5" id="w110" length="3" offset="530"><![CDATA[and]]></wf>
+    <wf sent="5" id="w111" length="5" offset="534"><![CDATA[Simon]]></wf>
+    <wf sent="5" id="w112" length="6" offset="540"><![CDATA[Fraser]]></wf>
+    <wf sent="5" id="w113" length="1" offset="546"><![CDATA[.]]></wf>
+    <wf sent="6" id="w114" length="7" offset="548"><![CDATA[Balliol]]></wf>
+    <wf sent="6" id="w115" length="3" offset="556"><![CDATA[had]]></wf>
+    <wf sent="6" id="w116" length="6" offset="560"><![CDATA[seized]]></wf>
+    <wf sent="6" id="w117" length="3" offset="567"><![CDATA[the]]></wf>
+    <wf sent="6" id="w118" length="8" offset="571"><![CDATA[Scottish]]></wf>
+    <wf sent="6" id="w119" length="5" offset="580"><![CDATA[crown]]></wf>
+    <wf sent="6" id="w120" length="5" offset="586"><![CDATA[after]]></wf>
+    <wf sent="6" id="w121" length="3" offset="592"><![CDATA[the]]></wf>
+    <wf sent="6" id="w122" length="6" offset="596"><![CDATA[Battle]]></wf>
+    <wf sent="6" id="w123" length="2" offset="603"><![CDATA[of]]></wf>
+    <wf sent="6" id="w124" length="7" offset="606"><![CDATA[Dupplin]]></wf>
+    <wf sent="6" id="w125" length="4" offset="614"><![CDATA[Moor]]></wf>
+    <wf sent="6" id="w126" length="1" offset="619"><![CDATA[(]]></wf>
+    <wf sent="6" id="w127" length="5" offset="620"><![CDATA[10–11]]></wf>
+    <wf sent="6" id="w128" length="6" offset="626"><![CDATA[August]]></wf>
+    <wf sent="6" id="w129" length="4" offset="633"><![CDATA[1332]]></wf>
+    <wf sent="6" id="w130" length="1" offset="637"><![CDATA[)]]></wf>
+    <wf sent="6" id="w131" length="1" offset="638"><![CDATA[.]]></wf>
+    <wf sent="7" id="w132" length="6" offset="640"><![CDATA[Robert]]></wf>
+    <wf sent="7" id="w133" length="3" offset="647"><![CDATA[the]]></wf>
+    <wf sent="7" id="w134" length="5" offset="651"><![CDATA[Bruce]]></wf>
+    <wf sent="7" id="w135" length="3" offset="657"><![CDATA[had]]></wf>
+    <wf sent="7" id="w136" length="4" offset="661"><![CDATA[died]]></wf>
+    <wf sent="7" id="w137" length="2" offset="666"><![CDATA[on]]></wf>
+    <wf sent="7" id="w138" length="1" offset="669"><![CDATA[7]]></wf>
+    <wf sent="7" id="w139" length="4" offset="671"><![CDATA[June]]></wf>
+    <wf sent="7" id="w140" length="4" offset="676"><![CDATA[1329]]></wf>
+    <wf sent="7" id="w141" length="1" offset="680"><![CDATA[.]]></wf>
+    <wf sent="8" id="w142" length="2" offset="682"><![CDATA[At]]></wf>
+    <wf sent="8" id="w143" length="3" offset="685"><![CDATA[the]]></wf>
+    <wf sent="8" id="w144" length="4" offset="689"><![CDATA[time]]></wf>
+    <wf sent="8" id="w145" length="2" offset="694"><![CDATA[of]]></wf>
+    <wf sent="8" id="w146" length="5" offset="697"><![CDATA[Annan]]></wf>
+    <wf sent="8" id="w147" length="1" offset="702"><![CDATA[,]]></wf>
+    <wf sent="8" id="w148" length="5" offset="704"><![CDATA[David]]></wf>
+    <wf sent="8" id="w149" length="3" offset="710"><![CDATA[was]]></wf>
+    <wf sent="8" id="w150" length="5" offset="714"><![CDATA[seven]]></wf>
+    <wf sent="8" id="w151" length="5" offset="720"><![CDATA[years]]></wf>
+    <wf sent="8" id="w152" length="3" offset="726"><![CDATA[old]]></wf>
+    <wf sent="8" id="w153" length="1" offset="729"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Annan++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Annan" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="know" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="source" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Camisade" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Annan" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="December" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1332" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Annan" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Dumfries" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Galloway" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Bruce" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="loyalist" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="supporter" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="King" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="David" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="II" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="son" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Robert" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Bruce" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="surprise" pos="VERB" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="Edward" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Balliol" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="supporter" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="while" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="bed" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="completely" pos="ADV" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="throw" pos="VERB" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="out" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="Bruce" pos="PROPN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="loyalist" pos="NOUN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="lead" pos="VERB" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="Sir" pos="PROPN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="Archibald" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="Douglas" pos="PROPN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="support" pos="VERB" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="John" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="Randolph" pos="PROPN" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="3rd" pos="PROPN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="Earl" pos="PROPN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Moray" pos="PROPN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="Steward" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="future" pos="ADJ" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="Robert" pos="PROPN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="II" pos="PROPN" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="Scotland" pos="PROPN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="Simon" pos="PROPN" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="Fraser" pos="PROPN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="Balliol" pos="PROPN" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="seize" pos="VERB" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="scottish" pos="ADJ" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="crown" pos="NOUN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="after" pos="ADP" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="Dupplin" pos="PROPN" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="Moor" pos="PROPN" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="10–11" pos="NUM" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="August" pos="PROPN" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="1332" pos="NUM" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="Robert" pos="PROPN" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="Bruce" pos="PROPN" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="die" pos="VERB" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="June" pos="PROPN" type="open">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" lemma="1329" pos="NUM" type="open">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" lemma="time" pos="NOUN" type="open">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" lemma="Annan" pos="PROPN" type="open">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" lemma="David" pos="PROPN" type="open">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term id="t149" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" lemma="seven" pos="NUM" type="open">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" lemma="year" pos="NOUN" type="open">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" lemma="old" pos="ADJ" type="open">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t22" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t9" to="t12" rfunc="punct"/>
+    <dep from="t9" to="t13" rfunc="acl"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t13" to="t17" rfunc="prep"/>
+    <dep from="t19" to="t18" rfunc="det"/>
+    <dep from="t22" to="t19" rfunc="nsubj"/>
+    <dep from="t19" to="t20" rfunc="prep"/>
+    <dep from="t20" to="t21" rfunc="pobj"/>
+    <dep from="t22" to="t23" rfunc="dobj"/>
+    <dep from="t22" to="t24" rfunc="prep"/>
+    <dep from="t26" to="t25" rfunc="nummod"/>
+    <dep from="t24" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t27" rfunc="nummod"/>
+    <dep from="t22" to="t28" rfunc="punct"/>
+    <dep from="t30" to="t29" rfunc="nsubj"/>
+    <dep from="t30" to="t31" rfunc="dobj"/>
+    <dep from="t30" to="t32" rfunc="prep"/>
+    <dep from="t32" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t34" rfunc="punct"/>
+    <dep from="t33" to="t35" rfunc="conj"/>
+    <dep from="t35" to="t36" rfunc="cc"/>
+    <dep from="t35" to="t37" rfunc="conj"/>
+    <dep from="t30" to="t38" rfunc="prep"/>
+    <dep from="t38" to="t39" rfunc="pobj"/>
+    <dep from="t30" to="t40" rfunc="punct"/>
+    <dep from="t60" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t46" to="t43" rfunc="det"/>
+    <dep from="t60" to="t46" rfunc="nsubj"/>
+    <dep from="t45" to="t44" rfunc="compound"/>
+    <dep from="t46" to="t45" rfunc="compound"/>
+    <dep from="t46" to="t47" rfunc="prep"/>
+    <dep from="t50" to="t48" rfunc="compound"/>
+    <dep from="t47" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t49" rfunc="compound"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t53" rfunc="punct"/>
+    <dep from="t52" to="t54" rfunc="appos"/>
+    <dep from="t54" to="t55" rfunc="prep"/>
+    <dep from="t55" to="t56" rfunc="pobj"/>
+    <dep from="t58" to="t57" rfunc="det"/>
+    <dep from="t54" to="t58" rfunc="appos"/>
+    <dep from="t46" to="t59" rfunc="punct"/>
+    <dep from="t62" to="t61" rfunc="compound"/>
+    <dep from="t60" to="t62" rfunc="dobj"/>
+    <dep from="t62" to="t63" rfunc="cc"/>
+    <dep from="t65" to="t64" rfunc="poss"/>
+    <dep from="t62" to="t65" rfunc="conj"/>
+    <dep from="t68" to="t66" rfunc="mark"/>
+    <dep from="t60" to="t68" rfunc="advcl"/>
+    <dep from="t68" to="t67" rfunc="nsubj"/>
+    <dep from="t68" to="t69" rfunc="prep"/>
+    <dep from="t69" to="t70" rfunc="pobj"/>
+    <dep from="t60" to="t71" rfunc="punct"/>
+    <dep from="t60" to="t72" rfunc="cc"/>
+    <dep from="t74" to="t73" rfunc="advmod"/>
+    <dep from="t60" to="t74" rfunc="conj"/>
+    <dep from="t74" to="t75" rfunc="dobj"/>
+    <dep from="t74" to="t76" rfunc="prep"/>
+    <dep from="t76" to="t77" rfunc="prep"/>
+    <dep from="t77" to="t78" rfunc="pobj"/>
+    <dep from="t60" to="t79" rfunc="punct"/>
+    <dep from="t82" to="t80" rfunc="det"/>
+    <dep from="t84" to="t82" rfunc="nsubjpass"/>
+    <dep from="t82" to="t81" rfunc="compound"/>
+    <dep from="t84" to="t83" rfunc="auxpass"/>
+    <dep from="t84" to="t85" rfunc="agent"/>
+    <dep from="t88" to="t86" rfunc="compound"/>
+    <dep from="t85" to="t88" rfunc="pobj"/>
+    <dep from="t88" to="t87" rfunc="compound"/>
+    <dep from="t88" to="t89" rfunc="punct"/>
+    <dep from="t88" to="t90" rfunc="acl"/>
+    <dep from="t90" to="t91" rfunc="agent"/>
+    <dep from="t93" to="t92" rfunc="compound"/>
+    <dep from="t91" to="t93" rfunc="pobj"/>
+    <dep from="t93" to="t94" rfunc="punct"/>
+    <dep from="t96" to="t95" rfunc="compound"/>
+    <dep from="t93" to="t96" rfunc="appos"/>
+    <dep from="t96" to="t97" rfunc="prep"/>
+    <dep from="t97" to="t98" rfunc="pobj"/>
+    <dep from="t98" to="t99" rfunc="punct"/>
+    <dep from="t101" to="t100" rfunc="det"/>
+    <dep from="t96" to="t101" rfunc="conj"/>
+    <dep from="t101" to="t102" rfunc="punct"/>
+    <dep from="t106" to="t103" rfunc="det"/>
+    <dep from="t101" to="t106" rfunc="conj"/>
+    <dep from="t106" to="t104" rfunc="amod"/>
+    <dep from="t106" to="t105" rfunc="compound"/>
+    <dep from="t106" to="t107" rfunc="prep"/>
+    <dep from="t107" to="t108" rfunc="pobj"/>
+    <dep from="t106" to="t109" rfunc="punct"/>
+    <dep from="t106" to="t110" rfunc="cc"/>
+    <dep from="t112" to="t111" rfunc="compound"/>
+    <dep from="t106" to="t112" rfunc="conj"/>
+    <dep from="t84" to="t113" rfunc="punct"/>
+    <dep from="t116" to="t114" rfunc="nsubj"/>
+    <dep from="t116" to="t115" rfunc="aux"/>
+    <dep from="t119" to="t117" rfunc="det"/>
+    <dep from="t116" to="t119" rfunc="dobj"/>
+    <dep from="t119" to="t118" rfunc="amod"/>
+    <dep from="t116" to="t120" rfunc="prep"/>
+    <dep from="t122" to="t121" rfunc="det"/>
+    <dep from="t120" to="t122" rfunc="pobj"/>
+    <dep from="t122" to="t123" rfunc="prep"/>
+    <dep from="t125" to="t124" rfunc="compound"/>
+    <dep from="t123" to="t125" rfunc="pobj"/>
+    <dep from="t128" to="t126" rfunc="punct"/>
+    <dep from="t122" to="t128" rfunc="appos"/>
+    <dep from="t128" to="t127" rfunc="nummod"/>
+    <dep from="t128" to="t129" rfunc="nummod"/>
+    <dep from="t128" to="t130" rfunc="punct"/>
+    <dep from="t116" to="t131" rfunc="punct"/>
+    <dep from="t136" to="t132" rfunc="dep"/>
+    <dep from="t134" to="t133" rfunc="det"/>
+    <dep from="t136" to="t134" rfunc="nsubj"/>
+    <dep from="t136" to="t135" rfunc="aux"/>
+    <dep from="t136" to="t137" rfunc="prep"/>
+    <dep from="t139" to="t138" rfunc="nummod"/>
+    <dep from="t137" to="t139" rfunc="pobj"/>
+    <dep from="t139" to="t140" rfunc="nummod"/>
+    <dep from="t136" to="t141" rfunc="punct"/>
+    <dep from="t149" to="t142" rfunc="prep"/>
+    <dep from="t144" to="t143" rfunc="det"/>
+    <dep from="t142" to="t144" rfunc="pobj"/>
+    <dep from="t144" to="t145" rfunc="prep"/>
+    <dep from="t145" to="t146" rfunc="pobj"/>
+    <dep from="t149" to="t147" rfunc="punct"/>
+    <dep from="t149" to="t148" rfunc="nsubj"/>
+    <dep from="t151" to="t150" rfunc="nummod"/>
+    <dep from="t152" to="t151" rfunc="npadvmod"/>
+    <dep from="t149" to="t152" rfunc="acomp"/>
+    <dep from="t149" to="t153" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A n n a n ,   D u m f r i e s   a n d   G a l l o w a y-->
+        <target id="t33"/>
+        <target id="t34"/>
+        <target id="t35"/>
+        <target id="t36"/>
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Annan,_Dumfries_and_Galloway" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Annan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Annan" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--S c o t l a n d-->
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Scotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Scozia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Schotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--D a v i d   I I   o f   S c o t l a n d-->
+        <target id="t49"/>
+        <target id="t50"/>
+        <target id="t51"/>
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/David_II_of_Scotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Davide_II_di_Scozia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/David_II_van_Schotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--E d w a r d   B a l l i o l-->
+        <target id="t61"/>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Edward_Balliol" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Edoardo_Balliol" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Edward_Balliol" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--S i r   A r c h i b a l d   D o u g l a s-->
+        <target id="t86"/>
+        <target id="t87"/>
+        <target id="t88"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Archibald_Douglas_(died_1333)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--J o h n   R a n d o l p h ,   3 r d   E a r l   o f   M o r a y-->
+        <target id="t92"/>
+        <target id="t93"/>
+        <target id="t94"/>
+        <target id="t95"/>
+        <target id="t96"/>
+        <target id="t97"/>
+        <target id="t98"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/John_Randolph,_3rd_Earl_of_Moray" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/John_Randolph,_III_conte_di_Moray" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--R o b e r t   I I   o f   S c o t l a n d-->
+        <target id="t105"/>
+        <target id="t106"/>
+        <target id="t107"/>
+        <target id="t108"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Robert_II_of_Scotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Roberto_II_di_Scozia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Robert_II_van_Schotland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--B a t t l e   o f   D u p p l i n   M o o r-->
+        <target id="t122"/>
+        <target id="t123"/>
+        <target id="t124"/>
+        <target id="t125"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle_of_Dupplin_Moor" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Battaglia_di_Dupplin_Moor" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q281648" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-source_of_getting" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-kinship" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-experiencer_obj" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_sides" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t116"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t119"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-time_vector" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t120"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t128"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-death" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t136"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t139"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t150"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t151"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t152"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

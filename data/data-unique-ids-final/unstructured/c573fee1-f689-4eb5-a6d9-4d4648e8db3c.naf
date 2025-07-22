@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1987 World Championships in Athletics – Men's marathon"/>
+    <public uri="https://en.wikipedia.org/wiki/1987_World_Championships_in_Athletics_%E2%80%93_Men%27s_marathon"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T11:46:53UTC" endTimestamp="2020-05-28T11:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T11:46:53UTC" endTimestamp="2020-05-28T11:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T11:46:53UTC" endTimestamp="2020-05-28T11:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T11:46:53UTC" endTimestamp="2020-05-28T11:46:53UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:49CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1987 World Championships in Athletics – Men's marathon++.
+The Men's Marathon at the 1987 World Championships in Rome, Italy was held on Sunday September 6, 1987.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1987]]></wf>
+    <wf sent="1" id="w3" length="5" offset="7"><![CDATA[World]]></wf>
+    <wf sent="1" id="w4" length="13" offset="13"><![CDATA[Championships]]></wf>
+    <wf sent="1" id="w5" length="2" offset="27"><![CDATA[in]]></wf>
+    <wf sent="1" id="w6" length="9" offset="30"><![CDATA[Athletics]]></wf>
+    <wf sent="1" id="w7" length="1" offset="40"><![CDATA[–]]></wf>
+    <wf sent="1" id="w8" length="3" offset="42"><![CDATA[Men]]></wf>
+    <wf sent="1" id="w9" length="2" offset="45"><![CDATA['s]]></wf>
+    <wf sent="1" id="w10" length="10" offset="48"><![CDATA[marathon++]]></wf>
+    <wf sent="1" id="w11" length="1" offset="58"><![CDATA[.]]></wf>
+    <wf sent="1" id="w12" length="1" offset="59"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w13" length="3" offset="60"><![CDATA[The]]></wf>
+    <wf sent="2" id="w14" length="3" offset="64"><![CDATA[Men]]></wf>
+    <wf sent="2" id="w15" length="2" offset="67"><![CDATA['s]]></wf>
+    <wf sent="2" id="w16" length="8" offset="70"><![CDATA[Marathon]]></wf>
+    <wf sent="2" id="w17" length="2" offset="79"><![CDATA[at]]></wf>
+    <wf sent="2" id="w18" length="3" offset="82"><![CDATA[the]]></wf>
+    <wf sent="2" id="w19" length="4" offset="86"><![CDATA[1987]]></wf>
+    <wf sent="2" id="w20" length="5" offset="91"><![CDATA[World]]></wf>
+    <wf sent="2" id="w21" length="13" offset="97"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w22" length="2" offset="111"><![CDATA[in]]></wf>
+    <wf sent="2" id="w23" length="4" offset="114"><![CDATA[Rome]]></wf>
+    <wf sent="2" id="w24" length="1" offset="118"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="5" offset="120"><![CDATA[Italy]]></wf>
+    <wf sent="2" id="w26" length="3" offset="126"><![CDATA[was]]></wf>
+    <wf sent="2" id="w27" length="4" offset="130"><![CDATA[held]]></wf>
+    <wf sent="2" id="w28" length="2" offset="135"><![CDATA[on]]></wf>
+    <wf sent="2" id="w29" length="6" offset="138"><![CDATA[Sunday]]></wf>
+    <wf sent="2" id="w30" length="9" offset="145"><![CDATA[September]]></wf>
+    <wf sent="2" id="w31" length="1" offset="155"><![CDATA[6]]></wf>
+    <wf sent="2" id="w32" length="1" offset="156"><![CDATA[,]]></wf>
+    <wf sent="2" id="w33" length="4" offset="158"><![CDATA[1987]]></wf>
+    <wf sent="2" id="w34" length="1" offset="162"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1987" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Athletics" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Men" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="marathon++" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Men" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Marathon" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="1987" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Rome" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Italy" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Sunday" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="6" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="1987" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="punct"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t4" to="t5" rfunc="prep"/>
+    <dep from="t8" to="t6" rfunc="compound"/>
+    <dep from="t10" to="t8" rfunc="poss"/>
+    <dep from="t5" to="t10" rfunc="pobj"/>
+    <dep from="t8" to="t7" rfunc="compound"/>
+    <dep from="t8" to="t9" rfunc="case"/>
+    <dep from="t4" to="t11" rfunc="punct"/>
+    <dep from="t11" to="t12" rfunc=""/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t16" to="t14" rfunc="poss"/>
+    <dep from="t27" to="t16" rfunc="nsubjpass"/>
+    <dep from="t14" to="t15" rfunc="case"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t21" to="t18" rfunc="det"/>
+    <dep from="t17" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t19" rfunc="nummod"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t21" to="t22" rfunc="prep"/>
+    <dep from="t22" to="t23" rfunc="pobj"/>
+    <dep from="t27" to="t24" rfunc="punct"/>
+    <dep from="t27" to="t25" rfunc="nsubjpass"/>
+    <dep from="t27" to="t26" rfunc="auxpass"/>
+    <dep from="t27" to="t28" rfunc="prep"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t28" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="punct"/>
+    <dep from="t30" to="t33" rfunc="nummod"/>
+    <dep from="t27" to="t34" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M e n ' s   M a r a t h o n-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Marathon_race" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 9 8 7   W o r l d   C h a m p i o n s h i p s-->
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1987_World_Championships_in_Athletics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionati_del_mondo_di_atletica_leggera_1987" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wereldkampioenschappen_atletiek_1987" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--R o m e ,   I t a l y-->
+        <target id="t23"/>
+        <target id="t24"/>
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Rome,_Italy" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

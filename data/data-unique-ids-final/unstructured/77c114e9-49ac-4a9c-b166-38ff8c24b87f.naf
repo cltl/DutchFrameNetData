@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Siege of Autun"/>
+    <public uri="https://en.wikipedia.org/wiki/Siege_of_Autun"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:50:49UTC" endTimestamp="2020-05-28T17:50:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:50:49UTC" endTimestamp="2020-05-28T17:50:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:50:49UTC" endTimestamp="2020-05-28T17:50:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:50:49UTC" endTimestamp="2020-05-28T17:50:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:35CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Siege of Autun++.
+The Siege of Autun was a conflict fought between the Roman Empire and the invading barbarian tribe of Alemans, who were ravaging Gaul, in A.D. 356. The Romans successfully defended the city, and the barbarians retreated on the approach of reinforcements.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="5" offset="2"><![CDATA[Siege]]></wf>
+    <wf sent="1" id="w4" length="2" offset="8"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="7" offset="11"><![CDATA[Autun++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="18"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="19"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="20"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="5" offset="24"><![CDATA[Siege]]></wf>
+    <wf sent="2" id="w10" length="2" offset="30"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="5" offset="33"><![CDATA[Autun]]></wf>
+    <wf sent="2" id="w12" length="3" offset="39"><![CDATA[was]]></wf>
+    <wf sent="2" id="w13" length="1" offset="43"><![CDATA[a]]></wf>
+    <wf sent="2" id="w14" length="8" offset="45"><![CDATA[conflict]]></wf>
+    <wf sent="2" id="w15" length="6" offset="54"><![CDATA[fought]]></wf>
+    <wf sent="2" id="w16" length="7" offset="61"><![CDATA[between]]></wf>
+    <wf sent="2" id="w17" length="3" offset="69"><![CDATA[the]]></wf>
+    <wf sent="2" id="w18" length="5" offset="73"><![CDATA[Roman]]></wf>
+    <wf sent="2" id="w19" length="6" offset="79"><![CDATA[Empire]]></wf>
+    <wf sent="2" id="w20" length="3" offset="86"><![CDATA[and]]></wf>
+    <wf sent="2" id="w21" length="3" offset="90"><![CDATA[the]]></wf>
+    <wf sent="2" id="w22" length="8" offset="94"><![CDATA[invading]]></wf>
+    <wf sent="2" id="w23" length="9" offset="103"><![CDATA[barbarian]]></wf>
+    <wf sent="2" id="w24" length="5" offset="113"><![CDATA[tribe]]></wf>
+    <wf sent="2" id="w25" length="2" offset="119"><![CDATA[of]]></wf>
+    <wf sent="2" id="w26" length="7" offset="122"><![CDATA[Alemans]]></wf>
+    <wf sent="2" id="w27" length="1" offset="129"><![CDATA[,]]></wf>
+    <wf sent="2" id="w28" length="3" offset="131"><![CDATA[who]]></wf>
+    <wf sent="2" id="w29" length="4" offset="135"><![CDATA[were]]></wf>
+    <wf sent="2" id="w30" length="8" offset="140"><![CDATA[ravaging]]></wf>
+    <wf sent="2" id="w31" length="4" offset="149"><![CDATA[Gaul]]></wf>
+    <wf sent="2" id="w32" length="1" offset="153"><![CDATA[,]]></wf>
+    <wf sent="2" id="w33" length="2" offset="155"><![CDATA[in]]></wf>
+    <wf sent="2" id="w34" length="4" offset="158"><![CDATA[A.D.]]></wf>
+    <wf sent="2" id="w35" length="3" offset="163"><![CDATA[356]]></wf>
+    <wf sent="2" id="w36" length="1" offset="166"><![CDATA[.]]></wf>
+    <wf sent="3" id="w37" length="3" offset="168"><![CDATA[The]]></wf>
+    <wf sent="3" id="w38" length="6" offset="172"><![CDATA[Romans]]></wf>
+    <wf sent="3" id="w39" length="12" offset="179"><![CDATA[successfully]]></wf>
+    <wf sent="3" id="w40" length="8" offset="192"><![CDATA[defended]]></wf>
+    <wf sent="3" id="w41" length="3" offset="201"><![CDATA[the]]></wf>
+    <wf sent="3" id="w42" length="4" offset="205"><![CDATA[city]]></wf>
+    <wf sent="3" id="w43" length="1" offset="209"><![CDATA[,]]></wf>
+    <wf sent="3" id="w44" length="3" offset="211"><![CDATA[and]]></wf>
+    <wf sent="3" id="w45" length="3" offset="215"><![CDATA[the]]></wf>
+    <wf sent="3" id="w46" length="10" offset="219"><![CDATA[barbarians]]></wf>
+    <wf sent="3" id="w47" length="9" offset="230"><![CDATA[retreated]]></wf>
+    <wf sent="3" id="w48" length="2" offset="240"><![CDATA[on]]></wf>
+    <wf sent="3" id="w49" length="3" offset="243"><![CDATA[the]]></wf>
+    <wf sent="3" id="w50" length="8" offset="247"><![CDATA[approach]]></wf>
+    <wf sent="3" id="w51" length="2" offset="256"><![CDATA[of]]></wf>
+    <wf sent="3" id="w52" length="14" offset="259"><![CDATA[reinforcements]]></wf>
+    <wf sent="3" id="w53" length="1" offset="273"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Siege" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Autun++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Siege" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Autun" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="conflict" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="fight" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Roman" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Empire" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="invade" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="barbarian" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="tribe" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Alemans" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="ravage" pos="VERB" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Gaul" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="A.D." pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="356" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Romans" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="successfully" pos="ADV" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="defend" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="city" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="barbarian" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="retreat" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="approach" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="reinforcement" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t2" to="t3" rfunc="npadvmod"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t12" to="t14" rfunc="attr"/>
+    <dep from="t14" to="t15" rfunc="acl"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t19" to="t17" rfunc="det"/>
+    <dep from="t16" to="t19" rfunc="pobj"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t19" to="t20" rfunc="cc"/>
+    <dep from="t24" to="t21" rfunc="det"/>
+    <dep from="t19" to="t24" rfunc="conj"/>
+    <dep from="t24" to="t22" rfunc="amod"/>
+    <dep from="t24" to="t23" rfunc="amod"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="pobj"/>
+    <dep from="t24" to="t27" rfunc="punct"/>
+    <dep from="t30" to="t28" rfunc="nsubj"/>
+    <dep from="t24" to="t30" rfunc="relcl"/>
+    <dep from="t30" to="t29" rfunc="aux"/>
+    <dep from="t30" to="t31" rfunc="dobj"/>
+    <dep from="t14" to="t32" rfunc="punct"/>
+    <dep from="t14" to="t33" rfunc="prep"/>
+    <dep from="t33" to="t34" rfunc="pobj"/>
+    <dep from="t34" to="t35" rfunc="nummod"/>
+    <dep from="t12" to="t36" rfunc="punct"/>
+    <dep from="t38" to="t37" rfunc="det"/>
+    <dep from="t40" to="t38" rfunc="nsubj"/>
+    <dep from="t40" to="t39" rfunc="advmod"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t40" to="t42" rfunc="dobj"/>
+    <dep from="t40" to="t43" rfunc="punct"/>
+    <dep from="t40" to="t44" rfunc="cc"/>
+    <dep from="t46" to="t45" rfunc="det"/>
+    <dep from="t47" to="t46" rfunc="nsubj"/>
+    <dep from="t40" to="t47" rfunc="conj"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t48" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t47" to="t53" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--R o m a n   E m p i r e-->
+        <target id="t18"/>
+        <target id="t19"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Roman_Empire" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/L'Impero_romano" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Romeinse_Keizerrijk" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A l e m a n s-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Alemans" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--G a u l-->
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gaul" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gallia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gallië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q38060" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--R o m a n s-->
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ancient_Rome" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Civiltà_romana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Romeinse_Rijk" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q1747689" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-defending" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-means" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

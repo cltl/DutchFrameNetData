@@ -1,0 +1,745 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2014 European Parliament election in Hungary"/>
+    <public uri="https://en.wikipedia.org/wiki/2014_European_Parliament_election_in_Hungary"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T21:03:36UTC" endTimestamp="2020-05-27T21:03:36UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T21:03:36UTC" endTimestamp="2020-05-27T21:03:36UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T21:03:36UTC" endTimestamp="2020-05-27T21:03:36UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T21:03:36UTC" endTimestamp="2020-05-27T21:03:36UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:52CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2014 European Parliament election in Hungary++.
+The European Parliament election, 2014 for the election of the delegation from Hungary to the European Parliament was held on 25 May 2014.
+With the Lisbon Treaty coming into force, Hungary held 22 seats in the European Parliament. However, because Croatia joined the EU in 2013, it now holds 21 seats to the Parliament.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2014]]></wf>
+    <wf sent="1" id="w3" length="8" offset="7"><![CDATA[European]]></wf>
+    <wf sent="1" id="w4" length="10" offset="16"><![CDATA[Parliament]]></wf>
+    <wf sent="1" id="w5" length="8" offset="27"><![CDATA[election]]></wf>
+    <wf sent="1" id="w6" length="2" offset="36"><![CDATA[in]]></wf>
+    <wf sent="1" id="w7" length="9" offset="39"><![CDATA[Hungary++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="48"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="49"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="50"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="8" offset="54"><![CDATA[European]]></wf>
+    <wf sent="2" id="w12" length="10" offset="63"><![CDATA[Parliament]]></wf>
+    <wf sent="2" id="w13" length="8" offset="74"><![CDATA[election]]></wf>
+    <wf sent="2" id="w14" length="1" offset="82"><![CDATA[,]]></wf>
+    <wf sent="2" id="w15" length="4" offset="84"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w16" length="3" offset="89"><![CDATA[for]]></wf>
+    <wf sent="2" id="w17" length="3" offset="93"><![CDATA[the]]></wf>
+    <wf sent="2" id="w18" length="8" offset="97"><![CDATA[election]]></wf>
+    <wf sent="2" id="w19" length="2" offset="106"><![CDATA[of]]></wf>
+    <wf sent="2" id="w20" length="3" offset="109"><![CDATA[the]]></wf>
+    <wf sent="2" id="w21" length="10" offset="113"><![CDATA[delegation]]></wf>
+    <wf sent="2" id="w22" length="4" offset="124"><![CDATA[from]]></wf>
+    <wf sent="2" id="w23" length="7" offset="129"><![CDATA[Hungary]]></wf>
+    <wf sent="2" id="w24" length="2" offset="137"><![CDATA[to]]></wf>
+    <wf sent="2" id="w25" length="3" offset="140"><![CDATA[the]]></wf>
+    <wf sent="2" id="w26" length="8" offset="144"><![CDATA[European]]></wf>
+    <wf sent="2" id="w27" length="10" offset="153"><![CDATA[Parliament]]></wf>
+    <wf sent="2" id="w28" length="3" offset="164"><![CDATA[was]]></wf>
+    <wf sent="2" id="w29" length="4" offset="168"><![CDATA[held]]></wf>
+    <wf sent="2" id="w30" length="2" offset="173"><![CDATA[on]]></wf>
+    <wf sent="2" id="w31" length="2" offset="176"><![CDATA[25]]></wf>
+    <wf sent="2" id="w32" length="3" offset="179"><![CDATA[May]]></wf>
+    <wf sent="2" id="w33" length="4" offset="183"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w34" length="1" offset="187"><![CDATA[.]]></wf>
+    <wf sent="2" id="w35" length="1" offset="188"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w36" length="4" offset="189"><![CDATA[With]]></wf>
+    <wf sent="3" id="w37" length="3" offset="194"><![CDATA[the]]></wf>
+    <wf sent="3" id="w38" length="6" offset="198"><![CDATA[Lisbon]]></wf>
+    <wf sent="3" id="w39" length="6" offset="205"><![CDATA[Treaty]]></wf>
+    <wf sent="3" id="w40" length="6" offset="212"><![CDATA[coming]]></wf>
+    <wf sent="3" id="w41" length="4" offset="219"><![CDATA[into]]></wf>
+    <wf sent="3" id="w42" length="5" offset="224"><![CDATA[force]]></wf>
+    <wf sent="3" id="w43" length="1" offset="229"><![CDATA[,]]></wf>
+    <wf sent="3" id="w44" length="7" offset="231"><![CDATA[Hungary]]></wf>
+    <wf sent="3" id="w45" length="4" offset="239"><![CDATA[held]]></wf>
+    <wf sent="3" id="w46" length="2" offset="244"><![CDATA[22]]></wf>
+    <wf sent="3" id="w47" length="5" offset="247"><![CDATA[seats]]></wf>
+    <wf sent="3" id="w48" length="2" offset="253"><![CDATA[in]]></wf>
+    <wf sent="3" id="w49" length="3" offset="256"><![CDATA[the]]></wf>
+    <wf sent="3" id="w50" length="8" offset="260"><![CDATA[European]]></wf>
+    <wf sent="3" id="w51" length="10" offset="269"><![CDATA[Parliament]]></wf>
+    <wf sent="3" id="w52" length="1" offset="279"><![CDATA[.]]></wf>
+    <wf sent="4" id="w53" length="7" offset="281"><![CDATA[However]]></wf>
+    <wf sent="4" id="w54" length="1" offset="288"><![CDATA[,]]></wf>
+    <wf sent="4" id="w55" length="7" offset="290"><![CDATA[because]]></wf>
+    <wf sent="4" id="w56" length="7" offset="298"><![CDATA[Croatia]]></wf>
+    <wf sent="4" id="w57" length="6" offset="306"><![CDATA[joined]]></wf>
+    <wf sent="4" id="w58" length="3" offset="313"><![CDATA[the]]></wf>
+    <wf sent="4" id="w59" length="2" offset="317"><![CDATA[EU]]></wf>
+    <wf sent="4" id="w60" length="2" offset="320"><![CDATA[in]]></wf>
+    <wf sent="4" id="w61" length="4" offset="323"><![CDATA[2013]]></wf>
+    <wf sent="4" id="w62" length="1" offset="327"><![CDATA[,]]></wf>
+    <wf sent="4" id="w63" length="2" offset="329"><![CDATA[it]]></wf>
+    <wf sent="4" id="w64" length="3" offset="332"><![CDATA[now]]></wf>
+    <wf sent="4" id="w65" length="5" offset="336"><![CDATA[holds]]></wf>
+    <wf sent="4" id="w66" length="2" offset="342"><![CDATA[21]]></wf>
+    <wf sent="4" id="w67" length="5" offset="345"><![CDATA[seats]]></wf>
+    <wf sent="4" id="w68" length="2" offset="351"><![CDATA[to]]></wf>
+    <wf sent="4" id="w69" length="3" offset="354"><![CDATA[the]]></wf>
+    <wf sent="4" id="w70" length="10" offset="358"><![CDATA[Parliament]]></wf>
+    <wf sent="4" id="w71" length="1" offset="368"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2014" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="european" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Parliament" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Hungary++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="european" pos="ADJ" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Parliament" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="delegation" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Hungary" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Parliament" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Lisbon" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Treaty" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="come" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="into" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="force" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Hungary" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="22" pos="NUM" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Parliament" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="however" pos="ADV" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="because" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="Croatia" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="join" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="EU" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="2013" pos="NUM" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="now" pos="ADV" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Parliament" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t2" rfunc="nmod"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="prep"/>
+    <dep from="t6" to="t7" rfunc="pobj"/>
+    <dep from="t5" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t13" to="t10" rfunc="det"/>
+    <dep from="t29" to="t13" rfunc="nsubjpass"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t13" to="t14" rfunc="punct"/>
+    <dep from="t13" to="t15" rfunc="appos"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t18" to="t17" rfunc="det"/>
+    <dep from="t16" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="det"/>
+    <dep from="t19" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="prep"/>
+    <dep from="t22" to="t23" rfunc="pobj"/>
+    <dep from="t18" to="t24" rfunc="prep"/>
+    <dep from="t27" to="t25" rfunc="det"/>
+    <dep from="t24" to="t27" rfunc="pobj"/>
+    <dep from="t27" to="t26" rfunc="compound"/>
+    <dep from="t29" to="t28" rfunc="auxpass"/>
+    <dep from="t29" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t32" to="t33" rfunc="nummod"/>
+    <dep from="t29" to="t34" rfunc="punct"/>
+    <dep from="t34" to="t35" rfunc=""/>
+    <dep from="t40" to="t36" rfunc="mark"/>
+    <dep from="t45" to="t40" rfunc="advcl"/>
+    <dep from="t39" to="t37" rfunc="det"/>
+    <dep from="t40" to="t39" rfunc="nsubj"/>
+    <dep from="t39" to="t38" rfunc="compound"/>
+    <dep from="t40" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t45" to="t43" rfunc="punct"/>
+    <dep from="t45" to="t44" rfunc="nsubj"/>
+    <dep from="t47" to="t46" rfunc="nummod"/>
+    <dep from="t45" to="t47" rfunc="dobj"/>
+    <dep from="t47" to="t48" rfunc="prep"/>
+    <dep from="t51" to="t49" rfunc="det"/>
+    <dep from="t48" to="t51" rfunc="pobj"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t45" to="t52" rfunc="punct"/>
+    <dep from="t65" to="t53" rfunc="advmod"/>
+    <dep from="t65" to="t54" rfunc="punct"/>
+    <dep from="t57" to="t55" rfunc="mark"/>
+    <dep from="t65" to="t57" rfunc="advcl"/>
+    <dep from="t57" to="t56" rfunc="nsubj"/>
+    <dep from="t59" to="t58" rfunc="det"/>
+    <dep from="t57" to="t59" rfunc="dobj"/>
+    <dep from="t57" to="t60" rfunc="prep"/>
+    <dep from="t60" to="t61" rfunc="pobj"/>
+    <dep from="t65" to="t62" rfunc="punct"/>
+    <dep from="t65" to="t63" rfunc="nsubj"/>
+    <dep from="t65" to="t64" rfunc="advmod"/>
+    <dep from="t67" to="t66" rfunc="nummod"/>
+    <dep from="t65" to="t67" rfunc="dobj"/>
+    <dep from="t65" to="t68" rfunc="prep"/>
+    <dep from="t70" to="t69" rfunc="det"/>
+    <dep from="t68" to="t70" rfunc="pobj"/>
+    <dep from="t65" to="t71" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--d e l e g a t i o n-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Members_of_the_European_Parliament" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--H u n g a r y-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hungary" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ungheria" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Hongarije" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q28" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--E u r o p e a n   P a r l i a m e n t-->
+        <target id="t26"/>
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/European_Parliament" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Parlamento_europeo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Europees_Parlement" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--L i s b o n   T r e a t y-->
+        <target id="t38"/>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Lisbon_Treaty" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--C r o a t i a-->
+        <target id="t56"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Croatia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Croazia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kroatië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q224" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q28" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t3"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t5"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t11"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-be_in_agreement_on_action" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-arriving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-clothing_parts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-causation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-becoming_a_member" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_collocation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-clothing_parts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t67"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

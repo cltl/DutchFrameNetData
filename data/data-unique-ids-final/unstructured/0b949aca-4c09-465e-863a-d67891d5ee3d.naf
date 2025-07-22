@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Stirling's Plantation"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Stirling%27s_Plantation"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:58:25UTC" endTimestamp="2020-05-28T17:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:58:25UTC" endTimestamp="2020-05-28T17:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:58:25UTC" endTimestamp="2020-05-28T17:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:58:25UTC" endTimestamp="2020-05-28T17:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:09CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Stirling's Plantation++.
+The Battle of Stirling's Plantation (also known as the Battle of Fordoche Bridge) was an American Civil War battle took place on September 29, 1863 in Pointe Coupee Parish, Louisiana.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="8" offset="12"><![CDATA[Stirling]]></wf>
+    <wf sent="1" id="w6" length="2" offset="20"><![CDATA['s]]></wf>
+    <wf sent="1" id="w7" length="12" offset="23"><![CDATA[Plantation++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="6" offset="41"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w12" length="2" offset="48"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="8" offset="51"><![CDATA[Stirling]]></wf>
+    <wf sent="2" id="w14" length="2" offset="59"><![CDATA['s]]></wf>
+    <wf sent="2" id="w15" length="10" offset="62"><![CDATA[Plantation]]></wf>
+    <wf sent="2" id="w16" length="1" offset="73"><![CDATA[(]]></wf>
+    <wf sent="2" id="w17" length="4" offset="74"><![CDATA[also]]></wf>
+    <wf sent="2" id="w18" length="5" offset="79"><![CDATA[known]]></wf>
+    <wf sent="2" id="w19" length="2" offset="85"><![CDATA[as]]></wf>
+    <wf sent="2" id="w20" length="3" offset="88"><![CDATA[the]]></wf>
+    <wf sent="2" id="w21" length="6" offset="92"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w22" length="2" offset="99"><![CDATA[of]]></wf>
+    <wf sent="2" id="w23" length="8" offset="102"><![CDATA[Fordoche]]></wf>
+    <wf sent="2" id="w24" length="6" offset="111"><![CDATA[Bridge]]></wf>
+    <wf sent="2" id="w25" length="1" offset="117"><![CDATA[)]]></wf>
+    <wf sent="2" id="w26" length="3" offset="119"><![CDATA[was]]></wf>
+    <wf sent="2" id="w27" length="2" offset="123"><![CDATA[an]]></wf>
+    <wf sent="2" id="w28" length="8" offset="126"><![CDATA[American]]></wf>
+    <wf sent="2" id="w29" length="5" offset="135"><![CDATA[Civil]]></wf>
+    <wf sent="2" id="w30" length="3" offset="141"><![CDATA[War]]></wf>
+    <wf sent="2" id="w31" length="6" offset="145"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w32" length="4" offset="152"><![CDATA[took]]></wf>
+    <wf sent="2" id="w33" length="5" offset="157"><![CDATA[place]]></wf>
+    <wf sent="2" id="w34" length="2" offset="163"><![CDATA[on]]></wf>
+    <wf sent="2" id="w35" length="9" offset="166"><![CDATA[September]]></wf>
+    <wf sent="2" id="w36" length="2" offset="176"><![CDATA[29]]></wf>
+    <wf sent="2" id="w37" length="1" offset="178"><![CDATA[,]]></wf>
+    <wf sent="2" id="w38" length="4" offset="180"><![CDATA[1863]]></wf>
+    <wf sent="2" id="w39" length="2" offset="185"><![CDATA[in]]></wf>
+    <wf sent="2" id="w40" length="6" offset="188"><![CDATA[Pointe]]></wf>
+    <wf sent="2" id="w41" length="6" offset="195"><![CDATA[Coupee]]></wf>
+    <wf sent="2" id="w42" length="6" offset="202"><![CDATA[Parish]]></wf>
+    <wf sent="2" id="w43" length="1" offset="208"><![CDATA[,]]></wf>
+    <wf sent="2" id="w44" length="9" offset="210"><![CDATA[Louisiana]]></wf>
+    <wf sent="2" id="w45" length="1" offset="219"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Stirling" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Plantation++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Stirling" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Plantation" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="know" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Fordoche" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Bridge" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="american" pos="ADJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="29" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="1863" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Pointe" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Coupee" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Parish" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Louisiana" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t7" to="t5" rfunc="poss"/>
+    <dep from="t4" to="t7" rfunc="pobj"/>
+    <dep from="t5" to="t6" rfunc="case"/>
+    <dep from="t3" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t11" to="t10" rfunc="det"/>
+    <dep from="t26" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t15" to="t13" rfunc="poss"/>
+    <dep from="t12" to="t15" rfunc="pobj"/>
+    <dep from="t13" to="t14" rfunc="case"/>
+    <dep from="t18" to="t16" rfunc="punct"/>
+    <dep from="t11" to="t18" rfunc="parataxis"/>
+    <dep from="t18" to="t17" rfunc="advmod"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="det"/>
+    <dep from="t24" to="t21" rfunc="nmod"/>
+    <dep from="t19" to="t24" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="prep"/>
+    <dep from="t22" to="t23" rfunc="pobj"/>
+    <dep from="t18" to="t25" rfunc="punct"/>
+    <dep from="t31" to="t27" rfunc="det"/>
+    <dep from="t26" to="t31" rfunc="attr"/>
+    <dep from="t31" to="t28" rfunc="compound"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t31" to="t32" rfunc="acl"/>
+    <dep from="t32" to="t33" rfunc="dobj"/>
+    <dep from="t32" to="t34" rfunc="prep"/>
+    <dep from="t34" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t36" rfunc="nummod"/>
+    <dep from="t35" to="t37" rfunc="punct"/>
+    <dep from="t35" to="t38" rfunc="nummod"/>
+    <dep from="t32" to="t39" rfunc="prep"/>
+    <dep from="t42" to="t40" rfunc="compound"/>
+    <dep from="t39" to="t42" rfunc="pobj"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t42" to="t43" rfunc="punct"/>
+    <dep from="t42" to="t44" rfunc="appos"/>
+    <dep from="t26" to="t45" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A m e r i c a n   C i v i l   W a r-->
+        <target id="t28"/>
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/American_Civil_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_di_secessione_americana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Amerikaanse_Burgeroorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--P o i n t e   C o u p e e   P a r i s h ,   L o u i s i a n a-->
+        <target id="t40"/>
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Pointe_Coupee_Parish,_Louisiana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Parrocchia_di_Pointe_Coupee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Pointe_Coupee_Parish" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

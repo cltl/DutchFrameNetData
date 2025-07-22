@@ -1,0 +1,698 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1940 United States House of Representatives elections in Virginia"/>
+    <public uri="https://en.wikipedia.org/wiki/1940_United_States_House_of_Representatives_elections_in_Virginia"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T20:58:03UTC" endTimestamp="2020-05-27T20:58:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T20:58:03UTC" endTimestamp="2020-05-27T20:58:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T20:58:03UTC" endTimestamp="2020-05-27T20:58:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T20:58:03UTC" endTimestamp="2020-05-27T20:58:03UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:50CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1940 United States House of Representatives elections in Virginia++.
+The 1940 United States House of Representatives elections in Virginia were held on November 5, 1940 to determine who will represent the Commonwealth of Virginia in the United States House of Representatives. Virginia had nine seats in the House, apportioned according to the 1930 United States Census. Representatives are elected for two-year terms.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1940]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[United]]></wf>
+    <wf sent="1" id="w4" length="6" offset="14"><![CDATA[States]]></wf>
+    <wf sent="1" id="w5" length="5" offset="21"><![CDATA[House]]></wf>
+    <wf sent="1" id="w6" length="2" offset="27"><![CDATA[of]]></wf>
+    <wf sent="1" id="w7" length="15" offset="30"><![CDATA[Representatives]]></wf>
+    <wf sent="1" id="w8" length="9" offset="46"><![CDATA[elections]]></wf>
+    <wf sent="1" id="w9" length="2" offset="56"><![CDATA[in]]></wf>
+    <wf sent="1" id="w10" length="10" offset="59"><![CDATA[Virginia++]]></wf>
+    <wf sent="1" id="w11" length="1" offset="69"><![CDATA[.]]></wf>
+    <wf sent="1" id="w12" length="1" offset="70"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w13" length="3" offset="71"><![CDATA[The]]></wf>
+    <wf sent="2" id="w14" length="4" offset="75"><![CDATA[1940]]></wf>
+    <wf sent="2" id="w15" length="6" offset="80"><![CDATA[United]]></wf>
+    <wf sent="2" id="w16" length="6" offset="87"><![CDATA[States]]></wf>
+    <wf sent="2" id="w17" length="5" offset="94"><![CDATA[House]]></wf>
+    <wf sent="2" id="w18" length="2" offset="100"><![CDATA[of]]></wf>
+    <wf sent="2" id="w19" length="15" offset="103"><![CDATA[Representatives]]></wf>
+    <wf sent="2" id="w20" length="9" offset="119"><![CDATA[elections]]></wf>
+    <wf sent="2" id="w21" length="2" offset="129"><![CDATA[in]]></wf>
+    <wf sent="2" id="w22" length="8" offset="132"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w23" length="4" offset="141"><![CDATA[were]]></wf>
+    <wf sent="2" id="w24" length="4" offset="146"><![CDATA[held]]></wf>
+    <wf sent="2" id="w25" length="2" offset="151"><![CDATA[on]]></wf>
+    <wf sent="2" id="w26" length="8" offset="154"><![CDATA[November]]></wf>
+    <wf sent="2" id="w27" length="1" offset="163"><![CDATA[5]]></wf>
+    <wf sent="2" id="w28" length="1" offset="164"><![CDATA[,]]></wf>
+    <wf sent="2" id="w29" length="4" offset="166"><![CDATA[1940]]></wf>
+    <wf sent="2" id="w30" length="2" offset="171"><![CDATA[to]]></wf>
+    <wf sent="2" id="w31" length="9" offset="174"><![CDATA[determine]]></wf>
+    <wf sent="2" id="w32" length="3" offset="184"><![CDATA[who]]></wf>
+    <wf sent="2" id="w33" length="4" offset="188"><![CDATA[will]]></wf>
+    <wf sent="2" id="w34" length="9" offset="193"><![CDATA[represent]]></wf>
+    <wf sent="2" id="w35" length="3" offset="203"><![CDATA[the]]></wf>
+    <wf sent="2" id="w36" length="12" offset="207"><![CDATA[Commonwealth]]></wf>
+    <wf sent="2" id="w37" length="2" offset="220"><![CDATA[of]]></wf>
+    <wf sent="2" id="w38" length="8" offset="223"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w39" length="2" offset="232"><![CDATA[in]]></wf>
+    <wf sent="2" id="w40" length="3" offset="235"><![CDATA[the]]></wf>
+    <wf sent="2" id="w41" length="6" offset="239"><![CDATA[United]]></wf>
+    <wf sent="2" id="w42" length="6" offset="246"><![CDATA[States]]></wf>
+    <wf sent="2" id="w43" length="5" offset="253"><![CDATA[House]]></wf>
+    <wf sent="2" id="w44" length="2" offset="259"><![CDATA[of]]></wf>
+    <wf sent="2" id="w45" length="15" offset="262"><![CDATA[Representatives]]></wf>
+    <wf sent="2" id="w46" length="1" offset="277"><![CDATA[.]]></wf>
+    <wf sent="3" id="w47" length="8" offset="279"><![CDATA[Virginia]]></wf>
+    <wf sent="3" id="w48" length="3" offset="288"><![CDATA[had]]></wf>
+    <wf sent="3" id="w49" length="4" offset="292"><![CDATA[nine]]></wf>
+    <wf sent="3" id="w50" length="5" offset="297"><![CDATA[seats]]></wf>
+    <wf sent="3" id="w51" length="2" offset="303"><![CDATA[in]]></wf>
+    <wf sent="3" id="w52" length="3" offset="306"><![CDATA[the]]></wf>
+    <wf sent="3" id="w53" length="5" offset="310"><![CDATA[House]]></wf>
+    <wf sent="3" id="w54" length="1" offset="315"><![CDATA[,]]></wf>
+    <wf sent="3" id="w55" length="11" offset="317"><![CDATA[apportioned]]></wf>
+    <wf sent="3" id="w56" length="9" offset="329"><![CDATA[according]]></wf>
+    <wf sent="3" id="w57" length="2" offset="339"><![CDATA[to]]></wf>
+    <wf sent="3" id="w58" length="3" offset="342"><![CDATA[the]]></wf>
+    <wf sent="3" id="w59" length="4" offset="346"><![CDATA[1930]]></wf>
+    <wf sent="3" id="w60" length="6" offset="351"><![CDATA[United]]></wf>
+    <wf sent="3" id="w61" length="6" offset="358"><![CDATA[States]]></wf>
+    <wf sent="3" id="w62" length="6" offset="365"><![CDATA[Census]]></wf>
+    <wf sent="3" id="w63" length="1" offset="371"><![CDATA[.]]></wf>
+    <wf sent="4" id="w64" length="15" offset="373"><![CDATA[Representatives]]></wf>
+    <wf sent="4" id="w65" length="3" offset="389"><![CDATA[are]]></wf>
+    <wf sent="4" id="w66" length="7" offset="393"><![CDATA[elected]]></wf>
+    <wf sent="4" id="w67" length="3" offset="401"><![CDATA[for]]></wf>
+    <wf sent="4" id="w68" length="3" offset="405"><![CDATA[two]]></wf>
+    <wf sent="4" id="w69" length="1" offset="408"><![CDATA[-]]></wf>
+    <wf sent="4" id="w70" length="4" offset="409"><![CDATA[year]]></wf>
+    <wf sent="4" id="w71" length="5" offset="414"><![CDATA[terms]]></wf>
+    <wf sent="4" id="w72" length="1" offset="419"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1940" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="House" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Representatives" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Virginia++" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="1940" pos="NUM" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="House" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Representatives" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="1940" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="determine" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="will" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="represent" pos="VERB" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Commonwealth" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="House" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Representatives" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="nine" pos="NUM" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="seat" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="House" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="apportion" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="accord" pos="VERB" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="1930" pos="NUM" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="United" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="States" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Census" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="representative" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="year" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="term" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t8" to="t1" rfunc="punct"/>
+    <dep from="t8" to="t2" rfunc="dep"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t8" to="t5" rfunc="nmod"/>
+    <dep from="t5" to="t6" rfunc="prep"/>
+    <dep from="t6" to="t7" rfunc="pobj"/>
+    <dep from="t8" to="t9" rfunc="prep"/>
+    <dep from="t9" to="t10" rfunc="pobj"/>
+    <dep from="t8" to="t11" rfunc="punct"/>
+    <dep from="t11" to="t12" rfunc=""/>
+    <dep from="t20" to="t13" rfunc="det"/>
+    <dep from="t24" to="t20" rfunc="nsubjpass"/>
+    <dep from="t20" to="t14" rfunc="nummod"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t17" to="t16" rfunc="compound"/>
+    <dep from="t20" to="t17" rfunc="nmod"/>
+    <dep from="t17" to="t18" rfunc="prep"/>
+    <dep from="t18" to="t19" rfunc="pobj"/>
+    <dep from="t20" to="t21" rfunc="prep"/>
+    <dep from="t21" to="t22" rfunc="pobj"/>
+    <dep from="t24" to="t23" rfunc="auxpass"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t25" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t27" rfunc="nummod"/>
+    <dep from="t26" to="t28" rfunc="punct"/>
+    <dep from="t26" to="t29" rfunc="nummod"/>
+    <dep from="t31" to="t30" rfunc="aux"/>
+    <dep from="t24" to="t31" rfunc="advcl"/>
+    <dep from="t34" to="t32" rfunc="nsubj"/>
+    <dep from="t31" to="t34" rfunc="ccomp"/>
+    <dep from="t34" to="t33" rfunc="aux"/>
+    <dep from="t36" to="t35" rfunc="det"/>
+    <dep from="t34" to="t36" rfunc="dobj"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t37" to="t38" rfunc="pobj"/>
+    <dep from="t36" to="t39" rfunc="prep"/>
+    <dep from="t43" to="t40" rfunc="det"/>
+    <dep from="t39" to="t43" rfunc="pobj"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t43" to="t42" rfunc="compound"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t24" to="t46" rfunc="punct"/>
+    <dep from="t48" to="t47" rfunc="nsubj"/>
+    <dep from="t50" to="t49" rfunc="nummod"/>
+    <dep from="t48" to="t50" rfunc="dobj"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t53" to="t52" rfunc="det"/>
+    <dep from="t51" to="t53" rfunc="pobj"/>
+    <dep from="t48" to="t54" rfunc="punct"/>
+    <dep from="t48" to="t55" rfunc="conj"/>
+    <dep from="t55" to="t56" rfunc="prep"/>
+    <dep from="t56" to="t57" rfunc="prep"/>
+    <dep from="t62" to="t58" rfunc="det"/>
+    <dep from="t57" to="t62" rfunc="pobj"/>
+    <dep from="t62" to="t59" rfunc="nummod"/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t62" to="t61" rfunc="compound"/>
+    <dep from="t48" to="t63" rfunc="punct"/>
+    <dep from="t66" to="t64" rfunc="nsubjpass"/>
+    <dep from="t66" to="t65" rfunc="auxpass"/>
+    <dep from="t66" to="t67" rfunc="prep"/>
+    <dep from="t70" to="t68" rfunc="nummod"/>
+    <dep from="t71" to="t70" rfunc="compound"/>
+    <dep from="t67" to="t71" rfunc="pobj"/>
+    <dep from="t70" to="t69" rfunc="punct"/>
+    <dep from="t66" to="t72" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--C o m m o n w e a l t h-->
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Commonwealth" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Commonwealth" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gemenebest" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--V i r g i n i a-->
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--U n i t e d   S t a t e s   H o u s e   o f   R e p r e s e n t a t i v e s-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+        <target id="t44"/>
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/United_States_House_of_Representatives" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Camera_dei_rappresentanti" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Huis_van_Afgevaardigden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--1 9 3 0   U n i t e d   S t a t e s   C e n s u s-->
+        <target id="t59"/>
+        <target id="t60"/>
+        <target id="t61"/>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/1930_United_States_Census" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Censimento_degli_Stati_Uniti_d'America_del_1930" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t5"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t8"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-contingency" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-communicate_categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-buildings" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-be_in_agreement_on_action" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t70"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-simple_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

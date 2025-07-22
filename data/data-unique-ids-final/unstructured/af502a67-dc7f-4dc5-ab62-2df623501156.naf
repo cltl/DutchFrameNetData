@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1982 Paris–Roubaix"/>
+    <public uri="https://en.wikipedia.org/wiki/1982_Paris%E2%80%93Roubaix"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T18:51:48UTC" endTimestamp="2020-05-28T18:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T18:51:48UTC" endTimestamp="2020-05-28T18:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T18:51:48UTC" endTimestamp="2020-05-28T18:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T18:51:48UTC" endTimestamp="2020-05-28T18:51:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:54CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1982 Paris–Roubaix++.
+The 1982 Paris–Roubaix was undertaken in very dry conditions, leaving the riders to battle dust clouds over the 270 km. Jan Raas of the Netherlands entered the velodrome at Roubaix to win alone.
+Below, the results for the 1982 edition of the Paris––Roubaix cycling classic.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1982]]></wf>
+    <wf sent="1" id="w3" length="5" offset="7"><![CDATA[Paris]]></wf>
+    <wf sent="1" id="w4" length="1" offset="12"><![CDATA[–]]></wf>
+    <wf sent="1" id="w5" length="9" offset="13"><![CDATA[Roubaix++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="23"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="24"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="28"><![CDATA[1982]]></wf>
+    <wf sent="2" id="w10" length="5" offset="33"><![CDATA[Paris]]></wf>
+    <wf sent="2" id="w11" length="1" offset="38"><![CDATA[–]]></wf>
+    <wf sent="2" id="w12" length="7" offset="39"><![CDATA[Roubaix]]></wf>
+    <wf sent="2" id="w13" length="3" offset="47"><![CDATA[was]]></wf>
+    <wf sent="2" id="w14" length="10" offset="51"><![CDATA[undertaken]]></wf>
+    <wf sent="2" id="w15" length="2" offset="62"><![CDATA[in]]></wf>
+    <wf sent="2" id="w16" length="4" offset="65"><![CDATA[very]]></wf>
+    <wf sent="2" id="w17" length="3" offset="70"><![CDATA[dry]]></wf>
+    <wf sent="2" id="w18" length="10" offset="74"><![CDATA[conditions]]></wf>
+    <wf sent="2" id="w19" length="1" offset="84"><![CDATA[,]]></wf>
+    <wf sent="2" id="w20" length="7" offset="86"><![CDATA[leaving]]></wf>
+    <wf sent="2" id="w21" length="3" offset="94"><![CDATA[the]]></wf>
+    <wf sent="2" id="w22" length="6" offset="98"><![CDATA[riders]]></wf>
+    <wf sent="2" id="w23" length="2" offset="105"><![CDATA[to]]></wf>
+    <wf sent="2" id="w24" length="6" offset="108"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w25" length="4" offset="115"><![CDATA[dust]]></wf>
+    <wf sent="2" id="w26" length="6" offset="120"><![CDATA[clouds]]></wf>
+    <wf sent="2" id="w27" length="4" offset="127"><![CDATA[over]]></wf>
+    <wf sent="2" id="w28" length="3" offset="132"><![CDATA[the]]></wf>
+    <wf sent="2" id="w29" length="3" offset="136"><![CDATA[270]]></wf>
+    <wf sent="2" id="w30" length="1" offset="139"><![CDATA[ ]]></wf>
+    <wf sent="2" id="w31" length="2" offset="140"><![CDATA[km]]></wf>
+    <wf sent="2" id="w32" length="1" offset="142"><![CDATA[.]]></wf>
+    <wf sent="3" id="w33" length="3" offset="144"><![CDATA[Jan]]></wf>
+    <wf sent="3" id="w34" length="4" offset="148"><![CDATA[Raas]]></wf>
+    <wf sent="3" id="w35" length="2" offset="153"><![CDATA[of]]></wf>
+    <wf sent="3" id="w36" length="3" offset="156"><![CDATA[the]]></wf>
+    <wf sent="3" id="w37" length="11" offset="160"><![CDATA[Netherlands]]></wf>
+    <wf sent="3" id="w38" length="7" offset="172"><![CDATA[entered]]></wf>
+    <wf sent="3" id="w39" length="3" offset="180"><![CDATA[the]]></wf>
+    <wf sent="3" id="w40" length="9" offset="184"><![CDATA[velodrome]]></wf>
+    <wf sent="3" id="w41" length="2" offset="194"><![CDATA[at]]></wf>
+    <wf sent="3" id="w42" length="7" offset="197"><![CDATA[Roubaix]]></wf>
+    <wf sent="3" id="w43" length="2" offset="205"><![CDATA[to]]></wf>
+    <wf sent="3" id="w44" length="3" offset="208"><![CDATA[win]]></wf>
+    <wf sent="3" id="w45" length="5" offset="212"><![CDATA[alone]]></wf>
+    <wf sent="3" id="w46" length="1" offset="217"><![CDATA[.]]></wf>
+    <wf sent="3" id="w47" length="1" offset="218"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w48" length="5" offset="219"><![CDATA[Below]]></wf>
+    <wf sent="4" id="w49" length="1" offset="224"><![CDATA[,]]></wf>
+    <wf sent="4" id="w50" length="3" offset="226"><![CDATA[the]]></wf>
+    <wf sent="4" id="w51" length="7" offset="230"><![CDATA[results]]></wf>
+    <wf sent="4" id="w52" length="3" offset="238"><![CDATA[for]]></wf>
+    <wf sent="4" id="w53" length="3" offset="242"><![CDATA[the]]></wf>
+    <wf sent="4" id="w54" length="4" offset="246"><![CDATA[1982]]></wf>
+    <wf sent="4" id="w55" length="7" offset="251"><![CDATA[edition]]></wf>
+    <wf sent="4" id="w56" length="2" offset="259"><![CDATA[of]]></wf>
+    <wf sent="4" id="w57" length="3" offset="262"><![CDATA[the]]></wf>
+    <wf sent="4" id="w58" length="14" offset="266"><![CDATA[Paris––Roubaix]]></wf>
+    <wf sent="4" id="w59" length="7" offset="281"><![CDATA[cycling]]></wf>
+    <wf sent="4" id="w60" length="7" offset="289"><![CDATA[classic]]></wf>
+    <wf sent="4" id="w61" length="1" offset="296"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1982" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Paris" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Roubaix++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1982" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Paris" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Roubaix" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="undertake" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="very" pos="ADV" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="dry" pos="ADJ" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="condition" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="leave" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="rider" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="battle" pos="VERB" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="dust" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="cloud" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="over" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="270" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="  " pos="SPACE" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="km" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Jan" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Raas" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Netherlands" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="enter" pos="VERB" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="velodrome" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Roubaix" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="alone" pos="ADV" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="below" pos="ADV" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="result" pos="NOUN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="1982" pos="NUM" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Paris––Roubaix" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="cycling" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="classic" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t14" to="t12" rfunc="nsubjpass"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="auxpass"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t17" to="t16" rfunc="advmod"/>
+    <dep from="t18" to="t17" rfunc="amod"/>
+    <dep from="t15" to="t18" rfunc="pobj"/>
+    <dep from="t14" to="t19" rfunc="punct"/>
+    <dep from="t14" to="t20" rfunc="advcl"/>
+    <dep from="t22" to="t21" rfunc="det"/>
+    <dep from="t20" to="t22" rfunc="dobj"/>
+    <dep from="t24" to="t23" rfunc="aux"/>
+    <dep from="t20" to="t24" rfunc="advcl"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t24" to="t26" rfunc="dobj"/>
+    <dep from="t24" to="t27" rfunc="prep"/>
+    <dep from="t31" to="t28" rfunc="det"/>
+    <dep from="t27" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t29" rfunc="nummod"/>
+    <dep from="t29" to="t30" rfunc=""/>
+    <dep from="t14" to="t32" rfunc="punct"/>
+    <dep from="t34" to="t33" rfunc="compound"/>
+    <dep from="t38" to="t34" rfunc="nsubj"/>
+    <dep from="t34" to="t35" rfunc="prep"/>
+    <dep from="t37" to="t36" rfunc="det"/>
+    <dep from="t35" to="t37" rfunc="pobj"/>
+    <dep from="t40" to="t39" rfunc="det"/>
+    <dep from="t38" to="t40" rfunc="dobj"/>
+    <dep from="t38" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t44" to="t43" rfunc="aux"/>
+    <dep from="t38" to="t44" rfunc="advcl"/>
+    <dep from="t44" to="t45" rfunc="advmod"/>
+    <dep from="t38" to="t46" rfunc="punct"/>
+    <dep from="t46" to="t47" rfunc=""/>
+    <dep from="t51" to="t48" rfunc="dep"/>
+    <dep from="t51" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="det"/>
+    <dep from="t51" to="t52" rfunc="prep"/>
+    <dep from="t55" to="t53" rfunc="det"/>
+    <dep from="t52" to="t55" rfunc="pobj"/>
+    <dep from="t55" to="t54" rfunc="nummod"/>
+    <dep from="t55" to="t56" rfunc="prep"/>
+    <dep from="t60" to="t57" rfunc="det"/>
+    <dep from="t56" to="t60" rfunc="pobj"/>
+    <dep from="t59" to="t58" rfunc="compound"/>
+    <dep from="t60" to="t59" rfunc="compound"/>
+    <dep from="t51" to="t61" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--J a n   R a a s-->
+        <target id="t33"/>
+        <target id="t34"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jan_Raas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Jan_Raas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Jan_Raas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--N e t h e r l a n d s-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Netherlands" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Paesi_Bassi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nederland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q55" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--P a r i s – – R o u b a i x-->
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Paris–Roubaix" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--c y c l i n g   c l a s s i c-->
+        <target id="t59"/>
+        <target id="t60"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cycling_classic" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attempt" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-becoming_dry" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-departing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-proportional_quantity" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-arriving" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-getting" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

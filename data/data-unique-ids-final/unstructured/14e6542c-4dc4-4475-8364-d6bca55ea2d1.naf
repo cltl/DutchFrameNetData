@@ -1,0 +1,1384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2011 Nigerien general election"/>
+    <public uri="https://en.wikipedia.org/wiki/2011_Nigerien_general_election"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T21:00:49UTC" endTimestamp="2020-05-27T21:00:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T21:00:49UTC" endTimestamp="2020-05-27T21:00:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T21:00:49UTC" endTimestamp="2020-05-27T21:00:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T21:00:49UTC" endTimestamp="2020-05-27T21:00:49UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:42CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2011 Nigerien general election++.
+General elections were held in Niger on 31 January 2011 to elect the President and National Assembly, with a second round of the presidential elections on 12 March. The first round of the presidential elections was originally scheduled to be held on 3 January and the second round on 31 January, but was later postponed. The elections followed a military coup in February 2010 that ousted President Mamadou Tandja.
+The presidential elections resulted in a victory for Mahamadou Issoufou of the Nigerien Party for Democracy and Socialism (PNDS), who defeated Seyni Oumarou of the National Movement for the Development of Society (MNDS). In the National Assembly elections, the PNDS emerged as the largest party.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2011]]></wf>
+    <wf sent="2" id="w3" length="8" offset="7"><![CDATA[Nigerien]]></wf>
+    <wf sent="2" id="w4" length="7" offset="16"><![CDATA[general]]></wf>
+    <wf sent="2" id="w5" length="10" offset="24"><![CDATA[election++]]></wf>
+    <wf sent="2" id="w6" length="1" offset="34"><![CDATA[.]]></wf>
+    <wf sent="2" id="w7" length="1" offset="35"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w8" length="7" offset="36"><![CDATA[General]]></wf>
+    <wf sent="3" id="w9" length="9" offset="44"><![CDATA[elections]]></wf>
+    <wf sent="3" id="w10" length="4" offset="54"><![CDATA[were]]></wf>
+    <wf sent="3" id="w11" length="4" offset="59"><![CDATA[held]]></wf>
+    <wf sent="3" id="w12" length="2" offset="64"><![CDATA[in]]></wf>
+    <wf sent="3" id="w13" length="5" offset="67"><![CDATA[Niger]]></wf>
+    <wf sent="3" id="w14" length="2" offset="73"><![CDATA[on]]></wf>
+    <wf sent="3" id="w15" length="2" offset="76"><![CDATA[31]]></wf>
+    <wf sent="3" id="w16" length="7" offset="79"><![CDATA[January]]></wf>
+    <wf sent="3" id="w17" length="4" offset="87"><![CDATA[2011]]></wf>
+    <wf sent="3" id="w18" length="2" offset="92"><![CDATA[to]]></wf>
+    <wf sent="3" id="w19" length="5" offset="95"><![CDATA[elect]]></wf>
+    <wf sent="3" id="w20" length="3" offset="101"><![CDATA[the]]></wf>
+    <wf sent="3" id="w21" length="9" offset="105"><![CDATA[President]]></wf>
+    <wf sent="3" id="w22" length="3" offset="115"><![CDATA[and]]></wf>
+    <wf sent="3" id="w23" length="8" offset="119"><![CDATA[National]]></wf>
+    <wf sent="3" id="w24" length="8" offset="128"><![CDATA[Assembly]]></wf>
+    <wf sent="3" id="w25" length="1" offset="136"><![CDATA[,]]></wf>
+    <wf sent="3" id="w26" length="4" offset="138"><![CDATA[with]]></wf>
+    <wf sent="3" id="w27" length="1" offset="143"><![CDATA[a]]></wf>
+    <wf sent="3" id="w28" length="6" offset="145"><![CDATA[second]]></wf>
+    <wf sent="3" id="w29" length="5" offset="152"><![CDATA[round]]></wf>
+    <wf sent="3" id="w30" length="2" offset="158"><![CDATA[of]]></wf>
+    <wf sent="3" id="w31" length="3" offset="161"><![CDATA[the]]></wf>
+    <wf sent="3" id="w32" length="12" offset="165"><![CDATA[presidential]]></wf>
+    <wf sent="3" id="w33" length="9" offset="178"><![CDATA[elections]]></wf>
+    <wf sent="3" id="w34" length="2" offset="188"><![CDATA[on]]></wf>
+    <wf sent="3" id="w35" length="2" offset="191"><![CDATA[12]]></wf>
+    <wf sent="3" id="w36" length="5" offset="194"><![CDATA[March]]></wf>
+    <wf sent="3" id="w37" length="1" offset="199"><![CDATA[.]]></wf>
+    <wf sent="4" id="w38" length="3" offset="201"><![CDATA[The]]></wf>
+    <wf sent="4" id="w39" length="5" offset="205"><![CDATA[first]]></wf>
+    <wf sent="4" id="w40" length="5" offset="211"><![CDATA[round]]></wf>
+    <wf sent="4" id="w41" length="2" offset="217"><![CDATA[of]]></wf>
+    <wf sent="4" id="w42" length="3" offset="220"><![CDATA[the]]></wf>
+    <wf sent="4" id="w43" length="12" offset="224"><![CDATA[presidential]]></wf>
+    <wf sent="4" id="w44" length="9" offset="237"><![CDATA[elections]]></wf>
+    <wf sent="4" id="w45" length="3" offset="247"><![CDATA[was]]></wf>
+    <wf sent="4" id="w46" length="10" offset="251"><![CDATA[originally]]></wf>
+    <wf sent="4" id="w47" length="9" offset="262"><![CDATA[scheduled]]></wf>
+    <wf sent="4" id="w48" length="2" offset="272"><![CDATA[to]]></wf>
+    <wf sent="4" id="w49" length="2" offset="275"><![CDATA[be]]></wf>
+    <wf sent="4" id="w50" length="4" offset="278"><![CDATA[held]]></wf>
+    <wf sent="4" id="w51" length="2" offset="283"><![CDATA[on]]></wf>
+    <wf sent="4" id="w52" length="1" offset="286"><![CDATA[3]]></wf>
+    <wf sent="4" id="w53" length="7" offset="288"><![CDATA[January]]></wf>
+    <wf sent="4" id="w54" length="3" offset="296"><![CDATA[and]]></wf>
+    <wf sent="4" id="w55" length="3" offset="300"><![CDATA[the]]></wf>
+    <wf sent="4" id="w56" length="6" offset="304"><![CDATA[second]]></wf>
+    <wf sent="4" id="w57" length="5" offset="311"><![CDATA[round]]></wf>
+    <wf sent="4" id="w58" length="2" offset="317"><![CDATA[on]]></wf>
+    <wf sent="4" id="w59" length="2" offset="320"><![CDATA[31]]></wf>
+    <wf sent="4" id="w60" length="7" offset="323"><![CDATA[January]]></wf>
+    <wf sent="4" id="w61" length="1" offset="330"><![CDATA[,]]></wf>
+    <wf sent="4" id="w62" length="3" offset="332"><![CDATA[but]]></wf>
+    <wf sent="4" id="w63" length="3" offset="336"><![CDATA[was]]></wf>
+    <wf sent="4" id="w64" length="5" offset="340"><![CDATA[later]]></wf>
+    <wf sent="4" id="w65" length="9" offset="346"><![CDATA[postponed]]></wf>
+    <wf sent="4" id="w66" length="1" offset="355"><![CDATA[.]]></wf>
+    <wf sent="5" id="w67" length="3" offset="357"><![CDATA[The]]></wf>
+    <wf sent="5" id="w68" length="9" offset="361"><![CDATA[elections]]></wf>
+    <wf sent="5" id="w69" length="8" offset="371"><![CDATA[followed]]></wf>
+    <wf sent="5" id="w70" length="1" offset="380"><![CDATA[a]]></wf>
+    <wf sent="5" id="w71" length="8" offset="382"><![CDATA[military]]></wf>
+    <wf sent="5" id="w72" length="4" offset="391"><![CDATA[coup]]></wf>
+    <wf sent="5" id="w73" length="2" offset="396"><![CDATA[in]]></wf>
+    <wf sent="5" id="w74" length="8" offset="399"><![CDATA[February]]></wf>
+    <wf sent="5" id="w75" length="4" offset="408"><![CDATA[2010]]></wf>
+    <wf sent="5" id="w76" length="4" offset="413"><![CDATA[that]]></wf>
+    <wf sent="5" id="w77" length="6" offset="418"><![CDATA[ousted]]></wf>
+    <wf sent="5" id="w78" length="9" offset="425"><![CDATA[President]]></wf>
+    <wf sent="5" id="w79" length="7" offset="435"><![CDATA[Mamadou]]></wf>
+    <wf sent="5" id="w80" length="6" offset="443"><![CDATA[Tandja]]></wf>
+    <wf sent="5" id="w81" length="1" offset="449"><![CDATA[.]]></wf>
+    <wf sent="5" id="w82" length="1" offset="450"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w83" length="3" offset="451"><![CDATA[The]]></wf>
+    <wf sent="6" id="w84" length="12" offset="455"><![CDATA[presidential]]></wf>
+    <wf sent="6" id="w85" length="9" offset="468"><![CDATA[elections]]></wf>
+    <wf sent="6" id="w86" length="8" offset="478"><![CDATA[resulted]]></wf>
+    <wf sent="6" id="w87" length="2" offset="487"><![CDATA[in]]></wf>
+    <wf sent="6" id="w88" length="1" offset="490"><![CDATA[a]]></wf>
+    <wf sent="6" id="w89" length="7" offset="492"><![CDATA[victory]]></wf>
+    <wf sent="6" id="w90" length="3" offset="500"><![CDATA[for]]></wf>
+    <wf sent="6" id="w91" length="9" offset="504"><![CDATA[Mahamadou]]></wf>
+    <wf sent="6" id="w92" length="8" offset="514"><![CDATA[Issoufou]]></wf>
+    <wf sent="6" id="w93" length="2" offset="523"><![CDATA[of]]></wf>
+    <wf sent="6" id="w94" length="3" offset="526"><![CDATA[the]]></wf>
+    <wf sent="6" id="w95" length="8" offset="530"><![CDATA[Nigerien]]></wf>
+    <wf sent="6" id="w96" length="5" offset="539"><![CDATA[Party]]></wf>
+    <wf sent="6" id="w97" length="3" offset="545"><![CDATA[for]]></wf>
+    <wf sent="6" id="w98" length="9" offset="549"><![CDATA[Democracy]]></wf>
+    <wf sent="6" id="w99" length="3" offset="559"><![CDATA[and]]></wf>
+    <wf sent="6" id="w100" length="9" offset="563"><![CDATA[Socialism]]></wf>
+    <wf sent="6" id="w101" length="1" offset="573"><![CDATA[(]]></wf>
+    <wf sent="6" id="w102" length="4" offset="574"><![CDATA[PNDS]]></wf>
+    <wf sent="6" id="w103" length="1" offset="578"><![CDATA[)]]></wf>
+    <wf sent="6" id="w104" length="1" offset="579"><![CDATA[,]]></wf>
+    <wf sent="6" id="w105" length="3" offset="581"><![CDATA[who]]></wf>
+    <wf sent="6" id="w106" length="8" offset="585"><![CDATA[defeated]]></wf>
+    <wf sent="6" id="w107" length="5" offset="594"><![CDATA[Seyni]]></wf>
+    <wf sent="6" id="w108" length="7" offset="600"><![CDATA[Oumarou]]></wf>
+    <wf sent="6" id="w109" length="2" offset="608"><![CDATA[of]]></wf>
+    <wf sent="6" id="w110" length="3" offset="611"><![CDATA[the]]></wf>
+    <wf sent="6" id="w111" length="8" offset="615"><![CDATA[National]]></wf>
+    <wf sent="6" id="w112" length="8" offset="624"><![CDATA[Movement]]></wf>
+    <wf sent="6" id="w113" length="3" offset="633"><![CDATA[for]]></wf>
+    <wf sent="6" id="w114" length="3" offset="637"><![CDATA[the]]></wf>
+    <wf sent="6" id="w115" length="11" offset="641"><![CDATA[Development]]></wf>
+    <wf sent="6" id="w116" length="2" offset="653"><![CDATA[of]]></wf>
+    <wf sent="6" id="w117" length="7" offset="656"><![CDATA[Society]]></wf>
+    <wf sent="6" id="w118" length="1" offset="664"><![CDATA[(]]></wf>
+    <wf sent="6" id="w119" length="4" offset="665"><![CDATA[MNDS]]></wf>
+    <wf sent="6" id="w120" length="1" offset="669"><![CDATA[)]]></wf>
+    <wf sent="6" id="w121" length="1" offset="670"><![CDATA[.]]></wf>
+    <wf sent="7" id="w122" length="2" offset="672"><![CDATA[In]]></wf>
+    <wf sent="7" id="w123" length="3" offset="675"><![CDATA[the]]></wf>
+    <wf sent="7" id="w124" length="8" offset="679"><![CDATA[National]]></wf>
+    <wf sent="7" id="w125" length="8" offset="688"><![CDATA[Assembly]]></wf>
+    <wf sent="7" id="w126" length="9" offset="697"><![CDATA[elections]]></wf>
+    <wf sent="7" id="w127" length="1" offset="706"><![CDATA[,]]></wf>
+    <wf sent="7" id="w128" length="3" offset="708"><![CDATA[the]]></wf>
+    <wf sent="7" id="w129" length="4" offset="712"><![CDATA[PNDS]]></wf>
+    <wf sent="7" id="w130" length="7" offset="717"><![CDATA[emerged]]></wf>
+    <wf sent="7" id="w131" length="2" offset="725"><![CDATA[as]]></wf>
+    <wf sent="7" id="w132" length="3" offset="728"><![CDATA[the]]></wf>
+    <wf sent="7" id="w133" length="7" offset="732"><![CDATA[largest]]></wf>
+    <wf sent="7" id="w134" length="5" offset="740"><![CDATA[party]]></wf>
+    <wf sent="7" id="w135" length="1" offset="745"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2011" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Nigerien" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="general" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="general" pos="ADJ" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Niger" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="31" pos="NUM" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="January" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="2011" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="President" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="National" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Assembly" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="presidential" pos="ADJ" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="12" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="presidential" pos="ADJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="originally" pos="ADV" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="schedule" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="January" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="31" pos="NUM" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="January" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="but" pos="CCONJ" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="later" pos="ADV" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="postpone" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="follow" pos="VERB" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="military" pos="ADJ" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="coup" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="February" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="that" pos="DET" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="oust" pos="VERB" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="President" pos="PROPN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Mamadou" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="Tandja" pos="PROPN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="presidential" pos="ADJ" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="result" pos="VERB" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="victory" pos="NOUN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="Mahamadou" pos="PROPN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="Issoufou" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="Nigerien" pos="PROPN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="Party" pos="PROPN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Democracy" pos="PROPN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="Socialism" pos="PROPN" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="PNDS" pos="PROPN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="Seyni" pos="PROPN" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="Oumarou" pos="PROPN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="National" pos="PROPN" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="Movement" pos="PROPN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="Development" pos="PROPN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="Society" pos="PROPN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="MNDS" pos="PROPN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="National" pos="PROPN" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="Assembly" pos="PROPN" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="PNDS" pos="PROPN" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="emerge" pos="VERB" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="large" pos="ADJ" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="party" pos="NOUN" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="pobj"/>
+    <dep from="t5" to="t3" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="compound"/>
+    <dep from="t11" to="t9" rfunc="nsubjpass"/>
+    <dep from="t11" to="t10" rfunc="auxpass"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t12" to="t13" rfunc="pobj"/>
+    <dep from="t11" to="t14" rfunc="prep"/>
+    <dep from="t16" to="t15" rfunc="nummod"/>
+    <dep from="t14" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t19" to="t18" rfunc="aux"/>
+    <dep from="t11" to="t19" rfunc="advcl"/>
+    <dep from="t21" to="t20" rfunc="det"/>
+    <dep from="t19" to="t21" rfunc="dobj"/>
+    <dep from="t21" to="t22" rfunc="cc"/>
+    <dep from="t24" to="t23" rfunc="compound"/>
+    <dep from="t21" to="t24" rfunc="conj"/>
+    <dep from="t19" to="t25" rfunc="punct"/>
+    <dep from="t19" to="t26" rfunc="prep"/>
+    <dep from="t29" to="t27" rfunc="det"/>
+    <dep from="t26" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="amod"/>
+    <dep from="t29" to="t30" rfunc="prep"/>
+    <dep from="t33" to="t31" rfunc="det"/>
+    <dep from="t30" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t32" rfunc="amod"/>
+    <dep from="t29" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="nummod"/>
+    <dep from="t34" to="t36" rfunc="pobj"/>
+    <dep from="t11" to="t37" rfunc="punct"/>
+    <dep from="t40" to="t38" rfunc="det"/>
+    <dep from="t47" to="t40" rfunc="nsubjpass"/>
+    <dep from="t40" to="t39" rfunc="amod"/>
+    <dep from="t40" to="t41" rfunc="prep"/>
+    <dep from="t44" to="t42" rfunc="det"/>
+    <dep from="t41" to="t44" rfunc="pobj"/>
+    <dep from="t44" to="t43" rfunc="amod"/>
+    <dep from="t47" to="t45" rfunc="auxpass"/>
+    <dep from="t47" to="t46" rfunc="advmod"/>
+    <dep from="t50" to="t48" rfunc="aux"/>
+    <dep from="t47" to="t50" rfunc="xcomp"/>
+    <dep from="t50" to="t49" rfunc="auxpass"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t53" to="t52" rfunc="nummod"/>
+    <dep from="t51" to="t53" rfunc="pobj"/>
+    <dep from="t50" to="t54" rfunc="cc"/>
+    <dep from="t57" to="t55" rfunc="det"/>
+    <dep from="t47" to="t57" rfunc="npadvmod"/>
+    <dep from="t57" to="t56" rfunc="amod"/>
+    <dep from="t57" to="t58" rfunc="prep"/>
+    <dep from="t60" to="t59" rfunc="nummod"/>
+    <dep from="t58" to="t60" rfunc="pobj"/>
+    <dep from="t47" to="t61" rfunc="punct"/>
+    <dep from="t47" to="t62" rfunc="cc"/>
+    <dep from="t65" to="t63" rfunc="auxpass"/>
+    <dep from="t47" to="t65" rfunc="conj"/>
+    <dep from="t65" to="t64" rfunc="advmod"/>
+    <dep from="t47" to="t66" rfunc="punct"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t69" to="t68" rfunc="nsubj"/>
+    <dep from="t72" to="t70" rfunc="det"/>
+    <dep from="t69" to="t72" rfunc="dobj"/>
+    <dep from="t72" to="t71" rfunc="amod"/>
+    <dep from="t69" to="t73" rfunc="prep"/>
+    <dep from="t73" to="t74" rfunc="pobj"/>
+    <dep from="t74" to="t75" rfunc="nummod"/>
+    <dep from="t77" to="t76" rfunc="nsubj"/>
+    <dep from="t74" to="t77" rfunc="relcl"/>
+    <dep from="t80" to="t78" rfunc="compound"/>
+    <dep from="t77" to="t80" rfunc="dobj"/>
+    <dep from="t80" to="t79" rfunc="compound"/>
+    <dep from="t69" to="t81" rfunc="punct"/>
+    <dep from="t81" to="t82" rfunc=""/>
+    <dep from="t85" to="t83" rfunc="det"/>
+    <dep from="t86" to="t85" rfunc="nsubj"/>
+    <dep from="t85" to="t84" rfunc="amod"/>
+    <dep from="t86" to="t87" rfunc="prep"/>
+    <dep from="t89" to="t88" rfunc="det"/>
+    <dep from="t87" to="t89" rfunc="pobj"/>
+    <dep from="t89" to="t90" rfunc="prep"/>
+    <dep from="t92" to="t91" rfunc="compound"/>
+    <dep from="t90" to="t92" rfunc="pobj"/>
+    <dep from="t92" to="t93" rfunc="prep"/>
+    <dep from="t96" to="t94" rfunc="det"/>
+    <dep from="t93" to="t96" rfunc="pobj"/>
+    <dep from="t96" to="t95" rfunc="compound"/>
+    <dep from="t96" to="t97" rfunc="prep"/>
+    <dep from="t97" to="t98" rfunc="pobj"/>
+    <dep from="t98" to="t99" rfunc="cc"/>
+    <dep from="t98" to="t100" rfunc="conj"/>
+    <dep from="t102" to="t101" rfunc="punct"/>
+    <dep from="t92" to="t102" rfunc="appos"/>
+    <dep from="t102" to="t103" rfunc="punct"/>
+    <dep from="t92" to="t104" rfunc="punct"/>
+    <dep from="t106" to="t105" rfunc="nsubj"/>
+    <dep from="t92" to="t106" rfunc="relcl"/>
+    <dep from="t108" to="t107" rfunc="compound"/>
+    <dep from="t106" to="t108" rfunc="dobj"/>
+    <dep from="t108" to="t109" rfunc="prep"/>
+    <dep from="t112" to="t110" rfunc="det"/>
+    <dep from="t109" to="t112" rfunc="pobj"/>
+    <dep from="t112" to="t111" rfunc="compound"/>
+    <dep from="t106" to="t113" rfunc="prep"/>
+    <dep from="t115" to="t114" rfunc="det"/>
+    <dep from="t113" to="t115" rfunc="pobj"/>
+    <dep from="t115" to="t116" rfunc="prep"/>
+    <dep from="t116" to="t117" rfunc="pobj"/>
+    <dep from="t119" to="t118" rfunc="punct"/>
+    <dep from="t115" to="t119" rfunc="appos"/>
+    <dep from="t86" to="t120" rfunc="punct"/>
+    <dep from="t86" to="t121" rfunc="punct"/>
+    <dep from="t130" to="t122" rfunc="prep"/>
+    <dep from="t126" to="t123" rfunc="det"/>
+    <dep from="t122" to="t126" rfunc="pobj"/>
+    <dep from="t125" to="t124" rfunc="compound"/>
+    <dep from="t126" to="t125" rfunc="compound"/>
+    <dep from="t130" to="t127" rfunc="punct"/>
+    <dep from="t129" to="t128" rfunc="det"/>
+    <dep from="t130" to="t129" rfunc="nsubj"/>
+    <dep from="t130" to="t131" rfunc="prep"/>
+    <dep from="t134" to="t132" rfunc="det"/>
+    <dep from="t131" to="t134" rfunc="pobj"/>
+    <dep from="t134" to="t133" rfunc="amod"/>
+    <dep from="t130" to="t135" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--N i g e r-->
+        <target id="t13"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Niger" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q1032" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--P r e s i d e n t-->
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/President_of_Niger" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--N a t i o n a l   A s s e m b l y-->
+        <target id="t23"/>
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/National_Assembly_(Niger)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M a m a d o u   T a n d j a-->
+        <target id="t79"/>
+        <target id="t80"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mamadou_Tandja" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mamadou_Tandja" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Mamadou_Tandja" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--M a h a m a d o u   I s s o u f o u-->
+        <target id="t91"/>
+        <target id="t92"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mahamadou_Issoufou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Mahamadou_Issoufou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Mahamadou_Issoufou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--N i g e r i e n   P a r t y   f o r   D e m o c r a c y   a n d   S o c i a l i s m-->
+        <target id="t95"/>
+        <target id="t96"/>
+        <target id="t97"/>
+        <target id="t98"/>
+        <target id="t99"/>
+        <target id="t100"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Nigerien_Party_for_Democracy_and_Socialism" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Partito_Nigerino_per_la_Democrazia_e_il_Socialismo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--S e y n i   O u m a r o u-->
+        <target id="t107"/>
+        <target id="t108"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Seyni_Oumarou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Seyni_Oumarou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Seyni_Oumarou" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--N a t i o n a l   M o v e m e n t   f o r   t h e   D e v e l o p m e n t   o f   S o c i e t y-->
+        <target id="t111"/>
+        <target id="t112"/>
+        <target id="t113"/>
+        <target id="t114"/>
+        <target id="t115"/>
+        <target id="t116"/>
+        <target id="t117"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/National_Movement_for_the_Development_of_Society" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Movimento_Nazionale_per_la_Società_dello_Sviluppo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Nationale_Beweging_voor_de_Ontwikkeling_van_de_Maatschappij" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t13"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q1032" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t4"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t9"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t11"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-appellations" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ammunition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t53"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ammunition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_event_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t68"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-removing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr26" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-appellations" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr27" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+    <predicate id="pr28" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t85"/>
+      </span>
+    </predicate>
+    <predicate id="pr29" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-resolve_problem" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t86"/>
+      </span>
+    </predicate>
+    <predicate id="pr30" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t89"/>
+      </span>
+    </predicate>
+    <predicate id="pr31" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t106"/>
+      </span>
+    </predicate>
+    <predicate id="pr32" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t111"/>
+      </span>
+    </predicate>
+    <predicate id="pr33" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t124"/>
+      </span>
+    </predicate>
+    <predicate id="pr34" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t125"/>
+      </span>
+    </predicate>
+    <predicate id="pr35" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t126"/>
+      </span>
+    </predicate>
+    <predicate id="pr36" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-coming_to_be" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t130"/>
+      </span>
+    </predicate>
+    <predicate id="pr37" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t134"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

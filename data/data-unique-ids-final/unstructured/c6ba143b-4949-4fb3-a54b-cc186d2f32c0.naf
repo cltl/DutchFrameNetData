@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Chantilly"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Chantilly"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:57:46UTC" endTimestamp="2020-05-28T17:57:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:57:46UTC" endTimestamp="2020-05-28T17:57:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:57:46UTC" endTimestamp="2020-05-28T17:57:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:57:46UTC" endTimestamp="2020-05-28T17:57:47UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:10CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Chantilly++.
+The Battle of Chantilly (or Ox Hill, the Confederate name) took place on September 1, 1862, in Fairfax County, Virginia, as the concluding battle of the Northern Virginia Campaign of the American Civil War. Thomas J. "Stonewall" Jackson's corps of the Army of Northern Virginia attempted to cut off the line of retreat of the Union Army of Virginia following the Second Battle of Bull Run but was attacked by two Union divisions. During the ensuing battle, Union division commanders Isaac Stevens and Philip Kearny were both killed, but the Union attack halted Jackson's advance.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="11" offset="12"><![CDATA[Chantilly++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="23"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="24"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="25"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="29"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="36"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="9" offset="39"><![CDATA[Chantilly]]></wf>
+    <wf sent="2" id="w12" length="1" offset="49"><![CDATA[(]]></wf>
+    <wf sent="2" id="w13" length="2" offset="50"><![CDATA[or]]></wf>
+    <wf sent="2" id="w14" length="2" offset="53"><![CDATA[Ox]]></wf>
+    <wf sent="2" id="w15" length="4" offset="56"><![CDATA[Hill]]></wf>
+    <wf sent="2" id="w16" length="1" offset="60"><![CDATA[,]]></wf>
+    <wf sent="2" id="w17" length="3" offset="62"><![CDATA[the]]></wf>
+    <wf sent="2" id="w18" length="11" offset="66"><![CDATA[Confederate]]></wf>
+    <wf sent="2" id="w19" length="4" offset="78"><![CDATA[name]]></wf>
+    <wf sent="2" id="w20" length="1" offset="82"><![CDATA[)]]></wf>
+    <wf sent="2" id="w21" length="4" offset="84"><![CDATA[took]]></wf>
+    <wf sent="2" id="w22" length="5" offset="89"><![CDATA[place]]></wf>
+    <wf sent="2" id="w23" length="2" offset="95"><![CDATA[on]]></wf>
+    <wf sent="2" id="w24" length="9" offset="98"><![CDATA[September]]></wf>
+    <wf sent="2" id="w25" length="1" offset="108"><![CDATA[1]]></wf>
+    <wf sent="2" id="w26" length="1" offset="109"><![CDATA[,]]></wf>
+    <wf sent="2" id="w27" length="4" offset="111"><![CDATA[1862]]></wf>
+    <wf sent="2" id="w28" length="1" offset="115"><![CDATA[,]]></wf>
+    <wf sent="2" id="w29" length="2" offset="117"><![CDATA[in]]></wf>
+    <wf sent="2" id="w30" length="7" offset="120"><![CDATA[Fairfax]]></wf>
+    <wf sent="2" id="w31" length="6" offset="128"><![CDATA[County]]></wf>
+    <wf sent="2" id="w32" length="1" offset="134"><![CDATA[,]]></wf>
+    <wf sent="2" id="w33" length="8" offset="136"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w34" length="1" offset="144"><![CDATA[,]]></wf>
+    <wf sent="2" id="w35" length="2" offset="146"><![CDATA[as]]></wf>
+    <wf sent="2" id="w36" length="3" offset="149"><![CDATA[the]]></wf>
+    <wf sent="2" id="w37" length="10" offset="153"><![CDATA[concluding]]></wf>
+    <wf sent="2" id="w38" length="6" offset="164"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w39" length="2" offset="171"><![CDATA[of]]></wf>
+    <wf sent="2" id="w40" length="3" offset="174"><![CDATA[the]]></wf>
+    <wf sent="2" id="w41" length="8" offset="178"><![CDATA[Northern]]></wf>
+    <wf sent="2" id="w42" length="8" offset="187"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w43" length="8" offset="196"><![CDATA[Campaign]]></wf>
+    <wf sent="2" id="w44" length="2" offset="205"><![CDATA[of]]></wf>
+    <wf sent="2" id="w45" length="3" offset="208"><![CDATA[the]]></wf>
+    <wf sent="2" id="w46" length="8" offset="212"><![CDATA[American]]></wf>
+    <wf sent="2" id="w47" length="5" offset="221"><![CDATA[Civil]]></wf>
+    <wf sent="2" id="w48" length="3" offset="227"><![CDATA[War]]></wf>
+    <wf sent="2" id="w49" length="1" offset="230"><![CDATA[.]]></wf>
+    <wf sent="3" id="w50" length="6" offset="232"><![CDATA[Thomas]]></wf>
+    <wf sent="3" id="w51" length="2" offset="239"><![CDATA[J.]]></wf>
+    <wf sent="4" id="w52" length="1" offset="242"><![CDATA["]]></wf>
+    <wf sent="4" id="w53" length="9" offset="243"><![CDATA[Stonewall]]></wf>
+    <wf sent="4" id="w54" length="1" offset="252"><![CDATA["]]></wf>
+    <wf sent="4" id="w55" length="7" offset="254"><![CDATA[Jackson]]></wf>
+    <wf sent="4" id="w56" length="2" offset="261"><![CDATA['s]]></wf>
+    <wf sent="4" id="w57" length="5" offset="264"><![CDATA[corps]]></wf>
+    <wf sent="4" id="w58" length="2" offset="270"><![CDATA[of]]></wf>
+    <wf sent="4" id="w59" length="3" offset="273"><![CDATA[the]]></wf>
+    <wf sent="4" id="w60" length="4" offset="277"><![CDATA[Army]]></wf>
+    <wf sent="4" id="w61" length="2" offset="282"><![CDATA[of]]></wf>
+    <wf sent="4" id="w62" length="8" offset="285"><![CDATA[Northern]]></wf>
+    <wf sent="4" id="w63" length="8" offset="294"><![CDATA[Virginia]]></wf>
+    <wf sent="4" id="w64" length="9" offset="303"><![CDATA[attempted]]></wf>
+    <wf sent="4" id="w65" length="2" offset="313"><![CDATA[to]]></wf>
+    <wf sent="4" id="w66" length="3" offset="316"><![CDATA[cut]]></wf>
+    <wf sent="4" id="w67" length="3" offset="320"><![CDATA[off]]></wf>
+    <wf sent="4" id="w68" length="3" offset="324"><![CDATA[the]]></wf>
+    <wf sent="4" id="w69" length="4" offset="328"><![CDATA[line]]></wf>
+    <wf sent="4" id="w70" length="2" offset="333"><![CDATA[of]]></wf>
+    <wf sent="4" id="w71" length="7" offset="336"><![CDATA[retreat]]></wf>
+    <wf sent="4" id="w72" length="2" offset="344"><![CDATA[of]]></wf>
+    <wf sent="4" id="w73" length="3" offset="347"><![CDATA[the]]></wf>
+    <wf sent="4" id="w74" length="5" offset="351"><![CDATA[Union]]></wf>
+    <wf sent="4" id="w75" length="4" offset="357"><![CDATA[Army]]></wf>
+    <wf sent="4" id="w76" length="2" offset="362"><![CDATA[of]]></wf>
+    <wf sent="4" id="w77" length="8" offset="365"><![CDATA[Virginia]]></wf>
+    <wf sent="4" id="w78" length="9" offset="374"><![CDATA[following]]></wf>
+    <wf sent="4" id="w79" length="3" offset="384"><![CDATA[the]]></wf>
+    <wf sent="4" id="w80" length="6" offset="388"><![CDATA[Second]]></wf>
+    <wf sent="4" id="w81" length="6" offset="395"><![CDATA[Battle]]></wf>
+    <wf sent="4" id="w82" length="2" offset="402"><![CDATA[of]]></wf>
+    <wf sent="4" id="w83" length="4" offset="405"><![CDATA[Bull]]></wf>
+    <wf sent="4" id="w84" length="3" offset="410"><![CDATA[Run]]></wf>
+    <wf sent="4" id="w85" length="3" offset="414"><![CDATA[but]]></wf>
+    <wf sent="4" id="w86" length="3" offset="418"><![CDATA[was]]></wf>
+    <wf sent="4" id="w87" length="8" offset="422"><![CDATA[attacked]]></wf>
+    <wf sent="4" id="w88" length="2" offset="431"><![CDATA[by]]></wf>
+    <wf sent="4" id="w89" length="3" offset="434"><![CDATA[two]]></wf>
+    <wf sent="4" id="w90" length="5" offset="438"><![CDATA[Union]]></wf>
+    <wf sent="4" id="w91" length="9" offset="444"><![CDATA[divisions]]></wf>
+    <wf sent="4" id="w92" length="1" offset="453"><![CDATA[.]]></wf>
+    <wf sent="5" id="w93" length="6" offset="455"><![CDATA[During]]></wf>
+    <wf sent="5" id="w94" length="3" offset="462"><![CDATA[the]]></wf>
+    <wf sent="5" id="w95" length="7" offset="466"><![CDATA[ensuing]]></wf>
+    <wf sent="5" id="w96" length="6" offset="474"><![CDATA[battle]]></wf>
+    <wf sent="5" id="w97" length="1" offset="480"><![CDATA[,]]></wf>
+    <wf sent="5" id="w98" length="5" offset="482"><![CDATA[Union]]></wf>
+    <wf sent="5" id="w99" length="8" offset="488"><![CDATA[division]]></wf>
+    <wf sent="5" id="w100" length="10" offset="497"><![CDATA[commanders]]></wf>
+    <wf sent="5" id="w101" length="5" offset="508"><![CDATA[Isaac]]></wf>
+    <wf sent="5" id="w102" length="7" offset="514"><![CDATA[Stevens]]></wf>
+    <wf sent="5" id="w103" length="3" offset="522"><![CDATA[and]]></wf>
+    <wf sent="5" id="w104" length="6" offset="526"><![CDATA[Philip]]></wf>
+    <wf sent="5" id="w105" length="6" offset="533"><![CDATA[Kearny]]></wf>
+    <wf sent="5" id="w106" length="4" offset="540"><![CDATA[were]]></wf>
+    <wf sent="5" id="w107" length="4" offset="545"><![CDATA[both]]></wf>
+    <wf sent="5" id="w108" length="6" offset="550"><![CDATA[killed]]></wf>
+    <wf sent="5" id="w109" length="1" offset="556"><![CDATA[,]]></wf>
+    <wf sent="5" id="w110" length="3" offset="558"><![CDATA[but]]></wf>
+    <wf sent="5" id="w111" length="3" offset="562"><![CDATA[the]]></wf>
+    <wf sent="5" id="w112" length="5" offset="566"><![CDATA[Union]]></wf>
+    <wf sent="5" id="w113" length="6" offset="572"><![CDATA[attack]]></wf>
+    <wf sent="5" id="w114" length="6" offset="579"><![CDATA[halted]]></wf>
+    <wf sent="5" id="w115" length="7" offset="586"><![CDATA[Jackson]]></wf>
+    <wf sent="5" id="w116" length="2" offset="593"><![CDATA['s]]></wf>
+    <wf sent="5" id="w117" length="7" offset="596"><![CDATA[advance]]></wf>
+    <wf sent="5" id="w118" length="1" offset="603"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Chantilly++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Chantilly" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="or" pos="CCONJ" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Ox" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Hill" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Confederate" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="name" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1862" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Fairfax" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="County" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="conclude" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Northern" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Campaign" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="American" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Thomas" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="J." pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Stonewall" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Jackson" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="corps" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Army" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Northern" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="attempt" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="cut" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="off" pos="PART" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="line" pos="NOUN" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="retreat" pos="NOUN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Army" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="follow" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="Second" pos="PROPN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="Bull" pos="PROPN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Run" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="but" pos="CCONJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="attack" pos="VERB" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="division" pos="NOUN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="ensue" pos="VERB" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="division" pos="NOUN" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="commander" pos="NOUN" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="Isaac" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="Stevens" pos="PROPN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="Philip" pos="PROPN" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="Kearny" pos="PROPN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="both" pos="DET" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="kill" pos="VERB" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="but" pos="CCONJ" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="Union" pos="PROPN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="attack" pos="NOUN" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="halt" pos="VERB" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="Jackson" pos="PROPN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="advance" pos="NOUN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t21" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t9" to="t12" rfunc="punct"/>
+    <dep from="t9" to="t13" rfunc="cc"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t9" to="t15" rfunc="conj"/>
+    <dep from="t15" to="t16" rfunc="punct"/>
+    <dep from="t19" to="t17" rfunc="det"/>
+    <dep from="t15" to="t19" rfunc="appos"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t15" to="t20" rfunc="punct"/>
+    <dep from="t21" to="t22" rfunc="dobj"/>
+    <dep from="t21" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="nummod"/>
+    <dep from="t24" to="t26" rfunc="punct"/>
+    <dep from="t24" to="t27" rfunc="nummod"/>
+    <dep from="t24" to="t28" rfunc="punct"/>
+    <dep from="t24" to="t29" rfunc="prep"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t29" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t32" rfunc="punct"/>
+    <dep from="t31" to="t33" rfunc="appos"/>
+    <dep from="t21" to="t34" rfunc="punct"/>
+    <dep from="t21" to="t35" rfunc="prep"/>
+    <dep from="t38" to="t36" rfunc="det"/>
+    <dep from="t35" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t37" rfunc="amod"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t43" to="t40" rfunc="det"/>
+    <dep from="t39" to="t43" rfunc="pobj"/>
+    <dep from="t42" to="t41" rfunc="compound"/>
+    <dep from="t43" to="t42" rfunc="compound"/>
+    <dep from="t43" to="t44" rfunc="prep"/>
+    <dep from="t48" to="t45" rfunc="det"/>
+    <dep from="t44" to="t48" rfunc="pobj"/>
+    <dep from="t48" to="t46" rfunc="compound"/>
+    <dep from="t48" to="t47" rfunc="compound"/>
+    <dep from="t21" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t55" to="t52" rfunc="punct"/>
+    <dep from="t57" to="t55" rfunc="poss"/>
+    <dep from="t64" to="t57" rfunc="nsubj"/>
+    <dep from="t55" to="t53" rfunc="nmod"/>
+    <dep from="t55" to="t54" rfunc="punct"/>
+    <dep from="t55" to="t56" rfunc="case"/>
+    <dep from="t57" to="t58" rfunc="prep"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t58" to="t60" rfunc="pobj"/>
+    <dep from="t60" to="t61" rfunc="prep"/>
+    <dep from="t63" to="t62" rfunc="compound"/>
+    <dep from="t61" to="t63" rfunc="pobj"/>
+    <dep from="t66" to="t65" rfunc="aux"/>
+    <dep from="t64" to="t66" rfunc="xcomp"/>
+    <dep from="t66" to="t67" rfunc="prt"/>
+    <dep from="t69" to="t68" rfunc="det"/>
+    <dep from="t66" to="t69" rfunc="dobj"/>
+    <dep from="t69" to="t70" rfunc="prep"/>
+    <dep from="t70" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t72" rfunc="prep"/>
+    <dep from="t75" to="t73" rfunc="det"/>
+    <dep from="t72" to="t75" rfunc="pobj"/>
+    <dep from="t75" to="t74" rfunc="compound"/>
+    <dep from="t75" to="t76" rfunc="prep"/>
+    <dep from="t76" to="t77" rfunc="pobj"/>
+    <dep from="t66" to="t78" rfunc="prep"/>
+    <dep from="t81" to="t79" rfunc="det"/>
+    <dep from="t78" to="t81" rfunc="pobj"/>
+    <dep from="t81" to="t80" rfunc="compound"/>
+    <dep from="t81" to="t82" rfunc="prep"/>
+    <dep from="t84" to="t83" rfunc="compound"/>
+    <dep from="t82" to="t84" rfunc="pobj"/>
+    <dep from="t64" to="t85" rfunc="cc"/>
+    <dep from="t87" to="t86" rfunc="auxpass"/>
+    <dep from="t64" to="t87" rfunc="conj"/>
+    <dep from="t87" to="t88" rfunc="agent"/>
+    <dep from="t91" to="t89" rfunc="nummod"/>
+    <dep from="t88" to="t91" rfunc="pobj"/>
+    <dep from="t91" to="t90" rfunc="compound"/>
+    <dep from="t64" to="t92" rfunc="punct"/>
+    <dep from="t108" to="t93" rfunc="prep"/>
+    <dep from="t96" to="t94" rfunc="det"/>
+    <dep from="t93" to="t96" rfunc="pobj"/>
+    <dep from="t96" to="t95" rfunc="amod"/>
+    <dep from="t108" to="t97" rfunc="punct"/>
+    <dep from="t100" to="t98" rfunc="compound"/>
+    <dep from="t102" to="t100" rfunc="compound"/>
+    <dep from="t108" to="t102" rfunc="nsubjpass"/>
+    <dep from="t100" to="t99" rfunc="compound"/>
+    <dep from="t102" to="t101" rfunc="compound"/>
+    <dep from="t102" to="t103" rfunc="cc"/>
+    <dep from="t105" to="t104" rfunc="compound"/>
+    <dep from="t102" to="t105" rfunc="conj"/>
+    <dep from="t108" to="t106" rfunc="auxpass"/>
+    <dep from="t108" to="t107" rfunc="dep"/>
+    <dep from="t108" to="t109" rfunc="punct"/>
+    <dep from="t108" to="t110" rfunc="cc"/>
+    <dep from="t113" to="t111" rfunc="det"/>
+    <dep from="t114" to="t113" rfunc="nsubj"/>
+    <dep from="t108" to="t114" rfunc="conj"/>
+    <dep from="t113" to="t112" rfunc="compound"/>
+    <dep from="t117" to="t115" rfunc="poss"/>
+    <dep from="t114" to="t117" rfunc="dobj"/>
+    <dep from="t115" to="t116" rfunc="case"/>
+    <dep from="t114" to="t118" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--F a i r f a x   C o u n t y ,   V i r g i n i a-->
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Fairfax_County,_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Contea_di_Fairfax" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Fairfax_County" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--N o r t h e r n   V i r g i n i a   C a m p a i g n-->
+        <target id="t41"/>
+        <target id="t42"/>
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Northern_Virginia_Campaign" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campagna_della_Virginia_settentrionale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Veldtocht_in_noordelijk_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q1952979" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--A m e r i c a n   C i v i l   W a r-->
+        <target id="t46"/>
+        <target id="t47"/>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/American_Civil_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_di_secessione_americana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Amerikaanse_Burgeroorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--T h o m a s   J .   " S t o n e w a l l "   J a c k s o n ' s-->
+        <target id="t50"/>
+        <target id="t51"/>
+        <target id="t52"/>
+        <target id="t53"/>
+        <target id="t54"/>
+        <target id="t55"/>
+        <target id="t56"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Stonewall_Jackson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Thomas_Jonathan_Jackson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thomas_Jackson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--A r m y   o f   N o r t h e r n   V i r g i n i a-->
+        <target id="t60"/>
+        <target id="t61"/>
+        <target id="t62"/>
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Armata_Confederata_della_Virginia_Settentrionale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Army_of_Northern_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--U n i o n-->
+        <target id="t74"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Union_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Union_Army" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--A r m y   o f   V i r g i n i a-->
+        <target id="t75"/>
+        <target id="t76"/>
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Army_of_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Armata_della_Virginia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--S e c o n d   B a t t l e   o f   B u l l   R u n-->
+        <target id="t80"/>
+        <target id="t81"/>
+        <target id="t82"/>
+        <target id="t83"/>
+        <target id="t84"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Second_Battle_of_Bull_Run" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Seconda_battaglia_di_Bull_Run" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tweede_Slag_bij_Bull_Run" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q233343" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--I s a a c   S t e v e n s-->
+        <target id="t101"/>
+        <target id="t102"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Isaac_Stevens" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--P h i l i p   K e a r n y-->
+        <target id="t104"/>
+        <target id="t105"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Philip_Kearny" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Philip_Kearny" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_named" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attempt" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cutting" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relative_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attack" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t87"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-non-commutative_process" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t91"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t96"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-non-commutative_process" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t99"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t100"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-killing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t108"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attack" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t113"/>
+      </span>
+    </predicate>
+    <predicate id="pr25" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-activity_stop" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t114"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

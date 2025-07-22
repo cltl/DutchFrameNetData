@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Europese kampioenschappen atletiek 1934 – marathon"/>
+    <public uri="https://nl.wikipedia.org/wiki/Europese_kampioenschappen_atletiek_1934_%E2%80%93_marathon"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T11:46:42UTC" endTimestamp="2020-05-28T11:46:42UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T11:46:42UTC" endTimestamp="2020-05-28T11:46:42UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T11:46:42UTC" endTimestamp="2020-05-28T11:46:42UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T11:46:42UTC" endTimestamp="2020-05-28T11:46:42UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Europese kampioenschappen atletiek 1934 – marathon++.
+Het Europees kampioenschap marathon van 1934 werd gehouden op 9 september 1934 in de Italiaanse stad Turijn.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="8" offset="2"><![CDATA[Europese]]></wf>
+    <wf sent="1" id="w4" length="16" offset="11"><![CDATA[kampioenschappen]]></wf>
+    <wf sent="1" id="w5" length="8" offset="28"><![CDATA[atletiek]]></wf>
+    <wf sent="1" id="w6" length="4" offset="37"><![CDATA[1934]]></wf>
+    <wf sent="1" id="w7" length="1" offset="42"><![CDATA[–]]></wf>
+    <wf sent="1" id="w8" length="10" offset="44"><![CDATA[marathon++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="54"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="55"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="56"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="8" offset="60"><![CDATA[Europees]]></wf>
+    <wf sent="2" id="w13" length="13" offset="69"><![CDATA[kampioenschap]]></wf>
+    <wf sent="2" id="w14" length="8" offset="83"><![CDATA[marathon]]></wf>
+    <wf sent="2" id="w15" length="3" offset="92"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="4" offset="96"><![CDATA[1934]]></wf>
+    <wf sent="2" id="w17" length="4" offset="101"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w18" length="8" offset="106"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w19" length="2" offset="115"><![CDATA[op]]></wf>
+    <wf sent="2" id="w20" length="1" offset="118"><![CDATA[9]]></wf>
+    <wf sent="2" id="w21" length="9" offset="120"><![CDATA[september]]></wf>
+    <wf sent="2" id="w22" length="4" offset="130"><![CDATA[1934]]></wf>
+    <wf sent="2" id="w23" length="2" offset="135"><![CDATA[in]]></wf>
+    <wf sent="2" id="w24" length="2" offset="138"><![CDATA[de]]></wf>
+    <wf sent="2" id="w25" length="10" offset="141"><![CDATA[Italiaanse]]></wf>
+    <wf sent="2" id="w26" length="4" offset="152"><![CDATA[stad]]></wf>
+    <wf sent="2" id="w27" length="6" offset="157"><![CDATA[Turijn]]></wf>
+    <wf sent="2" id="w28" length="1" offset="163"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="europees" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="kampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="atletiek" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="1934" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="–" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="marathon++" pos="NOUN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="europees" pos="ADJ" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="kampioenschap" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="marathon" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="1934" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="9" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="septemb" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="1934" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="italiaans" pos="ADJ" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="stad" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="turijn" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t8" to="t1" rfunc="nmod"/>
+    <dep from="t4" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t4" rfunc="dep"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t4" to="t5" rfunc="appos"/>
+    <dep from="t5" to="t6" rfunc="appos"/>
+    <dep from="t1" to="t7" rfunc="dep"/>
+    <dep from="t8" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t13" to="t11" rfunc="det"/>
+    <dep from="t18" to="t13" rfunc="nsubj"/>
+    <dep from="t13" to="t12" rfunc="amod"/>
+    <dep from="t18" to="t14" rfunc="obl"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t14" to="t16" rfunc="nummod"/>
+    <dep from="t18" to="t17" rfunc="aux"/>
+    <dep from="t20" to="t19" rfunc="case"/>
+    <dep from="t18" to="t20" rfunc="obl"/>
+    <dep from="t20" to="t21" rfunc="compound"/>
+    <dep from="t20" to="t22" rfunc="compound"/>
+    <dep from="t26" to="t23" rfunc="case"/>
+    <dep from="t18" to="t26" rfunc="obl"/>
+    <dep from="t26" to="t24" rfunc="det"/>
+    <dep from="t26" to="t25" rfunc="amod"/>
+    <dep from="t26" to="t27" rfunc="appos"/>
+    <dep from="t18" to="t28" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--I t a l i a a n s e-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Italië" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Portale:Italia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Italy_Pavilion_at_Epcot" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q38" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--T u r i j n-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Turijn_(stad)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q38" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

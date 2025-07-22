@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Wit-Russische parlementsverkiezingen 2012"/>
+    <public uri="https://nl.wikipedia.org/wiki/Wit-Russische_parlementsverkiezingen_2012"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T21:04:10UTC" endTimestamp="2020-05-27T21:04:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T21:04:10UTC" endTimestamp="2020-05-27T21:04:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T21:04:10UTC" endTimestamp="2020-05-27T21:04:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T21:04:10UTC" endTimestamp="2020-05-27T21:04:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Wit-Russische parlementsverkiezingen 2012++.
+Op 23 september 2012 vonden er parlementsverkiezingen in Wit-Rusland plaats.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[Wit]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="9" offset="6"><![CDATA[Russische]]></wf>
+    <wf sent="1" id="w6" length="22" offset="16"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="1" id="w7" length="6" offset="39"><![CDATA[2012++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="45"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="46"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="2" offset="47"><![CDATA[Op]]></wf>
+    <wf sent="2" id="w11" length="2" offset="50"><![CDATA[23]]></wf>
+    <wf sent="2" id="w12" length="9" offset="53"><![CDATA[september]]></wf>
+    <wf sent="2" id="w13" length="4" offset="63"><![CDATA[2012]]></wf>
+    <wf sent="2" id="w14" length="6" offset="68"><![CDATA[vonden]]></wf>
+    <wf sent="2" id="w15" length="2" offset="75"><![CDATA[er]]></wf>
+    <wf sent="2" id="w16" length="22" offset="78"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="2" id="w17" length="2" offset="101"><![CDATA[in]]></wf>
+    <wf sent="2" id="w18" length="3" offset="104"><![CDATA[Wit]]></wf>
+    <wf sent="2" id="w19" length="1" offset="107"><![CDATA[-]]></wf>
+    <wf sent="2" id="w20" length="7" offset="108"><![CDATA[Rusland]]></wf>
+    <wf sent="2" id="w21" length="6" offset="116"><![CDATA[plaats]]></wf>
+    <wf sent="2" id="w22" length="1" offset="122"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="wit" pos="X" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="russisch" pos="ADJ" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="2012++" pos="NUM" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="23" pos="NUM" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="septemb" pos="NUM" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="vinden" pos="VERB" type="open" component_of="mw1">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="wit" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="rusland" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="plaatsvinden" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="compound"/>
+    <dep from="t1" to="t4" rfunc="nmod"/>
+    <dep from="t6" to="t5" rfunc="amod"/>
+    <dep from="t1" to="t6" rfunc="dep"/>
+    <dep from="t1" to="t7" rfunc="dep"/>
+    <dep from="t1" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t11" to="t10" rfunc="case"/>
+    <dep from="t23" to="t11" rfunc="obl"/>
+    <dep from="t11" to="t12" rfunc="compound"/>
+    <dep from="t11" to="t13" rfunc="compound"/>
+    <dep from="t23" to="t15" rfunc="obj"/>
+    <dep from="t23" to="t16" rfunc="nsubj"/>
+    <dep from="t18" to="t17" rfunc="case"/>
+    <dep from="t23" to="t18" rfunc="obl"/>
+    <dep from="t20" to="t19" rfunc="nmod"/>
+    <dep from="t23" to="t20" rfunc="nsubj"/>
+    <dep from="t14" to="t21" rfunc="compound:prt"/>
+    <dep from="t23" to="t22" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--W i t - R u s l a n d-->
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wit-Rusland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Categoria:Bielorussia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Belarus" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q184" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q184" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <multiwords>
+    <mw id="mw1" lemma="plaatsvinden" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t14"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t21"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

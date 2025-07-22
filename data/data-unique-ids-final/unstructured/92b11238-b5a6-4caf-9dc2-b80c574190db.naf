@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Kopenhagen 2000"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Kopenhagen_2000"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:11:55UTC" endTimestamp="2020-05-27T15:11:55UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:11:55UTC" endTimestamp="2020-05-27T15:11:55UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:11:55UTC" endTimestamp="2020-05-27T15:11:55UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:11:55UTC" endTimestamp="2020-05-27T15:11:55UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Kopenhagen 2000++.
+Het ATP-toernooi van Kopenhagen 2000 werd van 28 februari tot en met 5 maart gespeeld in de Deense hoofdstad Kopenhagen. De wedstrijden werden gespeeld in de K.B. Hallen op hardcourt.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="10" offset="19"><![CDATA[Kopenhagen]]></wf>
+    <wf sent="1" id="w8" length="6" offset="30"><![CDATA[2000++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="36"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="37"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="38"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="3" offset="42"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w13" length="1" offset="45"><![CDATA[-]]></wf>
+    <wf sent="2" id="w14" length="8" offset="46"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w15" length="3" offset="55"><![CDATA[van]]></wf>
+    <wf sent="2" id="w16" length="10" offset="59"><![CDATA[Kopenhagen]]></wf>
+    <wf sent="2" id="w17" length="4" offset="70"><![CDATA[2000]]></wf>
+    <wf sent="2" id="w18" length="4" offset="75"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w19" length="3" offset="80"><![CDATA[van]]></wf>
+    <wf sent="2" id="w20" length="2" offset="84"><![CDATA[28]]></wf>
+    <wf sent="2" id="w21" length="8" offset="87"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w22" length="3" offset="96"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w23" length="2" offset="100"><![CDATA[en]]></wf>
+    <wf sent="2" id="w24" length="3" offset="103"><![CDATA[met]]></wf>
+    <wf sent="2" id="w25" length="1" offset="107"><![CDATA[5]]></wf>
+    <wf sent="2" id="w26" length="5" offset="109"><![CDATA[maart]]></wf>
+    <wf sent="2" id="w27" length="8" offset="115"><![CDATA[gespeeld]]></wf>
+    <wf sent="2" id="w28" length="2" offset="124"><![CDATA[in]]></wf>
+    <wf sent="2" id="w29" length="2" offset="127"><![CDATA[de]]></wf>
+    <wf sent="2" id="w30" length="6" offset="130"><![CDATA[Deense]]></wf>
+    <wf sent="2" id="w31" length="9" offset="137"><![CDATA[hoofdstad]]></wf>
+    <wf sent="2" id="w32" length="10" offset="147"><![CDATA[Kopenhagen]]></wf>
+    <wf sent="2" id="w33" length="1" offset="157"><![CDATA[.]]></wf>
+    <wf sent="3" id="w34" length="2" offset="159"><![CDATA[De]]></wf>
+    <wf sent="3" id="w35" length="11" offset="162"><![CDATA[wedstrijden]]></wf>
+    <wf sent="3" id="w36" length="6" offset="174"><![CDATA[werden]]></wf>
+    <wf sent="3" id="w37" length="8" offset="181"><![CDATA[gespeeld]]></wf>
+    <wf sent="3" id="w38" length="2" offset="190"><![CDATA[in]]></wf>
+    <wf sent="3" id="w39" length="2" offset="193"><![CDATA[de]]></wf>
+    <wf sent="3" id="w40" length="4" offset="196"><![CDATA[K.B.]]></wf>
+    <wf sent="3" id="w41" length="6" offset="201"><![CDATA[Hallen]]></wf>
+    <wf sent="3" id="w42" length="2" offset="208"><![CDATA[op]]></wf>
+    <wf sent="3" id="w43" length="9" offset="211"><![CDATA[hardcourt]]></wf>
+    <wf sent="3" id="w44" length="1" offset="220"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="kopenhag" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="2000++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="kopenhag" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="2000" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="28" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="maart" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="deens" pos="ADJ" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="hoofdstad" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="kopenhag" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="wedstrijd" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="k.b." pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="hallen" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="op" pos="ADV" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="hardcourt" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t1" to="t8" rfunc="compound"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t12" to="t11" rfunc="det"/>
+    <dep from="t27" to="t12" rfunc="nsubj"/>
+    <dep from="t14" to="t13" rfunc="nmod"/>
+    <dep from="t12" to="t14" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t14" to="t16" rfunc="nmod"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t27" to="t18" rfunc="aux"/>
+    <dep from="t20" to="t19" rfunc="case"/>
+    <dep from="t27" to="t20" rfunc="obl"/>
+    <dep from="t20" to="t21" rfunc="compound"/>
+    <dep from="t27" to="t22" rfunc="advmod"/>
+    <dep from="t25" to="t23" rfunc="cc"/>
+    <dep from="t22" to="t25" rfunc="compound"/>
+    <dep from="t25" to="t24" rfunc="case"/>
+    <dep from="t25" to="t26" rfunc="compound"/>
+    <dep from="t31" to="t28" rfunc="case"/>
+    <dep from="t27" to="t31" rfunc="obl"/>
+    <dep from="t31" to="t29" rfunc="det"/>
+    <dep from="t31" to="t30" rfunc="amod"/>
+    <dep from="t31" to="t32" rfunc="appos"/>
+    <dep from="t27" to="t33" rfunc="punct"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t37" to="t35" rfunc="nsubj"/>
+    <dep from="t37" to="t36" rfunc="aux"/>
+    <dep from="t40" to="t38" rfunc="case"/>
+    <dep from="t37" to="t40" rfunc="advmod"/>
+    <dep from="t40" to="t39" rfunc="det"/>
+    <dep from="t40" to="t41" rfunc="flat"/>
+    <dep from="t43" to="t42" rfunc="case"/>
+    <dep from="t37" to="t43" rfunc="obl"/>
+    <dep from="t37" to="t44" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   K o p e n h a g e n-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Kopenhagen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Copenaghen_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Copenhagen_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 8   f e b r u a r i-->
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/28_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/28_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_28" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--5   m a a r t-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/5_maart" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/5_marzo" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/March_5" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--D e e n s e-->
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Denemarken" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Portale:Danimarca" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Denmark" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q35" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--K o p e n h a g e n-->
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kopenhagen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Copenhagen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Copenhagen_Municipality" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--h a r d c o u r t-->
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Hardcourt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hardcourt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q35" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>

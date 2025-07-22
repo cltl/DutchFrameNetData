@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="5th TVyNovelas Awards"/>
+    <public uri="https://en.wikipedia.org/wiki/5th_TVyNovelas_Awards"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:10:43UTC" endTimestamp="2020-05-27T22:10:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:10:43UTC" endTimestamp="2020-05-27T22:10:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:10:43UTC" endTimestamp="2020-05-27T22:10:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:10:43UTC" endTimestamp="2020-05-27T22:10:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:26CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++5th TVyNovelas Awards++.
+The 4th TVyNovelas Awards, is an Academy of special awards to the best of soap operas and TV shows. The awards ceremony took place on 1987 in the Centro Libanés of Mexico City, Mexico D.F.. The ceremony was televised in the Mexico by Canal de las estrellas.
+Raúl Velasco and Gloria Calzada hosted the show. "Cuna de lobos" won eight awards including Best Telenovela of the Year, the most for the evening. Other winners "El camino secreto" won two awards and "Monte calvario", "Pobre juventud", and "La indomable" won one each.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="4" offset="1"><![CDATA[+5th]]></wf>
+    <wf sent="1" id="w3" length="10" offset="6"><![CDATA[TVyNovelas]]></wf>
+    <wf sent="1" id="w4" length="8" offset="17"><![CDATA[Awards++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="25"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="26"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="27"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="3" offset="31"><![CDATA[4th]]></wf>
+    <wf sent="2" id="w9" length="10" offset="35"><![CDATA[TVyNovelas]]></wf>
+    <wf sent="2" id="w10" length="6" offset="46"><![CDATA[Awards]]></wf>
+    <wf sent="2" id="w11" length="1" offset="52"><![CDATA[,]]></wf>
+    <wf sent="2" id="w12" length="2" offset="54"><![CDATA[is]]></wf>
+    <wf sent="2" id="w13" length="2" offset="57"><![CDATA[an]]></wf>
+    <wf sent="2" id="w14" length="7" offset="60"><![CDATA[Academy]]></wf>
+    <wf sent="2" id="w15" length="2" offset="68"><![CDATA[of]]></wf>
+    <wf sent="2" id="w16" length="7" offset="71"><![CDATA[special]]></wf>
+    <wf sent="2" id="w17" length="6" offset="79"><![CDATA[awards]]></wf>
+    <wf sent="2" id="w18" length="2" offset="86"><![CDATA[to]]></wf>
+    <wf sent="2" id="w19" length="3" offset="89"><![CDATA[the]]></wf>
+    <wf sent="2" id="w20" length="4" offset="93"><![CDATA[best]]></wf>
+    <wf sent="2" id="w21" length="2" offset="98"><![CDATA[of]]></wf>
+    <wf sent="2" id="w22" length="4" offset="101"><![CDATA[soap]]></wf>
+    <wf sent="2" id="w23" length="6" offset="106"><![CDATA[operas]]></wf>
+    <wf sent="2" id="w24" length="3" offset="113"><![CDATA[and]]></wf>
+    <wf sent="2" id="w25" length="2" offset="117"><![CDATA[TV]]></wf>
+    <wf sent="2" id="w26" length="5" offset="120"><![CDATA[shows]]></wf>
+    <wf sent="2" id="w27" length="1" offset="125"><![CDATA[.]]></wf>
+    <wf sent="3" id="w28" length="3" offset="127"><![CDATA[The]]></wf>
+    <wf sent="3" id="w29" length="6" offset="131"><![CDATA[awards]]></wf>
+    <wf sent="3" id="w30" length="8" offset="138"><![CDATA[ceremony]]></wf>
+    <wf sent="3" id="w31" length="4" offset="147"><![CDATA[took]]></wf>
+    <wf sent="3" id="w32" length="5" offset="152"><![CDATA[place]]></wf>
+    <wf sent="3" id="w33" length="2" offset="158"><![CDATA[on]]></wf>
+    <wf sent="3" id="w34" length="4" offset="161"><![CDATA[1987]]></wf>
+    <wf sent="3" id="w35" length="2" offset="166"><![CDATA[in]]></wf>
+    <wf sent="3" id="w36" length="3" offset="169"><![CDATA[the]]></wf>
+    <wf sent="3" id="w37" length="6" offset="173"><![CDATA[Centro]]></wf>
+    <wf sent="3" id="w38" length="7" offset="180"><![CDATA[Libanés]]></wf>
+    <wf sent="3" id="w39" length="2" offset="188"><![CDATA[of]]></wf>
+    <wf sent="3" id="w40" length="6" offset="191"><![CDATA[Mexico]]></wf>
+    <wf sent="3" id="w41" length="4" offset="198"><![CDATA[City]]></wf>
+    <wf sent="3" id="w42" length="1" offset="202"><![CDATA[,]]></wf>
+    <wf sent="3" id="w43" length="6" offset="204"><![CDATA[Mexico]]></wf>
+    <wf sent="3" id="w44" length="3" offset="211"><![CDATA[D.F]]></wf>
+    <wf sent="3" id="w45" length="2" offset="214"><![CDATA[..]]></wf>
+    <wf sent="4" id="w46" length="3" offset="217"><![CDATA[The]]></wf>
+    <wf sent="4" id="w47" length="8" offset="221"><![CDATA[ceremony]]></wf>
+    <wf sent="4" id="w48" length="3" offset="230"><![CDATA[was]]></wf>
+    <wf sent="4" id="w49" length="9" offset="234"><![CDATA[televised]]></wf>
+    <wf sent="4" id="w50" length="2" offset="244"><![CDATA[in]]></wf>
+    <wf sent="4" id="w51" length="3" offset="247"><![CDATA[the]]></wf>
+    <wf sent="4" id="w52" length="6" offset="251"><![CDATA[Mexico]]></wf>
+    <wf sent="4" id="w53" length="2" offset="258"><![CDATA[by]]></wf>
+    <wf sent="4" id="w54" length="5" offset="261"><![CDATA[Canal]]></wf>
+    <wf sent="4" id="w55" length="2" offset="267"><![CDATA[de]]></wf>
+    <wf sent="4" id="w56" length="3" offset="270"><![CDATA[las]]></wf>
+    <wf sent="4" id="w57" length="9" offset="274"><![CDATA[estrellas]]></wf>
+    <wf sent="4" id="w58" length="1" offset="283"><![CDATA[.]]></wf>
+    <wf sent="4" id="w59" length="1" offset="284"><![CDATA[
+]]></wf>
+    <wf sent="5" id="w60" length="4" offset="285"><![CDATA[Raúl]]></wf>
+    <wf sent="5" id="w61" length="7" offset="290"><![CDATA[Velasco]]></wf>
+    <wf sent="5" id="w62" length="3" offset="298"><![CDATA[and]]></wf>
+    <wf sent="5" id="w63" length="6" offset="302"><![CDATA[Gloria]]></wf>
+    <wf sent="5" id="w64" length="7" offset="309"><![CDATA[Calzada]]></wf>
+    <wf sent="5" id="w65" length="6" offset="317"><![CDATA[hosted]]></wf>
+    <wf sent="5" id="w66" length="3" offset="324"><![CDATA[the]]></wf>
+    <wf sent="5" id="w67" length="4" offset="328"><![CDATA[show]]></wf>
+    <wf sent="5" id="w68" length="1" offset="332"><![CDATA[.]]></wf>
+    <wf sent="6" id="w69" length="1" offset="334"><![CDATA["]]></wf>
+    <wf sent="7" id="w70" length="4" offset="335"><![CDATA[Cuna]]></wf>
+    <wf sent="7" id="w71" length="2" offset="340"><![CDATA[de]]></wf>
+    <wf sent="7" id="w72" length="5" offset="343"><![CDATA[lobos]]></wf>
+    <wf sent="7" id="w73" length="1" offset="348"><![CDATA["]]></wf>
+    <wf sent="7" id="w74" length="3" offset="350"><![CDATA[won]]></wf>
+    <wf sent="7" id="w75" length="5" offset="354"><![CDATA[eight]]></wf>
+    <wf sent="7" id="w76" length="6" offset="360"><![CDATA[awards]]></wf>
+    <wf sent="7" id="w77" length="9" offset="367"><![CDATA[including]]></wf>
+    <wf sent="7" id="w78" length="4" offset="377"><![CDATA[Best]]></wf>
+    <wf sent="7" id="w79" length="10" offset="382"><![CDATA[Telenovela]]></wf>
+    <wf sent="7" id="w80" length="2" offset="393"><![CDATA[of]]></wf>
+    <wf sent="7" id="w81" length="3" offset="396"><![CDATA[the]]></wf>
+    <wf sent="7" id="w82" length="4" offset="400"><![CDATA[Year]]></wf>
+    <wf sent="7" id="w83" length="1" offset="404"><![CDATA[,]]></wf>
+    <wf sent="7" id="w84" length="3" offset="406"><![CDATA[the]]></wf>
+    <wf sent="7" id="w85" length="4" offset="410"><![CDATA[most]]></wf>
+    <wf sent="7" id="w86" length="3" offset="415"><![CDATA[for]]></wf>
+    <wf sent="7" id="w87" length="3" offset="419"><![CDATA[the]]></wf>
+    <wf sent="7" id="w88" length="7" offset="423"><![CDATA[evening]]></wf>
+    <wf sent="7" id="w89" length="1" offset="430"><![CDATA[.]]></wf>
+    <wf sent="8" id="w90" length="5" offset="432"><![CDATA[Other]]></wf>
+    <wf sent="8" id="w91" length="7" offset="438"><![CDATA[winners]]></wf>
+    <wf sent="9" id="w92" length="1" offset="446"><![CDATA["]]></wf>
+    <wf sent="9" id="w93" length="2" offset="447"><![CDATA[El]]></wf>
+    <wf sent="9" id="w94" length="6" offset="450"><![CDATA[camino]]></wf>
+    <wf sent="9" id="w95" length="7" offset="457"><![CDATA[secreto]]></wf>
+    <wf sent="9" id="w96" length="1" offset="464"><![CDATA["]]></wf>
+    <wf sent="9" id="w97" length="3" offset="466"><![CDATA[won]]></wf>
+    <wf sent="9" id="w98" length="3" offset="470"><![CDATA[two]]></wf>
+    <wf sent="9" id="w99" length="6" offset="474"><![CDATA[awards]]></wf>
+    <wf sent="9" id="w100" length="3" offset="481"><![CDATA[and]]></wf>
+    <wf sent="9" id="w101" length="1" offset="485"><![CDATA["]]></wf>
+    <wf sent="9" id="w102" length="5" offset="486"><![CDATA[Monte]]></wf>
+    <wf sent="9" id="w103" length="8" offset="492"><![CDATA[calvario]]></wf>
+    <wf sent="9" id="w104" length="1" offset="500"><![CDATA["]]></wf>
+    <wf sent="9" id="w105" length="1" offset="501"><![CDATA[,]]></wf>
+    <wf sent="10" id="w106" length="1" offset="503"><![CDATA["]]></wf>
+    <wf sent="10" id="w107" length="5" offset="504"><![CDATA[Pobre]]></wf>
+    <wf sent="10" id="w108" length="8" offset="510"><![CDATA[juventud]]></wf>
+    <wf sent="10" id="w109" length="1" offset="518"><![CDATA["]]></wf>
+    <wf sent="10" id="w110" length="1" offset="519"><![CDATA[,]]></wf>
+    <wf sent="10" id="w111" length="3" offset="521"><![CDATA[and]]></wf>
+    <wf sent="10" id="w112" length="1" offset="525"><![CDATA["]]></wf>
+    <wf sent="10" id="w113" length="2" offset="526"><![CDATA[La]]></wf>
+    <wf sent="10" id="w114" length="9" offset="529"><![CDATA[indomable]]></wf>
+    <wf sent="10" id="w115" length="1" offset="538"><![CDATA["]]></wf>
+    <wf sent="10" id="w116" length="3" offset="540"><![CDATA[won]]></wf>
+    <wf sent="10" id="w117" length="3" offset="544"><![CDATA[one]]></wf>
+    <wf sent="10" id="w118" length="4" offset="548"><![CDATA[each]]></wf>
+    <wf sent="10" id="w119" length="1" offset="552"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+5th" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="tvynovelas" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Awards++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="4th" pos="ADJ" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="tvynovela" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Awards" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Academy" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="special" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="award" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="good" pos="ADJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="soap" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="opera" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="tv" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="show" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="award" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="1987" pos="NUM" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Centro" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Libanés" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="D.F" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma=".." pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="televise" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Mexico" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Canal" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="de" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="las" pos="X" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="estrella" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Raúl" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="Velasco" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="Gloria" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Calzada" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="host" pos="VERB" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="show" pos="NOUN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Cuna" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="de" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="lobo" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="eight" pos="NUM" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="award" pos="NOUN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="include" pos="VERB" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="Best" pos="PROPN" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Telenovela" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="Year" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="most" pos="ADJ" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="evening" pos="NOUN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="other" pos="ADJ" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="El" pos="PROPN" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="camino" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="secreto" pos="NOUN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="award" pos="NOUN" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="Monte" pos="PROPN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="calvario" pos="NOUN" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="pobre" pos="ADJ" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="juventud" pos="NOUN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="La" pos="PROPN" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="indomable" pos="ADJ" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="win" pos="VERB" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="each" pos="DET" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="punct"/>
+    <dep from="t4" to="t3" rfunc="punct"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t12" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t8" rfunc="amod"/>
+    <dep from="t10" to="t9" rfunc="punct"/>
+    <dep from="t12" to="t11" rfunc="punct"/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t12" to="t14" rfunc="attr"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t17" to="t16" rfunc="amod"/>
+    <dep from="t15" to="t17" rfunc="pobj"/>
+    <dep from="t14" to="t18" rfunc="prep"/>
+    <dep from="t20" to="t19" rfunc="det"/>
+    <dep from="t18" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t21" rfunc="prep"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="pobj"/>
+    <dep from="t23" to="t24" rfunc="cc"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t23" to="t26" rfunc="conj"/>
+    <dep from="t12" to="t27" rfunc="punct"/>
+    <dep from="t30" to="t28" rfunc="det"/>
+    <dep from="t31" to="t30" rfunc="nsubj"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t31" to="t32" rfunc="dobj"/>
+    <dep from="t31" to="t33" rfunc="prep"/>
+    <dep from="t33" to="t34" rfunc="pobj"/>
+    <dep from="t31" to="t35" rfunc="prep"/>
+    <dep from="t38" to="t36" rfunc="det"/>
+    <dep from="t35" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t38" to="t42" rfunc="punct"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t38" to="t44" rfunc="appos"/>
+    <dep from="t31" to="t45" rfunc="punct"/>
+    <dep from="t47" to="t46" rfunc="det"/>
+    <dep from="t49" to="t47" rfunc="nsubjpass"/>
+    <dep from="t49" to="t48" rfunc="auxpass"/>
+    <dep from="t49" to="t50" rfunc="prep"/>
+    <dep from="t52" to="t51" rfunc="det"/>
+    <dep from="t50" to="t52" rfunc="pobj"/>
+    <dep from="t49" to="t53" rfunc="agent"/>
+    <dep from="t56" to="t54" rfunc="nmod"/>
+    <dep from="t57" to="t56" rfunc="compound"/>
+    <dep from="t53" to="t57" rfunc="pobj"/>
+    <dep from="t56" to="t55" rfunc="compound"/>
+    <dep from="t49" to="t58" rfunc="punct"/>
+    <dep from="t58" to="t59" rfunc=""/>
+    <dep from="t61" to="t60" rfunc="compound"/>
+    <dep from="t65" to="t61" rfunc="nsubj"/>
+    <dep from="t61" to="t62" rfunc="cc"/>
+    <dep from="t64" to="t63" rfunc="compound"/>
+    <dep from="t61" to="t64" rfunc="conj"/>
+    <dep from="t67" to="t66" rfunc="det"/>
+    <dep from="t65" to="t67" rfunc="dobj"/>
+    <dep from="t65" to="t68" rfunc="punct"/>
+    <dep from="t72" to="t70" rfunc="nmod"/>
+    <dep from="t74" to="t72" rfunc="nsubj"/>
+    <dep from="t72" to="t71" rfunc="nmod"/>
+    <dep from="t74" to="t73" rfunc="punct"/>
+    <dep from="t76" to="t75" rfunc="nummod"/>
+    <dep from="t74" to="t76" rfunc="dobj"/>
+    <dep from="t76" to="t77" rfunc="prep"/>
+    <dep from="t79" to="t78" rfunc="compound"/>
+    <dep from="t77" to="t79" rfunc="pobj"/>
+    <dep from="t79" to="t80" rfunc="prep"/>
+    <dep from="t82" to="t81" rfunc="det"/>
+    <dep from="t80" to="t82" rfunc="pobj"/>
+    <dep from="t79" to="t83" rfunc="punct"/>
+    <dep from="t85" to="t84" rfunc="det"/>
+    <dep from="t79" to="t85" rfunc="appos"/>
+    <dep from="t85" to="t86" rfunc="prep"/>
+    <dep from="t88" to="t87" rfunc="det"/>
+    <dep from="t86" to="t88" rfunc="pobj"/>
+    <dep from="t74" to="t89" rfunc="punct"/>
+    <dep from="t91" to="t90" rfunc="amod"/>
+    <dep from="t93" to="t92" rfunc="punct"/>
+    <dep from="t95" to="t93" rfunc="compound"/>
+    <dep from="t97" to="t95" rfunc="nsubj"/>
+    <dep from="t95" to="t94" rfunc="compound"/>
+    <dep from="t97" to="t96" rfunc="punct"/>
+    <dep from="t99" to="t98" rfunc="nummod"/>
+    <dep from="t97" to="t99" rfunc="dobj"/>
+    <dep from="t97" to="t100" rfunc="cc"/>
+    <dep from="t103" to="t101" rfunc="punct"/>
+    <dep from="t97" to="t103" rfunc="conj"/>
+    <dep from="t103" to="t102" rfunc="compound"/>
+    <dep from="t103" to="t104" rfunc="punct"/>
+    <dep from="t103" to="t105" rfunc="punct"/>
+    <dep from="t108" to="t106" rfunc="punct"/>
+    <dep from="t116" to="t108" rfunc="nsubj"/>
+    <dep from="t108" to="t107" rfunc="compound"/>
+    <dep from="t108" to="t109" rfunc="punct"/>
+    <dep from="t108" to="t110" rfunc="punct"/>
+    <dep from="t108" to="t111" rfunc="cc"/>
+    <dep from="t114" to="t112" rfunc="punct"/>
+    <dep from="t108" to="t114" rfunc="conj"/>
+    <dep from="t114" to="t113" rfunc="advmod"/>
+    <dep from="t116" to="t115" rfunc="punct"/>
+    <dep from="t116" to="t117" rfunc="dobj"/>
+    <dep from="t117" to="t118" rfunc="appos"/>
+    <dep from="t116" to="t119" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--T V y N o v e l a s   A w a r d s-->
+        <target id="t9"/>
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/TVyNovelas_Awards" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--R a ú l   V e l a s c o-->
+        <target id="t60"/>
+        <target id="t61"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Raúl_Velasco" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-required_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-evidence" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-inclusion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t82"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t88"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-increment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t91"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t117"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

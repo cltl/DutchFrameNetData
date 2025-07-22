@@ -1,0 +1,719 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1994 Guelph municipal election"/>
+    <public uri="https://en.wikipedia.org/wiki/1994_Guelph_municipal_election"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:37:58UTC" endTimestamp="2020-05-27T19:37:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:37:58UTC" endTimestamp="2020-05-27T19:37:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:37:58UTC" endTimestamp="2020-05-27T19:37:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:37:58UTC" endTimestamp="2020-05-27T19:37:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:39CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1994 Guelph municipal election++.
+The 1994 Guelph municipal election was held on November 14, 1994, in Guelph, Ontario, Canada, to elect the Mayor of Guelph, Guelph City Council and the Guelph members of the Upper Grand District School Board (Public) and Wellington Catholic District School Board. The election was one of many races across the province of Ontario.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1994]]></wf>
+    <wf sent="2" id="w3" length="6" offset="7"><![CDATA[Guelph]]></wf>
+    <wf sent="2" id="w4" length="9" offset="14"><![CDATA[municipal]]></wf>
+    <wf sent="2" id="w5" length="10" offset="24"><![CDATA[election++]]></wf>
+    <wf sent="2" id="w6" length="1" offset="34"><![CDATA[.]]></wf>
+    <wf sent="2" id="w7" length="1" offset="35"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w8" length="3" offset="36"><![CDATA[The]]></wf>
+    <wf sent="3" id="w9" length="4" offset="40"><![CDATA[1994]]></wf>
+    <wf sent="3" id="w10" length="6" offset="45"><![CDATA[Guelph]]></wf>
+    <wf sent="3" id="w11" length="9" offset="52"><![CDATA[municipal]]></wf>
+    <wf sent="3" id="w12" length="8" offset="62"><![CDATA[election]]></wf>
+    <wf sent="3" id="w13" length="3" offset="71"><![CDATA[was]]></wf>
+    <wf sent="3" id="w14" length="4" offset="75"><![CDATA[held]]></wf>
+    <wf sent="3" id="w15" length="2" offset="80"><![CDATA[on]]></wf>
+    <wf sent="3" id="w16" length="8" offset="83"><![CDATA[November]]></wf>
+    <wf sent="3" id="w17" length="2" offset="92"><![CDATA[14]]></wf>
+    <wf sent="3" id="w18" length="1" offset="94"><![CDATA[,]]></wf>
+    <wf sent="3" id="w19" length="4" offset="96"><![CDATA[1994]]></wf>
+    <wf sent="3" id="w20" length="1" offset="100"><![CDATA[,]]></wf>
+    <wf sent="3" id="w21" length="2" offset="102"><![CDATA[in]]></wf>
+    <wf sent="3" id="w22" length="6" offset="105"><![CDATA[Guelph]]></wf>
+    <wf sent="3" id="w23" length="1" offset="111"><![CDATA[,]]></wf>
+    <wf sent="3" id="w24" length="7" offset="113"><![CDATA[Ontario]]></wf>
+    <wf sent="3" id="w25" length="1" offset="120"><![CDATA[,]]></wf>
+    <wf sent="3" id="w26" length="6" offset="122"><![CDATA[Canada]]></wf>
+    <wf sent="3" id="w27" length="1" offset="128"><![CDATA[,]]></wf>
+    <wf sent="3" id="w28" length="2" offset="130"><![CDATA[to]]></wf>
+    <wf sent="3" id="w29" length="5" offset="133"><![CDATA[elect]]></wf>
+    <wf sent="3" id="w30" length="3" offset="139"><![CDATA[the]]></wf>
+    <wf sent="3" id="w31" length="5" offset="143"><![CDATA[Mayor]]></wf>
+    <wf sent="3" id="w32" length="2" offset="149"><![CDATA[of]]></wf>
+    <wf sent="3" id="w33" length="6" offset="152"><![CDATA[Guelph]]></wf>
+    <wf sent="3" id="w34" length="1" offset="158"><![CDATA[,]]></wf>
+    <wf sent="3" id="w35" length="6" offset="160"><![CDATA[Guelph]]></wf>
+    <wf sent="3" id="w36" length="4" offset="167"><![CDATA[City]]></wf>
+    <wf sent="3" id="w37" length="7" offset="172"><![CDATA[Council]]></wf>
+    <wf sent="3" id="w38" length="3" offset="180"><![CDATA[and]]></wf>
+    <wf sent="3" id="w39" length="3" offset="184"><![CDATA[the]]></wf>
+    <wf sent="3" id="w40" length="6" offset="188"><![CDATA[Guelph]]></wf>
+    <wf sent="3" id="w41" length="7" offset="195"><![CDATA[members]]></wf>
+    <wf sent="3" id="w42" length="2" offset="203"><![CDATA[of]]></wf>
+    <wf sent="3" id="w43" length="3" offset="206"><![CDATA[the]]></wf>
+    <wf sent="3" id="w44" length="5" offset="210"><![CDATA[Upper]]></wf>
+    <wf sent="3" id="w45" length="5" offset="216"><![CDATA[Grand]]></wf>
+    <wf sent="3" id="w46" length="8" offset="222"><![CDATA[District]]></wf>
+    <wf sent="3" id="w47" length="6" offset="231"><![CDATA[School]]></wf>
+    <wf sent="3" id="w48" length="5" offset="238"><![CDATA[Board]]></wf>
+    <wf sent="3" id="w49" length="1" offset="244"><![CDATA[(]]></wf>
+    <wf sent="3" id="w50" length="6" offset="245"><![CDATA[Public]]></wf>
+    <wf sent="3" id="w51" length="1" offset="251"><![CDATA[)]]></wf>
+    <wf sent="3" id="w52" length="3" offset="253"><![CDATA[and]]></wf>
+    <wf sent="3" id="w53" length="10" offset="257"><![CDATA[Wellington]]></wf>
+    <wf sent="3" id="w54" length="8" offset="268"><![CDATA[Catholic]]></wf>
+    <wf sent="3" id="w55" length="8" offset="277"><![CDATA[District]]></wf>
+    <wf sent="3" id="w56" length="6" offset="286"><![CDATA[School]]></wf>
+    <wf sent="3" id="w57" length="5" offset="293"><![CDATA[Board]]></wf>
+    <wf sent="3" id="w58" length="1" offset="298"><![CDATA[.]]></wf>
+    <wf sent="4" id="w59" length="3" offset="300"><![CDATA[The]]></wf>
+    <wf sent="4" id="w60" length="8" offset="304"><![CDATA[election]]></wf>
+    <wf sent="4" id="w61" length="3" offset="313"><![CDATA[was]]></wf>
+    <wf sent="4" id="w62" length="3" offset="317"><![CDATA[one]]></wf>
+    <wf sent="4" id="w63" length="2" offset="321"><![CDATA[of]]></wf>
+    <wf sent="4" id="w64" length="4" offset="324"><![CDATA[many]]></wf>
+    <wf sent="4" id="w65" length="5" offset="329"><![CDATA[races]]></wf>
+    <wf sent="4" id="w66" length="6" offset="335"><![CDATA[across]]></wf>
+    <wf sent="4" id="w67" length="3" offset="342"><![CDATA[the]]></wf>
+    <wf sent="4" id="w68" length="8" offset="346"><![CDATA[province]]></wf>
+    <wf sent="4" id="w69" length="2" offset="355"><![CDATA[of]]></wf>
+    <wf sent="4" id="w70" length="7" offset="358"><![CDATA[Ontario]]></wf>
+    <wf sent="4" id="w71" length="1" offset="365"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1994" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="guelph" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1994" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Guelph" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="municipal" pos="ADJ" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="14" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="1994" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="Guelph" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Ontario" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Canada" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Guelph" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Guelph" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="City" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Council" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="guelph" pos="ADJ" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="member" pos="NOUN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Upper" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Grand" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="District" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="School" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Board" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Public" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Wellington" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Catholic" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="District" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="School" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="Board" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="many" pos="ADJ" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="across" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="province" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Ontario" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t14" to="t12" rfunc="nsubjpass"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="nmod"/>
+    <dep from="t12" to="t11" rfunc="amod"/>
+    <dep from="t14" to="t13" rfunc="auxpass"/>
+    <dep from="t14" to="t15" rfunc="prep"/>
+    <dep from="t15" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t16" to="t18" rfunc="punct"/>
+    <dep from="t16" to="t19" rfunc="nummod"/>
+    <dep from="t16" to="t20" rfunc="punct"/>
+    <dep from="t16" to="t21" rfunc="prep"/>
+    <dep from="t21" to="t22" rfunc="pobj"/>
+    <dep from="t22" to="t23" rfunc="punct"/>
+    <dep from="t22" to="t24" rfunc="conj"/>
+    <dep from="t24" to="t25" rfunc="punct"/>
+    <dep from="t24" to="t26" rfunc="appos"/>
+    <dep from="t16" to="t27" rfunc="punct"/>
+    <dep from="t29" to="t28" rfunc="aux"/>
+    <dep from="t14" to="t29" rfunc="advcl"/>
+    <dep from="t31" to="t30" rfunc="det"/>
+    <dep from="t29" to="t31" rfunc="dobj"/>
+    <dep from="t31" to="t32" rfunc="prep"/>
+    <dep from="t32" to="t33" rfunc="pobj"/>
+    <dep from="t31" to="t34" rfunc="punct"/>
+    <dep from="t37" to="t35" rfunc="compound"/>
+    <dep from="t31" to="t37" rfunc="conj"/>
+    <dep from="t37" to="t36" rfunc="compound"/>
+    <dep from="t37" to="t38" rfunc="cc"/>
+    <dep from="t41" to="t39" rfunc="det"/>
+    <dep from="t37" to="t41" rfunc="conj"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t48" to="t43" rfunc="det"/>
+    <dep from="t42" to="t48" rfunc="pobj"/>
+    <dep from="t47" to="t44" rfunc="compound"/>
+    <dep from="t48" to="t47" rfunc="compound"/>
+    <dep from="t47" to="t45" rfunc="compound"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t50" to="t49" rfunc="punct"/>
+    <dep from="t48" to="t50" rfunc="appos"/>
+    <dep from="t50" to="t51" rfunc="punct"/>
+    <dep from="t48" to="t52" rfunc="cc"/>
+    <dep from="t57" to="t53" rfunc="compound"/>
+    <dep from="t48" to="t57" rfunc="conj"/>
+    <dep from="t56" to="t54" rfunc="compound"/>
+    <dep from="t57" to="t56" rfunc="compound"/>
+    <dep from="t56" to="t55" rfunc="compound"/>
+    <dep from="t14" to="t58" rfunc="punct"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t61" to="t60" rfunc="nsubj"/>
+    <dep from="t61" to="t62" rfunc="attr"/>
+    <dep from="t62" to="t63" rfunc="prep"/>
+    <dep from="t65" to="t64" rfunc="amod"/>
+    <dep from="t63" to="t65" rfunc="pobj"/>
+    <dep from="t65" to="t66" rfunc="prep"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t66" to="t68" rfunc="pobj"/>
+    <dep from="t68" to="t69" rfunc="prep"/>
+    <dep from="t69" to="t70" rfunc="pobj"/>
+    <dep from="t61" to="t71" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--G u e l p h-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Guelph" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guelph" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Guelph" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--O n t a r i o-->
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ontario" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--C a n a d a-->
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Canada" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Canada" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q16" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M a y o r   o f   G u e l p h-->
+        <target id="t31"/>
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Mayor_of_Guelph" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--G u e l p h   C i t y   C o u n c i l-->
+        <target id="t35"/>
+        <target id="t36"/>
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Guelph_City_Council" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--U p p e r   G r a n d   D i s t r i c t   S c h o o l   B o a r d-->
+        <target id="t44"/>
+        <target id="t45"/>
+        <target id="t46"/>
+        <target id="t47"/>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Upper_Grand_District_School_Board" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--W e l l i n g t o n   C a t h o l i c   D i s t r i c t   S c h o o l   B o a r d-->
+        <target id="t53"/>
+        <target id="t54"/>
+        <target id="t55"/>
+        <target id="t56"/>
+        <target id="t57"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wellington_Catholic_District_School_Board" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q16" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t12"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t14"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-quantified_mass" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t68"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

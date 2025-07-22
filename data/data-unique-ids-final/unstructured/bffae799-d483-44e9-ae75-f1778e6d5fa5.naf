@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="3e wereldfestival voor jeugd en studenten"/>
+    <public uri="https://nl.wikipedia.org/wiki/3e_wereldfestival_voor_jeugd_en_studenten"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T18:01:45UTC" endTimestamp="2020-05-27T18:01:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T18:01:45UTC" endTimestamp="2020-05-27T18:01:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T18:01:45UTC" endTimestamp="2020-05-27T18:01:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T18:01:45UTC" endTimestamp="2020-05-27T18:01:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++3e wereldfestival voor jeugd en studenten++.
+Het derde wereldfestival voor jeugd en studenten (WFYS) werd in 1951 te Berlijn (oost), gelegen in de DDR, gehouden.
+Het derde festival kwam in een tijd met groeiende internationale spanningen tussen de Sovjet-Unie en de westerse landen; het vond plaats tegen de achtergrond van de Koreaanse Oorlog en de verspreiding van het communisme in Centraal-Europa en China.
+Het festival was bedoeld als PR-stunt van de jonge Duitse Democratische Republiek, gevormd in de Sovjet-sector van het naoorlogse Duitsland.
+Er waren 26.000 deelnemers uit 104 landen present.
+De slogan was Voor vrede en vriendschap - tegen nuclaire wapens!]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="3" offset="1"><![CDATA[+3e]]></wf>
+    <wf sent="1" id="w3" length="14" offset="5"><![CDATA[wereldfestival]]></wf>
+    <wf sent="1" id="w4" length="4" offset="20"><![CDATA[voor]]></wf>
+    <wf sent="1" id="w5" length="5" offset="25"><![CDATA[jeugd]]></wf>
+    <wf sent="1" id="w6" length="2" offset="31"><![CDATA[en]]></wf>
+    <wf sent="1" id="w7" length="11" offset="34"><![CDATA[studenten++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="45"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="46"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="47"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w11" length="5" offset="51"><![CDATA[derde]]></wf>
+    <wf sent="2" id="w12" length="14" offset="57"><![CDATA[wereldfestival]]></wf>
+    <wf sent="2" id="w13" length="4" offset="72"><![CDATA[voor]]></wf>
+    <wf sent="2" id="w14" length="5" offset="77"><![CDATA[jeugd]]></wf>
+    <wf sent="2" id="w15" length="2" offset="83"><![CDATA[en]]></wf>
+    <wf sent="2" id="w16" length="9" offset="86"><![CDATA[studenten]]></wf>
+    <wf sent="2" id="w17" length="1" offset="96"><![CDATA[(]]></wf>
+    <wf sent="2" id="w18" length="4" offset="97"><![CDATA[WFYS]]></wf>
+    <wf sent="2" id="w19" length="1" offset="101"><![CDATA[)]]></wf>
+    <wf sent="2" id="w20" length="4" offset="103"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w21" length="2" offset="108"><![CDATA[in]]></wf>
+    <wf sent="2" id="w22" length="4" offset="111"><![CDATA[1951]]></wf>
+    <wf sent="2" id="w23" length="2" offset="116"><![CDATA[te]]></wf>
+    <wf sent="2" id="w24" length="7" offset="119"><![CDATA[Berlijn]]></wf>
+    <wf sent="2" id="w25" length="1" offset="127"><![CDATA[(]]></wf>
+    <wf sent="2" id="w26" length="4" offset="128"><![CDATA[oost]]></wf>
+    <wf sent="2" id="w27" length="1" offset="132"><![CDATA[)]]></wf>
+    <wf sent="2" id="w28" length="1" offset="133"><![CDATA[,]]></wf>
+    <wf sent="2" id="w29" length="7" offset="135"><![CDATA[gelegen]]></wf>
+    <wf sent="2" id="w30" length="2" offset="143"><![CDATA[in]]></wf>
+    <wf sent="2" id="w31" length="2" offset="146"><![CDATA[de]]></wf>
+    <wf sent="2" id="w32" length="3" offset="149"><![CDATA[DDR]]></wf>
+    <wf sent="2" id="w33" length="1" offset="152"><![CDATA[,]]></wf>
+    <wf sent="2" id="w34" length="8" offset="154"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w35" length="1" offset="162"><![CDATA[.]]></wf>
+    <wf sent="2" id="w36" length="1" offset="163"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w37" length="3" offset="164"><![CDATA[Het]]></wf>
+    <wf sent="3" id="w38" length="5" offset="168"><![CDATA[derde]]></wf>
+    <wf sent="3" id="w39" length="8" offset="174"><![CDATA[festival]]></wf>
+    <wf sent="3" id="w40" length="4" offset="183"><![CDATA[kwam]]></wf>
+    <wf sent="3" id="w41" length="2" offset="188"><![CDATA[in]]></wf>
+    <wf sent="3" id="w42" length="3" offset="191"><![CDATA[een]]></wf>
+    <wf sent="3" id="w43" length="4" offset="195"><![CDATA[tijd]]></wf>
+    <wf sent="3" id="w44" length="3" offset="200"><![CDATA[met]]></wf>
+    <wf sent="3" id="w45" length="9" offset="204"><![CDATA[groeiende]]></wf>
+    <wf sent="3" id="w46" length="14" offset="214"><![CDATA[internationale]]></wf>
+    <wf sent="3" id="w47" length="10" offset="229"><![CDATA[spanningen]]></wf>
+    <wf sent="3" id="w48" length="6" offset="240"><![CDATA[tussen]]></wf>
+    <wf sent="3" id="w49" length="2" offset="247"><![CDATA[de]]></wf>
+    <wf sent="3" id="w50" length="6" offset="250"><![CDATA[Sovjet]]></wf>
+    <wf sent="3" id="w51" length="1" offset="256"><![CDATA[-]]></wf>
+    <wf sent="3" id="w52" length="4" offset="257"><![CDATA[Unie]]></wf>
+    <wf sent="3" id="w53" length="2" offset="262"><![CDATA[en]]></wf>
+    <wf sent="3" id="w54" length="2" offset="265"><![CDATA[de]]></wf>
+    <wf sent="3" id="w55" length="8" offset="268"><![CDATA[westerse]]></wf>
+    <wf sent="3" id="w56" length="6" offset="277"><![CDATA[landen]]></wf>
+    <wf sent="3" id="w57" length="1" offset="283"><![CDATA[;]]></wf>
+    <wf sent="4" id="w58" length="3" offset="285"><![CDATA[het]]></wf>
+    <wf sent="4" id="w59" length="4" offset="289"><![CDATA[vond]]></wf>
+    <wf sent="4" id="w60" length="6" offset="294"><![CDATA[plaats]]></wf>
+    <wf sent="4" id="w61" length="5" offset="301"><![CDATA[tegen]]></wf>
+    <wf sent="4" id="w62" length="2" offset="307"><![CDATA[de]]></wf>
+    <wf sent="4" id="w63" length="11" offset="310"><![CDATA[achtergrond]]></wf>
+    <wf sent="4" id="w64" length="3" offset="322"><![CDATA[van]]></wf>
+    <wf sent="4" id="w65" length="2" offset="326"><![CDATA[de]]></wf>
+    <wf sent="4" id="w66" length="9" offset="329"><![CDATA[Koreaanse]]></wf>
+    <wf sent="4" id="w67" length="6" offset="339"><![CDATA[Oorlog]]></wf>
+    <wf sent="4" id="w68" length="2" offset="346"><![CDATA[en]]></wf>
+    <wf sent="4" id="w69" length="2" offset="349"><![CDATA[de]]></wf>
+    <wf sent="4" id="w70" length="12" offset="352"><![CDATA[verspreiding]]></wf>
+    <wf sent="4" id="w71" length="3" offset="365"><![CDATA[van]]></wf>
+    <wf sent="4" id="w72" length="3" offset="369"><![CDATA[het]]></wf>
+    <wf sent="4" id="w73" length="10" offset="373"><![CDATA[communisme]]></wf>
+    <wf sent="4" id="w74" length="2" offset="384"><![CDATA[in]]></wf>
+    <wf sent="4" id="w75" length="8" offset="387"><![CDATA[Centraal]]></wf>
+    <wf sent="4" id="w76" length="1" offset="395"><![CDATA[-]]></wf>
+    <wf sent="4" id="w77" length="6" offset="396"><![CDATA[Europa]]></wf>
+    <wf sent="4" id="w78" length="2" offset="403"><![CDATA[en]]></wf>
+    <wf sent="4" id="w79" length="5" offset="406"><![CDATA[China]]></wf>
+    <wf sent="4" id="w80" length="1" offset="411"><![CDATA[.]]></wf>
+    <wf sent="4" id="w81" length="1" offset="412"><![CDATA[
+]]></wf>
+    <wf sent="5" id="w82" length="3" offset="413"><![CDATA[Het]]></wf>
+    <wf sent="5" id="w83" length="8" offset="417"><![CDATA[festival]]></wf>
+    <wf sent="5" id="w84" length="3" offset="426"><![CDATA[was]]></wf>
+    <wf sent="5" id="w85" length="7" offset="430"><![CDATA[bedoeld]]></wf>
+    <wf sent="5" id="w86" length="3" offset="438"><![CDATA[als]]></wf>
+    <wf sent="5" id="w87" length="2" offset="442"><![CDATA[PR]]></wf>
+    <wf sent="5" id="w88" length="1" offset="444"><![CDATA[-]]></wf>
+    <wf sent="5" id="w89" length="5" offset="445"><![CDATA[stunt]]></wf>
+    <wf sent="5" id="w90" length="3" offset="451"><![CDATA[van]]></wf>
+    <wf sent="5" id="w91" length="2" offset="455"><![CDATA[de]]></wf>
+    <wf sent="5" id="w92" length="5" offset="458"><![CDATA[jonge]]></wf>
+    <wf sent="5" id="w93" length="6" offset="464"><![CDATA[Duitse]]></wf>
+    <wf sent="5" id="w94" length="13" offset="471"><![CDATA[Democratische]]></wf>
+    <wf sent="5" id="w95" length="9" offset="485"><![CDATA[Republiek]]></wf>
+    <wf sent="5" id="w96" length="1" offset="494"><![CDATA[,]]></wf>
+    <wf sent="5" id="w97" length="7" offset="496"><![CDATA[gevormd]]></wf>
+    <wf sent="5" id="w98" length="2" offset="504"><![CDATA[in]]></wf>
+    <wf sent="5" id="w99" length="2" offset="507"><![CDATA[de]]></wf>
+    <wf sent="5" id="w100" length="6" offset="510"><![CDATA[Sovjet]]></wf>
+    <wf sent="5" id="w101" length="1" offset="516"><![CDATA[-]]></wf>
+    <wf sent="5" id="w102" length="6" offset="517"><![CDATA[sector]]></wf>
+    <wf sent="5" id="w103" length="3" offset="524"><![CDATA[van]]></wf>
+    <wf sent="5" id="w104" length="3" offset="528"><![CDATA[het]]></wf>
+    <wf sent="5" id="w105" length="10" offset="532"><![CDATA[naoorlogse]]></wf>
+    <wf sent="5" id="w106" length="9" offset="543"><![CDATA[Duitsland]]></wf>
+    <wf sent="5" id="w107" length="1" offset="552"><![CDATA[.]]></wf>
+    <wf sent="5" id="w108" length="1" offset="553"><![CDATA[
+]]></wf>
+    <wf sent="6" id="w109" length="2" offset="554"><![CDATA[Er]]></wf>
+    <wf sent="6" id="w110" length="5" offset="557"><![CDATA[waren]]></wf>
+    <wf sent="6" id="w111" length="6" offset="563"><![CDATA[26.000]]></wf>
+    <wf sent="6" id="w112" length="10" offset="570"><![CDATA[deelnemers]]></wf>
+    <wf sent="6" id="w113" length="3" offset="581"><![CDATA[uit]]></wf>
+    <wf sent="6" id="w114" length="3" offset="585"><![CDATA[104]]></wf>
+    <wf sent="6" id="w115" length="6" offset="589"><![CDATA[landen]]></wf>
+    <wf sent="6" id="w116" length="7" offset="596"><![CDATA[present]]></wf>
+    <wf sent="6" id="w117" length="1" offset="603"><![CDATA[.]]></wf>
+    <wf sent="6" id="w118" length="1" offset="604"><![CDATA[
+]]></wf>
+    <wf sent="7" id="w119" length="2" offset="605"><![CDATA[De]]></wf>
+    <wf sent="7" id="w120" length="6" offset="608"><![CDATA[slogan]]></wf>
+    <wf sent="7" id="w121" length="3" offset="615"><![CDATA[was]]></wf>
+    <wf sent="7" id="w122" length="4" offset="619"><![CDATA[Voor]]></wf>
+    <wf sent="7" id="w123" length="5" offset="624"><![CDATA[vrede]]></wf>
+    <wf sent="7" id="w124" length="2" offset="630"><![CDATA[en]]></wf>
+    <wf sent="7" id="w125" length="11" offset="633"><![CDATA[vriendschap]]></wf>
+    <wf sent="7" id="w126" length="1" offset="645"><![CDATA[-]]></wf>
+    <wf sent="7" id="w127" length="5" offset="647"><![CDATA[tegen]]></wf>
+    <wf sent="7" id="w128" length="8" offset="653"><![CDATA[nuclaire]]></wf>
+    <wf sent="7" id="w129" length="6" offset="662"><![CDATA[wapens]]></wf>
+    <wf sent="7" id="w130" length="1" offset="668"><![CDATA[!]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+3e" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="wereldfestival" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="jeugd" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="studenten++" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="der" pos="NUM" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="wereldfestival" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="jeugd" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="student" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="wfy" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="1951" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="te" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="berlijn" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="oost" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="liggen" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="ddr" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="der" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="festival" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="komen" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="een" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="tijd" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="groeien" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="internationaal" pos="ADJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="spanning" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="tussen" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="sovjet" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="unie" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="westers" pos="ADJ" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="land" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma=";" pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="vinden" pos="VERB" type="open" component_of="mw1">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="tegen" pos="ADP" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="achtergrond" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="koreaans" pos="ADJ" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="oorlog" pos="X" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="verspreiding" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="communisme" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="centraal" pos="NOUN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="europa" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="china" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="festival" pos="NOUN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="bedoelen" pos="VERB" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="als" pos="CONJ" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="pr" pos="NOUN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="stunt" pos="NOUN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="jong" pos="ADJ" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="duits" pos="ADJ" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="democratische" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="republiek" pos="PROPN" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="vormen" pos="VERB" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="sovjet" pos="NOUN" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="sector" pos="NOUN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="naoorlogs" pos="ADJ" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="duitsland" pos="NOUN" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="26.000" pos="NUM" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="deelnemer" pos="NOUN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="uit" pos="ADP" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="104" pos="NUM" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="land" pos="NOUN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="present" pos="ADJ" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="slogan" pos="NOUN" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="vrede" pos="NOUN" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="vriendschap" pos="NOUN" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="tegen" pos="ADP" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="nuclair" pos="ADJ" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="wapen" pos="NOUN" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="!" pos="PUNCT" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="plaatsvinden" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="obl"/>
+    <dep from="t3" to="t2" rfunc="acl"/>
+    <dep from="t5" to="t4" rfunc="case"/>
+    <dep from="t3" to="t5" rfunc="nmod"/>
+    <dep from="t7" to="t6" rfunc="cc"/>
+    <dep from="t5" to="t7" rfunc="conj"/>
+    <dep from="t3" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t12" to="t10" rfunc="det"/>
+    <dep from="t34" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t11" rfunc="amod"/>
+    <dep from="t14" to="t13" rfunc="case"/>
+    <dep from="t12" to="t14" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="cc"/>
+    <dep from="t14" to="t16" rfunc="conj"/>
+    <dep from="t12" to="t17" rfunc="punct"/>
+    <dep from="t12" to="t18" rfunc="nmod"/>
+    <dep from="t24" to="t19" rfunc="punct"/>
+    <dep from="t12" to="t24" rfunc="nmod"/>
+    <dep from="t24" to="t20" rfunc="cop"/>
+    <dep from="t22" to="t21" rfunc="case"/>
+    <dep from="t24" to="t22" rfunc="obl"/>
+    <dep from="t24" to="t23" rfunc="case"/>
+    <dep from="t24" to="t25" rfunc="punct"/>
+    <dep from="t24" to="t26" rfunc="nmod"/>
+    <dep from="t12" to="t27" rfunc="punct"/>
+    <dep from="t12" to="t28" rfunc="punct"/>
+    <dep from="t12" to="t29" rfunc="acl"/>
+    <dep from="t32" to="t30" rfunc="case"/>
+    <dep from="t29" to="t32" rfunc="obl"/>
+    <dep from="t32" to="t31" rfunc="det"/>
+    <dep from="t34" to="t33" rfunc="punct"/>
+    <dep from="t34" to="t35" rfunc="punct"/>
+    <dep from="t35" to="t36" rfunc=""/>
+    <dep from="t39" to="t37" rfunc="det"/>
+    <dep from="t40" to="t39" rfunc="nsubj"/>
+    <dep from="t39" to="t38" rfunc="amod"/>
+    <dep from="t43" to="t41" rfunc="case"/>
+    <dep from="t40" to="t43" rfunc="obl"/>
+    <dep from="t43" to="t42" rfunc="det"/>
+    <dep from="t47" to="t44" rfunc="case"/>
+    <dep from="t40" to="t47" rfunc="obl"/>
+    <dep from="t47" to="t45" rfunc="acl"/>
+    <dep from="t47" to="t46" rfunc="amod"/>
+    <dep from="t50" to="t48" rfunc="case"/>
+    <dep from="t47" to="t50" rfunc="nmod"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t50" to="t51" rfunc="compound"/>
+    <dep from="t50" to="t52" rfunc="flat"/>
+    <dep from="t56" to="t53" rfunc="cc"/>
+    <dep from="t50" to="t56" rfunc="conj"/>
+    <dep from="t56" to="t54" rfunc="det"/>
+    <dep from="t56" to="t55" rfunc="amod"/>
+    <dep from="t40" to="t57" rfunc="punct"/>
+    <dep from="t131" to="t58" rfunc="nsubj"/>
+    <dep from="t59" to="t60" rfunc="compound:prt"/>
+    <dep from="t63" to="t61" rfunc="case"/>
+    <dep from="t131" to="t63" rfunc="obl"/>
+    <dep from="t63" to="t62" rfunc="det"/>
+    <dep from="t67" to="t64" rfunc="case"/>
+    <dep from="t63" to="t67" rfunc="nmod"/>
+    <dep from="t67" to="t65" rfunc="det"/>
+    <dep from="t67" to="t66" rfunc="amod"/>
+    <dep from="t70" to="t68" rfunc="cc"/>
+    <dep from="t63" to="t70" rfunc="conj"/>
+    <dep from="t70" to="t69" rfunc="det"/>
+    <dep from="t73" to="t71" rfunc="case"/>
+    <dep from="t70" to="t73" rfunc="nmod"/>
+    <dep from="t73" to="t72" rfunc="det"/>
+    <dep from="t75" to="t74" rfunc="case"/>
+    <dep from="t73" to="t75" rfunc="nmod"/>
+    <dep from="t70" to="t76" rfunc="nmod"/>
+    <dep from="t70" to="t77" rfunc="nmod"/>
+    <dep from="t79" to="t78" rfunc="cc"/>
+    <dep from="t77" to="t79" rfunc="conj"/>
+    <dep from="t131" to="t80" rfunc="punct"/>
+    <dep from="t80" to="t81" rfunc=""/>
+    <dep from="t83" to="t82" rfunc="det"/>
+    <dep from="t85" to="t83" rfunc="nsubj"/>
+    <dep from="t85" to="t84" rfunc="aux"/>
+    <dep from="t97" to="t86" rfunc="mark"/>
+    <dep from="t85" to="t97" rfunc="advcl"/>
+    <dep from="t97" to="t87" rfunc="nsubj"/>
+    <dep from="t87" to="t88" rfunc="nmod"/>
+    <dep from="t87" to="t89" rfunc="advmod"/>
+    <dep from="t94" to="t90" rfunc="case"/>
+    <dep from="t87" to="t94" rfunc="nmod"/>
+    <dep from="t94" to="t91" rfunc="det"/>
+    <dep from="t94" to="t92" rfunc="obl"/>
+    <dep from="t94" to="t93" rfunc="obl"/>
+    <dep from="t94" to="t95" rfunc="flat"/>
+    <dep from="t97" to="t96" rfunc="punct"/>
+    <dep from="t100" to="t98" rfunc="case"/>
+    <dep from="t97" to="t100" rfunc="obl"/>
+    <dep from="t100" to="t99" rfunc="det"/>
+    <dep from="t100" to="t101" rfunc="nmod"/>
+    <dep from="t97" to="t102" rfunc="obj"/>
+    <dep from="t106" to="t103" rfunc="case"/>
+    <dep from="t102" to="t106" rfunc="nmod"/>
+    <dep from="t106" to="t104" rfunc="det"/>
+    <dep from="t106" to="t105" rfunc="amod"/>
+    <dep from="t85" to="t107" rfunc="punct"/>
+    <dep from="t107" to="t108" rfunc=""/>
+    <dep from="t116" to="t109" rfunc="advmod"/>
+    <dep from="t116" to="t110" rfunc="aux"/>
+    <dep from="t112" to="t111" rfunc="nummod"/>
+    <dep from="t116" to="t112" rfunc="nsubj"/>
+    <dep from="t115" to="t113" rfunc="case"/>
+    <dep from="t116" to="t115" rfunc="obl"/>
+    <dep from="t115" to="t114" rfunc="nummod"/>
+    <dep from="t116" to="t117" rfunc="punct"/>
+    <dep from="t117" to="t118" rfunc=""/>
+    <dep from="t120" to="t119" rfunc="det"/>
+    <dep from="t121" to="t120" rfunc="nsubj"/>
+    <dep from="t123" to="t122" rfunc="case"/>
+    <dep from="t121" to="t123" rfunc="obj"/>
+    <dep from="t125" to="t124" rfunc="cc"/>
+    <dep from="t123" to="t125" rfunc="conj"/>
+    <dep from="t123" to="t126" rfunc="nmod"/>
+    <dep from="t129" to="t127" rfunc="case"/>
+    <dep from="t121" to="t129" rfunc="obl"/>
+    <dep from="t129" to="t128" rfunc="amod"/>
+    <dep from="t121" to="t130" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--1 9 5 1-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1951" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1951" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1951" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B e r l i j n   ( o o s t )-->
+        <target id="t24"/>
+        <target id="t25"/>
+        <target id="t26"/>
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Oost-Berlijn" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Berlino_Est" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/East_Berlin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--D D R-->
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Duitse_Democratische_Republiek" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Repubblica_Democratica_Tedesca" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/East_Germany" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--S o v j e t - U n i e-->
+        <target id="t50"/>
+        <target id="t51"/>
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/USSR" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--K o r e a a n s e   O o r l o g-->
+        <target id="t66"/>
+        <target id="t67"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Koreaanse_Oorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_di_Corea" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Korean_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--C e n t r a a l - E u r o p a-->
+        <target id="t75"/>
+        <target id="t76"/>
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Centraal-Europa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Europa_centrale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Central_Europe" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--C h i n a-->
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Volksrepubliek_China" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Cina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/China" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q148" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--D u i t s e   D e m o c r a t i s c h e   R e p u b l i e k-->
+        <target id="t93"/>
+        <target id="t94"/>
+        <target id="t95"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Duitse_Democratische_Republiek" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Repubblica_Democratica_Tedesca" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/East_Germany" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <multiwords>
+    <mw id="mw1" lemma="plaatsvinden" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t59"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t60"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

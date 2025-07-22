@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Ierse parlementsverkiezingen 2016"/>
+    <public uri="https://nl.wikipedia.org/wiki/Ierse_parlementsverkiezingen_2016"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T20:58:29UTC" endTimestamp="2020-05-27T20:58:29UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T20:58:29UTC" endTimestamp="2020-05-27T20:58:29UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T20:58:29UTC" endTimestamp="2020-05-27T20:58:29UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T20:58:29UTC" endTimestamp="2020-05-27T20:58:29UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Ierse parlementsverkiezingen 2016++.
+De Ierse parlementsverkiezingen in 2016 hadden plaats op 26 februari. The Dáil Éireann, het Ierse parlement, werd op 3 februari 2016 ontbonden door de president, Michael D. Higgins.
+Voor de verkiezingen werd gebruik gemaakt van de districten zoals die in 2012 opnieuw waren ingedeeld. Het aantal zetels was bij die nieuwe indeling verminderd van 166 naar 158, waarvan de Ceann Comhairle, de voorzitter automatisch herkozen is.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="5" offset="2"><![CDATA[Ierse]]></wf>
+    <wf sent="1" id="w4" length="22" offset="8"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="1" id="w5" length="6" offset="31"><![CDATA[2016++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="37"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="38"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="2" offset="39"><![CDATA[De]]></wf>
+    <wf sent="2" id="w9" length="5" offset="42"><![CDATA[Ierse]]></wf>
+    <wf sent="2" id="w10" length="22" offset="48"><![CDATA[parlementsverkiezingen]]></wf>
+    <wf sent="2" id="w11" length="2" offset="71"><![CDATA[in]]></wf>
+    <wf sent="2" id="w12" length="4" offset="74"><![CDATA[2016]]></wf>
+    <wf sent="2" id="w13" length="6" offset="79"><![CDATA[hadden]]></wf>
+    <wf sent="2" id="w14" length="6" offset="86"><![CDATA[plaats]]></wf>
+    <wf sent="2" id="w15" length="2" offset="93"><![CDATA[op]]></wf>
+    <wf sent="2" id="w16" length="2" offset="96"><![CDATA[26]]></wf>
+    <wf sent="2" id="w17" length="8" offset="99"><![CDATA[februari]]></wf>
+    <wf sent="2" id="w18" length="1" offset="107"><![CDATA[.]]></wf>
+    <wf sent="3" id="w19" length="3" offset="109"><![CDATA[The]]></wf>
+    <wf sent="3" id="w20" length="4" offset="113"><![CDATA[Dáil]]></wf>
+    <wf sent="3" id="w21" length="7" offset="118"><![CDATA[Éireann]]></wf>
+    <wf sent="3" id="w22" length="1" offset="125"><![CDATA[,]]></wf>
+    <wf sent="3" id="w23" length="3" offset="127"><![CDATA[het]]></wf>
+    <wf sent="3" id="w24" length="5" offset="131"><![CDATA[Ierse]]></wf>
+    <wf sent="3" id="w25" length="9" offset="137"><![CDATA[parlement]]></wf>
+    <wf sent="3" id="w26" length="1" offset="146"><![CDATA[,]]></wf>
+    <wf sent="3" id="w27" length="4" offset="148"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w28" length="2" offset="153"><![CDATA[op]]></wf>
+    <wf sent="3" id="w29" length="1" offset="156"><![CDATA[3]]></wf>
+    <wf sent="3" id="w30" length="8" offset="158"><![CDATA[februari]]></wf>
+    <wf sent="3" id="w31" length="4" offset="167"><![CDATA[2016]]></wf>
+    <wf sent="3" id="w32" length="9" offset="172"><![CDATA[ontbonden]]></wf>
+    <wf sent="3" id="w33" length="4" offset="182"><![CDATA[door]]></wf>
+    <wf sent="3" id="w34" length="2" offset="187"><![CDATA[de]]></wf>
+    <wf sent="3" id="w35" length="9" offset="190"><![CDATA[president]]></wf>
+    <wf sent="3" id="w36" length="1" offset="199"><![CDATA[,]]></wf>
+    <wf sent="3" id="w37" length="7" offset="201"><![CDATA[Michael]]></wf>
+    <wf sent="3" id="w38" length="2" offset="209"><![CDATA[D.]]></wf>
+    <wf sent="3" id="w39" length="7" offset="212"><![CDATA[Higgins]]></wf>
+    <wf sent="3" id="w40" length="1" offset="219"><![CDATA[.]]></wf>
+    <wf sent="3" id="w41" length="1" offset="220"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w42" length="4" offset="221"><![CDATA[Voor]]></wf>
+    <wf sent="4" id="w43" length="2" offset="226"><![CDATA[de]]></wf>
+    <wf sent="4" id="w44" length="12" offset="229"><![CDATA[verkiezingen]]></wf>
+    <wf sent="4" id="w45" length="4" offset="242"><![CDATA[werd]]></wf>
+    <wf sent="4" id="w46" length="7" offset="247"><![CDATA[gebruik]]></wf>
+    <wf sent="4" id="w47" length="7" offset="255"><![CDATA[gemaakt]]></wf>
+    <wf sent="4" id="w48" length="3" offset="263"><![CDATA[van]]></wf>
+    <wf sent="4" id="w49" length="2" offset="267"><![CDATA[de]]></wf>
+    <wf sent="4" id="w50" length="10" offset="270"><![CDATA[districten]]></wf>
+    <wf sent="4" id="w51" length="5" offset="281"><![CDATA[zoals]]></wf>
+    <wf sent="4" id="w52" length="3" offset="287"><![CDATA[die]]></wf>
+    <wf sent="4" id="w53" length="2" offset="291"><![CDATA[in]]></wf>
+    <wf sent="4" id="w54" length="4" offset="294"><![CDATA[2012]]></wf>
+    <wf sent="4" id="w55" length="7" offset="299"><![CDATA[opnieuw]]></wf>
+    <wf sent="4" id="w56" length="5" offset="307"><![CDATA[waren]]></wf>
+    <wf sent="4" id="w57" length="9" offset="313"><![CDATA[ingedeeld]]></wf>
+    <wf sent="4" id="w58" length="1" offset="322"><![CDATA[.]]></wf>
+    <wf sent="5" id="w59" length="3" offset="324"><![CDATA[Het]]></wf>
+    <wf sent="5" id="w60" length="6" offset="328"><![CDATA[aantal]]></wf>
+    <wf sent="5" id="w61" length="6" offset="335"><![CDATA[zetels]]></wf>
+    <wf sent="5" id="w62" length="3" offset="342"><![CDATA[was]]></wf>
+    <wf sent="5" id="w63" length="3" offset="346"><![CDATA[bij]]></wf>
+    <wf sent="5" id="w64" length="3" offset="350"><![CDATA[die]]></wf>
+    <wf sent="5" id="w65" length="6" offset="354"><![CDATA[nieuwe]]></wf>
+    <wf sent="5" id="w66" length="8" offset="361"><![CDATA[indeling]]></wf>
+    <wf sent="5" id="w67" length="10" offset="370"><![CDATA[verminderd]]></wf>
+    <wf sent="5" id="w68" length="3" offset="381"><![CDATA[van]]></wf>
+    <wf sent="5" id="w69" length="3" offset="385"><![CDATA[166]]></wf>
+    <wf sent="5" id="w70" length="4" offset="389"><![CDATA[naar]]></wf>
+    <wf sent="5" id="w71" length="3" offset="394"><![CDATA[158]]></wf>
+    <wf sent="5" id="w72" length="1" offset="397"><![CDATA[,]]></wf>
+    <wf sent="5" id="w73" length="7" offset="399"><![CDATA[waarvan]]></wf>
+    <wf sent="5" id="w74" length="2" offset="407"><![CDATA[de]]></wf>
+    <wf sent="5" id="w75" length="5" offset="410"><![CDATA[Ceann]]></wf>
+    <wf sent="5" id="w76" length="9" offset="416"><![CDATA[Comhairle]]></wf>
+    <wf sent="5" id="w77" length="1" offset="425"><![CDATA[,]]></wf>
+    <wf sent="5" id="w78" length="2" offset="427"><![CDATA[de]]></wf>
+    <wf sent="5" id="w79" length="10" offset="430"><![CDATA[voorzitter]]></wf>
+    <wf sent="5" id="w80" length="11" offset="441"><![CDATA[automatisch]]></wf>
+    <wf sent="5" id="w81" length="8" offset="453"><![CDATA[herkozen]]></wf>
+    <wf sent="5" id="w82" length="2" offset="462"><![CDATA[is]]></wf>
+    <wf sent="5" id="w83" length="1" offset="464"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="iers" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="2016++" pos="NUM" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="iers" pos="ADJ" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="parlementsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="hebben" pos="VERB" type="open" component_of="mw1">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="26" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="the" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="dáil" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="éireann" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="iers" pos="ADJ" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="parlement" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="3" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="februari" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="ontbinden" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="president" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="michael" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="d." pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="higgins" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="verkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="gebruik" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="maken" pos="VERB" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="district" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="zoals" pos="CONJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="die" pos="PRON" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="opnieuw" pos="ADV" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="indelen" pos="VERB" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="aantal" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="zetel" pos="NOUN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="bij" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="die" pos="PRON" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="nieuw" pos="ADJ" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="indeling" pos="NOUN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="verminderen" pos="VERB" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="166" pos="NUM" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="naar" pos="ADP" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="158" pos="NUM" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="waarvan" pos="ADV" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="ceann" pos="NOUN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="comhairle" pos="PROPN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="voorzitter" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="automatisch" pos="ADJ" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="herkiezen" pos="VERB" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="plaatshebben" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t1" to="t4" rfunc="dep"/>
+    <dep from="t4" to="t5" rfunc="appos"/>
+    <dep from="t1" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t10" to="t8" rfunc="det"/>
+    <dep from="t84" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t9" rfunc="amod"/>
+    <dep from="t12" to="t11" rfunc="case"/>
+    <dep from="t10" to="t12" rfunc="nummod"/>
+    <dep from="t13" to="t14" rfunc="compound:prt"/>
+    <dep from="t16" to="t15" rfunc="case"/>
+    <dep from="t84" to="t16" rfunc="obl"/>
+    <dep from="t16" to="t17" rfunc="compound"/>
+    <dep from="t84" to="t18" rfunc="punct"/>
+    <dep from="t32" to="t19" rfunc="nsubj"/>
+    <dep from="t19" to="t20" rfunc="flat"/>
+    <dep from="t19" to="t21" rfunc="flat"/>
+    <dep from="t19" to="t22" rfunc="punct"/>
+    <dep from="t25" to="t23" rfunc="det"/>
+    <dep from="t19" to="t25" rfunc="appos"/>
+    <dep from="t25" to="t24" rfunc="amod"/>
+    <dep from="t32" to="t26" rfunc="punct"/>
+    <dep from="t32" to="t27" rfunc="aux"/>
+    <dep from="t29" to="t28" rfunc="case"/>
+    <dep from="t32" to="t29" rfunc="obl"/>
+    <dep from="t29" to="t30" rfunc="compound"/>
+    <dep from="t29" to="t31" rfunc="compound"/>
+    <dep from="t35" to="t33" rfunc="case"/>
+    <dep from="t32" to="t35" rfunc="obl"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t35" to="t36" rfunc="punct"/>
+    <dep from="t35" to="t37" rfunc="appos"/>
+    <dep from="t37" to="t38" rfunc="flat"/>
+    <dep from="t37" to="t39" rfunc="flat"/>
+    <dep from="t32" to="t40" rfunc="punct"/>
+    <dep from="t40" to="t41" rfunc=""/>
+    <dep from="t44" to="t42" rfunc="case"/>
+    <dep from="t47" to="t44" rfunc="obl"/>
+    <dep from="t44" to="t43" rfunc="det"/>
+    <dep from="t47" to="t45" rfunc="aux"/>
+    <dep from="t47" to="t46" rfunc="obj"/>
+    <dep from="t50" to="t48" rfunc="case"/>
+    <dep from="t46" to="t50" rfunc="nmod"/>
+    <dep from="t50" to="t49" rfunc="det"/>
+    <dep from="t57" to="t51" rfunc="mark"/>
+    <dep from="t50" to="t57" rfunc="acl"/>
+    <dep from="t57" to="t52" rfunc="obj"/>
+    <dep from="t54" to="t53" rfunc="case"/>
+    <dep from="t57" to="t54" rfunc="obl"/>
+    <dep from="t57" to="t55" rfunc="advmod"/>
+    <dep from="t57" to="t56" rfunc="aux"/>
+    <dep from="t47" to="t58" rfunc="punct"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t67" to="t60" rfunc="nsubj"/>
+    <dep from="t60" to="t61" rfunc="nmod"/>
+    <dep from="t67" to="t62" rfunc="aux"/>
+    <dep from="t66" to="t63" rfunc="case"/>
+    <dep from="t67" to="t66" rfunc="obj"/>
+    <dep from="t66" to="t64" rfunc="nmod"/>
+    <dep from="t66" to="t65" rfunc="amod"/>
+    <dep from="t69" to="t68" rfunc="case"/>
+    <dep from="t67" to="t69" rfunc="obl"/>
+    <dep from="t71" to="t70" rfunc="case"/>
+    <dep from="t67" to="t71" rfunc="obl"/>
+    <dep from="t71" to="t72" rfunc="punct"/>
+    <dep from="t81" to="t73" rfunc="mark"/>
+    <dep from="t71" to="t81" rfunc="advcl"/>
+    <dep from="t75" to="t74" rfunc="det"/>
+    <dep from="t81" to="t75" rfunc="nsubj"/>
+    <dep from="t75" to="t76" rfunc="flat"/>
+    <dep from="t75" to="t77" rfunc="punct"/>
+    <dep from="t79" to="t78" rfunc="det"/>
+    <dep from="t81" to="t79" rfunc="nsubj"/>
+    <dep from="t81" to="t80" rfunc="obl"/>
+    <dep from="t81" to="t82" rfunc="aux"/>
+    <dep from="t67" to="t83" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--I e r s e-->
+        <target id="t9"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ierland_(land)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 6   f e b r u a r i-->
+        <target id="t16"/>
+        <target id="t17"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/26_februari" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/26_febbraio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/February_26" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--D á i l   É i r e a n n-->
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Dáil_Éireann" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Dáil_Éireann" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Dáil_Éireann" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--M i c h a e l   D .   H i g g i n s-->
+        <target id="t37"/>
+        <target id="t38"/>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Michael_D._Higgins" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Michael_D._Higgins" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Michael_D._Higgins" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--d i s t r i c t e n-->
+        <target id="t50"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Lijst_van_kiesdistricten_in_Ierland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Dáil_constituencies" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--C e a n n   C o m h a i r l e-->
+        <target id="t75"/>
+        <target id="t76"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ceann_Comhairle" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ceann_Comhairle" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <multiwords>
+    <mw id="mw1" lemma="plaatshebben" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t13"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t14"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

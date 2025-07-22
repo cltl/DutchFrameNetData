@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Floriade 2012"/>
+    <public uri="https://nl.wikipedia.org/wiki/Floriade_2012"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T18:01:57UTC" endTimestamp="2020-05-27T18:01:57UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T18:01:57UTC" endTimestamp="2020-05-27T18:01:57UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T18:01:57UTC" endTimestamp="2020-05-27T18:01:57UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T18:01:57UTC" endTimestamp="2020-05-27T18:01:57UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Floriade 2012++.
+Koninginnenplein te Venlo met verwijzing naar de Floriade
+Film van de rijksoverheid over de opening Floriade
+De Floriade 2012 was een Nederlands evenement. Het was de negentiende AIPH wereldtuinbouwtentoonstelling en de zesde Floriade en werd gehouden van 5 april tot en met 7 oktober 2012 in Venlo. De Floriade 2012 werd geopend door koningin Beatrix.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="8" offset="2"><![CDATA[Floriade]]></wf>
+    <wf sent="1" id="w4" length="6" offset="11"><![CDATA[2012++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="17"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="18"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="16" offset="19"><![CDATA[Koninginnenplein]]></wf>
+    <wf sent="2" id="w8" length="2" offset="36"><![CDATA[te]]></wf>
+    <wf sent="2" id="w9" length="5" offset="39"><![CDATA[Venlo]]></wf>
+    <wf sent="2" id="w10" length="3" offset="45"><![CDATA[met]]></wf>
+    <wf sent="2" id="w11" length="10" offset="49"><![CDATA[verwijzing]]></wf>
+    <wf sent="2" id="w12" length="4" offset="60"><![CDATA[naar]]></wf>
+    <wf sent="2" id="w13" length="2" offset="65"><![CDATA[de]]></wf>
+    <wf sent="2" id="w14" length="8" offset="68"><![CDATA[Floriade]]></wf>
+    <wf sent="2" id="w15" length="1" offset="76"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w16" length="4" offset="77"><![CDATA[Film]]></wf>
+    <wf sent="2" id="w17" length="3" offset="82"><![CDATA[van]]></wf>
+    <wf sent="2" id="w18" length="2" offset="86"><![CDATA[de]]></wf>
+    <wf sent="2" id="w19" length="13" offset="89"><![CDATA[rijksoverheid]]></wf>
+    <wf sent="2" id="w20" length="4" offset="103"><![CDATA[over]]></wf>
+    <wf sent="2" id="w21" length="2" offset="108"><![CDATA[de]]></wf>
+    <wf sent="2" id="w22" length="7" offset="111"><![CDATA[opening]]></wf>
+    <wf sent="2" id="w23" length="8" offset="119"><![CDATA[Floriade]]></wf>
+    <wf sent="2" id="w24" length="1" offset="127"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w25" length="2" offset="128"><![CDATA[De]]></wf>
+    <wf sent="2" id="w26" length="8" offset="131"><![CDATA[Floriade]]></wf>
+    <wf sent="2" id="w27" length="4" offset="140"><![CDATA[2012]]></wf>
+    <wf sent="2" id="w28" length="3" offset="145"><![CDATA[was]]></wf>
+    <wf sent="2" id="w29" length="3" offset="149"><![CDATA[een]]></wf>
+    <wf sent="2" id="w30" length="10" offset="153"><![CDATA[Nederlands]]></wf>
+    <wf sent="2" id="w31" length="9" offset="164"><![CDATA[evenement]]></wf>
+    <wf sent="2" id="w32" length="1" offset="173"><![CDATA[.]]></wf>
+    <wf sent="3" id="w33" length="3" offset="175"><![CDATA[Het]]></wf>
+    <wf sent="3" id="w34" length="3" offset="179"><![CDATA[was]]></wf>
+    <wf sent="3" id="w35" length="2" offset="183"><![CDATA[de]]></wf>
+    <wf sent="3" id="w36" length="11" offset="186"><![CDATA[negentiende]]></wf>
+    <wf sent="3" id="w37" length="4" offset="198"><![CDATA[AIPH]]></wf>
+    <wf sent="3" id="w38" length="29" offset="203"><![CDATA[wereldtuinbouwtentoonstelling]]></wf>
+    <wf sent="3" id="w39" length="2" offset="233"><![CDATA[en]]></wf>
+    <wf sent="3" id="w40" length="2" offset="236"><![CDATA[de]]></wf>
+    <wf sent="3" id="w41" length="5" offset="239"><![CDATA[zesde]]></wf>
+    <wf sent="3" id="w42" length="8" offset="245"><![CDATA[Floriade]]></wf>
+    <wf sent="3" id="w43" length="2" offset="254"><![CDATA[en]]></wf>
+    <wf sent="3" id="w44" length="4" offset="257"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w45" length="8" offset="262"><![CDATA[gehouden]]></wf>
+    <wf sent="3" id="w46" length="3" offset="271"><![CDATA[van]]></wf>
+    <wf sent="3" id="w47" length="1" offset="275"><![CDATA[5]]></wf>
+    <wf sent="3" id="w48" length="5" offset="277"><![CDATA[april]]></wf>
+    <wf sent="3" id="w49" length="3" offset="283"><![CDATA[tot]]></wf>
+    <wf sent="3" id="w50" length="2" offset="287"><![CDATA[en]]></wf>
+    <wf sent="3" id="w51" length="3" offset="290"><![CDATA[met]]></wf>
+    <wf sent="3" id="w52" length="1" offset="294"><![CDATA[7]]></wf>
+    <wf sent="3" id="w53" length="7" offset="296"><![CDATA[oktober]]></wf>
+    <wf sent="3" id="w54" length="4" offset="304"><![CDATA[2012]]></wf>
+    <wf sent="3" id="w55" length="2" offset="309"><![CDATA[in]]></wf>
+    <wf sent="3" id="w56" length="5" offset="312"><![CDATA[Venlo]]></wf>
+    <wf sent="3" id="w57" length="1" offset="317"><![CDATA[.]]></wf>
+    <wf sent="4" id="w58" length="2" offset="319"><![CDATA[De]]></wf>
+    <wf sent="4" id="w59" length="8" offset="322"><![CDATA[Floriade]]></wf>
+    <wf sent="4" id="w60" length="4" offset="331"><![CDATA[2012]]></wf>
+    <wf sent="4" id="w61" length="4" offset="336"><![CDATA[werd]]></wf>
+    <wf sent="4" id="w62" length="7" offset="341"><![CDATA[geopend]]></wf>
+    <wf sent="4" id="w63" length="4" offset="349"><![CDATA[door]]></wf>
+    <wf sent="4" id="w64" length="8" offset="354"><![CDATA[koningin]]></wf>
+    <wf sent="4" id="w65" length="7" offset="363"><![CDATA[Beatrix]]></wf>
+    <wf sent="4" id="w66" length="1" offset="370"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="2012++" pos="NUM" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="koninginnenplein" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="te" pos="ADP" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="venlo" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="verwijzing" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="naar" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="film" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="rijksoverheid" pos="NOUN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="over" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="opening" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="een" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="nederlands" pos="ADJ" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="evenement" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="het" pos="PRON" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="zijn" pos="VERB" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="negentien" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="aiph" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="wereldtuinbouwtentoonstelling" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="zes" pos="NUM" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="april" pos="NUM" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="oktob" pos="NUM" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="venlo" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="floriade" pos="NOUN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="2012" pos="NUM" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="openen" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="door" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="koningin" pos="NOUN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="beatrix" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t1" to="t4" rfunc="dep"/>
+    <dep from="t1" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t31" to="t7" rfunc="nsubj"/>
+    <dep from="t9" to="t8" rfunc="case"/>
+    <dep from="t7" to="t9" rfunc="nmod"/>
+    <dep from="t11" to="t10" rfunc="case"/>
+    <dep from="t7" to="t11" rfunc="obl"/>
+    <dep from="t14" to="t12" rfunc="case"/>
+    <dep from="t11" to="t14" rfunc="nmod"/>
+    <dep from="t14" to="t13" rfunc="det"/>
+    <dep from="t14" to="t15" rfunc=""/>
+    <dep from="t14" to="t16" rfunc="flat"/>
+    <dep from="t19" to="t17" rfunc="case"/>
+    <dep from="t14" to="t19" rfunc="nmod"/>
+    <dep from="t19" to="t18" rfunc="det"/>
+    <dep from="t22" to="t20" rfunc="case"/>
+    <dep from="t19" to="t22" rfunc="nmod"/>
+    <dep from="t22" to="t21" rfunc="det"/>
+    <dep from="t22" to="t23" rfunc="appos"/>
+    <dep from="t23" to="t24" rfunc=""/>
+    <dep from="t26" to="t25" rfunc="case"/>
+    <dep from="t23" to="t26" rfunc="flat"/>
+    <dep from="t26" to="t27" rfunc="flat"/>
+    <dep from="t31" to="t28" rfunc="cop"/>
+    <dep from="t31" to="t29" rfunc="det"/>
+    <dep from="t31" to="t30" rfunc="amod"/>
+    <dep from="t31" to="t32" rfunc="punct"/>
+    <dep from="t38" to="t33" rfunc="nsubj"/>
+    <dep from="t38" to="t34" rfunc="cop"/>
+    <dep from="t37" to="t35" rfunc="det"/>
+    <dep from="t38" to="t37" rfunc="nmod"/>
+    <dep from="t37" to="t36" rfunc="amod"/>
+    <dep from="t42" to="t39" rfunc="cc"/>
+    <dep from="t38" to="t42" rfunc="conj"/>
+    <dep from="t42" to="t40" rfunc="det"/>
+    <dep from="t42" to="t41" rfunc="amod"/>
+    <dep from="t45" to="t43" rfunc="cc"/>
+    <dep from="t38" to="t45" rfunc="conj"/>
+    <dep from="t45" to="t44" rfunc="aux"/>
+    <dep from="t47" to="t46" rfunc="case"/>
+    <dep from="t45" to="t47" rfunc="obl"/>
+    <dep from="t47" to="t48" rfunc="compound"/>
+    <dep from="t47" to="t49" rfunc="compound"/>
+    <dep from="t49" to="t50" rfunc="compound"/>
+    <dep from="t52" to="t51" rfunc="case"/>
+    <dep from="t49" to="t52" rfunc="compound"/>
+    <dep from="t52" to="t53" rfunc="compound"/>
+    <dep from="t52" to="t54" rfunc="compound"/>
+    <dep from="t56" to="t55" rfunc="case"/>
+    <dep from="t47" to="t56" rfunc="obl"/>
+    <dep from="t38" to="t57" rfunc="punct"/>
+    <dep from="t59" to="t58" rfunc="det"/>
+    <dep from="t62" to="t59" rfunc="nsubj"/>
+    <dep from="t59" to="t60" rfunc="flat"/>
+    <dep from="t62" to="t61" rfunc="aux"/>
+    <dep from="t64" to="t63" rfunc="case"/>
+    <dep from="t62" to="t64" rfunc="obl"/>
+    <dep from="t64" to="t65" rfunc="appos"/>
+    <dep from="t62" to="t66" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--K o n i n g i n n e n p l e i n   t e   V e n l o   m e t   v e r w i j z i n g   n a a r   d e   F l o r i a d e-->
+        <target id="t7"/>
+        <target id="t8"/>
+        <target id="t9"/>
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thumb" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--F i l m   v a n   d e   r i j k s o v e r h e i d   o v e r   d e   o p e n i n g   F l o r i a d e-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+        <target id="t22"/>
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thumb" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--F l o r i a d e-->
+        <target id="t42"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Floriade_(Nederland)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--V e n l o-->
+        <target id="t56"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Venlo_(gemeente)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--k o n i n g i n   B e a t r i x-->
+        <target id="t64"/>
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Beatrix_der_Nederlanden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Beatrice_dei_Paesi_Bassi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Beatrix_of_the_Netherlands" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

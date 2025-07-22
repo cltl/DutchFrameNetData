@@ -1,0 +1,904 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Lindley's Mill"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Lindley%27s_Mill"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:52:52UTC" endTimestamp="2020-05-28T17:52:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:52:52UTC" endTimestamp="2020-05-28T17:52:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:52:52UTC" endTimestamp="2020-05-28T17:52:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:52:52UTC" endTimestamp="2020-05-28T17:52:52UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:27CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Lindley's Mill++.
+The Battle of Lindley's Mill (also known as the Battle of Cane Creek) took place in Orange County, North Carolina (now in Alamance County), on September 13, 1781, during the American Revolutionary War. The battle took its name from a mill that sat at the site of the battle on Cane Creek, which sat along a road connecting what was then the temporary state capital, Hillsborough, with Wilmington, North Carolina.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="7" offset="12"><![CDATA[Lindley]]></wf>
+    <wf sent="1" id="w6" length="2" offset="19"><![CDATA['s]]></wf>
+    <wf sent="1" id="w7" length="6" offset="22"><![CDATA[Mill++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="28"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="29"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="30"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="6" offset="34"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w12" length="2" offset="41"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="7" offset="44"><![CDATA[Lindley]]></wf>
+    <wf sent="2" id="w14" length="2" offset="51"><![CDATA['s]]></wf>
+    <wf sent="2" id="w15" length="4" offset="54"><![CDATA[Mill]]></wf>
+    <wf sent="2" id="w16" length="1" offset="59"><![CDATA[(]]></wf>
+    <wf sent="2" id="w17" length="4" offset="60"><![CDATA[also]]></wf>
+    <wf sent="2" id="w18" length="5" offset="65"><![CDATA[known]]></wf>
+    <wf sent="2" id="w19" length="2" offset="71"><![CDATA[as]]></wf>
+    <wf sent="2" id="w20" length="3" offset="74"><![CDATA[the]]></wf>
+    <wf sent="2" id="w21" length="6" offset="78"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w22" length="2" offset="85"><![CDATA[of]]></wf>
+    <wf sent="2" id="w23" length="4" offset="88"><![CDATA[Cane]]></wf>
+    <wf sent="2" id="w24" length="5" offset="93"><![CDATA[Creek]]></wf>
+    <wf sent="2" id="w25" length="1" offset="98"><![CDATA[)]]></wf>
+    <wf sent="2" id="w26" length="4" offset="100"><![CDATA[took]]></wf>
+    <wf sent="2" id="w27" length="5" offset="105"><![CDATA[place]]></wf>
+    <wf sent="2" id="w28" length="2" offset="111"><![CDATA[in]]></wf>
+    <wf sent="2" id="w29" length="6" offset="114"><![CDATA[Orange]]></wf>
+    <wf sent="2" id="w30" length="6" offset="121"><![CDATA[County]]></wf>
+    <wf sent="2" id="w31" length="1" offset="127"><![CDATA[,]]></wf>
+    <wf sent="2" id="w32" length="5" offset="129"><![CDATA[North]]></wf>
+    <wf sent="2" id="w33" length="8" offset="135"><![CDATA[Carolina]]></wf>
+    <wf sent="2" id="w34" length="1" offset="144"><![CDATA[(]]></wf>
+    <wf sent="2" id="w35" length="3" offset="145"><![CDATA[now]]></wf>
+    <wf sent="2" id="w36" length="2" offset="149"><![CDATA[in]]></wf>
+    <wf sent="2" id="w37" length="8" offset="152"><![CDATA[Alamance]]></wf>
+    <wf sent="2" id="w38" length="6" offset="161"><![CDATA[County]]></wf>
+    <wf sent="2" id="w39" length="1" offset="167"><![CDATA[)]]></wf>
+    <wf sent="2" id="w40" length="1" offset="168"><![CDATA[,]]></wf>
+    <wf sent="2" id="w41" length="2" offset="170"><![CDATA[on]]></wf>
+    <wf sent="2" id="w42" length="9" offset="173"><![CDATA[September]]></wf>
+    <wf sent="2" id="w43" length="2" offset="183"><![CDATA[13]]></wf>
+    <wf sent="2" id="w44" length="1" offset="185"><![CDATA[,]]></wf>
+    <wf sent="2" id="w45" length="4" offset="187"><![CDATA[1781]]></wf>
+    <wf sent="2" id="w46" length="1" offset="191"><![CDATA[,]]></wf>
+    <wf sent="2" id="w47" length="6" offset="193"><![CDATA[during]]></wf>
+    <wf sent="2" id="w48" length="3" offset="200"><![CDATA[the]]></wf>
+    <wf sent="2" id="w49" length="8" offset="204"><![CDATA[American]]></wf>
+    <wf sent="2" id="w50" length="13" offset="213"><![CDATA[Revolutionary]]></wf>
+    <wf sent="2" id="w51" length="3" offset="227"><![CDATA[War]]></wf>
+    <wf sent="2" id="w52" length="1" offset="230"><![CDATA[.]]></wf>
+    <wf sent="3" id="w53" length="3" offset="232"><![CDATA[The]]></wf>
+    <wf sent="3" id="w54" length="6" offset="236"><![CDATA[battle]]></wf>
+    <wf sent="3" id="w55" length="4" offset="243"><![CDATA[took]]></wf>
+    <wf sent="3" id="w56" length="3" offset="248"><![CDATA[its]]></wf>
+    <wf sent="3" id="w57" length="4" offset="252"><![CDATA[name]]></wf>
+    <wf sent="3" id="w58" length="4" offset="257"><![CDATA[from]]></wf>
+    <wf sent="3" id="w59" length="1" offset="262"><![CDATA[a]]></wf>
+    <wf sent="3" id="w60" length="4" offset="264"><![CDATA[mill]]></wf>
+    <wf sent="3" id="w61" length="4" offset="269"><![CDATA[that]]></wf>
+    <wf sent="3" id="w62" length="3" offset="274"><![CDATA[sat]]></wf>
+    <wf sent="3" id="w63" length="2" offset="278"><![CDATA[at]]></wf>
+    <wf sent="3" id="w64" length="3" offset="281"><![CDATA[the]]></wf>
+    <wf sent="3" id="w65" length="4" offset="285"><![CDATA[site]]></wf>
+    <wf sent="3" id="w66" length="2" offset="290"><![CDATA[of]]></wf>
+    <wf sent="3" id="w67" length="3" offset="293"><![CDATA[the]]></wf>
+    <wf sent="3" id="w68" length="6" offset="297"><![CDATA[battle]]></wf>
+    <wf sent="3" id="w69" length="2" offset="304"><![CDATA[on]]></wf>
+    <wf sent="3" id="w70" length="4" offset="307"><![CDATA[Cane]]></wf>
+    <wf sent="3" id="w71" length="5" offset="312"><![CDATA[Creek]]></wf>
+    <wf sent="3" id="w72" length="1" offset="317"><![CDATA[,]]></wf>
+    <wf sent="3" id="w73" length="5" offset="319"><![CDATA[which]]></wf>
+    <wf sent="3" id="w74" length="3" offset="325"><![CDATA[sat]]></wf>
+    <wf sent="3" id="w75" length="5" offset="329"><![CDATA[along]]></wf>
+    <wf sent="3" id="w76" length="1" offset="335"><![CDATA[a]]></wf>
+    <wf sent="3" id="w77" length="4" offset="337"><![CDATA[road]]></wf>
+    <wf sent="3" id="w78" length="10" offset="342"><![CDATA[connecting]]></wf>
+    <wf sent="3" id="w79" length="4" offset="353"><![CDATA[what]]></wf>
+    <wf sent="3" id="w80" length="3" offset="358"><![CDATA[was]]></wf>
+    <wf sent="3" id="w81" length="4" offset="362"><![CDATA[then]]></wf>
+    <wf sent="3" id="w82" length="3" offset="367"><![CDATA[the]]></wf>
+    <wf sent="3" id="w83" length="9" offset="371"><![CDATA[temporary]]></wf>
+    <wf sent="3" id="w84" length="5" offset="381"><![CDATA[state]]></wf>
+    <wf sent="3" id="w85" length="7" offset="387"><![CDATA[capital]]></wf>
+    <wf sent="3" id="w86" length="1" offset="394"><![CDATA[,]]></wf>
+    <wf sent="3" id="w87" length="12" offset="396"><![CDATA[Hillsborough]]></wf>
+    <wf sent="3" id="w88" length="1" offset="408"><![CDATA[,]]></wf>
+    <wf sent="3" id="w89" length="4" offset="410"><![CDATA[with]]></wf>
+    <wf sent="3" id="w90" length="10" offset="415"><![CDATA[Wilmington]]></wf>
+    <wf sent="3" id="w91" length="1" offset="425"><![CDATA[,]]></wf>
+    <wf sent="3" id="w92" length="5" offset="427"><![CDATA[North]]></wf>
+    <wf sent="3" id="w93" length="8" offset="433"><![CDATA[Carolina]]></wf>
+    <wf sent="3" id="w94" length="1" offset="441"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Lindley" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="mill++" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Lindley" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Mill" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="know" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Cane" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Creek" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Orange" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="County" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="North" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Carolina" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="now" pos="ADV" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Alamance" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="County" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="13" pos="NUM" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="1781" pos="NUM" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="American" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Revolutionary" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="name" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="mill" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="that" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="sit" pos="VERB" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="site" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="Cane" pos="PROPN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="Creek" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="which" pos="DET" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="sit" pos="VERB" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="along" pos="ADP" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="road" pos="NOUN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="connect" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="what" pos="PRON" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="then" pos="ADV" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="temporary" pos="ADJ" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="state" pos="NOUN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="capital" pos="NOUN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="Hillsborough" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="Wilmington" pos="PROPN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="North" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="Carolina" pos="PROPN" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t8" to="t5" rfunc="poss"/>
+    <dep from="t4" to="t8" rfunc="pobj"/>
+    <dep from="t5" to="t6" rfunc="case"/>
+    <dep from="t8" to="t7" rfunc="subtok"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t11" to="t10" rfunc="det"/>
+    <dep from="t26" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t15" to="t13" rfunc="poss"/>
+    <dep from="t12" to="t15" rfunc="pobj"/>
+    <dep from="t13" to="t14" rfunc="case"/>
+    <dep from="t18" to="t16" rfunc="punct"/>
+    <dep from="t26" to="t18" rfunc="parataxis"/>
+    <dep from="t18" to="t17" rfunc="advmod"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="det"/>
+    <dep from="t19" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="prep"/>
+    <dep from="t24" to="t23" rfunc="compound"/>
+    <dep from="t22" to="t24" rfunc="pobj"/>
+    <dep from="t18" to="t25" rfunc="punct"/>
+    <dep from="t26" to="t27" rfunc="dobj"/>
+    <dep from="t26" to="t28" rfunc="prep"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t28" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t31" rfunc="punct"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t30" to="t33" rfunc="appos"/>
+    <dep from="t30" to="t34" rfunc="punct"/>
+    <dep from="t36" to="t35" rfunc="advmod"/>
+    <dep from="t30" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t26" to="t39" rfunc="punct"/>
+    <dep from="t26" to="t40" rfunc="punct"/>
+    <dep from="t26" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t42" to="t43" rfunc="nummod"/>
+    <dep from="t42" to="t44" rfunc="punct"/>
+    <dep from="t42" to="t45" rfunc="nummod"/>
+    <dep from="t26" to="t46" rfunc="punct"/>
+    <dep from="t26" to="t47" rfunc="prep"/>
+    <dep from="t51" to="t48" rfunc="det"/>
+    <dep from="t47" to="t51" rfunc="pobj"/>
+    <dep from="t51" to="t49" rfunc="compound"/>
+    <dep from="t51" to="t50" rfunc="compound"/>
+    <dep from="t26" to="t52" rfunc="punct"/>
+    <dep from="t54" to="t53" rfunc="det"/>
+    <dep from="t55" to="t54" rfunc="nsubj"/>
+    <dep from="t57" to="t56" rfunc="poss"/>
+    <dep from="t55" to="t57" rfunc="dobj"/>
+    <dep from="t55" to="t58" rfunc="prep"/>
+    <dep from="t60" to="t59" rfunc="det"/>
+    <dep from="t58" to="t60" rfunc="pobj"/>
+    <dep from="t62" to="t61" rfunc="nsubj"/>
+    <dep from="t60" to="t62" rfunc="relcl"/>
+    <dep from="t62" to="t63" rfunc="prep"/>
+    <dep from="t65" to="t64" rfunc="det"/>
+    <dep from="t63" to="t65" rfunc="pobj"/>
+    <dep from="t65" to="t66" rfunc="prep"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t66" to="t68" rfunc="pobj"/>
+    <dep from="t68" to="t69" rfunc="prep"/>
+    <dep from="t71" to="t70" rfunc="compound"/>
+    <dep from="t69" to="t71" rfunc="pobj"/>
+    <dep from="t71" to="t72" rfunc="punct"/>
+    <dep from="t74" to="t73" rfunc="nsubj"/>
+    <dep from="t71" to="t74" rfunc="relcl"/>
+    <dep from="t74" to="t75" rfunc="prep"/>
+    <dep from="t77" to="t76" rfunc="det"/>
+    <dep from="t75" to="t77" rfunc="pobj"/>
+    <dep from="t77" to="t78" rfunc="acl"/>
+    <dep from="t80" to="t79" rfunc="nsubj"/>
+    <dep from="t78" to="t80" rfunc="ccomp"/>
+    <dep from="t80" to="t81" rfunc="advmod"/>
+    <dep from="t85" to="t82" rfunc="det"/>
+    <dep from="t80" to="t85" rfunc="attr"/>
+    <dep from="t85" to="t83" rfunc="amod"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t85" to="t86" rfunc="punct"/>
+    <dep from="t85" to="t87" rfunc="appos"/>
+    <dep from="t85" to="t88" rfunc="punct"/>
+    <dep from="t85" to="t89" rfunc="prep"/>
+    <dep from="t89" to="t90" rfunc="pobj"/>
+    <dep from="t90" to="t91" rfunc="punct"/>
+    <dep from="t93" to="t92" rfunc="compound"/>
+    <dep from="t90" to="t93" rfunc="appos"/>
+    <dep from="t55" to="t94" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--O r a n g e   C o u n t y ,   N o r t h   C a r o l i n a-->
+        <target id="t29"/>
+        <target id="t30"/>
+        <target id="t31"/>
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Orange_County,_North_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A l a m a n c e   C o u n t y-->
+        <target id="t37"/>
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Alamance_County,_North_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Contea_di_Alamance" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Alamance_County" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--A m e r i c a n   R e v o l u t i o n a r y   W a r-->
+        <target id="t49"/>
+        <target id="t50"/>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/American_Revolutionary_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_d'indipendenza_americana" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Amerikaanse_Onafhankelijkheidsoorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--H i l l s b o r o u g h-->
+        <target id="t87"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hillsborough,_North_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--W i l m i n g t o n ,   N o r t h   C a r o l i n a-->
+        <target id="t90"/>
+        <target id="t91"/>
+        <target id="t92"/>
+        <target id="t93"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wilmington,_North_Carolina" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people_by_origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t49"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t54"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_named" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t57"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-businesses" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t60"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t68"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t77"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attaching" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-relational_political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t85"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Oostenrijkse presidentsverkiezingen 1957"/>
+    <public uri="https://nl.wikipedia.org/wiki/Oostenrijkse_presidentsverkiezingen_1957"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T21:30:10UTC" endTimestamp="2020-05-27T21:30:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T21:30:10UTC" endTimestamp="2020-05-27T21:30:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T21:30:10UTC" endTimestamp="2020-05-27T21:30:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T21:30:10UTC" endTimestamp="2020-05-27T21:30:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Oostenrijkse presidentsverkiezingen 1957++.
+De tweede verkiezingen voor een bondspresident tijdens de Tweede Oostenrijkse Republiek vonden op 5 mei 1957 plaats.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="12" offset="2"><![CDATA[Oostenrijkse]]></wf>
+    <wf sent="1" id="w4" length="22" offset="15"><![CDATA[presidentsverkiezingen]]></wf>
+    <wf sent="1" id="w5" length="6" offset="38"><![CDATA[1957++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="44"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="45"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="2" offset="46"><![CDATA[De]]></wf>
+    <wf sent="2" id="w9" length="6" offset="49"><![CDATA[tweede]]></wf>
+    <wf sent="2" id="w10" length="12" offset="56"><![CDATA[verkiezingen]]></wf>
+    <wf sent="2" id="w11" length="4" offset="69"><![CDATA[voor]]></wf>
+    <wf sent="2" id="w12" length="3" offset="74"><![CDATA[een]]></wf>
+    <wf sent="2" id="w13" length="14" offset="78"><![CDATA[bondspresident]]></wf>
+    <wf sent="2" id="w14" length="7" offset="93"><![CDATA[tijdens]]></wf>
+    <wf sent="2" id="w15" length="2" offset="101"><![CDATA[de]]></wf>
+    <wf sent="2" id="w16" length="6" offset="104"><![CDATA[Tweede]]></wf>
+    <wf sent="2" id="w17" length="12" offset="111"><![CDATA[Oostenrijkse]]></wf>
+    <wf sent="2" id="w18" length="9" offset="124"><![CDATA[Republiek]]></wf>
+    <wf sent="2" id="w19" length="6" offset="134"><![CDATA[vonden]]></wf>
+    <wf sent="2" id="w20" length="2" offset="141"><![CDATA[op]]></wf>
+    <wf sent="2" id="w21" length="1" offset="144"><![CDATA[5]]></wf>
+    <wf sent="2" id="w22" length="3" offset="146"><![CDATA[mei]]></wf>
+    <wf sent="2" id="w23" length="4" offset="150"><![CDATA[1957]]></wf>
+    <wf sent="2" id="w24" length="6" offset="155"><![CDATA[plaats]]></wf>
+    <wf sent="2" id="w25" length="1" offset="161"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="oostenrijks" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="presidentsverkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="1957++" pos="NUM" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="twee" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="verkiezing" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="voor" pos="ADP" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="een" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="bondspresident" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="tijdens" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="tweede" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="oostenrijkse" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="republiek" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="vinden" pos="VERB" type="open" component_of="mw1">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="5" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="mei" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="1957" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="plaatsvinden" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t1" to="t4" rfunc="dep"/>
+    <dep from="t4" to="t5" rfunc="appos"/>
+    <dep from="t1" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t10" to="t8" rfunc="det"/>
+    <dep from="t26" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t9" rfunc="amod"/>
+    <dep from="t13" to="t11" rfunc="case"/>
+    <dep from="t10" to="t13" rfunc="nmod"/>
+    <dep from="t13" to="t12" rfunc="det"/>
+    <dep from="t16" to="t14" rfunc="case"/>
+    <dep from="t13" to="t16" rfunc="nmod"/>
+    <dep from="t16" to="t15" rfunc="det"/>
+    <dep from="t16" to="t17" rfunc="flat"/>
+    <dep from="t16" to="t18" rfunc="flat"/>
+    <dep from="t21" to="t20" rfunc="case"/>
+    <dep from="t26" to="t21" rfunc="obl"/>
+    <dep from="t21" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="compound"/>
+    <dep from="t19" to="t24" rfunc="compound:prt"/>
+    <dep from="t26" to="t25" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--T w e e d e   O o s t e n r i j k s e   R e p u b l i e k-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tweede_Oostenrijkse_Republiek" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--5   m e i-->
+        <target id="t21"/>
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/5_mei" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/5_maggio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/May_5" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1 9 5 7-->
+        <target id="t23"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1957" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <multiwords>
+    <mw id="mw1" lemma="plaatsvinden" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t19"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t24"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

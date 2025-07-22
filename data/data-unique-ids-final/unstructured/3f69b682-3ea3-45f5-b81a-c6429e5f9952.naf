@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1973 1000 Lakes Rally"/>
+    <public uri="https://en.wikipedia.org/wiki/1973_1000_Lakes_Rally"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T13:35:23UTC" endTimestamp="2020-05-28T13:35:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T13:35:23UTC" endTimestamp="2020-05-28T13:35:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T13:35:23UTC" endTimestamp="2020-05-28T13:35:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T13:35:23UTC" endTimestamp="2020-05-28T13:35:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:37CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1973 1000 Lakes Rally++.
+The 1973 1000 Lakes Rally (formally the 23rd 1000 Lakes Rally) was the 23rd running of the 1000 Lakes Rally (currently known as the Rally Finland), and the eighth round of the inaugural World Rally Championship season.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1973]]></wf>
+    <wf sent="1" id="w3" length="4" offset="7"><![CDATA[1000]]></wf>
+    <wf sent="1" id="w4" length="5" offset="12"><![CDATA[Lakes]]></wf>
+    <wf sent="1" id="w5" length="7" offset="18"><![CDATA[Rally++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="25"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="26"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="27"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="31"><![CDATA[1973]]></wf>
+    <wf sent="2" id="w10" length="4" offset="36"><![CDATA[1000]]></wf>
+    <wf sent="2" id="w11" length="5" offset="41"><![CDATA[Lakes]]></wf>
+    <wf sent="2" id="w12" length="5" offset="47"><![CDATA[Rally]]></wf>
+    <wf sent="2" id="w13" length="1" offset="53"><![CDATA[(]]></wf>
+    <wf sent="2" id="w14" length="8" offset="54"><![CDATA[formally]]></wf>
+    <wf sent="2" id="w15" length="3" offset="63"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="4" offset="67"><![CDATA[23rd]]></wf>
+    <wf sent="2" id="w17" length="4" offset="72"><![CDATA[1000]]></wf>
+    <wf sent="2" id="w18" length="5" offset="77"><![CDATA[Lakes]]></wf>
+    <wf sent="2" id="w19" length="5" offset="83"><![CDATA[Rally]]></wf>
+    <wf sent="2" id="w20" length="1" offset="88"><![CDATA[)]]></wf>
+    <wf sent="2" id="w21" length="3" offset="90"><![CDATA[was]]></wf>
+    <wf sent="2" id="w22" length="3" offset="94"><![CDATA[the]]></wf>
+    <wf sent="2" id="w23" length="4" offset="98"><![CDATA[23rd]]></wf>
+    <wf sent="2" id="w24" length="7" offset="103"><![CDATA[running]]></wf>
+    <wf sent="2" id="w25" length="2" offset="111"><![CDATA[of]]></wf>
+    <wf sent="2" id="w26" length="3" offset="114"><![CDATA[the]]></wf>
+    <wf sent="2" id="w27" length="4" offset="118"><![CDATA[1000]]></wf>
+    <wf sent="2" id="w28" length="5" offset="123"><![CDATA[Lakes]]></wf>
+    <wf sent="2" id="w29" length="5" offset="129"><![CDATA[Rally]]></wf>
+    <wf sent="2" id="w30" length="1" offset="135"><![CDATA[(]]></wf>
+    <wf sent="2" id="w31" length="9" offset="136"><![CDATA[currently]]></wf>
+    <wf sent="2" id="w32" length="5" offset="146"><![CDATA[known]]></wf>
+    <wf sent="2" id="w33" length="2" offset="152"><![CDATA[as]]></wf>
+    <wf sent="2" id="w34" length="3" offset="155"><![CDATA[the]]></wf>
+    <wf sent="2" id="w35" length="5" offset="159"><![CDATA[Rally]]></wf>
+    <wf sent="2" id="w36" length="7" offset="165"><![CDATA[Finland]]></wf>
+    <wf sent="2" id="w37" length="1" offset="172"><![CDATA[)]]></wf>
+    <wf sent="2" id="w38" length="1" offset="173"><![CDATA[,]]></wf>
+    <wf sent="2" id="w39" length="3" offset="175"><![CDATA[and]]></wf>
+    <wf sent="2" id="w40" length="3" offset="179"><![CDATA[the]]></wf>
+    <wf sent="2" id="w41" length="6" offset="183"><![CDATA[eighth]]></wf>
+    <wf sent="2" id="w42" length="5" offset="190"><![CDATA[round]]></wf>
+    <wf sent="2" id="w43" length="2" offset="196"><![CDATA[of]]></wf>
+    <wf sent="2" id="w44" length="3" offset="199"><![CDATA[the]]></wf>
+    <wf sent="2" id="w45" length="9" offset="203"><![CDATA[inaugural]]></wf>
+    <wf sent="2" id="w46" length="5" offset="213"><![CDATA[World]]></wf>
+    <wf sent="2" id="w47" length="5" offset="219"><![CDATA[Rally]]></wf>
+    <wf sent="2" id="w48" length="12" offset="225"><![CDATA[Championship]]></wf>
+    <wf sent="2" id="w49" length="6" offset="238"><![CDATA[season]]></wf>
+    <wf sent="2" id="w50" length="1" offset="244"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1973" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="1000" pos="NUM" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Lakes" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Rally++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1973" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="1000" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Lakes" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Rally" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="formally" pos="ADV" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="23rd" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="1000" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Lakes" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Rally" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="23rd" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="running" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1000" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Lakes" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Rally" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="currently" pos="ADV" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="know" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Rally" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Finland" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="eighth" pos="ADJ" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="inaugural" pos="ADJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="World" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="Rally" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Championship" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="season" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t2" rfunc="nmod"/>
+    <dep from="t5" to="t3" rfunc="nummod"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t21" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="nummod"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t12" to="t13" rfunc="punct"/>
+    <dep from="t19" to="t14" rfunc="advmod"/>
+    <dep from="t12" to="t19" rfunc="appos"/>
+    <dep from="t19" to="t15" rfunc="det"/>
+    <dep from="t19" to="t16" rfunc="amod"/>
+    <dep from="t16" to="t17" rfunc="nummod"/>
+    <dep from="t19" to="t18" rfunc="compound"/>
+    <dep from="t12" to="t20" rfunc="punct"/>
+    <dep from="t23" to="t22" rfunc="det"/>
+    <dep from="t21" to="t23" rfunc="attr"/>
+    <dep from="t21" to="t24" rfunc="advcl"/>
+    <dep from="t24" to="t25" rfunc="prep"/>
+    <dep from="t29" to="t26" rfunc="det"/>
+    <dep from="t25" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t27" rfunc="nummod"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t29" to="t30" rfunc="punct"/>
+    <dep from="t32" to="t31" rfunc="advmod"/>
+    <dep from="t29" to="t32" rfunc="acl"/>
+    <dep from="t32" to="t33" rfunc="prep"/>
+    <dep from="t36" to="t34" rfunc="det"/>
+    <dep from="t33" to="t36" rfunc="pobj"/>
+    <dep from="t36" to="t35" rfunc="compound"/>
+    <dep from="t29" to="t37" rfunc="punct"/>
+    <dep from="t21" to="t38" rfunc="punct"/>
+    <dep from="t21" to="t39" rfunc="cc"/>
+    <dep from="t42" to="t40" rfunc="det"/>
+    <dep from="t21" to="t42" rfunc="conj"/>
+    <dep from="t42" to="t41" rfunc="amod"/>
+    <dep from="t42" to="t43" rfunc="prep"/>
+    <dep from="t49" to="t44" rfunc="det"/>
+    <dep from="t43" to="t49" rfunc="pobj"/>
+    <dep from="t49" to="t45" rfunc="amod"/>
+    <dep from="t47" to="t46" rfunc="compound"/>
+    <dep from="t48" to="t47" rfunc="compound"/>
+    <dep from="t49" to="t48" rfunc="compound"/>
+    <dep from="t21" to="t50" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--R a l l y   F i n l a n d-->
+        <target id="t35"/>
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Rally_Finland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Rally_di_Finlandia" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Rally_van_Finland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--W o r l d   R a l l y   C h a m p i o n s h i p-->
+        <target id="t46"/>
+        <target id="t47"/>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/World_Rally_Championship" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/World_Rally_Championship" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Wereldkampioenschap_rally" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

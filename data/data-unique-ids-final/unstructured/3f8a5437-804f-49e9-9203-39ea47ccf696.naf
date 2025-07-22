@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2015 Gooik-Geraardsbergen-Gooik"/>
+    <public uri="https://en.wikipedia.org/wiki/2015_Gooik-Geraardsbergen-Gooik"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T18:49:21UTC" endTimestamp="2020-05-28T18:49:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T18:49:21UTC" endTimestamp="2020-05-28T18:49:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T18:49:21UTC" endTimestamp="2020-05-28T18:49:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T18:49:21UTC" endTimestamp="2020-05-28T18:49:21UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:20CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2015 Gooik-Geraardsbergen-Gooik++.
+The 2015 Gooik-Geraardsbergen-Gooik is a one-day women's cycle race held in Belgium starting and finishing in Gooik on 31 May 2015. The race had a UCI rating of 1.1.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2015]]></wf>
+    <wf sent="1" id="w3" length="5" offset="7"><![CDATA[Gooik]]></wf>
+    <wf sent="1" id="w4" length="1" offset="12"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="14" offset="13"><![CDATA[Geraardsbergen]]></wf>
+    <wf sent="1" id="w6" length="1" offset="27"><![CDATA[-]]></wf>
+    <wf sent="1" id="w7" length="7" offset="28"><![CDATA[Gooik++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="35"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="36"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="4" offset="41"><![CDATA[2015]]></wf>
+    <wf sent="2" id="w12" length="5" offset="46"><![CDATA[Gooik]]></wf>
+    <wf sent="2" id="w13" length="1" offset="51"><![CDATA[-]]></wf>
+    <wf sent="2" id="w14" length="14" offset="52"><![CDATA[Geraardsbergen]]></wf>
+    <wf sent="2" id="w15" length="1" offset="66"><![CDATA[-]]></wf>
+    <wf sent="2" id="w16" length="5" offset="67"><![CDATA[Gooik]]></wf>
+    <wf sent="2" id="w17" length="2" offset="73"><![CDATA[is]]></wf>
+    <wf sent="2" id="w18" length="1" offset="76"><![CDATA[a]]></wf>
+    <wf sent="2" id="w19" length="3" offset="78"><![CDATA[one]]></wf>
+    <wf sent="2" id="w20" length="1" offset="81"><![CDATA[-]]></wf>
+    <wf sent="2" id="w21" length="3" offset="82"><![CDATA[day]]></wf>
+    <wf sent="2" id="w22" length="5" offset="86"><![CDATA[women]]></wf>
+    <wf sent="2" id="w23" length="2" offset="91"><![CDATA['s]]></wf>
+    <wf sent="2" id="w24" length="5" offset="94"><![CDATA[cycle]]></wf>
+    <wf sent="2" id="w25" length="4" offset="100"><![CDATA[race]]></wf>
+    <wf sent="2" id="w26" length="4" offset="105"><![CDATA[held]]></wf>
+    <wf sent="2" id="w27" length="2" offset="110"><![CDATA[in]]></wf>
+    <wf sent="2" id="w28" length="7" offset="113"><![CDATA[Belgium]]></wf>
+    <wf sent="2" id="w29" length="8" offset="121"><![CDATA[starting]]></wf>
+    <wf sent="2" id="w30" length="3" offset="130"><![CDATA[and]]></wf>
+    <wf sent="2" id="w31" length="9" offset="134"><![CDATA[finishing]]></wf>
+    <wf sent="2" id="w32" length="2" offset="144"><![CDATA[in]]></wf>
+    <wf sent="2" id="w33" length="5" offset="147"><![CDATA[Gooik]]></wf>
+    <wf sent="2" id="w34" length="2" offset="153"><![CDATA[on]]></wf>
+    <wf sent="2" id="w35" length="2" offset="156"><![CDATA[31]]></wf>
+    <wf sent="2" id="w36" length="3" offset="159"><![CDATA[May]]></wf>
+    <wf sent="2" id="w37" length="4" offset="163"><![CDATA[2015]]></wf>
+    <wf sent="2" id="w38" length="1" offset="167"><![CDATA[.]]></wf>
+    <wf sent="3" id="w39" length="3" offset="169"><![CDATA[The]]></wf>
+    <wf sent="3" id="w40" length="4" offset="173"><![CDATA[race]]></wf>
+    <wf sent="3" id="w41" length="3" offset="178"><![CDATA[had]]></wf>
+    <wf sent="3" id="w42" length="1" offset="182"><![CDATA[a]]></wf>
+    <wf sent="3" id="w43" length="3" offset="184"><![CDATA[UCI]]></wf>
+    <wf sent="3" id="w44" length="6" offset="188"><![CDATA[rating]]></wf>
+    <wf sent="3" id="w45" length="2" offset="195"><![CDATA[of]]></wf>
+    <wf sent="3" id="w46" length="3" offset="198"><![CDATA[1.1]]></wf>
+    <wf sent="3" id="w47" length="1" offset="201"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2015" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Gooik" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Geraardsbergen" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Gooik++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="2015" pos="NUM" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Gooik" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Geraardsbergen" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Gooik" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="one" pos="NUM" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="day" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="cycle" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Belgium" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="start" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="finish" pos="VERB" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Gooik" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="31" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="2015" pos="NUM" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="race" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="have" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="UCI" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="rating" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="1.1" pos="NUM" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t7" to="t1" rfunc="cc"/>
+    <dep from="t7" to="t2" rfunc="nmod"/>
+    <dep from="t7" to="t3" rfunc="compound"/>
+    <dep from="t7" to="t4" rfunc="punct"/>
+    <dep from="t7" to="t5" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc="punct"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t16" to="t10" rfunc="det"/>
+    <dep from="t17" to="t16" rfunc="nsubj"/>
+    <dep from="t16" to="t11" rfunc="nummod"/>
+    <dep from="t16" to="t12" rfunc="compound"/>
+    <dep from="t16" to="t13" rfunc="punct"/>
+    <dep from="t16" to="t14" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="punct"/>
+    <dep from="t25" to="t18" rfunc="det"/>
+    <dep from="t17" to="t25" rfunc="attr"/>
+    <dep from="t21" to="t19" rfunc="nummod"/>
+    <dep from="t25" to="t21" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="punct"/>
+    <dep from="t25" to="t22" rfunc="poss"/>
+    <dep from="t22" to="t23" rfunc="case"/>
+    <dep from="t25" to="t24" rfunc="compound"/>
+    <dep from="t25" to="t26" rfunc="acl"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t27" to="t28" rfunc="pobj"/>
+    <dep from="t26" to="t29" rfunc="advcl"/>
+    <dep from="t29" to="t30" rfunc="cc"/>
+    <dep from="t29" to="t31" rfunc="conj"/>
+    <dep from="t31" to="t32" rfunc="prep"/>
+    <dep from="t32" to="t33" rfunc="pobj"/>
+    <dep from="t31" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="nummod"/>
+    <dep from="t34" to="t36" rfunc="pobj"/>
+    <dep from="t36" to="t37" rfunc="nummod"/>
+    <dep from="t17" to="t38" rfunc="punct"/>
+    <dep from="t40" to="t39" rfunc="det"/>
+    <dep from="t41" to="t40" rfunc="nsubj"/>
+    <dep from="t44" to="t42" rfunc="det"/>
+    <dep from="t41" to="t44" rfunc="dobj"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t44" to="t45" rfunc="prep"/>
+    <dep from="t45" to="t46" rfunc="pobj"/>
+    <dep from="t41" to="t47" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--G o o i k - G e r a a r d s b e r g e n - G o o i k-->
+        <target id="t12"/>
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gooik-Geraardsbergen-Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gooik-Geraardsbergen-Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gooik-Geraardsbergen-Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--B e l g i u m-->
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Belgium" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Belgio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/België" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q31" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--G o o i k-->
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gooik" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 1 5-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2015_in_women's_road_cycling" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Calendario_internazionale_femminile_UCI_2015" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--U C I-->
+        <target id="t43"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Union_Cycliste_Internationale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Unione_Ciclistica_Internazionale" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/UCI" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--1 . 1-->
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/UCI_category" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q31" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-activity_finish" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-type" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

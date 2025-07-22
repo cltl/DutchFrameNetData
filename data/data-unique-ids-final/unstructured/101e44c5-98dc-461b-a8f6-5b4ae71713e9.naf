@@ -1,0 +1,209 @@
+<NAF xml:lang="nl" version="v4">
+  <nafHeader>
+    <fileDesc creationtime="2021-07-21T00:00:00UTC" title="Waar moeten we heen? Na de ramp volgt een gigantisch volkshu..."/>
+    <public uri="http://web.archive.org/web/20211027124059/https://www.limburger.nl/cnt/dmf20210721_97085707"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2021-12-01T13:36:48UTC" endTimestamp="2021-12-01T13:36:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2021-12-01T13:36:48UTC" endTimestamp="2021-12-01T13:36:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2021-12-01T13:36:48UTC" endTimestamp="2021-12-01T13:36:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2021-12-01T13:36:48UTC" endTimestamp="2021-12-01T13:36:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="multiwords">
+      <lp beginTimestamp="2021-12-01T13:36:48UTC" endTimestamp="2021-12-01T13:36:48UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Waar moeten we heen? Na de ramp volgt een gigantisch volkshu....
+De Limburgse jaren van Jomanda (73): in Venlo zag ze het licht, in Valkenburg droomde ze van een paranormaal kuurcentrum</raw>
+  <text>
+    <wf sent="1" id="w1" length="4" offset="0">Waar</wf><wf sent="1" id="w2" length="6" offset="5">moeten</wf><wf sent="1" id="w3" length="2" offset="12">we</wf><wf sent="1" id="w4" length="4" offset="15">heen</wf><wf sent="1" id="w5" length="1" offset="19">?</wf><wf sent="2" id="w6" length="2" offset="21">Na</wf><wf sent="2" id="w7" length="2" offset="24">de</wf><wf sent="2" id="w8" length="4" offset="27">ramp</wf><wf sent="2" id="w9" length="5" offset="32">volgt</wf><wf sent="2" id="w10" length="3" offset="38">een</wf><wf sent="2" id="w11" length="10" offset="42">gigantisch</wf><wf sent="2" id="w12" length="7" offset="53">volkshu</wf><wf sent="2" id="w13" length="4" offset="60">....</wf><wf sent="3" id="w14" length="2" offset="65">De</wf>
+    <wf sent="3" id="w15" length="9" offset="68">Limburgse</wf>
+    <wf sent="3" id="w16" length="5" offset="78">jaren</wf>
+    <wf sent="3" id="w17" length="3" offset="84">van</wf>
+    <wf sent="3" id="w18" length="7" offset="88">Jomanda</wf>
+    <wf sent="3" id="w19" length="1" offset="96">(</wf>
+    <wf sent="3" id="w20" length="2" offset="97">73</wf>
+    <wf sent="3" id="w21" length="1" offset="99">)</wf>
+    <wf sent="3" id="w22" length="1" offset="100">:</wf>
+    <wf sent="4" id="w23" length="2" offset="102">in</wf>
+    <wf sent="4" id="w24" length="5" offset="105">Venlo</wf>
+    <wf sent="4" id="w25" length="3" offset="111">zag</wf>
+    <wf sent="4" id="w26" length="2" offset="115">ze</wf>
+    <wf sent="4" id="w27" length="3" offset="118">het</wf>
+    <wf sent="4" id="w28" length="5" offset="122">licht</wf>
+    <wf sent="4" id="w29" length="1" offset="127">,</wf>
+    <wf sent="4" id="w30" length="2" offset="129">in</wf>
+    <wf sent="4" id="w31" length="10" offset="132">Valkenburg</wf>
+    <wf sent="4" id="w32" length="7" offset="143">droomde</wf>
+    <wf sent="4" id="w33" length="2" offset="151">ze</wf>
+    <wf sent="4" id="w34" length="3" offset="154">van</wf>
+    <wf sent="4" id="w35" length="3" offset="158">een</wf>
+    <wf sent="4" id="w36" length="11" offset="162">paranormaal</wf>
+    <wf sent="4" id="w37" length="11" offset="174">kuurcentrum</wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="waar" pos="ADV" type="open" morphofeat="VNW|vb|adv-pron|obl|vol|3o|getal"><span><target id="w1"/></span></term><term id="t2" lemma="moeten" pos="AUX" type="open" morphofeat="WW|pv|tgw|mv__Number=Plur|Tense=Pres|VerbForm=Fin" component_of="mw1"><span><target id="w2"/></span></term><term id="t3" lemma="we" pos="PRON" type="open" morphofeat="VNW|pers|pron|nomin|red|1|mv__Case=Nom|Person=1|PronType=Prs"><span><target id="w3"/></span></term><term id="t4" lemma="heen" pos="ADP" type="open" morphofeat="VZ|fin" component_of="mw1"><span><target id="w4"/></span></term><term id="t5" lemma="?" pos="SYM" type="open" morphofeat="LET"><span><target id="w5"/></span></term><term id="t6" lemma="na" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w6"/></span></term><term id="t7" lemma="de" pos="DET" type="open" morphofeat="LID|bep|stan|rest__Definite=Def"><span><target id="w7"/></span></term><term id="t8" lemma="ramp" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|zijd|stan__Gender=Com|Number=Sing"><span><target id="w8"/></span></term><term id="t9" lemma="volgen" pos="AUX" type="open" morphofeat="WW|pv|tgw|met-t__Number=Sing|Tense=Pres|VerbForm=Fin"><span><target id="w9"/></span></term><term id="t10" lemma="een" pos="DET" type="open" morphofeat="LID|onbep|stan|agr__Definite=Ind"><span><target id="w10"/></span></term><term id="t11" lemma="gigantisch" pos="ADJ" type="open" morphofeat="ADJ|prenom|basis|zonder__Degree=Pos"><span><target id="w11"/></span></term><term id="t12" lemma="volkshu" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w12"/></span></term><term id="t13" lemma="...." pos="SYM" type="open" morphofeat="LET"><span><target id="w13"/></span></term><term id="t14" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="limburgs" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="jaar" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="jomanda" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="(" pos="PUNCT" type="open" morphofeat="Punc|haakopen__PunctSide=Ini|PunctType=Brck">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="73" pos="NUM" type="open" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma=")" pos="PUNCT" type="open" morphofeat="Punc|haaksluit__PunctSide=Fin|PunctType=Brck">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma=":" pos="PUNCT" type="open" morphofeat="Punc|dubbpunt__PunctType=Colo">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="venlo" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="zien" pos="VERB" type="open" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="ze" pos="PRON" type="open" morphofeat="Pron|per|3|evofmv|nom__Case=Nom|Number=Plur,Sing|Person=3|PronType=Prs">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="licht" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="valkenburg" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="dromen" pos="VERB" type="open" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin" component_of="mw1">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="ze" pos="PRON" type="open" morphofeat="Pron|per|3|evofmv|nom__Case=Nom|Number=Plur,Sing|Person=3|PronType=Prs">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="paranormaal" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="kuurcentrum" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" component_of="mw1">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="advmod"/><dep from="t2" to="t3" rfunc="nsubj"/><dep from="t2" to="t4" rfunc="compound:prt"/><dep from="t2" to="t5" rfunc="punct"/><dep from="t8" to="t6" rfunc="case"/><dep from="t9" to="t8" rfunc="obl"/><dep from="t8" to="t7" rfunc="det"/><dep from="t12" to="t10" rfunc="det"/><dep from="t9" to="t12" rfunc="nsubj"/><dep from="t12" to="t11" rfunc="amod"/><dep from="t9" to="t13" rfunc="punct"/><dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t18" to="t17" rfunc="case"/>
+    <dep from="t16" to="t18" rfunc="nmod"/>
+    <dep from="t18" to="t19" rfunc="punct"/>
+    <dep from="t18" to="t20" rfunc="nummod"/>
+    <dep from="t16" to="t21" rfunc="punct"/>
+    <dep from="t16" to="t22" rfunc="punct"/>
+    <dep from="t24" to="t23" rfunc="case"/>
+    <dep from="t25" to="t24" rfunc="obl"/>
+    <dep from="t25" to="t26" rfunc="nsubj"/>
+    <dep from="t28" to="t27" rfunc="det"/>
+    <dep from="t25" to="t28" rfunc="obj"/>
+    <dep from="t25" to="t29" rfunc="punct"/>
+    <dep from="t31" to="t30" rfunc="case"/>
+    <dep from="t32" to="t31" rfunc="obl"/>
+    <dep from="t25" to="t32" rfunc="parataxis"/>
+    <dep from="t32" to="t33" rfunc="nsubj"/>
+    <dep from="t36" to="t34" rfunc="case"/>
+    <dep from="t32" to="t36" rfunc="obl"/>
+    <dep from="t36" to="t35" rfunc="det"/>
+    <dep from="t32" to="t37" rfunc="compound:prt"/>
+  </deps>
+  <multiwords>
+    <mw id="mw1" lemma="kuurcentrumdromen" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t32"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t37"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2015 BMW PGA Championship"/>
+    <public uri="https://en.wikipedia.org/wiki/2015_BMW_PGA_Championship"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T08:27:00UTC" endTimestamp="2020-05-28T08:27:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T08:27:00UTC" endTimestamp="2020-05-28T08:27:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T08:27:00UTC" endTimestamp="2020-05-28T08:27:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T08:27:00UTC" endTimestamp="2020-05-28T08:27:00UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:53CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2015 BMW PGA Championship++.
+The 2015 BMW PGA Championship was the 61st edition of the BMW PGA Championship, an annual golf tournament on the European Tour, held 21–24 May at the West Course of Wentworth Club in Virginia Water, Surrey, England, a suburb southwest of London.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2015]]></wf>
+    <wf sent="1" id="w3" length="3" offset="7"><![CDATA[BMW]]></wf>
+    <wf sent="1" id="w4" length="3" offset="11"><![CDATA[PGA]]></wf>
+    <wf sent="1" id="w5" length="14" offset="15"><![CDATA[Championship++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="29"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="30"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="31"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="4" offset="35"><![CDATA[2015]]></wf>
+    <wf sent="2" id="w10" length="3" offset="40"><![CDATA[BMW]]></wf>
+    <wf sent="2" id="w11" length="3" offset="44"><![CDATA[PGA]]></wf>
+    <wf sent="2" id="w12" length="12" offset="48"><![CDATA[Championship]]></wf>
+    <wf sent="2" id="w13" length="3" offset="61"><![CDATA[was]]></wf>
+    <wf sent="2" id="w14" length="3" offset="65"><![CDATA[the]]></wf>
+    <wf sent="2" id="w15" length="4" offset="69"><![CDATA[61st]]></wf>
+    <wf sent="2" id="w16" length="7" offset="74"><![CDATA[edition]]></wf>
+    <wf sent="2" id="w17" length="2" offset="82"><![CDATA[of]]></wf>
+    <wf sent="2" id="w18" length="3" offset="85"><![CDATA[the]]></wf>
+    <wf sent="2" id="w19" length="3" offset="89"><![CDATA[BMW]]></wf>
+    <wf sent="2" id="w20" length="3" offset="93"><![CDATA[PGA]]></wf>
+    <wf sent="2" id="w21" length="12" offset="97"><![CDATA[Championship]]></wf>
+    <wf sent="2" id="w22" length="1" offset="109"><![CDATA[,]]></wf>
+    <wf sent="2" id="w23" length="2" offset="111"><![CDATA[an]]></wf>
+    <wf sent="2" id="w24" length="6" offset="114"><![CDATA[annual]]></wf>
+    <wf sent="2" id="w25" length="4" offset="121"><![CDATA[golf]]></wf>
+    <wf sent="2" id="w26" length="10" offset="126"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w27" length="2" offset="137"><![CDATA[on]]></wf>
+    <wf sent="2" id="w28" length="3" offset="140"><![CDATA[the]]></wf>
+    <wf sent="2" id="w29" length="8" offset="144"><![CDATA[European]]></wf>
+    <wf sent="2" id="w30" length="4" offset="153"><![CDATA[Tour]]></wf>
+    <wf sent="2" id="w31" length="1" offset="157"><![CDATA[,]]></wf>
+    <wf sent="2" id="w32" length="4" offset="159"><![CDATA[held]]></wf>
+    <wf sent="2" id="w33" length="5" offset="164"><![CDATA[21–24]]></wf>
+    <wf sent="2" id="w34" length="3" offset="170"><![CDATA[May]]></wf>
+    <wf sent="2" id="w35" length="2" offset="174"><![CDATA[at]]></wf>
+    <wf sent="2" id="w36" length="3" offset="177"><![CDATA[the]]></wf>
+    <wf sent="2" id="w37" length="4" offset="181"><![CDATA[West]]></wf>
+    <wf sent="2" id="w38" length="6" offset="186"><![CDATA[Course]]></wf>
+    <wf sent="2" id="w39" length="2" offset="193"><![CDATA[of]]></wf>
+    <wf sent="2" id="w40" length="9" offset="196"><![CDATA[Wentworth]]></wf>
+    <wf sent="2" id="w41" length="4" offset="206"><![CDATA[Club]]></wf>
+    <wf sent="2" id="w42" length="2" offset="211"><![CDATA[in]]></wf>
+    <wf sent="2" id="w43" length="8" offset="214"><![CDATA[Virginia]]></wf>
+    <wf sent="2" id="w44" length="5" offset="223"><![CDATA[Water]]></wf>
+    <wf sent="2" id="w45" length="1" offset="228"><![CDATA[,]]></wf>
+    <wf sent="2" id="w46" length="6" offset="230"><![CDATA[Surrey]]></wf>
+    <wf sent="2" id="w47" length="1" offset="236"><![CDATA[,]]></wf>
+    <wf sent="2" id="w48" length="7" offset="238"><![CDATA[England]]></wf>
+    <wf sent="2" id="w49" length="1" offset="245"><![CDATA[,]]></wf>
+    <wf sent="2" id="w50" length="1" offset="247"><![CDATA[a]]></wf>
+    <wf sent="2" id="w51" length="6" offset="249"><![CDATA[suburb]]></wf>
+    <wf sent="2" id="w52" length="9" offset="256"><![CDATA[southwest]]></wf>
+    <wf sent="2" id="w53" length="2" offset="266"><![CDATA[of]]></wf>
+    <wf sent="2" id="w54" length="6" offset="269"><![CDATA[London]]></wf>
+    <wf sent="2" id="w55" length="1" offset="275"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="SYM" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2015" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="BMW" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="PGA" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Championship++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="2015" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="BMW" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="PGA" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Championship" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="61st" pos="ADJ" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="edition" pos="NOUN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="BMW" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="PGA" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Championship" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="an" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="annual" pos="ADJ" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="golf" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="European" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Tour" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="21–24" pos="NUM" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="West" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Course" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Wentworth" pos="PROPN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Club" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="Virginia" pos="PROPN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Water" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Surrey" pos="PROPN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="England" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="suburb" pos="NOUN" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="southwest" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="London" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="compound"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t12" to="t8" rfunc="det"/>
+    <dep from="t13" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t9" rfunc="nummod"/>
+    <dep from="t12" to="t10" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="compound"/>
+    <dep from="t16" to="t14" rfunc="det"/>
+    <dep from="t13" to="t16" rfunc="attr"/>
+    <dep from="t16" to="t15" rfunc="amod"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t21" to="t18" rfunc="det"/>
+    <dep from="t17" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t19" rfunc="compound"/>
+    <dep from="t21" to="t20" rfunc="compound"/>
+    <dep from="t21" to="t22" rfunc="punct"/>
+    <dep from="t26" to="t23" rfunc="det"/>
+    <dep from="t21" to="t26" rfunc="appos"/>
+    <dep from="t26" to="t24" rfunc="amod"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t26" to="t27" rfunc="prep"/>
+    <dep from="t30" to="t28" rfunc="det"/>
+    <dep from="t27" to="t30" rfunc="pobj"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t13" to="t31" rfunc="punct"/>
+    <dep from="t13" to="t32" rfunc="conj"/>
+    <dep from="t34" to="t33" rfunc="nummod"/>
+    <dep from="t32" to="t34" rfunc="dobj"/>
+    <dep from="t32" to="t35" rfunc="prep"/>
+    <dep from="t38" to="t36" rfunc="det"/>
+    <dep from="t35" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t38" to="t39" rfunc="prep"/>
+    <dep from="t41" to="t40" rfunc="compound"/>
+    <dep from="t39" to="t41" rfunc="pobj"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t42" to="t44" rfunc="pobj"/>
+    <dep from="t44" to="t45" rfunc="punct"/>
+    <dep from="t44" to="t46" rfunc="conj"/>
+    <dep from="t46" to="t47" rfunc="punct"/>
+    <dep from="t46" to="t48" rfunc="conj"/>
+    <dep from="t48" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="det"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t32" to="t52" rfunc="dobj"/>
+    <dep from="t52" to="t53" rfunc="prep"/>
+    <dep from="t53" to="t54" rfunc="pobj"/>
+    <dep from="t13" to="t55" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--B M W   P G A   C h a m p i o n s h i p-->
+        <target id="t19"/>
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/BMW_PGA_Championship" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/BMW_PGA_Championship" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--g o l f-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Golf" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--E u r o p e a n   T o u r-->
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/European_Tour" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--W e n t w o r t h   C l u b-->
+        <target id="t40"/>
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Wentworth_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/The_Wentworth_Club" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--V i r g i n i a   W a t e r-->
+        <target id="t43"/>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Virginia_Water" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Virginia_Water" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Virginia_Water" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--S u r r e y-->
+        <target id="t46"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Surrey" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--E n g l a n d-->
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/England" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Inghilterra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Engeland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--L o n d o n-->
+        <target id="t54"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/London" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Londra" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Londen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-text" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-frequency" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

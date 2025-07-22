@@ -1,0 +1,1352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2001 Bolivarian Games"/>
+    <public uri="https://en.wikipedia.org/wiki/2001_Bolivarian_Games"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T13:23:57UTC" endTimestamp="2020-05-28T13:23:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T13:23:57UTC" endTimestamp="2020-05-28T13:23:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T13:23:57UTC" endTimestamp="2020-05-28T13:23:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T13:23:57UTC" endTimestamp="2020-05-28T13:23:58UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:05CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2001 Bolivarian Games++.
+The XIV Bolivarian Games (Spanish: "Juegos Bolivarianos") were a multi-sport event held between September 7–16, 2001, in Ambato, Ecuador. Some events took place in Guayaquil and in Quito. The Games were organized by the Bolivarian Sports Organization (ODEBO).
+The opening ceremony took place on September 7, 2001, at the Estadio Bellavista in Ambato, Ecuador. The Games were officially opened by Ecuadorean Minister for Education, Culture and Sports (Spanish: "ministro de Educación, Cultura y Deportes") Roberto Hanze as a delegate for president Gustavo Noboa. Torch lighter was racewalker, olympic gold medalist Jefferson Pérez.
+Gold medal winners from Ecuador were published by the Comité Olímpico Ecuatoriano.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2001]]></wf>
+    <wf sent="1" id="w3" length="10" offset="7"><![CDATA[Bolivarian]]></wf>
+    <wf sent="1" id="w4" length="7" offset="18"><![CDATA[Games++]]></wf>
+    <wf sent="1" id="w5" length="1" offset="25"><![CDATA[.]]></wf>
+    <wf sent="1" id="w6" length="1" offset="26"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w7" length="3" offset="27"><![CDATA[The]]></wf>
+    <wf sent="2" id="w8" length="3" offset="31"><![CDATA[XIV]]></wf>
+    <wf sent="2" id="w9" length="10" offset="35"><![CDATA[Bolivarian]]></wf>
+    <wf sent="2" id="w10" length="5" offset="46"><![CDATA[Games]]></wf>
+    <wf sent="2" id="w11" length="1" offset="52"><![CDATA[(]]></wf>
+    <wf sent="2" id="w12" length="7" offset="53"><![CDATA[Spanish]]></wf>
+    <wf sent="2" id="w13" length="1" offset="60"><![CDATA[:]]></wf>
+    <wf sent="2" id="w14" length="1" offset="62"><![CDATA["]]></wf>
+    <wf sent="2" id="w15" length="6" offset="63"><![CDATA[Juegos]]></wf>
+    <wf sent="2" id="w16" length="12" offset="70"><![CDATA[Bolivarianos]]></wf>
+    <wf sent="2" id="w17" length="1" offset="82"><![CDATA["]]></wf>
+    <wf sent="2" id="w18" length="1" offset="83"><![CDATA[)]]></wf>
+    <wf sent="2" id="w19" length="4" offset="85"><![CDATA[were]]></wf>
+    <wf sent="2" id="w20" length="1" offset="90"><![CDATA[a]]></wf>
+    <wf sent="2" id="w21" length="5" offset="92"><![CDATA[multi]]></wf>
+    <wf sent="2" id="w22" length="1" offset="97"><![CDATA[-]]></wf>
+    <wf sent="2" id="w23" length="5" offset="98"><![CDATA[sport]]></wf>
+    <wf sent="2" id="w24" length="5" offset="104"><![CDATA[event]]></wf>
+    <wf sent="2" id="w25" length="4" offset="110"><![CDATA[held]]></wf>
+    <wf sent="2" id="w26" length="7" offset="115"><![CDATA[between]]></wf>
+    <wf sent="2" id="w27" length="9" offset="123"><![CDATA[September]]></wf>
+    <wf sent="2" id="w28" length="4" offset="133"><![CDATA[7–16]]></wf>
+    <wf sent="2" id="w29" length="1" offset="137"><![CDATA[,]]></wf>
+    <wf sent="2" id="w30" length="4" offset="139"><![CDATA[2001]]></wf>
+    <wf sent="2" id="w31" length="1" offset="143"><![CDATA[,]]></wf>
+    <wf sent="2" id="w32" length="2" offset="145"><![CDATA[in]]></wf>
+    <wf sent="2" id="w33" length="6" offset="148"><![CDATA[Ambato]]></wf>
+    <wf sent="2" id="w34" length="1" offset="154"><![CDATA[,]]></wf>
+    <wf sent="2" id="w35" length="7" offset="156"><![CDATA[Ecuador]]></wf>
+    <wf sent="2" id="w36" length="1" offset="163"><![CDATA[.]]></wf>
+    <wf sent="3" id="w37" length="4" offset="165"><![CDATA[Some]]></wf>
+    <wf sent="3" id="w38" length="6" offset="170"><![CDATA[events]]></wf>
+    <wf sent="3" id="w39" length="4" offset="177"><![CDATA[took]]></wf>
+    <wf sent="3" id="w40" length="5" offset="182"><![CDATA[place]]></wf>
+    <wf sent="3" id="w41" length="2" offset="188"><![CDATA[in]]></wf>
+    <wf sent="3" id="w42" length="9" offset="191"><![CDATA[Guayaquil]]></wf>
+    <wf sent="3" id="w43" length="3" offset="201"><![CDATA[and]]></wf>
+    <wf sent="3" id="w44" length="2" offset="205"><![CDATA[in]]></wf>
+    <wf sent="3" id="w45" length="5" offset="208"><![CDATA[Quito]]></wf>
+    <wf sent="3" id="w46" length="1" offset="213"><![CDATA[.]]></wf>
+    <wf sent="4" id="w47" length="3" offset="215"><![CDATA[The]]></wf>
+    <wf sent="4" id="w48" length="5" offset="219"><![CDATA[Games]]></wf>
+    <wf sent="4" id="w49" length="4" offset="225"><![CDATA[were]]></wf>
+    <wf sent="4" id="w50" length="9" offset="230"><![CDATA[organized]]></wf>
+    <wf sent="4" id="w51" length="2" offset="240"><![CDATA[by]]></wf>
+    <wf sent="4" id="w52" length="3" offset="243"><![CDATA[the]]></wf>
+    <wf sent="4" id="w53" length="10" offset="247"><![CDATA[Bolivarian]]></wf>
+    <wf sent="4" id="w54" length="6" offset="258"><![CDATA[Sports]]></wf>
+    <wf sent="4" id="w55" length="12" offset="265"><![CDATA[Organization]]></wf>
+    <wf sent="4" id="w56" length="1" offset="278"><![CDATA[(]]></wf>
+    <wf sent="4" id="w57" length="5" offset="279"><![CDATA[ODEBO]]></wf>
+    <wf sent="4" id="w58" length="1" offset="284"><![CDATA[)]]></wf>
+    <wf sent="4" id="w59" length="1" offset="285"><![CDATA[.]]></wf>
+    <wf sent="4" id="w60" length="1" offset="286"><![CDATA[
+]]></wf>
+    <wf sent="5" id="w61" length="3" offset="287"><![CDATA[The]]></wf>
+    <wf sent="5" id="w62" length="7" offset="291"><![CDATA[opening]]></wf>
+    <wf sent="5" id="w63" length="8" offset="299"><![CDATA[ceremony]]></wf>
+    <wf sent="5" id="w64" length="4" offset="308"><![CDATA[took]]></wf>
+    <wf sent="5" id="w65" length="5" offset="313"><![CDATA[place]]></wf>
+    <wf sent="5" id="w66" length="2" offset="319"><![CDATA[on]]></wf>
+    <wf sent="5" id="w67" length="9" offset="322"><![CDATA[September]]></wf>
+    <wf sent="5" id="w68" length="1" offset="332"><![CDATA[7]]></wf>
+    <wf sent="5" id="w69" length="1" offset="333"><![CDATA[,]]></wf>
+    <wf sent="5" id="w70" length="4" offset="335"><![CDATA[2001]]></wf>
+    <wf sent="5" id="w71" length="1" offset="339"><![CDATA[,]]></wf>
+    <wf sent="5" id="w72" length="2" offset="341"><![CDATA[at]]></wf>
+    <wf sent="5" id="w73" length="3" offset="344"><![CDATA[the]]></wf>
+    <wf sent="5" id="w74" length="7" offset="348"><![CDATA[Estadio]]></wf>
+    <wf sent="5" id="w75" length="10" offset="356"><![CDATA[Bellavista]]></wf>
+    <wf sent="5" id="w76" length="2" offset="367"><![CDATA[in]]></wf>
+    <wf sent="5" id="w77" length="6" offset="370"><![CDATA[Ambato]]></wf>
+    <wf sent="5" id="w78" length="1" offset="376"><![CDATA[,]]></wf>
+    <wf sent="5" id="w79" length="7" offset="378"><![CDATA[Ecuador]]></wf>
+    <wf sent="5" id="w80" length="1" offset="385"><![CDATA[.]]></wf>
+    <wf sent="6" id="w81" length="3" offset="387"><![CDATA[The]]></wf>
+    <wf sent="6" id="w82" length="5" offset="391"><![CDATA[Games]]></wf>
+    <wf sent="6" id="w83" length="4" offset="397"><![CDATA[were]]></wf>
+    <wf sent="6" id="w84" length="10" offset="402"><![CDATA[officially]]></wf>
+    <wf sent="6" id="w85" length="6" offset="413"><![CDATA[opened]]></wf>
+    <wf sent="6" id="w86" length="2" offset="420"><![CDATA[by]]></wf>
+    <wf sent="6" id="w87" length="10" offset="423"><![CDATA[Ecuadorean]]></wf>
+    <wf sent="6" id="w88" length="8" offset="434"><![CDATA[Minister]]></wf>
+    <wf sent="6" id="w89" length="3" offset="443"><![CDATA[for]]></wf>
+    <wf sent="6" id="w90" length="9" offset="447"><![CDATA[Education]]></wf>
+    <wf sent="6" id="w91" length="1" offset="456"><![CDATA[,]]></wf>
+    <wf sent="6" id="w92" length="7" offset="458"><![CDATA[Culture]]></wf>
+    <wf sent="6" id="w93" length="3" offset="466"><![CDATA[and]]></wf>
+    <wf sent="6" id="w94" length="6" offset="470"><![CDATA[Sports]]></wf>
+    <wf sent="6" id="w95" length="1" offset="477"><![CDATA[(]]></wf>
+    <wf sent="6" id="w96" length="7" offset="478"><![CDATA[Spanish]]></wf>
+    <wf sent="6" id="w97" length="1" offset="485"><![CDATA[:]]></wf>
+    <wf sent="6" id="w98" length="1" offset="487"><![CDATA["]]></wf>
+    <wf sent="6" id="w99" length="8" offset="488"><![CDATA[ministro]]></wf>
+    <wf sent="6" id="w100" length="2" offset="497"><![CDATA[de]]></wf>
+    <wf sent="6" id="w101" length="9" offset="500"><![CDATA[Educación]]></wf>
+    <wf sent="6" id="w102" length="1" offset="509"><![CDATA[,]]></wf>
+    <wf sent="6" id="w103" length="7" offset="511"><![CDATA[Cultura]]></wf>
+    <wf sent="6" id="w104" length="1" offset="519"><![CDATA[y]]></wf>
+    <wf sent="6" id="w105" length="8" offset="521"><![CDATA[Deportes]]></wf>
+    <wf sent="6" id="w106" length="1" offset="529"><![CDATA["]]></wf>
+    <wf sent="6" id="w107" length="1" offset="530"><![CDATA[)]]></wf>
+    <wf sent="7" id="w108" length="7" offset="532"><![CDATA[Roberto]]></wf>
+    <wf sent="7" id="w109" length="5" offset="540"><![CDATA[Hanze]]></wf>
+    <wf sent="7" id="w110" length="2" offset="546"><![CDATA[as]]></wf>
+    <wf sent="7" id="w111" length="1" offset="549"><![CDATA[a]]></wf>
+    <wf sent="7" id="w112" length="8" offset="551"><![CDATA[delegate]]></wf>
+    <wf sent="7" id="w113" length="3" offset="560"><![CDATA[for]]></wf>
+    <wf sent="7" id="w114" length="9" offset="564"><![CDATA[president]]></wf>
+    <wf sent="7" id="w115" length="7" offset="574"><![CDATA[Gustavo]]></wf>
+    <wf sent="7" id="w116" length="5" offset="582"><![CDATA[Noboa]]></wf>
+    <wf sent="7" id="w117" length="1" offset="587"><![CDATA[.]]></wf>
+    <wf sent="8" id="w118" length="5" offset="589"><![CDATA[Torch]]></wf>
+    <wf sent="8" id="w119" length="7" offset="595"><![CDATA[lighter]]></wf>
+    <wf sent="8" id="w120" length="3" offset="603"><![CDATA[was]]></wf>
+    <wf sent="8" id="w121" length="10" offset="607"><![CDATA[racewalker]]></wf>
+    <wf sent="8" id="w122" length="1" offset="617"><![CDATA[,]]></wf>
+    <wf sent="8" id="w123" length="7" offset="619"><![CDATA[olympic]]></wf>
+    <wf sent="8" id="w124" length="4" offset="627"><![CDATA[gold]]></wf>
+    <wf sent="8" id="w125" length="8" offset="632"><![CDATA[medalist]]></wf>
+    <wf sent="8" id="w126" length="9" offset="641"><![CDATA[Jefferson]]></wf>
+    <wf sent="8" id="w127" length="5" offset="651"><![CDATA[Pérez]]></wf>
+    <wf sent="8" id="w128" length="1" offset="656"><![CDATA[.]]></wf>
+    <wf sent="8" id="w129" length="1" offset="657"><![CDATA[
+]]></wf>
+    <wf sent="9" id="w130" length="4" offset="658"><![CDATA[Gold]]></wf>
+    <wf sent="9" id="w131" length="5" offset="663"><![CDATA[medal]]></wf>
+    <wf sent="9" id="w132" length="7" offset="669"><![CDATA[winners]]></wf>
+    <wf sent="9" id="w133" length="4" offset="677"><![CDATA[from]]></wf>
+    <wf sent="9" id="w134" length="7" offset="682"><![CDATA[Ecuador]]></wf>
+    <wf sent="9" id="w135" length="4" offset="690"><![CDATA[were]]></wf>
+    <wf sent="9" id="w136" length="9" offset="695"><![CDATA[published]]></wf>
+    <wf sent="9" id="w137" length="2" offset="705"><![CDATA[by]]></wf>
+    <wf sent="9" id="w138" length="3" offset="708"><![CDATA[the]]></wf>
+    <wf sent="9" id="w139" length="6" offset="712"><![CDATA[Comité]]></wf>
+    <wf sent="9" id="w140" length="8" offset="719"><![CDATA[Olímpico]]></wf>
+    <wf sent="9" id="w141" length="11" offset="728"><![CDATA[Ecuatoriano]]></wf>
+    <wf sent="9" id="w142" length="1" offset="739"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2001" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Bolivarian" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Games++" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="XIV" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Bolivarian" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Spanish" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma=":" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Juegos" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Bolivarianos" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="multi" pos="ADJ" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="-" pos="ADJ" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="sport" pos="ADJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="7–16" pos="NOUN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Ambato" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Ecuador" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="some" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="Guayaquil" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Quito" pos="PROPN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="organize" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Bolivarian" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Sports" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Organization" pos="PROPN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="ODEBO" pos="PROPN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="opening" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="2001" pos="NUM" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="Estadio" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Bellavista" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Ambato" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Ecuador" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="officially" pos="ADV" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="open" pos="VERB" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="Ecuadorean" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="Minister" pos="PROPN" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="Education" pos="PROPN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="Culture" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="Sports" pos="PROPN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="spanish" pos="NOUN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma=":" pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="ministro" pos="X" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="de" pos="X" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="Educación" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="Cultura" pos="PROPN" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="y" pos="NOUN" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="Deportes" pos="PROPN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="Roberto" pos="PROPN" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="Hanze" pos="PROPN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="delegate" pos="NOUN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="president" pos="NOUN" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="Gustavo" pos="PROPN" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="Noboa" pos="PROPN" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="torch" pos="NOUN" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="lighter" pos="NOUN" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="racewalker" pos="NOUN" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="olympic" pos="ADJ" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="gold" pos="NOUN" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="medalist" pos="NOUN" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="Jefferson" pos="PROPN" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="Pérez" pos="PROPN" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="gold" pos="NOUN" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="medal" pos="NOUN" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="winner" pos="NOUN" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="Ecuador" pos="PROPN" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="publish" pos="VERB" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="Comité" pos="PROPN" type="open">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" lemma="Olímpico" pos="PROPN" type="open">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" lemma="Ecuatoriano" pos="PROPN" type="open">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t4" to="t1" rfunc="cc"/>
+    <dep from="t4" to="t2" rfunc="nmod"/>
+    <dep from="t4" to="t3" rfunc="amod"/>
+    <dep from="t4" to="t5" rfunc="punct"/>
+    <dep from="t5" to="t6" rfunc=""/>
+    <dep from="t10" to="t7" rfunc="det"/>
+    <dep from="t19" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t8" rfunc="compound"/>
+    <dep from="t10" to="t9" rfunc="compound"/>
+    <dep from="t12" to="t11" rfunc="punct"/>
+    <dep from="t10" to="t12" rfunc="parataxis"/>
+    <dep from="t12" to="t13" rfunc="punct"/>
+    <dep from="t15" to="t14" rfunc="punct"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t10" to="t16" rfunc="appos"/>
+    <dep from="t18" to="t17" rfunc="punct"/>
+    <dep from="t16" to="t18" rfunc="punct"/>
+    <dep from="t24" to="t20" rfunc="det"/>
+    <dep from="t19" to="t24" rfunc="attr"/>
+    <dep from="t22" to="t21" rfunc="subtok"/>
+    <dep from="t23" to="t22" rfunc="subtok"/>
+    <dep from="t24" to="t23" rfunc="amod"/>
+    <dep from="t24" to="t25" rfunc="acl"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t28" to="t27" rfunc="compound"/>
+    <dep from="t26" to="t28" rfunc="pobj"/>
+    <dep from="t28" to="t29" rfunc="punct"/>
+    <dep from="t28" to="t30" rfunc="npadvmod"/>
+    <dep from="t28" to="t31" rfunc="punct"/>
+    <dep from="t28" to="t32" rfunc="prep"/>
+    <dep from="t32" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t34" rfunc="punct"/>
+    <dep from="t33" to="t35" rfunc="appos"/>
+    <dep from="t19" to="t36" rfunc="punct"/>
+    <dep from="t38" to="t37" rfunc="det"/>
+    <dep from="t39" to="t38" rfunc="nsubj"/>
+    <dep from="t39" to="t40" rfunc="dobj"/>
+    <dep from="t39" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t41" to="t43" rfunc="cc"/>
+    <dep from="t41" to="t44" rfunc="conj"/>
+    <dep from="t44" to="t45" rfunc="pobj"/>
+    <dep from="t39" to="t46" rfunc="punct"/>
+    <dep from="t48" to="t47" rfunc="det"/>
+    <dep from="t50" to="t48" rfunc="nsubjpass"/>
+    <dep from="t50" to="t49" rfunc="auxpass"/>
+    <dep from="t50" to="t51" rfunc="agent"/>
+    <dep from="t55" to="t52" rfunc="det"/>
+    <dep from="t51" to="t55" rfunc="pobj"/>
+    <dep from="t55" to="t53" rfunc="compound"/>
+    <dep from="t55" to="t54" rfunc="compound"/>
+    <dep from="t57" to="t56" rfunc="punct"/>
+    <dep from="t55" to="t57" rfunc="appos"/>
+    <dep from="t57" to="t58" rfunc="punct"/>
+    <dep from="t50" to="t59" rfunc="punct"/>
+    <dep from="t59" to="t60" rfunc=""/>
+    <dep from="t63" to="t61" rfunc="det"/>
+    <dep from="t64" to="t63" rfunc="nsubj"/>
+    <dep from="t63" to="t62" rfunc="compound"/>
+    <dep from="t64" to="t65" rfunc="dobj"/>
+    <dep from="t64" to="t66" rfunc="prep"/>
+    <dep from="t66" to="t67" rfunc="pobj"/>
+    <dep from="t67" to="t68" rfunc="nummod"/>
+    <dep from="t67" to="t69" rfunc="punct"/>
+    <dep from="t67" to="t70" rfunc="nummod"/>
+    <dep from="t67" to="t71" rfunc="punct"/>
+    <dep from="t64" to="t72" rfunc="prep"/>
+    <dep from="t75" to="t73" rfunc="det"/>
+    <dep from="t72" to="t75" rfunc="pobj"/>
+    <dep from="t75" to="t74" rfunc="compound"/>
+    <dep from="t75" to="t76" rfunc="prep"/>
+    <dep from="t76" to="t77" rfunc="pobj"/>
+    <dep from="t77" to="t78" rfunc="punct"/>
+    <dep from="t77" to="t79" rfunc="appos"/>
+    <dep from="t64" to="t80" rfunc="punct"/>
+    <dep from="t82" to="t81" rfunc="det"/>
+    <dep from="t85" to="t82" rfunc="nsubjpass"/>
+    <dep from="t85" to="t83" rfunc="auxpass"/>
+    <dep from="t85" to="t84" rfunc="advmod"/>
+    <dep from="t85" to="t86" rfunc="agent"/>
+    <dep from="t88" to="t87" rfunc="compound"/>
+    <dep from="t86" to="t88" rfunc="pobj"/>
+    <dep from="t88" to="t89" rfunc="prep"/>
+    <dep from="t89" to="t90" rfunc="pobj"/>
+    <dep from="t90" to="t91" rfunc="punct"/>
+    <dep from="t90" to="t92" rfunc="conj"/>
+    <dep from="t92" to="t93" rfunc="cc"/>
+    <dep from="t92" to="t94" rfunc="conj"/>
+    <dep from="t96" to="t95" rfunc="punct"/>
+    <dep from="t88" to="t96" rfunc="parataxis"/>
+    <dep from="t96" to="t97" rfunc="punct"/>
+    <dep from="t99" to="t98" rfunc="punct"/>
+    <dep from="t101" to="t99" rfunc="nmod"/>
+    <dep from="t88" to="t101" rfunc="appos"/>
+    <dep from="t101" to="t100" rfunc="nmod"/>
+    <dep from="t101" to="t102" rfunc="punct"/>
+    <dep from="t105" to="t103" rfunc="compound"/>
+    <dep from="t101" to="t105" rfunc="conj"/>
+    <dep from="t105" to="t104" rfunc="compound"/>
+    <dep from="t105" to="t106" rfunc="punct"/>
+    <dep from="t85" to="t107" rfunc="punct"/>
+    <dep from="t109" to="t108" rfunc="compound"/>
+    <dep from="t109" to="t110" rfunc="prep"/>
+    <dep from="t112" to="t111" rfunc="det"/>
+    <dep from="t110" to="t112" rfunc="pobj"/>
+    <dep from="t112" to="t113" rfunc="prep"/>
+    <dep from="t116" to="t114" rfunc="compound"/>
+    <dep from="t113" to="t116" rfunc="pobj"/>
+    <dep from="t116" to="t115" rfunc="compound"/>
+    <dep from="t109" to="t117" rfunc="punct"/>
+    <dep from="t119" to="t118" rfunc="compound"/>
+    <dep from="t120" to="t119" rfunc="nsubj"/>
+    <dep from="t120" to="t121" rfunc="attr"/>
+    <dep from="t121" to="t122" rfunc="punct"/>
+    <dep from="t124" to="t123" rfunc="amod"/>
+    <dep from="t125" to="t124" rfunc="compound"/>
+    <dep from="t127" to="t125" rfunc="compound"/>
+    <dep from="t121" to="t127" rfunc="appos"/>
+    <dep from="t127" to="t126" rfunc="compound"/>
+    <dep from="t120" to="t128" rfunc="punct"/>
+    <dep from="t128" to="t129" rfunc=""/>
+    <dep from="t132" to="t130" rfunc="compound"/>
+    <dep from="t136" to="t132" rfunc="nsubjpass"/>
+    <dep from="t132" to="t131" rfunc="compound"/>
+    <dep from="t132" to="t133" rfunc="prep"/>
+    <dep from="t133" to="t134" rfunc="pobj"/>
+    <dep from="t136" to="t135" rfunc="auxpass"/>
+    <dep from="t136" to="t137" rfunc="agent"/>
+    <dep from="t141" to="t138" rfunc="det"/>
+    <dep from="t137" to="t141" rfunc="pobj"/>
+    <dep from="t141" to="t139" rfunc="compound"/>
+    <dep from="t141" to="t140" rfunc="compound"/>
+    <dep from="t136" to="t142" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--B o l i v a r i a n   G a m e s-->
+        <target id="t9"/>
+        <target id="t10"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Bolivarian_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Giochi_bolivariani" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--m u l t i - s p o r t   e v e n t-->
+        <target id="t21"/>
+        <target id="t22"/>
+        <target id="t23"/>
+        <target id="t24"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Multi-sport_event" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Manifestazione_multisportiva" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Multisportevenement" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--A m b a t o-->
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ambato_(canton_seat)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--E c u a d o r-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q736" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--G u a y a q u i l-->
+        <target id="t42"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Guayaquil" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guayaquil" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Guayaquil" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--Q u i t o-->
+        <target id="t45"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Quito" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--O D E B O-->
+        <target id="t57"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/ODEBO" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--E s t a d i o   B e l l a v i s t a-->
+        <target id="t74"/>
+        <target id="t75"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Estadio_Bellavista" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Estadio_Bellavista" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--A m b a t o-->
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ambato,_Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ambato" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ambato" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--E c u a d o r-->
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ecuador" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q736" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--R o b e r t o   H a n z e-->
+        <target id="t108"/>
+        <target id="t109"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Roberto_Hanze" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <span>
+        <!--G u s t a v o   N o b o a-->
+        <target id="t115"/>
+        <target id="t116"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Gustavo_Noboa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Gustavo_Noboa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gustavo_Noboa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e13" type="UNK">
+      <span>
+        <!--J e f f e r s o n   P é r e z-->
+        <target id="t126"/>
+        <target id="t127"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jefferson_Pérez" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Jefferson_Pérez" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Jefferson_Pérez" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e14" type="UNK">
+      <span>
+        <!--C o m i t é   O l í m p i c o   E c u a t o r i a n o-->
+        <target id="t139"/>
+        <target id="t140"/>
+        <target id="t141"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ecuadorian_National_Olympic_Committee" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Comitato_Olimpico_Ecuadoriano" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t35"/>
+      </span>
+      <span status="system">
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q736" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-proportional_quantity" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t40"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t41"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-closure" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t88"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-education_teaching" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t90"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-appellations" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t114"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t132"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-publishing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t136"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

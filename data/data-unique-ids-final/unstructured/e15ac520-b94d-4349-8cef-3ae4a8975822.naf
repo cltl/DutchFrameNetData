@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2016 Oceania Badminton Championships"/>
+    <public uri="https://en.wikipedia.org/wiki/2016_Oceania_Badminton_Championships"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:48:11UTC" endTimestamp="2020-05-27T16:48:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:48:11UTC" endTimestamp="2020-05-27T16:48:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:48:11UTC" endTimestamp="2020-05-27T16:48:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:48:11UTC" endTimestamp="2020-05-27T16:48:11UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:04CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2016 Oceania Badminton Championships++.
+The XI 2016 Oceania Badminton Championships were held as two events in different counties. From 16 to 21 February, the team event was held in Auckland, New Zealand. From 25 to 28 April, the individual event was held in Papeete, Tahiti.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2016]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[Oceania]]></wf>
+    <wf sent="1" id="w4" length="9" offset="15"><![CDATA[Badminton]]></wf>
+    <wf sent="1" id="w5" length="15" offset="25"><![CDATA[Championships++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="40"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="41"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="42"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="2" offset="46"><![CDATA[XI]]></wf>
+    <wf sent="2" id="w10" length="4" offset="49"><![CDATA[2016]]></wf>
+    <wf sent="2" id="w11" length="7" offset="54"><![CDATA[Oceania]]></wf>
+    <wf sent="2" id="w12" length="9" offset="62"><![CDATA[Badminton]]></wf>
+    <wf sent="2" id="w13" length="13" offset="72"><![CDATA[Championships]]></wf>
+    <wf sent="2" id="w14" length="4" offset="86"><![CDATA[were]]></wf>
+    <wf sent="2" id="w15" length="4" offset="91"><![CDATA[held]]></wf>
+    <wf sent="2" id="w16" length="2" offset="96"><![CDATA[as]]></wf>
+    <wf sent="2" id="w17" length="3" offset="99"><![CDATA[two]]></wf>
+    <wf sent="2" id="w18" length="6" offset="103"><![CDATA[events]]></wf>
+    <wf sent="2" id="w19" length="2" offset="110"><![CDATA[in]]></wf>
+    <wf sent="2" id="w20" length="9" offset="113"><![CDATA[different]]></wf>
+    <wf sent="2" id="w21" length="8" offset="123"><![CDATA[counties]]></wf>
+    <wf sent="2" id="w22" length="1" offset="131"><![CDATA[.]]></wf>
+    <wf sent="3" id="w23" length="4" offset="133"><![CDATA[From]]></wf>
+    <wf sent="3" id="w24" length="2" offset="138"><![CDATA[16]]></wf>
+    <wf sent="3" id="w25" length="2" offset="141"><![CDATA[to]]></wf>
+    <wf sent="3" id="w26" length="2" offset="144"><![CDATA[21]]></wf>
+    <wf sent="3" id="w27" length="8" offset="147"><![CDATA[February]]></wf>
+    <wf sent="3" id="w28" length="1" offset="155"><![CDATA[,]]></wf>
+    <wf sent="3" id="w29" length="3" offset="157"><![CDATA[the]]></wf>
+    <wf sent="3" id="w30" length="4" offset="161"><![CDATA[team]]></wf>
+    <wf sent="3" id="w31" length="5" offset="166"><![CDATA[event]]></wf>
+    <wf sent="3" id="w32" length="3" offset="172"><![CDATA[was]]></wf>
+    <wf sent="3" id="w33" length="4" offset="176"><![CDATA[held]]></wf>
+    <wf sent="3" id="w34" length="2" offset="181"><![CDATA[in]]></wf>
+    <wf sent="3" id="w35" length="8" offset="184"><![CDATA[Auckland]]></wf>
+    <wf sent="3" id="w36" length="1" offset="192"><![CDATA[,]]></wf>
+    <wf sent="3" id="w37" length="3" offset="194"><![CDATA[New]]></wf>
+    <wf sent="3" id="w38" length="7" offset="198"><![CDATA[Zealand]]></wf>
+    <wf sent="3" id="w39" length="1" offset="205"><![CDATA[.]]></wf>
+    <wf sent="4" id="w40" length="4" offset="207"><![CDATA[From]]></wf>
+    <wf sent="4" id="w41" length="2" offset="212"><![CDATA[25]]></wf>
+    <wf sent="4" id="w42" length="2" offset="215"><![CDATA[to]]></wf>
+    <wf sent="4" id="w43" length="2" offset="218"><![CDATA[28]]></wf>
+    <wf sent="4" id="w44" length="5" offset="221"><![CDATA[April]]></wf>
+    <wf sent="4" id="w45" length="1" offset="226"><![CDATA[,]]></wf>
+    <wf sent="4" id="w46" length="3" offset="228"><![CDATA[the]]></wf>
+    <wf sent="4" id="w47" length="10" offset="232"><![CDATA[individual]]></wf>
+    <wf sent="4" id="w48" length="5" offset="243"><![CDATA[event]]></wf>
+    <wf sent="4" id="w49" length="3" offset="249"><![CDATA[was]]></wf>
+    <wf sent="4" id="w50" length="4" offset="253"><![CDATA[held]]></wf>
+    <wf sent="4" id="w51" length="2" offset="258"><![CDATA[in]]></wf>
+    <wf sent="4" id="w52" length="7" offset="261"><![CDATA[Papeete]]></wf>
+    <wf sent="4" id="w53" length="1" offset="268"><![CDATA[,]]></wf>
+    <wf sent="4" id="w54" length="6" offset="270"><![CDATA[Tahiti]]></wf>
+    <wf sent="4" id="w55" length="1" offset="276"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2016" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Oceania" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Badminton" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Championships++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="XI" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Oceania" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Badminton" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Championships" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="as" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="different" pos="ADJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="county" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="16" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="21" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="February" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Auckland" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="New" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Zealand" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="28" pos="NUM" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="April" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="individual" pos="ADJ" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Papeete" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Tahiti" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="punct"/>
+    <dep from="t5" to="t2" rfunc="punct"/>
+    <dep from="t5" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="compound"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t13" to="t8" rfunc="det"/>
+    <dep from="t15" to="t13" rfunc="nsubjpass"/>
+    <dep from="t13" to="t9" rfunc="nmod"/>
+    <dep from="t9" to="t10" rfunc="nummod"/>
+    <dep from="t13" to="t11" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t15" to="t14" rfunc="auxpass"/>
+    <dep from="t15" to="t16" rfunc="prep"/>
+    <dep from="t18" to="t17" rfunc="nummod"/>
+    <dep from="t16" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="amod"/>
+    <dep from="t19" to="t21" rfunc="pobj"/>
+    <dep from="t15" to="t22" rfunc="punct"/>
+    <dep from="t33" to="t23" rfunc="prep"/>
+    <dep from="t26" to="t24" rfunc="quantmod"/>
+    <dep from="t27" to="t26" rfunc="nummod"/>
+    <dep from="t23" to="t27" rfunc="pobj"/>
+    <dep from="t26" to="t25" rfunc="quantmod"/>
+    <dep from="t33" to="t28" rfunc="punct"/>
+    <dep from="t31" to="t29" rfunc="det"/>
+    <dep from="t33" to="t31" rfunc="nsubjpass"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t33" to="t32" rfunc="auxpass"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t34" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t36" rfunc="punct"/>
+    <dep from="t38" to="t37" rfunc="compound"/>
+    <dep from="t35" to="t38" rfunc="appos"/>
+    <dep from="t33" to="t39" rfunc="punct"/>
+    <dep from="t50" to="t40" rfunc="prep"/>
+    <dep from="t43" to="t41" rfunc="quantmod"/>
+    <dep from="t44" to="t43" rfunc="nummod"/>
+    <dep from="t40" to="t44" rfunc="pobj"/>
+    <dep from="t43" to="t42" rfunc="quantmod"/>
+    <dep from="t50" to="t45" rfunc="punct"/>
+    <dep from="t48" to="t46" rfunc="det"/>
+    <dep from="t50" to="t48" rfunc="nsubjpass"/>
+    <dep from="t48" to="t47" rfunc="amod"/>
+    <dep from="t50" to="t49" rfunc="auxpass"/>
+    <dep from="t50" to="t51" rfunc="prep"/>
+    <dep from="t51" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t53" rfunc="punct"/>
+    <dep from="t52" to="t54" rfunc="appos"/>
+    <dep from="t50" to="t55" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--O c e a n i a   B a d m i n t o n   C h a m p i o n s h i p s-->
+        <target id="t11"/>
+        <target id="t12"/>
+        <target id="t13"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Oceania_Badminton_Championships" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Campionati_oceaniani_di_badminton" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A u c k l a n d-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Auckland" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--P a p e e t e-->
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Papeete" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Papeete" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Papeete" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cardinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t17"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-similarity" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t37"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t50"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

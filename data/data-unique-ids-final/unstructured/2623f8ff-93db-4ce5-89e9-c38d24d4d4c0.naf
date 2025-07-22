@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2014 Winter Olympics closing ceremony"/>
+    <public uri="https://en.wikipedia.org/wiki/2014_Winter_Olympics_closing_ceremony"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T22:11:44UTC" endTimestamp="2020-05-27T22:11:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T22:11:44UTC" endTimestamp="2020-05-27T22:11:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T22:11:44UTC" endTimestamp="2020-05-27T22:11:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T22:11:44UTC" endTimestamp="2020-05-27T22:11:44UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:47CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2014 Winter Olympics closing ceremony++.
+The closing ceremony of the 2014 Winter Olympics was held on 23 February 2014 from 20:14 to 22:25 MSK (UTC+4) at the Fisht Olympic Stadium in Sochi, Russia. It was designed to show Russian culture, through a European perspective, and featured performances by Yuri Bashmet, Valery Gergiev, Denis Matsuev, Hibla Gerzmava, and Tatiana Samouil, among others.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2014]]></wf>
+    <wf sent="1" id="w3" length="6" offset="7"><![CDATA[Winter]]></wf>
+    <wf sent="1" id="w4" length="8" offset="14"><![CDATA[Olympics]]></wf>
+    <wf sent="1" id="w5" length="7" offset="23"><![CDATA[closing]]></wf>
+    <wf sent="1" id="w6" length="10" offset="31"><![CDATA[ceremony++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="41"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="42"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="3" offset="43"><![CDATA[The]]></wf>
+    <wf sent="2" id="w10" length="7" offset="47"><![CDATA[closing]]></wf>
+    <wf sent="2" id="w11" length="8" offset="55"><![CDATA[ceremony]]></wf>
+    <wf sent="2" id="w12" length="2" offset="64"><![CDATA[of]]></wf>
+    <wf sent="2" id="w13" length="3" offset="67"><![CDATA[the]]></wf>
+    <wf sent="2" id="w14" length="4" offset="71"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w15" length="6" offset="76"><![CDATA[Winter]]></wf>
+    <wf sent="2" id="w16" length="8" offset="83"><![CDATA[Olympics]]></wf>
+    <wf sent="2" id="w17" length="3" offset="92"><![CDATA[was]]></wf>
+    <wf sent="2" id="w18" length="4" offset="96"><![CDATA[held]]></wf>
+    <wf sent="2" id="w19" length="2" offset="101"><![CDATA[on]]></wf>
+    <wf sent="2" id="w20" length="2" offset="104"><![CDATA[23]]></wf>
+    <wf sent="2" id="w21" length="8" offset="107"><![CDATA[February]]></wf>
+    <wf sent="2" id="w22" length="4" offset="116"><![CDATA[2014]]></wf>
+    <wf sent="2" id="w23" length="4" offset="121"><![CDATA[from]]></wf>
+    <wf sent="2" id="w24" length="5" offset="126"><![CDATA[20:14]]></wf>
+    <wf sent="2" id="w25" length="2" offset="132"><![CDATA[to]]></wf>
+    <wf sent="2" id="w26" length="5" offset="135"><![CDATA[22:25]]></wf>
+    <wf sent="2" id="w27" length="3" offset="141"><![CDATA[MSK]]></wf>
+    <wf sent="2" id="w28" length="1" offset="145"><![CDATA[(]]></wf>
+    <wf sent="2" id="w29" length="5" offset="146"><![CDATA[UTC+4]]></wf>
+    <wf sent="2" id="w30" length="1" offset="151"><![CDATA[)]]></wf>
+    <wf sent="2" id="w31" length="2" offset="153"><![CDATA[at]]></wf>
+    <wf sent="2" id="w32" length="3" offset="156"><![CDATA[the]]></wf>
+    <wf sent="2" id="w33" length="5" offset="160"><![CDATA[Fisht]]></wf>
+    <wf sent="2" id="w34" length="7" offset="166"><![CDATA[Olympic]]></wf>
+    <wf sent="2" id="w35" length="7" offset="174"><![CDATA[Stadium]]></wf>
+    <wf sent="2" id="w36" length="2" offset="182"><![CDATA[in]]></wf>
+    <wf sent="2" id="w37" length="5" offset="185"><![CDATA[Sochi]]></wf>
+    <wf sent="2" id="w38" length="1" offset="190"><![CDATA[,]]></wf>
+    <wf sent="2" id="w39" length="6" offset="192"><![CDATA[Russia]]></wf>
+    <wf sent="2" id="w40" length="1" offset="198"><![CDATA[.]]></wf>
+    <wf sent="3" id="w41" length="2" offset="200"><![CDATA[It]]></wf>
+    <wf sent="3" id="w42" length="3" offset="203"><![CDATA[was]]></wf>
+    <wf sent="3" id="w43" length="8" offset="207"><![CDATA[designed]]></wf>
+    <wf sent="3" id="w44" length="2" offset="216"><![CDATA[to]]></wf>
+    <wf sent="3" id="w45" length="4" offset="219"><![CDATA[show]]></wf>
+    <wf sent="3" id="w46" length="7" offset="224"><![CDATA[Russian]]></wf>
+    <wf sent="3" id="w47" length="7" offset="232"><![CDATA[culture]]></wf>
+    <wf sent="3" id="w48" length="1" offset="239"><![CDATA[,]]></wf>
+    <wf sent="3" id="w49" length="7" offset="241"><![CDATA[through]]></wf>
+    <wf sent="3" id="w50" length="1" offset="249"><![CDATA[a]]></wf>
+    <wf sent="3" id="w51" length="8" offset="251"><![CDATA[European]]></wf>
+    <wf sent="3" id="w52" length="11" offset="260"><![CDATA[perspective]]></wf>
+    <wf sent="3" id="w53" length="1" offset="271"><![CDATA[,]]></wf>
+    <wf sent="3" id="w54" length="3" offset="273"><![CDATA[and]]></wf>
+    <wf sent="3" id="w55" length="8" offset="277"><![CDATA[featured]]></wf>
+    <wf sent="3" id="w56" length="12" offset="286"><![CDATA[performances]]></wf>
+    <wf sent="3" id="w57" length="2" offset="299"><![CDATA[by]]></wf>
+    <wf sent="3" id="w58" length="4" offset="302"><![CDATA[Yuri]]></wf>
+    <wf sent="3" id="w59" length="7" offset="307"><![CDATA[Bashmet]]></wf>
+    <wf sent="3" id="w60" length="1" offset="314"><![CDATA[,]]></wf>
+    <wf sent="3" id="w61" length="6" offset="316"><![CDATA[Valery]]></wf>
+    <wf sent="3" id="w62" length="7" offset="323"><![CDATA[Gergiev]]></wf>
+    <wf sent="3" id="w63" length="1" offset="330"><![CDATA[,]]></wf>
+    <wf sent="3" id="w64" length="5" offset="332"><![CDATA[Denis]]></wf>
+    <wf sent="3" id="w65" length="7" offset="338"><![CDATA[Matsuev]]></wf>
+    <wf sent="3" id="w66" length="1" offset="345"><![CDATA[,]]></wf>
+    <wf sent="3" id="w67" length="5" offset="347"><![CDATA[Hibla]]></wf>
+    <wf sent="3" id="w68" length="8" offset="353"><![CDATA[Gerzmava]]></wf>
+    <wf sent="3" id="w69" length="1" offset="361"><![CDATA[,]]></wf>
+    <wf sent="3" id="w70" length="3" offset="363"><![CDATA[and]]></wf>
+    <wf sent="3" id="w71" length="7" offset="367"><![CDATA[Tatiana]]></wf>
+    <wf sent="3" id="w72" length="7" offset="375"><![CDATA[Samouil]]></wf>
+    <wf sent="3" id="w73" length="1" offset="382"><![CDATA[,]]></wf>
+    <wf sent="3" id="w74" length="5" offset="384"><![CDATA[among]]></wf>
+    <wf sent="3" id="w75" length="6" offset="390"><![CDATA[others]]></wf>
+    <wf sent="3" id="w76" length="1" offset="396"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2014" pos="PUNCT" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Winter" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Olympics" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="close" pos="VERB" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="ceremony++" pos="NOUN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="closing" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="ceremony" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Winter" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Olympics" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="23" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="February" pos="PROPN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="2014" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="20:14" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="22:25" pos="NUM" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="MSK" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="utc+4" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Fisht" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Olympic" pos="PROPN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Stadium" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Sochi" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Russia" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="design" pos="VERB" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="to" pos="PART" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="show" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="russian" pos="ADJ" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="culture" pos="NOUN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="through" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="european" pos="ADJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="perspective" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="featured" pos="ADJ" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="performance" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Yuri" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="Bashmet" pos="PROPN" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="Valery" pos="PROPN" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Gergiev" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Denis" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="Matsuev" pos="PROPN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Hibla" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Gerzmava" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="Tatiana" pos="PROPN" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="Samouil" pos="PROPN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="among" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="other" pos="NOUN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="cc"/>
+    <dep from="t1" to="t2" rfunc="npadvmod"/>
+    <dep from="t4" to="t3" rfunc="compound"/>
+    <dep from="t5" to="t4" rfunc="nsubj"/>
+    <dep from="t5" to="t6" rfunc="dobj"/>
+    <dep from="t5" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t11" to="t9" rfunc="det"/>
+    <dep from="t18" to="t11" rfunc="nsubjpass"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t16" to="t13" rfunc="det"/>
+    <dep from="t12" to="t16" rfunc="pobj"/>
+    <dep from="t16" to="t14" rfunc="nummod"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t18" to="t17" rfunc="auxpass"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t21" to="t20" rfunc="nummod"/>
+    <dep from="t19" to="t21" rfunc="pobj"/>
+    <dep from="t21" to="t22" rfunc="nummod"/>
+    <dep from="t18" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t23" to="t25" rfunc="prep"/>
+    <dep from="t27" to="t26" rfunc="nummod"/>
+    <dep from="t25" to="t27" rfunc="pobj"/>
+    <dep from="t18" to="t28" rfunc="punct"/>
+    <dep from="t18" to="t29" rfunc="intj"/>
+    <dep from="t18" to="t30" rfunc="punct"/>
+    <dep from="t18" to="t31" rfunc="prep"/>
+    <dep from="t35" to="t32" rfunc="det"/>
+    <dep from="t31" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t33" rfunc="compound"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t37" to="t38" rfunc="punct"/>
+    <dep from="t37" to="t39" rfunc="appos"/>
+    <dep from="t18" to="t40" rfunc="punct"/>
+    <dep from="t43" to="t41" rfunc="nsubjpass"/>
+    <dep from="t43" to="t42" rfunc="auxpass"/>
+    <dep from="t45" to="t44" rfunc="aux"/>
+    <dep from="t43" to="t45" rfunc="xcomp"/>
+    <dep from="t47" to="t46" rfunc="amod"/>
+    <dep from="t45" to="t47" rfunc="dobj"/>
+    <dep from="t45" to="t48" rfunc="punct"/>
+    <dep from="t45" to="t49" rfunc="prep"/>
+    <dep from="t52" to="t50" rfunc="det"/>
+    <dep from="t49" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t49" to="t53" rfunc="punct"/>
+    <dep from="t49" to="t54" rfunc="cc"/>
+    <dep from="t56" to="t55" rfunc="amod"/>
+    <dep from="t49" to="t56" rfunc="conj"/>
+    <dep from="t56" to="t57" rfunc="prep"/>
+    <dep from="t59" to="t58" rfunc="compound"/>
+    <dep from="t57" to="t59" rfunc="pobj"/>
+    <dep from="t59" to="t60" rfunc="punct"/>
+    <dep from="t62" to="t61" rfunc="compound"/>
+    <dep from="t59" to="t62" rfunc="conj"/>
+    <dep from="t62" to="t63" rfunc="punct"/>
+    <dep from="t65" to="t64" rfunc="compound"/>
+    <dep from="t62" to="t65" rfunc="conj"/>
+    <dep from="t65" to="t66" rfunc="punct"/>
+    <dep from="t68" to="t67" rfunc="compound"/>
+    <dep from="t65" to="t68" rfunc="conj"/>
+    <dep from="t68" to="t69" rfunc="punct"/>
+    <dep from="t68" to="t70" rfunc="cc"/>
+    <dep from="t72" to="t71" rfunc="compound"/>
+    <dep from="t68" to="t72" rfunc="conj"/>
+    <dep from="t59" to="t73" rfunc="punct"/>
+    <dep from="t56" to="t74" rfunc="prep"/>
+    <dep from="t74" to="t75" rfunc="pobj"/>
+    <dep from="t43" to="t76" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--2 0 1 4   W i n t e r   O l y m p i c s-->
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2014_Winter_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/XXII_Giochi_olimpici_invernali" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympische_Winterspelen_2014" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--M S K-->
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Moscow_Time" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Fuso_orario_di_Mosca" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Moskoutijd" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--U T C + 4-->
+        <target id="t29"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/00" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/00" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--F i s h t   O l y m p i c   S t a d i u m-->
+        <target id="t33"/>
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Fisht_Olympic_Stadium" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Stadio_Olimpico_Fišt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympisch_Stadion_Fisjt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--S o c h i-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Sochi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Soči" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--Y u r i   B a s h m e t-->
+        <target id="t58"/>
+        <target id="t59"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Yuri_Bashmet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Jurij_Abramovič_Bašmet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Joeri_Basjmet" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--V a l e r y   G e r g i e v-->
+        <target id="t61"/>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Valery_Gergiev" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Valerij_Abisalovič_Gergiev" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Valeri_Gergiev" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--D e n i s   M a t s u e v-->
+        <target id="t64"/>
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Denis_Matsuev" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Denis_Leonidovič_Macuev" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--H i b l a   G e r z m a v a-->
+        <target id="t67"/>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hibla_Gerzmava" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--T a t i a n a   S a m o u i l-->
+        <target id="t71"/>
+        <target id="t72"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tatiana_Samouil" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-coming_up_with" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t43"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-evidence" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t45"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

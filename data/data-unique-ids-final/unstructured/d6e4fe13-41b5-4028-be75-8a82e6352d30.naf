@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Badminton at the 2010 Commonwealth Games"/>
+    <public uri="https://en.wikipedia.org/wiki/Badminton_at_the_2010_Commonwealth_Games"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:46:55UTC" endTimestamp="2020-05-27T16:46:55UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:46:55UTC" endTimestamp="2020-05-27T16:46:55UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:46:55UTC" endTimestamp="2020-05-27T16:46:55UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:46:55UTC" endTimestamp="2020-05-27T16:46:55UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:45CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Badminton at the 2010 Commonwealth Games++.
+The badminton events at the 2010 Commonwealth Games were taking place at Siri Fort Sports Complex and Saket Sports Complex in New Delhi from 4–14 October 2010. The games featured six badminton events – singles and doubles for men and women, mixed doubles and mixed teams.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="9" offset="2"><![CDATA[Badminton]]></wf>
+    <wf sent="1" id="w4" length="2" offset="12"><![CDATA[at]]></wf>
+    <wf sent="1" id="w5" length="3" offset="15"><![CDATA[the]]></wf>
+    <wf sent="1" id="w6" length="4" offset="19"><![CDATA[2010]]></wf>
+    <wf sent="1" id="w7" length="12" offset="24"><![CDATA[Commonwealth]]></wf>
+    <wf sent="1" id="w8" length="7" offset="37"><![CDATA[Games++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="44"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="45"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="46"><![CDATA[The]]></wf>
+    <wf sent="2" id="w12" length="9" offset="50"><![CDATA[badminton]]></wf>
+    <wf sent="2" id="w13" length="6" offset="60"><![CDATA[events]]></wf>
+    <wf sent="2" id="w14" length="2" offset="67"><![CDATA[at]]></wf>
+    <wf sent="2" id="w15" length="3" offset="70"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="4" offset="74"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w17" length="12" offset="79"><![CDATA[Commonwealth]]></wf>
+    <wf sent="2" id="w18" length="5" offset="92"><![CDATA[Games]]></wf>
+    <wf sent="2" id="w19" length="4" offset="98"><![CDATA[were]]></wf>
+    <wf sent="2" id="w20" length="6" offset="103"><![CDATA[taking]]></wf>
+    <wf sent="2" id="w21" length="5" offset="110"><![CDATA[place]]></wf>
+    <wf sent="2" id="w22" length="2" offset="116"><![CDATA[at]]></wf>
+    <wf sent="2" id="w23" length="4" offset="119"><![CDATA[Siri]]></wf>
+    <wf sent="2" id="w24" length="4" offset="124"><![CDATA[Fort]]></wf>
+    <wf sent="2" id="w25" length="6" offset="129"><![CDATA[Sports]]></wf>
+    <wf sent="2" id="w26" length="7" offset="136"><![CDATA[Complex]]></wf>
+    <wf sent="2" id="w27" length="3" offset="144"><![CDATA[and]]></wf>
+    <wf sent="2" id="w28" length="5" offset="148"><![CDATA[Saket]]></wf>
+    <wf sent="2" id="w29" length="6" offset="154"><![CDATA[Sports]]></wf>
+    <wf sent="2" id="w30" length="7" offset="161"><![CDATA[Complex]]></wf>
+    <wf sent="2" id="w31" length="2" offset="169"><![CDATA[in]]></wf>
+    <wf sent="2" id="w32" length="3" offset="172"><![CDATA[New]]></wf>
+    <wf sent="2" id="w33" length="5" offset="176"><![CDATA[Delhi]]></wf>
+    <wf sent="2" id="w34" length="4" offset="182"><![CDATA[from]]></wf>
+    <wf sent="2" id="w35" length="4" offset="187"><![CDATA[4–14]]></wf>
+    <wf sent="2" id="w36" length="7" offset="192"><![CDATA[October]]></wf>
+    <wf sent="2" id="w37" length="4" offset="200"><![CDATA[2010]]></wf>
+    <wf sent="2" id="w38" length="1" offset="204"><![CDATA[.]]></wf>
+    <wf sent="3" id="w39" length="3" offset="206"><![CDATA[The]]></wf>
+    <wf sent="3" id="w40" length="5" offset="210"><![CDATA[games]]></wf>
+    <wf sent="3" id="w41" length="8" offset="216"><![CDATA[featured]]></wf>
+    <wf sent="3" id="w42" length="3" offset="225"><![CDATA[six]]></wf>
+    <wf sent="3" id="w43" length="9" offset="229"><![CDATA[badminton]]></wf>
+    <wf sent="3" id="w44" length="6" offset="239"><![CDATA[events]]></wf>
+    <wf sent="3" id="w45" length="1" offset="246"><![CDATA[–]]></wf>
+    <wf sent="3" id="w46" length="7" offset="248"><![CDATA[singles]]></wf>
+    <wf sent="3" id="w47" length="3" offset="256"><![CDATA[and]]></wf>
+    <wf sent="3" id="w48" length="7" offset="260"><![CDATA[doubles]]></wf>
+    <wf sent="3" id="w49" length="3" offset="268"><![CDATA[for]]></wf>
+    <wf sent="3" id="w50" length="3" offset="272"><![CDATA[men]]></wf>
+    <wf sent="3" id="w51" length="3" offset="276"><![CDATA[and]]></wf>
+    <wf sent="3" id="w52" length="5" offset="280"><![CDATA[women]]></wf>
+    <wf sent="3" id="w53" length="1" offset="285"><![CDATA[,]]></wf>
+    <wf sent="3" id="w54" length="5" offset="287"><![CDATA[mixed]]></wf>
+    <wf sent="3" id="w55" length="7" offset="293"><![CDATA[doubles]]></wf>
+    <wf sent="3" id="w56" length="3" offset="301"><![CDATA[and]]></wf>
+    <wf sent="3" id="w57" length="5" offset="305"><![CDATA[mixed]]></wf>
+    <wf sent="3" id="w58" length="5" offset="311"><![CDATA[teams]]></wf>
+    <wf sent="3" id="w59" length="1" offset="316"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Badminton" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Commonwealth" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Games++" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Commonwealth" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Games" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Siri" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Fort" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Sports" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Complex" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="Saket" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Sports" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Complex" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="New" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Delhi" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="4–14" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="2010" pos="NUM" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="game" pos="NOUN" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="feature" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="six" pos="NUM" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="badminton" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="event" pos="NOUN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="–" pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="single" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="double" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="man" pos="NOUN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="woman" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="mixed" pos="ADJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="double" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="mixed" pos="ADJ" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="team" pos="NOUN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t8" to="t5" rfunc="det"/>
+    <dep from="t4" to="t8" rfunc="pobj"/>
+    <dep from="t8" to="t6" rfunc="nummod"/>
+    <dep from="t8" to="t7" rfunc="compound"/>
+    <dep from="t3" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t13" to="t11" rfunc="det"/>
+    <dep from="t20" to="t13" rfunc="nsubj"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t16" rfunc="nummod"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t20" to="t19" rfunc="aux"/>
+    <dep from="t20" to="t21" rfunc="dobj"/>
+    <dep from="t20" to="t22" rfunc="prep"/>
+    <dep from="t24" to="t23" rfunc="compound"/>
+    <dep from="t26" to="t24" rfunc="compound"/>
+    <dep from="t22" to="t26" rfunc="pobj"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t26" to="t27" rfunc="cc"/>
+    <dep from="t30" to="t28" rfunc="compound"/>
+    <dep from="t26" to="t30" rfunc="conj"/>
+    <dep from="t30" to="t29" rfunc="compound"/>
+    <dep from="t26" to="t31" rfunc="prep"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t31" to="t33" rfunc="pobj"/>
+    <dep from="t20" to="t34" rfunc="prep"/>
+    <dep from="t36" to="t35" rfunc="nmod"/>
+    <dep from="t34" to="t36" rfunc="pobj"/>
+    <dep from="t36" to="t37" rfunc="nummod"/>
+    <dep from="t20" to="t38" rfunc="punct"/>
+    <dep from="t40" to="t39" rfunc="det"/>
+    <dep from="t41" to="t40" rfunc="nsubj"/>
+    <dep from="t44" to="t42" rfunc="nummod"/>
+    <dep from="t46" to="t44" rfunc="compound"/>
+    <dep from="t41" to="t46" rfunc="dobj"/>
+    <dep from="t44" to="t43" rfunc="compound"/>
+    <dep from="t46" to="t45" rfunc="compound"/>
+    <dep from="t46" to="t47" rfunc="cc"/>
+    <dep from="t46" to="t48" rfunc="conj"/>
+    <dep from="t48" to="t49" rfunc="prep"/>
+    <dep from="t49" to="t50" rfunc="pobj"/>
+    <dep from="t50" to="t51" rfunc="cc"/>
+    <dep from="t50" to="t52" rfunc="conj"/>
+    <dep from="t50" to="t53" rfunc="punct"/>
+    <dep from="t55" to="t54" rfunc="amod"/>
+    <dep from="t50" to="t55" rfunc="conj"/>
+    <dep from="t55" to="t56" rfunc="cc"/>
+    <dep from="t58" to="t57" rfunc="amod"/>
+    <dep from="t55" to="t58" rfunc="conj"/>
+    <dep from="t41" to="t59" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--b a d m i n t o n-->
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Badminton" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 0 1 0   C o m m o n w e a l t h   G a m e s-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2010_Commonwealth_Games" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/XIX_Giochi_del_Commonwealth" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Gemenebestspelen_2010" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--S i r i   F o r t   S p o r t s   C o m p l e x-->
+        <target id="t23"/>
+        <target id="t24"/>
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Siri_Fort_Sports_Complex" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--N e w   D e l h i-->
+        <target id="t32"/>
+        <target id="t33"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/New_Delhi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Nuova_Delhi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/New_Delhi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-taking_time" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t20"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t22"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-age" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t32"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-sole_instance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_position_on_a_scale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-people" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_position_on_a_scale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t55"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t58"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

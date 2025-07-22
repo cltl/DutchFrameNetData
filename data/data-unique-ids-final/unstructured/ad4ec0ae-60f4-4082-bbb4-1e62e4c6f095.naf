@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Bombing of Granollers"/>
+    <public uri="https://en.wikipedia.org/wiki/Bombing_of_Granollers"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:55:24UTC" endTimestamp="2020-05-28T17:55:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:55:24UTC" endTimestamp="2020-05-28T17:55:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:55:24UTC" endTimestamp="2020-05-28T17:55:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:55:24UTC" endTimestamp="2020-05-28T17:55:24UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:25:03CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Bombing of Granollers++.
+The Bombing of Granollers took place during the Spanish Civil War in 1938. On 31 May 1938, the Italian "Aviazione Legionaria" bombed the town of Granollers. There were between 100 and 224 civilian deaths.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="7" offset="2"><![CDATA[Bombing]]></wf>
+    <wf sent="1" id="w4" length="2" offset="10"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="12" offset="13"><![CDATA[Granollers++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="25"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="26"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="27"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="7" offset="31"><![CDATA[Bombing]]></wf>
+    <wf sent="2" id="w10" length="2" offset="39"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="10" offset="42"><![CDATA[Granollers]]></wf>
+    <wf sent="2" id="w12" length="4" offset="53"><![CDATA[took]]></wf>
+    <wf sent="2" id="w13" length="5" offset="58"><![CDATA[place]]></wf>
+    <wf sent="2" id="w14" length="6" offset="64"><![CDATA[during]]></wf>
+    <wf sent="2" id="w15" length="3" offset="71"><![CDATA[the]]></wf>
+    <wf sent="2" id="w16" length="7" offset="75"><![CDATA[Spanish]]></wf>
+    <wf sent="2" id="w17" length="5" offset="83"><![CDATA[Civil]]></wf>
+    <wf sent="2" id="w18" length="3" offset="89"><![CDATA[War]]></wf>
+    <wf sent="2" id="w19" length="2" offset="93"><![CDATA[in]]></wf>
+    <wf sent="2" id="w20" length="4" offset="96"><![CDATA[1938]]></wf>
+    <wf sent="2" id="w21" length="1" offset="100"><![CDATA[.]]></wf>
+    <wf sent="3" id="w22" length="2" offset="102"><![CDATA[On]]></wf>
+    <wf sent="3" id="w23" length="2" offset="105"><![CDATA[31]]></wf>
+    <wf sent="3" id="w24" length="3" offset="108"><![CDATA[May]]></wf>
+    <wf sent="3" id="w25" length="4" offset="112"><![CDATA[1938]]></wf>
+    <wf sent="3" id="w26" length="1" offset="116"><![CDATA[,]]></wf>
+    <wf sent="3" id="w27" length="3" offset="118"><![CDATA[the]]></wf>
+    <wf sent="3" id="w28" length="7" offset="122"><![CDATA[Italian]]></wf>
+    <wf sent="3" id="w29" length="1" offset="130"><![CDATA["]]></wf>
+    <wf sent="3" id="w30" length="9" offset="131"><![CDATA[Aviazione]]></wf>
+    <wf sent="3" id="w31" length="10" offset="141"><![CDATA[Legionaria]]></wf>
+    <wf sent="3" id="w32" length="1" offset="151"><![CDATA["]]></wf>
+    <wf sent="3" id="w33" length="6" offset="153"><![CDATA[bombed]]></wf>
+    <wf sent="3" id="w34" length="3" offset="160"><![CDATA[the]]></wf>
+    <wf sent="3" id="w35" length="4" offset="164"><![CDATA[town]]></wf>
+    <wf sent="3" id="w36" length="2" offset="169"><![CDATA[of]]></wf>
+    <wf sent="3" id="w37" length="10" offset="172"><![CDATA[Granollers]]></wf>
+    <wf sent="3" id="w38" length="1" offset="182"><![CDATA[.]]></wf>
+    <wf sent="4" id="w39" length="5" offset="184"><![CDATA[There]]></wf>
+    <wf sent="4" id="w40" length="4" offset="190"><![CDATA[were]]></wf>
+    <wf sent="4" id="w41" length="7" offset="195"><![CDATA[between]]></wf>
+    <wf sent="4" id="w42" length="3" offset="203"><![CDATA[100]]></wf>
+    <wf sent="4" id="w43" length="3" offset="207"><![CDATA[and]]></wf>
+    <wf sent="4" id="w44" length="3" offset="211"><![CDATA[224]]></wf>
+    <wf sent="4" id="w45" length="8" offset="215"><![CDATA[civilian]]></wf>
+    <wf sent="4" id="w46" length="6" offset="224"><![CDATA[deaths]]></wf>
+    <wf sent="4" id="w47" length="1" offset="230"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="bombing" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Granollers++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="bombing" pos="NOUN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Granollers" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="during" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="spanish" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Civil" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="1938" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="31" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="May" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="1938" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="italian" pos="ADJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Aviazione" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Legionaria" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="bomb" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="town" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Granollers" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="there" pos="ADV" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="100" pos="NUM" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="224" pos="NUM" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="civilian" pos="ADJ" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="death" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t12" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t12" to="t13" rfunc="dobj"/>
+    <dep from="t12" to="t14" rfunc="prep"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="pobj"/>
+    <dep from="t18" to="t16" rfunc="amod"/>
+    <dep from="t18" to="t17" rfunc="compound"/>
+    <dep from="t12" to="t19" rfunc="prep"/>
+    <dep from="t19" to="t20" rfunc="pobj"/>
+    <dep from="t12" to="t21" rfunc="punct"/>
+    <dep from="t33" to="t22" rfunc="prep"/>
+    <dep from="t24" to="t23" rfunc="nummod"/>
+    <dep from="t22" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="nummod"/>
+    <dep from="t33" to="t26" rfunc="punct"/>
+    <dep from="t31" to="t27" rfunc="det"/>
+    <dep from="t33" to="t31" rfunc="nsubj"/>
+    <dep from="t31" to="t28" rfunc="amod"/>
+    <dep from="t31" to="t29" rfunc="punct"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t33" to="t32" rfunc="punct"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t33" to="t35" rfunc="dobj"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t33" to="t38" rfunc="punct"/>
+    <dep from="t40" to="t39" rfunc="expl"/>
+    <dep from="t42" to="t41" rfunc="quantmod"/>
+    <dep from="t46" to="t42" rfunc="nummod"/>
+    <dep from="t40" to="t46" rfunc="attr"/>
+    <dep from="t42" to="t43" rfunc="cc"/>
+    <dep from="t42" to="t44" rfunc="conj"/>
+    <dep from="t46" to="t45" rfunc="amod"/>
+    <dep from="t40" to="t47" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--S p a n i s h   C i v i l   W a r-->
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Spanish_Civil_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_civile_spagnola" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Spaanse_Burgeroorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--G r a n o l l e r s-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Granollers" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Granollers" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Granollers" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t13"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t18"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attack" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-death" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

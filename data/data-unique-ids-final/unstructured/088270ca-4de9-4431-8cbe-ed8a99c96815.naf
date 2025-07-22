@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2016 African Boxing Olympic Qualification Tournament"/>
+    <public uri="https://en.wikipedia.org/wiki/2016_African_Boxing_Olympic_Qualification_Tournament"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:47:16UTC" endTimestamp="2020-05-27T16:47:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:47:16UTC" endTimestamp="2020-05-27T16:47:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:47:16UTC" endTimestamp="2020-05-27T16:47:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:47:16UTC" endTimestamp="2020-05-27T16:47:16UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:27CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2016 African Boxing Olympic Qualification Tournament++.
+The 2016 African Boxing Olympic Qualification Tournament for the boxing tournament at the 2016 Summer Olympics in Rio de Janeiro, Brazil was held in Yaoundé, Cameroon from March 11 to March 19, 2016.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2016]]></wf>
+    <wf sent="1" id="w3" length="7" offset="7"><![CDATA[African]]></wf>
+    <wf sent="1" id="w4" length="6" offset="15"><![CDATA[Boxing]]></wf>
+    <wf sent="1" id="w5" length="7" offset="22"><![CDATA[Olympic]]></wf>
+    <wf sent="1" id="w6" length="13" offset="30"><![CDATA[Qualification]]></wf>
+    <wf sent="1" id="w7" length="12" offset="44"><![CDATA[Tournament++]]></wf>
+    <wf sent="1" id="w8" length="1" offset="56"><![CDATA[.]]></wf>
+    <wf sent="1" id="w9" length="1" offset="57"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w10" length="3" offset="58"><![CDATA[The]]></wf>
+    <wf sent="2" id="w11" length="4" offset="62"><![CDATA[2016]]></wf>
+    <wf sent="2" id="w12" length="7" offset="67"><![CDATA[African]]></wf>
+    <wf sent="2" id="w13" length="6" offset="75"><![CDATA[Boxing]]></wf>
+    <wf sent="2" id="w14" length="7" offset="82"><![CDATA[Olympic]]></wf>
+    <wf sent="2" id="w15" length="13" offset="90"><![CDATA[Qualification]]></wf>
+    <wf sent="2" id="w16" length="10" offset="104"><![CDATA[Tournament]]></wf>
+    <wf sent="2" id="w17" length="3" offset="115"><![CDATA[for]]></wf>
+    <wf sent="2" id="w18" length="3" offset="119"><![CDATA[the]]></wf>
+    <wf sent="2" id="w19" length="6" offset="123"><![CDATA[boxing]]></wf>
+    <wf sent="2" id="w20" length="10" offset="130"><![CDATA[tournament]]></wf>
+    <wf sent="2" id="w21" length="2" offset="141"><![CDATA[at]]></wf>
+    <wf sent="2" id="w22" length="3" offset="144"><![CDATA[the]]></wf>
+    <wf sent="2" id="w23" length="4" offset="148"><![CDATA[2016]]></wf>
+    <wf sent="2" id="w24" length="6" offset="153"><![CDATA[Summer]]></wf>
+    <wf sent="2" id="w25" length="8" offset="160"><![CDATA[Olympics]]></wf>
+    <wf sent="2" id="w26" length="2" offset="169"><![CDATA[in]]></wf>
+    <wf sent="2" id="w27" length="3" offset="172"><![CDATA[Rio]]></wf>
+    <wf sent="2" id="w28" length="2" offset="176"><![CDATA[de]]></wf>
+    <wf sent="2" id="w29" length="7" offset="179"><![CDATA[Janeiro]]></wf>
+    <wf sent="2" id="w30" length="1" offset="186"><![CDATA[,]]></wf>
+    <wf sent="2" id="w31" length="6" offset="188"><![CDATA[Brazil]]></wf>
+    <wf sent="2" id="w32" length="3" offset="195"><![CDATA[was]]></wf>
+    <wf sent="2" id="w33" length="4" offset="199"><![CDATA[held]]></wf>
+    <wf sent="2" id="w34" length="2" offset="204"><![CDATA[in]]></wf>
+    <wf sent="2" id="w35" length="7" offset="207"><![CDATA[Yaoundé]]></wf>
+    <wf sent="2" id="w36" length="1" offset="214"><![CDATA[,]]></wf>
+    <wf sent="2" id="w37" length="8" offset="216"><![CDATA[Cameroon]]></wf>
+    <wf sent="2" id="w38" length="4" offset="225"><![CDATA[from]]></wf>
+    <wf sent="2" id="w39" length="5" offset="230"><![CDATA[March]]></wf>
+    <wf sent="2" id="w40" length="2" offset="236"><![CDATA[11]]></wf>
+    <wf sent="2" id="w41" length="2" offset="239"><![CDATA[to]]></wf>
+    <wf sent="2" id="w42" length="5" offset="242"><![CDATA[March]]></wf>
+    <wf sent="2" id="w43" length="2" offset="248"><![CDATA[19]]></wf>
+    <wf sent="2" id="w44" length="1" offset="250"><![CDATA[,]]></wf>
+    <wf sent="2" id="w45" length="4" offset="252"><![CDATA[2016]]></wf>
+    <wf sent="2" id="w46" length="1" offset="256"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2016" pos="NUM" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="African" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Boxing" pos="PROPN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Olympic" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="Qualification" pos="PROPN" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="Tournament++" pos="PROPN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="African" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Boxing" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Olympic" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Qualification" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="Tournament" pos="PROPN" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="box" pos="VERB" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="tournament" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="Summer" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Olympics" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Rio" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="de" pos="PROPN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="Janeiro" pos="PROPN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Brazil" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Yaoundé" pos="PROPN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="Cameroon" pos="PROPN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="11" pos="NUM" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="March" pos="PROPN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="19" pos="NUM" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="2016" pos="NUM" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t8" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t8" rfunc="punct"/>
+    <dep from="t7" to="t3" rfunc="compound"/>
+    <dep from="t2" to="t7" rfunc="pobj"/>
+    <dep from="t6" to="t4" rfunc="compound"/>
+    <dep from="t7" to="t6" rfunc="compound"/>
+    <dep from="t6" to="t5" rfunc="compound"/>
+    <dep from="t8" to="t9" rfunc=""/>
+    <dep from="t16" to="t10" rfunc="det"/>
+    <dep from="t33" to="t16" rfunc="nsubjpass"/>
+    <dep from="t16" to="t11" rfunc="nummod"/>
+    <dep from="t16" to="t12" rfunc="compound"/>
+    <dep from="t16" to="t13" rfunc="compound"/>
+    <dep from="t15" to="t14" rfunc="compound"/>
+    <dep from="t16" to="t15" rfunc="compound"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t20" to="t18" rfunc="det"/>
+    <dep from="t17" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t19" rfunc="compound"/>
+    <dep from="t20" to="t21" rfunc="prep"/>
+    <dep from="t25" to="t22" rfunc="det"/>
+    <dep from="t21" to="t25" rfunc="pobj"/>
+    <dep from="t25" to="t23" rfunc="nummod"/>
+    <dep from="t25" to="t24" rfunc="compound"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t29" to="t27" rfunc="compound"/>
+    <dep from="t26" to="t29" rfunc="pobj"/>
+    <dep from="t29" to="t28" rfunc="compound"/>
+    <dep from="t33" to="t30" rfunc="punct"/>
+    <dep from="t33" to="t31" rfunc="nsubjpass"/>
+    <dep from="t33" to="t32" rfunc="auxpass"/>
+    <dep from="t33" to="t34" rfunc="prep"/>
+    <dep from="t34" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t36" rfunc="punct"/>
+    <dep from="t35" to="t37" rfunc="appos"/>
+    <dep from="t33" to="t38" rfunc="prep"/>
+    <dep from="t38" to="t39" rfunc="pobj"/>
+    <dep from="t39" to="t40" rfunc="nummod"/>
+    <dep from="t38" to="t41" rfunc="prep"/>
+    <dep from="t41" to="t42" rfunc="pobj"/>
+    <dep from="t42" to="t43" rfunc="nummod"/>
+    <dep from="t42" to="t44" rfunc="punct"/>
+    <dep from="t42" to="t45" rfunc="nummod"/>
+    <dep from="t33" to="t46" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--b o x i n g   t o u r n a m e n t-->
+        <target id="t19"/>
+        <target id="t20"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Boxing_at_the_2016_Summer_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Pugilato_ai_Giochi_della_XXXI_Olimpiade" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Boksen_op_de_Olympische_Zomerspelen_2016" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 0 1 6   S u m m e r   O l y m p i c s-->
+        <target id="t23"/>
+        <target id="t24"/>
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/2016_Summer_Olympics" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Giochi_della_XXXI_Olimpiade" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Olympische_Zomerspelen_2016" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--Y a o u n d é-->
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Yaoundé" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Yaoundé" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Yaoundé" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--C a m e r o o n-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cameroon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Camerun" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Kameroen" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q1009" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-placing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t21"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-containing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t38"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t39"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

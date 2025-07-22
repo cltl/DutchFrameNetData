@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Atlanta 1994"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Atlanta_1994"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:48:30UTC" endTimestamp="2020-05-27T16:48:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:48:30UTC" endTimestamp="2020-05-27T16:48:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:48:30UTC" endTimestamp="2020-05-27T16:48:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:48:30UTC" endTimestamp="2020-05-27T16:48:30UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Atlanta 1994++.
+Het Orlando (met de officiële naam AT&T Challenge 1994) werd van 25 april tot en met 1 mei 1994 gehouden in de Amerikaanse hoofdstad Atlanta.
+Er werd gespeeld op de gravelbanen van de Atlanta Athletic Club.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="7" offset="19"><![CDATA[Atlanta]]></wf>
+    <wf sent="1" id="w8" length="6" offset="27"><![CDATA[1994++]]></wf>
+    <wf sent="1" id="w9" length="1" offset="33"><![CDATA[.]]></wf>
+    <wf sent="1" id="w10" length="1" offset="34"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w11" length="3" offset="35"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w12" length="7" offset="39"><![CDATA[Orlando]]></wf>
+    <wf sent="2" id="w13" length="1" offset="47"><![CDATA[(]]></wf>
+    <wf sent="2" id="w14" length="3" offset="48"><![CDATA[met]]></wf>
+    <wf sent="2" id="w15" length="2" offset="52"><![CDATA[de]]></wf>
+    <wf sent="2" id="w16" length="9" offset="55"><![CDATA[officiële]]></wf>
+    <wf sent="2" id="w17" length="4" offset="65"><![CDATA[naam]]></wf>
+    <wf sent="2" id="w18" length="4" offset="70"><![CDATA[AT&T]]></wf>
+    <wf sent="2" id="w19" length="9" offset="75"><![CDATA[Challenge]]></wf>
+    <wf sent="2" id="w20" length="4" offset="85"><![CDATA[1994]]></wf>
+    <wf sent="2" id="w21" length="1" offset="89"><![CDATA[)]]></wf>
+    <wf sent="2" id="w22" length="4" offset="91"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w23" length="3" offset="96"><![CDATA[van]]></wf>
+    <wf sent="2" id="w24" length="2" offset="100"><![CDATA[25]]></wf>
+    <wf sent="2" id="w25" length="5" offset="103"><![CDATA[april]]></wf>
+    <wf sent="2" id="w26" length="3" offset="109"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w27" length="2" offset="113"><![CDATA[en]]></wf>
+    <wf sent="2" id="w28" length="3" offset="116"><![CDATA[met]]></wf>
+    <wf sent="2" id="w29" length="1" offset="120"><![CDATA[1]]></wf>
+    <wf sent="2" id="w30" length="3" offset="122"><![CDATA[mei]]></wf>
+    <wf sent="2" id="w31" length="4" offset="126"><![CDATA[1994]]></wf>
+    <wf sent="2" id="w32" length="8" offset="131"><![CDATA[gehouden]]></wf>
+    <wf sent="2" id="w33" length="2" offset="140"><![CDATA[in]]></wf>
+    <wf sent="2" id="w34" length="2" offset="143"><![CDATA[de]]></wf>
+    <wf sent="2" id="w35" length="11" offset="146"><![CDATA[Amerikaanse]]></wf>
+    <wf sent="2" id="w36" length="9" offset="158"><![CDATA[hoofdstad]]></wf>
+    <wf sent="2" id="w37" length="7" offset="168"><![CDATA[Atlanta]]></wf>
+    <wf sent="2" id="w38" length="1" offset="175"><![CDATA[.]]></wf>
+    <wf sent="2" id="w39" length="1" offset="176"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w40" length="2" offset="177"><![CDATA[Er]]></wf>
+    <wf sent="3" id="w41" length="4" offset="180"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w42" length="8" offset="185"><![CDATA[gespeeld]]></wf>
+    <wf sent="3" id="w43" length="2" offset="194"><![CDATA[op]]></wf>
+    <wf sent="3" id="w44" length="2" offset="197"><![CDATA[de]]></wf>
+    <wf sent="3" id="w45" length="11" offset="200"><![CDATA[gravelbanen]]></wf>
+    <wf sent="3" id="w46" length="3" offset="212"><![CDATA[van]]></wf>
+    <wf sent="3" id="w47" length="2" offset="216"><![CDATA[de]]></wf>
+    <wf sent="3" id="w48" length="7" offset="219"><![CDATA[Atlanta]]></wf>
+    <wf sent="3" id="w49" length="8" offset="227"><![CDATA[Athletic]]></wf>
+    <wf sent="3" id="w50" length="4" offset="236"><![CDATA[Club]]></wf>
+    <wf sent="3" id="w51" length="1" offset="240"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="atlanta" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="1994++" pos="NUM" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="het" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="orlando" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="met" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="naam" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="at&amp;t" pos="NOUN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="challenge" pos="PROPN" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="1994" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="25" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="april" pos="NUM" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="1" pos="NUM" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="mei" pos="NUM" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="1994" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="houden" pos="VERB" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="amerikaans" pos="ADJ" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="hoofdstad" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="atlanta" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="gravelbaan" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="atlanta" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="athletic" pos="PROPN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="club" pos="PROPN" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t7" to="t8" rfunc="nummod"/>
+    <dep from="t1" to="t9" rfunc="punct"/>
+    <dep from="t9" to="t10" rfunc=""/>
+    <dep from="t12" to="t11" rfunc="case"/>
+    <dep from="t32" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t13" rfunc="punct"/>
+    <dep from="t17" to="t14" rfunc="case"/>
+    <dep from="t12" to="t17" rfunc="nmod"/>
+    <dep from="t17" to="t15" rfunc="det"/>
+    <dep from="t17" to="t16" rfunc="amod"/>
+    <dep from="t17" to="t18" rfunc="appos"/>
+    <dep from="t18" to="t19" rfunc="flat"/>
+    <dep from="t18" to="t20" rfunc="flat"/>
+    <dep from="t32" to="t21" rfunc="punct"/>
+    <dep from="t32" to="t22" rfunc="aux"/>
+    <dep from="t24" to="t23" rfunc="case"/>
+    <dep from="t32" to="t24" rfunc="obl"/>
+    <dep from="t24" to="t25" rfunc="compound"/>
+    <dep from="t24" to="t26" rfunc="advmod"/>
+    <dep from="t26" to="t27" rfunc="compound"/>
+    <dep from="t29" to="t28" rfunc="case"/>
+    <dep from="t32" to="t29" rfunc="obl"/>
+    <dep from="t29" to="t30" rfunc="compound"/>
+    <dep from="t29" to="t31" rfunc="compound"/>
+    <dep from="t36" to="t33" rfunc="case"/>
+    <dep from="t32" to="t36" rfunc="obl"/>
+    <dep from="t36" to="t34" rfunc="det"/>
+    <dep from="t36" to="t35" rfunc="amod"/>
+    <dep from="t36" to="t37" rfunc="appos"/>
+    <dep from="t32" to="t38" rfunc="punct"/>
+    <dep from="t38" to="t39" rfunc=""/>
+    <dep from="t42" to="t40" rfunc="advmod"/>
+    <dep from="t42" to="t41" rfunc="aux"/>
+    <dep from="t45" to="t43" rfunc="case"/>
+    <dep from="t42" to="t45" rfunc="obl"/>
+    <dep from="t45" to="t44" rfunc="det"/>
+    <dep from="t48" to="t46" rfunc="case"/>
+    <dep from="t45" to="t48" rfunc="nmod"/>
+    <dep from="t48" to="t47" rfunc="det"/>
+    <dep from="t48" to="t49" rfunc="flat"/>
+    <dep from="t48" to="t50" rfunc="flat"/>
+    <dep from="t42" to="t51" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--O r l a n d o-->
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Orlando" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Orlando" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Orlando,_Oklahoma" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--2 5   a p r i l-->
+        <target id="t24"/>
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/25_april" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/25_aprile" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/April_25" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1   m e i-->
+        <target id="t29"/>
+        <target id="t30"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1_mei" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1o_maggio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/May_1" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--1 9 9 4-->
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/1994" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/1994" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/1994" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--A t l a n t a-->
+        <target id="t37"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Atlanta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Categoria:Atlanta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Atlanta,_Texas" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

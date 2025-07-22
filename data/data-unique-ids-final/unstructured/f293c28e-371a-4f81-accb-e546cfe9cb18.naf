@@ -1,0 +1,1429 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Sprimont"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Sprimont"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:52:45UTC" endTimestamp="2020-05-28T17:52:45UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:52:45UTC" endTimestamp="2020-05-28T17:52:45UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:52:45UTC" endTimestamp="2020-05-28T17:52:45UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:52:45UTC" endTimestamp="2020-05-28T17:52:45UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:42CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Sprimont++.
+The Battle of Sprimont, Battle of Esneux or Battle of the Ourthe was a battle between French Republican and Austrian troops on the plateau between the valleys of the Vesdre, the Ourthe and the Amblève, south of Liège. It occurred on 17 and 18 September 1794 and was a French Republican victory. The battle put a final end to the Ancien Régime in what is now Belgium, then essentially the Austrian Netherlands, Principality of Liège and the Principality of Stavelot-Malmedy. French troops dislodged Austrian troops occupying the plateau, though the French suffered heavy losses. Associated with the battle are the villages of Sprimont, Esneux, Fontin and the site of the "La Redoute", whose name originates in a redoubt involved in the battle.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="10" offset="12"><![CDATA[Sprimont++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="22"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="23"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="24"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="28"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="35"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="8" offset="38"><![CDATA[Sprimont]]></wf>
+    <wf sent="2" id="w12" length="1" offset="46"><![CDATA[,]]></wf>
+    <wf sent="2" id="w13" length="6" offset="48"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w14" length="2" offset="55"><![CDATA[of]]></wf>
+    <wf sent="2" id="w15" length="6" offset="58"><![CDATA[Esneux]]></wf>
+    <wf sent="2" id="w16" length="2" offset="65"><![CDATA[or]]></wf>
+    <wf sent="2" id="w17" length="6" offset="68"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w18" length="2" offset="75"><![CDATA[of]]></wf>
+    <wf sent="2" id="w19" length="3" offset="78"><![CDATA[the]]></wf>
+    <wf sent="2" id="w20" length="6" offset="82"><![CDATA[Ourthe]]></wf>
+    <wf sent="2" id="w21" length="3" offset="89"><![CDATA[was]]></wf>
+    <wf sent="2" id="w22" length="1" offset="93"><![CDATA[a]]></wf>
+    <wf sent="2" id="w23" length="6" offset="95"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w24" length="7" offset="102"><![CDATA[between]]></wf>
+    <wf sent="2" id="w25" length="6" offset="110"><![CDATA[French]]></wf>
+    <wf sent="2" id="w26" length="10" offset="117"><![CDATA[Republican]]></wf>
+    <wf sent="2" id="w27" length="3" offset="128"><![CDATA[and]]></wf>
+    <wf sent="2" id="w28" length="8" offset="132"><![CDATA[Austrian]]></wf>
+    <wf sent="2" id="w29" length="6" offset="141"><![CDATA[troops]]></wf>
+    <wf sent="2" id="w30" length="2" offset="148"><![CDATA[on]]></wf>
+    <wf sent="2" id="w31" length="3" offset="151"><![CDATA[the]]></wf>
+    <wf sent="2" id="w32" length="7" offset="155"><![CDATA[plateau]]></wf>
+    <wf sent="2" id="w33" length="7" offset="163"><![CDATA[between]]></wf>
+    <wf sent="2" id="w34" length="3" offset="171"><![CDATA[the]]></wf>
+    <wf sent="2" id="w35" length="7" offset="175"><![CDATA[valleys]]></wf>
+    <wf sent="2" id="w36" length="2" offset="183"><![CDATA[of]]></wf>
+    <wf sent="2" id="w37" length="3" offset="186"><![CDATA[the]]></wf>
+    <wf sent="2" id="w38" length="6" offset="190"><![CDATA[Vesdre]]></wf>
+    <wf sent="2" id="w39" length="1" offset="196"><![CDATA[,]]></wf>
+    <wf sent="2" id="w40" length="3" offset="198"><![CDATA[the]]></wf>
+    <wf sent="2" id="w41" length="6" offset="202"><![CDATA[Ourthe]]></wf>
+    <wf sent="2" id="w42" length="3" offset="209"><![CDATA[and]]></wf>
+    <wf sent="2" id="w43" length="3" offset="213"><![CDATA[the]]></wf>
+    <wf sent="2" id="w44" length="7" offset="217"><![CDATA[Amblève]]></wf>
+    <wf sent="2" id="w45" length="1" offset="224"><![CDATA[,]]></wf>
+    <wf sent="2" id="w46" length="5" offset="226"><![CDATA[south]]></wf>
+    <wf sent="2" id="w47" length="2" offset="232"><![CDATA[of]]></wf>
+    <wf sent="2" id="w48" length="5" offset="235"><![CDATA[Liège]]></wf>
+    <wf sent="2" id="w49" length="1" offset="240"><![CDATA[.]]></wf>
+    <wf sent="3" id="w50" length="2" offset="242"><![CDATA[It]]></wf>
+    <wf sent="3" id="w51" length="8" offset="245"><![CDATA[occurred]]></wf>
+    <wf sent="3" id="w52" length="2" offset="254"><![CDATA[on]]></wf>
+    <wf sent="3" id="w53" length="2" offset="257"><![CDATA[17]]></wf>
+    <wf sent="3" id="w54" length="3" offset="260"><![CDATA[and]]></wf>
+    <wf sent="3" id="w55" length="2" offset="264"><![CDATA[18]]></wf>
+    <wf sent="3" id="w56" length="9" offset="267"><![CDATA[September]]></wf>
+    <wf sent="3" id="w57" length="4" offset="277"><![CDATA[1794]]></wf>
+    <wf sent="3" id="w58" length="3" offset="282"><![CDATA[and]]></wf>
+    <wf sent="3" id="w59" length="3" offset="286"><![CDATA[was]]></wf>
+    <wf sent="3" id="w60" length="1" offset="290"><![CDATA[a]]></wf>
+    <wf sent="3" id="w61" length="6" offset="292"><![CDATA[French]]></wf>
+    <wf sent="3" id="w62" length="10" offset="299"><![CDATA[Republican]]></wf>
+    <wf sent="3" id="w63" length="7" offset="310"><![CDATA[victory]]></wf>
+    <wf sent="3" id="w64" length="1" offset="317"><![CDATA[.]]></wf>
+    <wf sent="4" id="w65" length="3" offset="319"><![CDATA[The]]></wf>
+    <wf sent="4" id="w66" length="6" offset="323"><![CDATA[battle]]></wf>
+    <wf sent="4" id="w67" length="3" offset="330"><![CDATA[put]]></wf>
+    <wf sent="4" id="w68" length="1" offset="334"><![CDATA[a]]></wf>
+    <wf sent="4" id="w69" length="5" offset="336"><![CDATA[final]]></wf>
+    <wf sent="4" id="w70" length="3" offset="342"><![CDATA[end]]></wf>
+    <wf sent="4" id="w71" length="2" offset="346"><![CDATA[to]]></wf>
+    <wf sent="4" id="w72" length="3" offset="349"><![CDATA[the]]></wf>
+    <wf sent="4" id="w73" length="6" offset="353"><![CDATA[Ancien]]></wf>
+    <wf sent="4" id="w74" length="6" offset="360"><![CDATA[Régime]]></wf>
+    <wf sent="4" id="w75" length="2" offset="367"><![CDATA[in]]></wf>
+    <wf sent="4" id="w76" length="4" offset="370"><![CDATA[what]]></wf>
+    <wf sent="4" id="w77" length="2" offset="375"><![CDATA[is]]></wf>
+    <wf sent="4" id="w78" length="3" offset="378"><![CDATA[now]]></wf>
+    <wf sent="4" id="w79" length="7" offset="382"><![CDATA[Belgium]]></wf>
+    <wf sent="4" id="w80" length="1" offset="389"><![CDATA[,]]></wf>
+    <wf sent="4" id="w81" length="4" offset="391"><![CDATA[then]]></wf>
+    <wf sent="4" id="w82" length="11" offset="396"><![CDATA[essentially]]></wf>
+    <wf sent="4" id="w83" length="3" offset="408"><![CDATA[the]]></wf>
+    <wf sent="4" id="w84" length="8" offset="412"><![CDATA[Austrian]]></wf>
+    <wf sent="4" id="w85" length="11" offset="421"><![CDATA[Netherlands]]></wf>
+    <wf sent="4" id="w86" length="1" offset="432"><![CDATA[,]]></wf>
+    <wf sent="4" id="w87" length="12" offset="434"><![CDATA[Principality]]></wf>
+    <wf sent="4" id="w88" length="2" offset="447"><![CDATA[of]]></wf>
+    <wf sent="4" id="w89" length="5" offset="450"><![CDATA[Liège]]></wf>
+    <wf sent="4" id="w90" length="3" offset="456"><![CDATA[and]]></wf>
+    <wf sent="4" id="w91" length="3" offset="460"><![CDATA[the]]></wf>
+    <wf sent="4" id="w92" length="12" offset="464"><![CDATA[Principality]]></wf>
+    <wf sent="4" id="w93" length="2" offset="477"><![CDATA[of]]></wf>
+    <wf sent="4" id="w94" length="8" offset="480"><![CDATA[Stavelot]]></wf>
+    <wf sent="4" id="w95" length="1" offset="488"><![CDATA[-]]></wf>
+    <wf sent="4" id="w96" length="7" offset="489"><![CDATA[Malmedy]]></wf>
+    <wf sent="4" id="w97" length="1" offset="496"><![CDATA[.]]></wf>
+    <wf sent="5" id="w98" length="6" offset="498"><![CDATA[French]]></wf>
+    <wf sent="5" id="w99" length="6" offset="505"><![CDATA[troops]]></wf>
+    <wf sent="5" id="w100" length="9" offset="512"><![CDATA[dislodged]]></wf>
+    <wf sent="5" id="w101" length="8" offset="522"><![CDATA[Austrian]]></wf>
+    <wf sent="5" id="w102" length="6" offset="531"><![CDATA[troops]]></wf>
+    <wf sent="5" id="w103" length="9" offset="538"><![CDATA[occupying]]></wf>
+    <wf sent="5" id="w104" length="3" offset="548"><![CDATA[the]]></wf>
+    <wf sent="5" id="w105" length="7" offset="552"><![CDATA[plateau]]></wf>
+    <wf sent="5" id="w106" length="1" offset="559"><![CDATA[,]]></wf>
+    <wf sent="5" id="w107" length="6" offset="561"><![CDATA[though]]></wf>
+    <wf sent="5" id="w108" length="3" offset="568"><![CDATA[the]]></wf>
+    <wf sent="5" id="w109" length="6" offset="572"><![CDATA[French]]></wf>
+    <wf sent="5" id="w110" length="8" offset="579"><![CDATA[suffered]]></wf>
+    <wf sent="5" id="w111" length="5" offset="588"><![CDATA[heavy]]></wf>
+    <wf sent="5" id="w112" length="6" offset="594"><![CDATA[losses]]></wf>
+    <wf sent="5" id="w113" length="1" offset="600"><![CDATA[.]]></wf>
+    <wf sent="6" id="w114" length="10" offset="602"><![CDATA[Associated]]></wf>
+    <wf sent="6" id="w115" length="4" offset="613"><![CDATA[with]]></wf>
+    <wf sent="6" id="w116" length="3" offset="618"><![CDATA[the]]></wf>
+    <wf sent="6" id="w117" length="6" offset="622"><![CDATA[battle]]></wf>
+    <wf sent="6" id="w118" length="3" offset="629"><![CDATA[are]]></wf>
+    <wf sent="6" id="w119" length="3" offset="633"><![CDATA[the]]></wf>
+    <wf sent="6" id="w120" length="8" offset="637"><![CDATA[villages]]></wf>
+    <wf sent="6" id="w121" length="2" offset="646"><![CDATA[of]]></wf>
+    <wf sent="6" id="w122" length="8" offset="649"><![CDATA[Sprimont]]></wf>
+    <wf sent="6" id="w123" length="1" offset="657"><![CDATA[,]]></wf>
+    <wf sent="6" id="w124" length="6" offset="659"><![CDATA[Esneux]]></wf>
+    <wf sent="6" id="w125" length="1" offset="665"><![CDATA[,]]></wf>
+    <wf sent="6" id="w126" length="6" offset="667"><![CDATA[Fontin]]></wf>
+    <wf sent="6" id="w127" length="3" offset="674"><![CDATA[and]]></wf>
+    <wf sent="6" id="w128" length="3" offset="678"><![CDATA[the]]></wf>
+    <wf sent="6" id="w129" length="4" offset="682"><![CDATA[site]]></wf>
+    <wf sent="6" id="w130" length="2" offset="687"><![CDATA[of]]></wf>
+    <wf sent="6" id="w131" length="3" offset="690"><![CDATA[the]]></wf>
+    <wf sent="6" id="w132" length="1" offset="694"><![CDATA["]]></wf>
+    <wf sent="6" id="w133" length="2" offset="695"><![CDATA[La]]></wf>
+    <wf sent="6" id="w134" length="7" offset="698"><![CDATA[Redoute]]></wf>
+    <wf sent="6" id="w135" length="1" offset="705"><![CDATA["]]></wf>
+    <wf sent="6" id="w136" length="1" offset="706"><![CDATA[,]]></wf>
+    <wf sent="6" id="w137" length="5" offset="708"><![CDATA[whose]]></wf>
+    <wf sent="6" id="w138" length="4" offset="714"><![CDATA[name]]></wf>
+    <wf sent="6" id="w139" length="10" offset="719"><![CDATA[originates]]></wf>
+    <wf sent="6" id="w140" length="2" offset="730"><![CDATA[in]]></wf>
+    <wf sent="6" id="w141" length="1" offset="733"><![CDATA[a]]></wf>
+    <wf sent="6" id="w142" length="7" offset="735"><![CDATA[redoubt]]></wf>
+    <wf sent="6" id="w143" length="8" offset="743"><![CDATA[involved]]></wf>
+    <wf sent="6" id="w144" length="2" offset="752"><![CDATA[in]]></wf>
+    <wf sent="6" id="w145" length="3" offset="755"><![CDATA[the]]></wf>
+    <wf sent="6" id="w146" length="6" offset="759"><![CDATA[battle]]></wf>
+    <wf sent="6" id="w147" length="1" offset="765"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Sprimont++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Sprimont" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Esneux" pos="PROPN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="or" pos="CCONJ" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Ourthe" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="French" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="republican" pos="ADJ" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="austrian" pos="ADJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="troop" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="plateau" pos="NOUN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="valley" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="Vesdre" pos="PROPN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="Ourthe" pos="PROPN" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="Amblève" pos="PROPN" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="south" pos="ADV" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Liège" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="-PRON-" pos="PRON" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="occur" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="17" pos="NUM" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="18" pos="NUM" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="1794" pos="NUM" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="french" pos="ADJ" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Republican" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="victory" pos="NOUN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="put" pos="VERB" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="final" pos="ADJ" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="end" pos="NOUN" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="Ancien" pos="PROPN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="Régime" pos="PROPN" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="what" pos="PRON" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="now" pos="ADV" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="Belgium" pos="PROPN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="then" pos="ADV" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="essentially" pos="ADV" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Austrian" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Netherlands" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="Principality" pos="PROPN" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="Liège" pos="PROPN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="Principality" pos="PROPN" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="Stavelot" pos="PROPN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="Malmedy" pos="PROPN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="french" pos="ADJ" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="troop" pos="NOUN" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="dislodge" pos="VERB" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="austrian" pos="ADJ" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="troop" pos="NOUN" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="occupy" pos="VERB" type="open">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="plateau" pos="NOUN" type="open">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="though" pos="ADP" type="open">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="French" pos="PROPN" type="open">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="suffer" pos="VERB" type="open">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="heavy" pos="ADJ" type="open">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="loss" pos="NOUN" type="open">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="associate" pos="VERB" type="open">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="with" pos="ADP" type="open">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="village" pos="NOUN" type="open">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="Sprimont" pos="PROPN" type="open">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="Esneux" pos="PROPN" type="open">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="Fontin" pos="PROPN" type="open">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="site" pos="NOUN" type="open">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="La" pos="PROPN" type="open">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="Redoute" pos="PROPN" type="open">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="&quot;" pos="PUNCT" type="open">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="whose" pos="DET" type="open">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="name" pos="NOUN" type="open">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="originate" pos="VERB" type="open">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" lemma="redoubt" pos="NOUN" type="open">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" lemma="involve" pos="VERB" type="open">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t2" to="t3" rfunc="pobj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t6" to="t5" rfunc="subtok"/>
+    <dep from="t4" to="t6" rfunc="pobj"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t21" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t11" to="t12" rfunc="punct"/>
+    <dep from="t9" to="t13" rfunc="appos"/>
+    <dep from="t13" to="t14" rfunc="prep"/>
+    <dep from="t14" to="t15" rfunc="pobj"/>
+    <dep from="t15" to="t16" rfunc="cc"/>
+    <dep from="t15" to="t17" rfunc="conj"/>
+    <dep from="t15" to="t18" rfunc="prep"/>
+    <dep from="t20" to="t19" rfunc="det"/>
+    <dep from="t18" to="t20" rfunc="pobj"/>
+    <dep from="t23" to="t22" rfunc="det"/>
+    <dep from="t21" to="t23" rfunc="attr"/>
+    <dep from="t23" to="t24" rfunc="prep"/>
+    <dep from="t26" to="t25" rfunc="amod"/>
+    <dep from="t29" to="t26" rfunc="amod"/>
+    <dep from="t24" to="t29" rfunc="pobj"/>
+    <dep from="t26" to="t27" rfunc="cc"/>
+    <dep from="t26" to="t28" rfunc="conj"/>
+    <dep from="t23" to="t30" rfunc="prep"/>
+    <dep from="t32" to="t31" rfunc="det"/>
+    <dep from="t30" to="t32" rfunc="pobj"/>
+    <dep from="t23" to="t33" rfunc="prep"/>
+    <dep from="t35" to="t34" rfunc="det"/>
+    <dep from="t33" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="det"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t38" to="t39" rfunc="punct"/>
+    <dep from="t41" to="t40" rfunc="det"/>
+    <dep from="t38" to="t41" rfunc="conj"/>
+    <dep from="t41" to="t42" rfunc="cc"/>
+    <dep from="t44" to="t43" rfunc="det"/>
+    <dep from="t41" to="t44" rfunc="conj"/>
+    <dep from="t38" to="t45" rfunc="punct"/>
+    <dep from="t23" to="t46" rfunc="advmod"/>
+    <dep from="t46" to="t47" rfunc="prep"/>
+    <dep from="t47" to="t48" rfunc="pobj"/>
+    <dep from="t21" to="t49" rfunc="punct"/>
+    <dep from="t51" to="t50" rfunc="nsubj"/>
+    <dep from="t51" to="t52" rfunc="prep"/>
+    <dep from="t56" to="t53" rfunc="nummod"/>
+    <dep from="t52" to="t56" rfunc="pobj"/>
+    <dep from="t53" to="t54" rfunc="cc"/>
+    <dep from="t53" to="t55" rfunc="conj"/>
+    <dep from="t56" to="t57" rfunc="nummod"/>
+    <dep from="t51" to="t58" rfunc="cc"/>
+    <dep from="t51" to="t59" rfunc="conj"/>
+    <dep from="t63" to="t60" rfunc="det"/>
+    <dep from="t59" to="t63" rfunc="attr"/>
+    <dep from="t63" to="t61" rfunc="amod"/>
+    <dep from="t63" to="t62" rfunc="amod"/>
+    <dep from="t51" to="t64" rfunc="punct"/>
+    <dep from="t66" to="t65" rfunc="det"/>
+    <dep from="t67" to="t66" rfunc="nsubj"/>
+    <dep from="t70" to="t68" rfunc="det"/>
+    <dep from="t67" to="t70" rfunc="dobj"/>
+    <dep from="t70" to="t69" rfunc="amod"/>
+    <dep from="t67" to="t71" rfunc="prep"/>
+    <dep from="t74" to="t72" rfunc="det"/>
+    <dep from="t71" to="t74" rfunc="pobj"/>
+    <dep from="t74" to="t73" rfunc="compound"/>
+    <dep from="t67" to="t75" rfunc="prep"/>
+    <dep from="t77" to="t76" rfunc="nsubj"/>
+    <dep from="t75" to="t77" rfunc="pcomp"/>
+    <dep from="t77" to="t78" rfunc="advmod"/>
+    <dep from="t77" to="t79" rfunc="attr"/>
+    <dep from="t85" to="t80" rfunc="punct"/>
+    <dep from="t75" to="t85" rfunc="pobj"/>
+    <dep from="t85" to="t81" rfunc="advmod"/>
+    <dep from="t85" to="t82" rfunc="advmod"/>
+    <dep from="t85" to="t83" rfunc="det"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t85" to="t86" rfunc="punct"/>
+    <dep from="t85" to="t87" rfunc="appos"/>
+    <dep from="t87" to="t88" rfunc="prep"/>
+    <dep from="t88" to="t89" rfunc="pobj"/>
+    <dep from="t87" to="t90" rfunc="cc"/>
+    <dep from="t92" to="t91" rfunc="det"/>
+    <dep from="t87" to="t92" rfunc="conj"/>
+    <dep from="t92" to="t93" rfunc="prep"/>
+    <dep from="t96" to="t94" rfunc="compound"/>
+    <dep from="t93" to="t96" rfunc="pobj"/>
+    <dep from="t96" to="t95" rfunc="punct"/>
+    <dep from="t67" to="t97" rfunc="punct"/>
+    <dep from="t99" to="t98" rfunc="amod"/>
+    <dep from="t100" to="t99" rfunc="nsubj"/>
+    <dep from="t102" to="t101" rfunc="amod"/>
+    <dep from="t100" to="t102" rfunc="dobj"/>
+    <dep from="t102" to="t103" rfunc="acl"/>
+    <dep from="t105" to="t104" rfunc="det"/>
+    <dep from="t103" to="t105" rfunc="dobj"/>
+    <dep from="t100" to="t106" rfunc="punct"/>
+    <dep from="t110" to="t107" rfunc="mark"/>
+    <dep from="t100" to="t110" rfunc="advcl"/>
+    <dep from="t109" to="t108" rfunc="det"/>
+    <dep from="t110" to="t109" rfunc="nsubj"/>
+    <dep from="t112" to="t111" rfunc="amod"/>
+    <dep from="t110" to="t112" rfunc="dobj"/>
+    <dep from="t100" to="t113" rfunc="punct"/>
+    <dep from="t114" to="t115" rfunc="prep"/>
+    <dep from="t117" to="t116" rfunc="det"/>
+    <dep from="t115" to="t117" rfunc="pobj"/>
+    <dep from="t114" to="t118" rfunc="auxpass"/>
+    <dep from="t120" to="t119" rfunc="det"/>
+    <dep from="t114" to="t120" rfunc="nsubjpass"/>
+    <dep from="t120" to="t121" rfunc="prep"/>
+    <dep from="t121" to="t122" rfunc="pobj"/>
+    <dep from="t122" to="t123" rfunc="punct"/>
+    <dep from="t122" to="t124" rfunc="conj"/>
+    <dep from="t124" to="t125" rfunc="punct"/>
+    <dep from="t124" to="t126" rfunc="conj"/>
+    <dep from="t126" to="t127" rfunc="cc"/>
+    <dep from="t129" to="t128" rfunc="det"/>
+    <dep from="t126" to="t129" rfunc="conj"/>
+    <dep from="t129" to="t130" rfunc="prep"/>
+    <dep from="t134" to="t131" rfunc="det"/>
+    <dep from="t130" to="t134" rfunc="pobj"/>
+    <dep from="t134" to="t132" rfunc="punct"/>
+    <dep from="t134" to="t133" rfunc="compound"/>
+    <dep from="t134" to="t135" rfunc="punct"/>
+    <dep from="t134" to="t136" rfunc="punct"/>
+    <dep from="t138" to="t137" rfunc="poss"/>
+    <dep from="t139" to="t138" rfunc="nsubj"/>
+    <dep from="t134" to="t139" rfunc="relcl"/>
+    <dep from="t139" to="t140" rfunc="prep"/>
+    <dep from="t142" to="t141" rfunc="det"/>
+    <dep from="t140" to="t142" rfunc="pobj"/>
+    <dep from="t142" to="t143" rfunc="acl"/>
+    <dep from="t143" to="t144" rfunc="prep"/>
+    <dep from="t146" to="t145" rfunc="det"/>
+    <dep from="t144" to="t146" rfunc="pobj"/>
+    <dep from="t114" to="t147" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A u s t r i a n-->
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Habsburg_Monarchy" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Monarchia_asburgica" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Habsburgse_monarchie" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--V e s d r e-->
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Vesdre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Vesder" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--O u r t h e-->
+        <target id="t41"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ourthe_(river)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--A m b l è v e-->
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Amblève_(river)" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--L i è g e-->
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Liège" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Liegi" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Liège" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--A n c i e n   R é g i m e-->
+        <target id="t73"/>
+        <target id="t74"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Ancien_Régime" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ancien_Régime" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ancien_régime" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--B e l g i u m-->
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Belgium" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Belgio" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/België" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q31" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--A u s t r i a n   N e t h e r l a n d s-->
+        <target id="t84"/>
+        <target id="t85"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Austrian_Netherlands" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Paesi_Bassi_austriaci" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Oostenrijkse_Nederlanden" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--P r i n c i p a l i t y   o f   L i è g e-->
+        <target id="t87"/>
+        <target id="t88"/>
+        <target id="t89"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Principality_of_Liège" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--P r i n c i p a l i t y   o f   S t a v e l o t - M a l m e d y-->
+        <target id="t92"/>
+        <target id="t93"/>
+        <target id="t94"/>
+        <target id="t95"/>
+        <target id="t96"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Principality_of_Stavelot-Malmedy" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <span>
+        <!--S p r i m o n t-->
+        <target id="t122"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Sprimont" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Sprimont" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Sprimont" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <span>
+        <!--E s n e u x-->
+        <target id="t124"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Esneux" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Esneux" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Esneux" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e13" type="UNK">
+      <span>
+        <!--F o n t i n-->
+        <target id="t126"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Fontin" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e14" type="UNK">
+      <span>
+        <!--L a   R e d o u t e-->
+        <target id="t133"/>
+        <target id="t134"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Côte_de_La_Redoute" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Côte_de_La_Redoute" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e15" type="UNK">
+      <span>
+        <!--r e d o u b t-->
+        <target id="t142"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Redoubt" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Ridotta" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Redoute" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t79"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q31" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-member_of_military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t30"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-interior_profile_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t33"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-natural_features" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t35"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-part_orientational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t46"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t52"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t63"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t66"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-process_end" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_subregion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t70"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_collocation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-origin" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t98"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-member_of_military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t99"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-residence" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t103"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-catastrophe" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t110"/>
+      </span>
+    </predicate>
+    <predicate id="pr18" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t112"/>
+      </span>
+    </predicate>
+    <predicate id="pr19" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cognitive_connection" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t114"/>
+      </span>
+    </predicate>
+    <predicate id="pr20" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t117"/>
+      </span>
+    </predicate>
+    <predicate id="pr21" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t120"/>
+      </span>
+    </predicate>
+    <predicate id="pr22" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale_by_use" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t129"/>
+      </span>
+    </predicate>
+    <predicate id="pr23" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_named" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t138"/>
+      </span>
+    </predicate>
+    <predicate id="pr24" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t146"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

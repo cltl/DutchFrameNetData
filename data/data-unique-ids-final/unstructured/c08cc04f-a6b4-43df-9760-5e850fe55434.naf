@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Siege of Takatō"/>
+    <public uri="https://en.wikipedia.org/wiki/Siege_of_Takat%C5%8D"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:54:57UTC" endTimestamp="2020-05-28T17:54:57UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:54:57UTC" endTimestamp="2020-05-28T17:54:57UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:54:57UTC" endTimestamp="2020-05-28T17:54:57UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:54:57UTC" endTimestamp="2020-05-28T17:54:57UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:23:59CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Siege of Takatō++.
+Siege of Takatō The Siege of Takatō may refer to two different encounters throughout samurai history (Sengoku period - 16th century).]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="5" offset="2"><![CDATA[Siege]]></wf>
+    <wf sent="1" id="w4" length="2" offset="8"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="8" offset="11"><![CDATA[Takatō++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="19"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="20"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="5" offset="21"><![CDATA[Siege]]></wf>
+    <wf sent="2" id="w9" length="2" offset="27"><![CDATA[of]]></wf>
+    <wf sent="2" id="w10" length="6" offset="30"><![CDATA[Takatō]]></wf>
+    <wf sent="3" id="w11" length="3" offset="37"><![CDATA[The]]></wf>
+    <wf sent="3" id="w12" length="5" offset="41"><![CDATA[Siege]]></wf>
+    <wf sent="3" id="w13" length="2" offset="47"><![CDATA[of]]></wf>
+    <wf sent="3" id="w14" length="6" offset="50"><![CDATA[Takatō]]></wf>
+    <wf sent="3" id="w15" length="3" offset="57"><![CDATA[may]]></wf>
+    <wf sent="3" id="w16" length="5" offset="61"><![CDATA[refer]]></wf>
+    <wf sent="3" id="w17" length="2" offset="67"><![CDATA[to]]></wf>
+    <wf sent="3" id="w18" length="3" offset="70"><![CDATA[two]]></wf>
+    <wf sent="3" id="w19" length="9" offset="74"><![CDATA[different]]></wf>
+    <wf sent="3" id="w20" length="10" offset="84"><![CDATA[encounters]]></wf>
+    <wf sent="3" id="w21" length="10" offset="95"><![CDATA[throughout]]></wf>
+    <wf sent="3" id="w22" length="7" offset="106"><![CDATA[samurai]]></wf>
+    <wf sent="3" id="w23" length="7" offset="114"><![CDATA[history]]></wf>
+    <wf sent="3" id="w24" length="1" offset="122"><![CDATA[(]]></wf>
+    <wf sent="3" id="w25" length="7" offset="123"><![CDATA[Sengoku]]></wf>
+    <wf sent="3" id="w26" length="6" offset="131"><![CDATA[period]]></wf>
+    <wf sent="3" id="w27" length="1" offset="138"><![CDATA[-]]></wf>
+    <wf sent="3" id="w28" length="4" offset="140"><![CDATA[16th]]></wf>
+    <wf sent="3" id="w29" length="7" offset="145"><![CDATA[century]]></wf>
+    <wf sent="3" id="w30" length="1" offset="152"><![CDATA[)]]></wf>
+    <wf sent="3" id="w31" length="1" offset="153"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Siege" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Takatō++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Siege" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Takatō" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Siege" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Takatō" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="may" pos="VERB" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="refer" pos="VERB" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="different" pos="ADJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="encounter" pos="NOUN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="throughout" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="samurai" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="history" pos="NOUN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Sengoku" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="period" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="16th" pos="ADJ" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="century" pos="NOUN" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="cc"/>
+    <dep from="t1" to="t3" rfunc="punct"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t8" to="t9" rfunc="prep"/>
+    <dep from="t9" to="t10" rfunc="pobj"/>
+    <dep from="t12" to="t11" rfunc="det"/>
+    <dep from="t16" to="t12" rfunc="nsubj"/>
+    <dep from="t12" to="t13" rfunc="prep"/>
+    <dep from="t13" to="t14" rfunc="pobj"/>
+    <dep from="t16" to="t15" rfunc="aux"/>
+    <dep from="t16" to="t17" rfunc="prep"/>
+    <dep from="t20" to="t18" rfunc="nummod"/>
+    <dep from="t17" to="t20" rfunc="pobj"/>
+    <dep from="t20" to="t19" rfunc="amod"/>
+    <dep from="t20" to="t21" rfunc="prep"/>
+    <dep from="t23" to="t22" rfunc="compound"/>
+    <dep from="t21" to="t23" rfunc="pobj"/>
+    <dep from="t29" to="t24" rfunc="punct"/>
+    <dep from="t23" to="t29" rfunc="appos"/>
+    <dep from="t29" to="t25" rfunc="nmod"/>
+    <dep from="t28" to="t26" rfunc="npadvmod"/>
+    <dep from="t29" to="t28" rfunc="amod"/>
+    <dep from="t28" to="t27" rfunc="punct"/>
+    <dep from="t16" to="t30" rfunc="punct"/>
+    <dep from="t16" to="t31" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--S e n g o k u   p e r i o d-->
+        <target id="t25"/>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Sengoku_period" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Periodo_Sengoku" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Sengoku-periode" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-referring_by_name" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-similarity" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t19"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-history" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t23"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-frequency" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t26"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t29"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

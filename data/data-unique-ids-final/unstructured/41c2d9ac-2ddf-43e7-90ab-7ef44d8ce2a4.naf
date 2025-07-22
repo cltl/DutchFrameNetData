@@ -1,0 +1,232 @@
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2020-03-21T00:00:00UTC" title="Utah Outlook 2020 - Q1"/>
+    <public uri="https://issuu.com/saltlakechamber/docs/utah_outlook_20-q1_final"/>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2021-01-08T15:23:22UTC" endTimestamp="2021-01-08T15:23:23UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2021-01-08T15:23:22UTC" endTimestamp="2021-01-08T15:23:23UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2021-01-08T15:23:22UTC" endTimestamp="2021-01-08T15:23:23UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2021-01-08T15:23:22UTC" endTimestamp="2021-01-08T15:23:23UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="multiwords">
+      <lp beginTimestamp="2021-01-08T15:23:22UTC" endTimestamp="2021-01-08T15:23:23UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2020-03-21T00:00:00UTC" endTimestamp="2020-03-21T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-01-08T19:32:00CET" beginTimestamp="2021-01-08T18:20:23UTC" endTimestamp="2021-01-08T18:31:52UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Utah Outlook 2020 - Q1.
+The Salt Lake Chamber’s Utah Outlook is an authoritative statewide poll measuring Utahns' sentiments on issues relevant to us and our commun... See More</raw>
+  <text>
+    <wf sent="1" id="w1" length="4" offset="0">Utah</wf><wf sent="1" id="w2" length="7" offset="5">Outlook</wf><wf sent="1" id="w3" length="4" offset="13">2020</wf><wf sent="1" id="w4" length="1" offset="18">-</wf><wf sent="1" id="w5" length="2" offset="20">Q1</wf><wf sent="1" id="w6" length="1" offset="22">.</wf><wf sent="2" id="w7" length="3" offset="24">The</wf>
+    <wf sent="2" id="w8" length="4" offset="28">Salt</wf>
+    <wf sent="2" id="w9" length="4" offset="33">Lake</wf>
+    <wf sent="2" id="w10" length="7" offset="38">Chamber</wf>
+    <wf sent="2" id="w11" length="2" offset="45">’s</wf>
+    <wf sent="3" id="w12" length="4" offset="48">Utah</wf>
+    <wf sent="3" id="w13" length="7" offset="53">Outlook</wf>
+    <wf sent="3" id="w14" length="2" offset="61">is</wf>
+    <wf sent="3" id="w15" length="2" offset="64">an</wf>
+    <wf sent="3" id="w16" length="13" offset="67">authoritative</wf>
+    <wf sent="3" id="w17" length="9" offset="81">statewide</wf>
+    <wf sent="3" id="w18" length="4" offset="91">poll</wf>
+    <wf sent="3" id="w19" length="9" offset="96">measuring</wf>
+    <wf sent="3" id="w20" length="6" offset="106">Utahns</wf>
+    <wf sent="3" id="w21" length="1" offset="112">'</wf>
+    <wf sent="3" id="w22" length="10" offset="114">sentiments</wf>
+    <wf sent="3" id="w23" length="2" offset="125">on</wf>
+    <wf sent="3" id="w24" length="6" offset="128">issues</wf>
+    <wf sent="3" id="w25" length="8" offset="135">relevant</wf>
+    <wf sent="3" id="w26" length="2" offset="144">to</wf>
+    <wf sent="3" id="w27" length="2" offset="147">us</wf>
+    <wf sent="3" id="w28" length="3" offset="150">and</wf>
+    <wf sent="3" id="w29" length="3" offset="154">our</wf>
+    <wf sent="3" id="w30" length="6" offset="158">commun</wf>
+    <wf sent="3" id="w31" length="3" offset="164">...</wf>
+    <wf sent="4" id="w32" length="3" offset="168">See</wf>
+    <wf sent="4" id="w33" length="4" offset="172">More</wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="Utah" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w1"/></span></term><term id="t2" lemma="Outlook" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w2"/></span></term><term id="t3" lemma="2020" pos="NUM" type="open" morphofeat="CD"><span><target id="w3"/></span></term><term id="t4" lemma="-" pos="PUNCT" type="open" morphofeat="HYPH"><span><target id="w4"/></span></term><term id="t5" lemma="Q1" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w5"/></span></term><term id="t6" lemma="." pos="PUNCT" type="open" morphofeat="."><span><target id="w6"/></span></term><term id="t7" lemma="the" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Salt" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Lake" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Chamber" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="’s" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="Utah" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Outlook" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="be" pos="VERB" type="open" morphofeat="VBZ">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="an" pos="DET" type="open" morphofeat="DT">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="authoritative" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="statewide" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="poll" pos="NOUN" type="open" morphofeat="NN">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="measure" pos="VERB" type="open" morphofeat="VBG">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Utahns" pos="PROPN" type="open" morphofeat="NNP">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="'" pos="PART" type="open" morphofeat="POS">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="sentiment" pos="NOUN" type="open" morphofeat="NNS">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="on" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="issue" pos="NOUN" type="open" morphofeat="NNS">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="relevant" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="to" pos="ADP" type="open" morphofeat="IN">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="-PRON-" pos="PRON" type="open" morphofeat="PRP">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="and" pos="CCONJ" type="open" morphofeat="CC">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="-PRON-" pos="DET" type="open" morphofeat="PRP$">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="commun" pos="ADJ" type="open" morphofeat="JJ">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="..." pos="PUNCT" type="open" morphofeat=".">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="see" pos="VERB" type="open" morphofeat="VB">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="More" pos="ADJ" type="open" morphofeat="JJR">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="compound"/><dep from="t5" to="t3" rfunc="nummod"/><dep from="t2" to="t5" rfunc="appos"/><dep from="t5" to="t4" rfunc="punct"/><dep from="t2" to="t6" rfunc="punct"/><dep from="t11" to="t7" rfunc="det"/>
+    <dep from="t9" to="t8" rfunc="compound"/>
+    <dep from="t10" to="t9" rfunc="compound"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t13" to="t12" rfunc="compound"/>
+    <dep from="t14" to="t13" rfunc="nsubj"/>
+    <dep from="t18" to="t15" rfunc="det"/>
+    <dep from="t14" to="t18" rfunc="attr"/>
+    <dep from="t18" to="t16" rfunc="amod"/>
+    <dep from="t18" to="t17" rfunc="amod"/>
+    <dep from="t18" to="t19" rfunc="acl"/>
+    <dep from="t22" to="t20" rfunc="poss"/>
+    <dep from="t19" to="t22" rfunc="dobj"/>
+    <dep from="t20" to="t21" rfunc="case"/>
+    <dep from="t22" to="t23" rfunc="prep"/>
+    <dep from="t23" to="t24" rfunc="pobj"/>
+    <dep from="t24" to="t25" rfunc="amod"/>
+    <dep from="t25" to="t26" rfunc="prep"/>
+    <dep from="t26" to="t27" rfunc="pobj"/>
+    <dep from="t27" to="t28" rfunc="cc"/>
+    <dep from="t30" to="t29" rfunc="poss"/>
+    <dep from="t27" to="t30" rfunc="conj"/>
+    <dep from="t14" to="t31" rfunc="punct"/>
+    <dep from="t32" to="t33" rfunc="dobj"/>
+  </deps>
+  <entities/>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_relevant" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-01-08T18:31:52UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,829 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="2011 Houston mayoral election"/>
+    <public uri="https://en.wikipedia.org/wiki/2011_Houston_mayoral_election"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T19:45:50UTC" endTimestamp="2020-05-27T19:45:50UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T19:45:50UTC" endTimestamp="2020-05-27T19:45:50UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T19:45:50UTC" endTimestamp="2020-05-27T19:45:50UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T19:45:50UTC" endTimestamp="2020-05-27T19:45:50UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:29CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++2011 Houston mayoral election++.
+The Houston Mayoral Election of 2011 took place on November 8, 2011.
+The incumbent Mayor Annise Parker ran for a second two-year term in office and was re-elected. There were four other declared candidates: Long time Houstonian, a manufacturing businessman. Native Houstonian, Houston Deputy Fire Chief, Kevin Simms, a former volunteer intern in Councilman Jarvis Johnson's office and local businessman Dave Wilson. Nominations close in September.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+2011]]></wf>
+    <wf sent="2" id="w3" length="7" offset="7"><![CDATA[Houston]]></wf>
+    <wf sent="2" id="w4" length="7" offset="15"><![CDATA[mayoral]]></wf>
+    <wf sent="2" id="w5" length="10" offset="23"><![CDATA[election++]]></wf>
+    <wf sent="2" id="w6" length="1" offset="33"><![CDATA[.]]></wf>
+    <wf sent="2" id="w7" length="1" offset="34"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w8" length="3" offset="35"><![CDATA[The]]></wf>
+    <wf sent="3" id="w9" length="7" offset="39"><![CDATA[Houston]]></wf>
+    <wf sent="3" id="w10" length="7" offset="47"><![CDATA[Mayoral]]></wf>
+    <wf sent="3" id="w11" length="8" offset="55"><![CDATA[Election]]></wf>
+    <wf sent="3" id="w12" length="2" offset="64"><![CDATA[of]]></wf>
+    <wf sent="3" id="w13" length="4" offset="67"><![CDATA[2011]]></wf>
+    <wf sent="3" id="w14" length="4" offset="72"><![CDATA[took]]></wf>
+    <wf sent="3" id="w15" length="5" offset="77"><![CDATA[place]]></wf>
+    <wf sent="3" id="w16" length="2" offset="83"><![CDATA[on]]></wf>
+    <wf sent="3" id="w17" length="8" offset="86"><![CDATA[November]]></wf>
+    <wf sent="3" id="w18" length="1" offset="95"><![CDATA[8]]></wf>
+    <wf sent="3" id="w19" length="1" offset="96"><![CDATA[,]]></wf>
+    <wf sent="3" id="w20" length="4" offset="98"><![CDATA[2011]]></wf>
+    <wf sent="3" id="w21" length="1" offset="102"><![CDATA[.]]></wf>
+    <wf sent="3" id="w22" length="1" offset="103"><![CDATA[
+]]></wf>
+    <wf sent="4" id="w23" length="3" offset="104"><![CDATA[The]]></wf>
+    <wf sent="4" id="w24" length="9" offset="108"><![CDATA[incumbent]]></wf>
+    <wf sent="4" id="w25" length="5" offset="118"><![CDATA[Mayor]]></wf>
+    <wf sent="4" id="w26" length="6" offset="124"><![CDATA[Annise]]></wf>
+    <wf sent="4" id="w27" length="6" offset="131"><![CDATA[Parker]]></wf>
+    <wf sent="4" id="w28" length="3" offset="138"><![CDATA[ran]]></wf>
+    <wf sent="4" id="w29" length="3" offset="142"><![CDATA[for]]></wf>
+    <wf sent="4" id="w30" length="1" offset="146"><![CDATA[a]]></wf>
+    <wf sent="4" id="w31" length="6" offset="148"><![CDATA[second]]></wf>
+    <wf sent="4" id="w32" length="3" offset="155"><![CDATA[two]]></wf>
+    <wf sent="4" id="w33" length="1" offset="158"><![CDATA[-]]></wf>
+    <wf sent="4" id="w34" length="4" offset="159"><![CDATA[year]]></wf>
+    <wf sent="4" id="w35" length="4" offset="164"><![CDATA[term]]></wf>
+    <wf sent="4" id="w36" length="2" offset="169"><![CDATA[in]]></wf>
+    <wf sent="4" id="w37" length="6" offset="172"><![CDATA[office]]></wf>
+    <wf sent="4" id="w38" length="3" offset="179"><![CDATA[and]]></wf>
+    <wf sent="4" id="w39" length="3" offset="183"><![CDATA[was]]></wf>
+    <wf sent="4" id="w40" length="2" offset="187"><![CDATA[re]]></wf>
+    <wf sent="4" id="w41" length="1" offset="189"><![CDATA[-]]></wf>
+    <wf sent="4" id="w42" length="7" offset="190"><![CDATA[elected]]></wf>
+    <wf sent="4" id="w43" length="1" offset="197"><![CDATA[.]]></wf>
+    <wf sent="5" id="w44" length="5" offset="199"><![CDATA[There]]></wf>
+    <wf sent="5" id="w45" length="4" offset="205"><![CDATA[were]]></wf>
+    <wf sent="5" id="w46" length="4" offset="210"><![CDATA[four]]></wf>
+    <wf sent="5" id="w47" length="5" offset="215"><![CDATA[other]]></wf>
+    <wf sent="5" id="w48" length="8" offset="221"><![CDATA[declared]]></wf>
+    <wf sent="5" id="w49" length="10" offset="230"><![CDATA[candidates]]></wf>
+    <wf sent="5" id="w50" length="1" offset="240"><![CDATA[:]]></wf>
+    <wf sent="5" id="w51" length="4" offset="242"><![CDATA[Long]]></wf>
+    <wf sent="5" id="w52" length="4" offset="247"><![CDATA[time]]></wf>
+    <wf sent="5" id="w53" length="10" offset="252"><![CDATA[Houstonian]]></wf>
+    <wf sent="5" id="w54" length="1" offset="262"><![CDATA[,]]></wf>
+    <wf sent="5" id="w55" length="1" offset="264"><![CDATA[a]]></wf>
+    <wf sent="5" id="w56" length="13" offset="266"><![CDATA[manufacturing]]></wf>
+    <wf sent="5" id="w57" length="11" offset="280"><![CDATA[businessman]]></wf>
+    <wf sent="5" id="w58" length="1" offset="291"><![CDATA[.]]></wf>
+    <wf sent="6" id="w59" length="6" offset="293"><![CDATA[Native]]></wf>
+    <wf sent="6" id="w60" length="10" offset="300"><![CDATA[Houstonian]]></wf>
+    <wf sent="6" id="w61" length="1" offset="310"><![CDATA[,]]></wf>
+    <wf sent="6" id="w62" length="7" offset="312"><![CDATA[Houston]]></wf>
+    <wf sent="6" id="w63" length="6" offset="320"><![CDATA[Deputy]]></wf>
+    <wf sent="6" id="w64" length="4" offset="327"><![CDATA[Fire]]></wf>
+    <wf sent="6" id="w65" length="5" offset="332"><![CDATA[Chief]]></wf>
+    <wf sent="6" id="w66" length="1" offset="337"><![CDATA[,]]></wf>
+    <wf sent="6" id="w67" length="5" offset="339"><![CDATA[Kevin]]></wf>
+    <wf sent="6" id="w68" length="5" offset="345"><![CDATA[Simms]]></wf>
+    <wf sent="6" id="w69" length="1" offset="350"><![CDATA[,]]></wf>
+    <wf sent="6" id="w70" length="1" offset="352"><![CDATA[a]]></wf>
+    <wf sent="6" id="w71" length="6" offset="354"><![CDATA[former]]></wf>
+    <wf sent="6" id="w72" length="9" offset="361"><![CDATA[volunteer]]></wf>
+    <wf sent="6" id="w73" length="6" offset="371"><![CDATA[intern]]></wf>
+    <wf sent="6" id="w74" length="2" offset="378"><![CDATA[in]]></wf>
+    <wf sent="6" id="w75" length="10" offset="381"><![CDATA[Councilman]]></wf>
+    <wf sent="6" id="w76" length="6" offset="392"><![CDATA[Jarvis]]></wf>
+    <wf sent="6" id="w77" length="7" offset="399"><![CDATA[Johnson]]></wf>
+    <wf sent="6" id="w78" length="2" offset="406"><![CDATA['s]]></wf>
+    <wf sent="6" id="w79" length="6" offset="409"><![CDATA[office]]></wf>
+    <wf sent="6" id="w80" length="3" offset="416"><![CDATA[and]]></wf>
+    <wf sent="6" id="w81" length="5" offset="420"><![CDATA[local]]></wf>
+    <wf sent="6" id="w82" length="11" offset="426"><![CDATA[businessman]]></wf>
+    <wf sent="6" id="w83" length="4" offset="438"><![CDATA[Dave]]></wf>
+    <wf sent="6" id="w84" length="6" offset="443"><![CDATA[Wilson]]></wf>
+    <wf sent="6" id="w85" length="1" offset="449"><![CDATA[.]]></wf>
+    <wf sent="7" id="w86" length="11" offset="451"><![CDATA[Nominations]]></wf>
+    <wf sent="7" id="w87" length="5" offset="463"><![CDATA[close]]></wf>
+    <wf sent="7" id="w88" length="2" offset="469"><![CDATA[in]]></wf>
+    <wf sent="7" id="w89" length="9" offset="472"><![CDATA[September]]></wf>
+    <wf sent="7" id="w90" length="1" offset="481"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+2011" pos="PROPN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Houston" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="mayoral" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Houston" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Mayoral" pos="PROPN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Election" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2011" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="8" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="2011" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="incumbent" pos="NOUN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Mayor" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="Annise" pos="PROPN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Parker" pos="PROPN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="run" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="for" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="two" pos="NUM" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="year" pos="NOUN" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="term" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="office" pos="NOUN" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="re" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="-" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="there" pos="ADV" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="four" pos="NUM" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="other" pos="ADJ" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="declare" pos="VERB" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="candidate" pos="NOUN" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma=":" pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="long" pos="ADJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="time" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Houstonian" pos="PROPN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="manufacturing" pos="NOUN" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="businessman" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="native" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="Houstonian" pos="PROPN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="Houston" pos="PROPN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="Deputy" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Fire" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="Chief" pos="PROPN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Kevin" pos="PROPN" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Simms" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="former" pos="ADJ" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="volunteer" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="intern" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Councilman" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="Jarvis" pos="PROPN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Johnson" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="'s" pos="PART" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="office" pos="NOUN" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="local" pos="ADJ" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="businessman" pos="NOUN" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="Dave" pos="PROPN" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Wilson" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="nomination" pos="NOUN" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="close" pos="ADJ" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="September" pos="PROPN" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t3" rfunc="nmod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t11" to="t8" rfunc="det"/>
+    <dep from="t14" to="t11" rfunc="nsubj"/>
+    <dep from="t11" to="t9" rfunc="compound"/>
+    <dep from="t11" to="t10" rfunc="compound"/>
+    <dep from="t11" to="t12" rfunc="prep"/>
+    <dep from="t12" to="t13" rfunc="pobj"/>
+    <dep from="t14" to="t15" rfunc="dobj"/>
+    <dep from="t14" to="t16" rfunc="prep"/>
+    <dep from="t16" to="t17" rfunc="pobj"/>
+    <dep from="t17" to="t18" rfunc="nummod"/>
+    <dep from="t17" to="t19" rfunc="punct"/>
+    <dep from="t17" to="t20" rfunc="nummod"/>
+    <dep from="t14" to="t21" rfunc="punct"/>
+    <dep from="t21" to="t22" rfunc=""/>
+    <dep from="t27" to="t23" rfunc="det"/>
+    <dep from="t28" to="t27" rfunc="nsubj"/>
+    <dep from="t25" to="t24" rfunc="amod"/>
+    <dep from="t27" to="t25" rfunc="compound"/>
+    <dep from="t27" to="t26" rfunc="compound"/>
+    <dep from="t28" to="t29" rfunc="prep"/>
+    <dep from="t35" to="t30" rfunc="det"/>
+    <dep from="t29" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t31" rfunc="amod"/>
+    <dep from="t34" to="t32" rfunc="nummod"/>
+    <dep from="t35" to="t34" rfunc="compound"/>
+    <dep from="t34" to="t33" rfunc="punct"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t36" to="t37" rfunc="pobj"/>
+    <dep from="t28" to="t38" rfunc="cc"/>
+    <dep from="t42" to="t39" rfunc="auxpass"/>
+    <dep from="t28" to="t42" rfunc="conj"/>
+    <dep from="t41" to="t40" rfunc="subtok"/>
+    <dep from="t42" to="t41" rfunc="subtok"/>
+    <dep from="t28" to="t43" rfunc="punct"/>
+    <dep from="t45" to="t44" rfunc="expl"/>
+    <dep from="t49" to="t46" rfunc="nummod"/>
+    <dep from="t45" to="t49" rfunc="attr"/>
+    <dep from="t49" to="t47" rfunc="amod"/>
+    <dep from="t49" to="t48" rfunc="amod"/>
+    <dep from="t49" to="t50" rfunc="punct"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t53" to="t52" rfunc="compound"/>
+    <dep from="t49" to="t53" rfunc="appos"/>
+    <dep from="t53" to="t54" rfunc="punct"/>
+    <dep from="t57" to="t55" rfunc="det"/>
+    <dep from="t53" to="t57" rfunc="appos"/>
+    <dep from="t57" to="t56" rfunc="compound"/>
+    <dep from="t45" to="t58" rfunc="punct"/>
+    <dep from="t60" to="t59" rfunc="amod"/>
+    <dep from="t60" to="t61" rfunc="punct"/>
+    <dep from="t65" to="t62" rfunc="compound"/>
+    <dep from="t60" to="t65" rfunc="conj"/>
+    <dep from="t65" to="t63" rfunc="compound"/>
+    <dep from="t65" to="t64" rfunc="compound"/>
+    <dep from="t65" to="t66" rfunc="punct"/>
+    <dep from="t68" to="t67" rfunc="compound"/>
+    <dep from="t60" to="t68" rfunc="conj"/>
+    <dep from="t68" to="t69" rfunc="punct"/>
+    <dep from="t73" to="t70" rfunc="det"/>
+    <dep from="t60" to="t73" rfunc="appos"/>
+    <dep from="t73" to="t71" rfunc="amod"/>
+    <dep from="t73" to="t72" rfunc="compound"/>
+    <dep from="t73" to="t74" rfunc="prep"/>
+    <dep from="t77" to="t75" rfunc="compound"/>
+    <dep from="t82" to="t77" rfunc="poss"/>
+    <dep from="t74" to="t82" rfunc="pobj"/>
+    <dep from="t77" to="t76" rfunc="compound"/>
+    <dep from="t77" to="t78" rfunc="case"/>
+    <dep from="t82" to="t79" rfunc="nmod"/>
+    <dep from="t79" to="t80" rfunc="cc"/>
+    <dep from="t79" to="t81" rfunc="conj"/>
+    <dep from="t84" to="t83" rfunc="compound"/>
+    <dep from="t82" to="t84" rfunc="appos"/>
+    <dep from="t60" to="t85" rfunc="punct"/>
+    <dep from="t87" to="t86" rfunc="nsubj"/>
+    <dep from="t87" to="t88" rfunc="prep"/>
+    <dep from="t88" to="t89" rfunc="pobj"/>
+    <dep from="t87" to="t90" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--M a y o r-->
+        <target id="t25"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/List_of_Houston_Mayors" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--A n n i s e   P a r k e r-->
+        <target id="t26"/>
+        <target id="t27"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Annise_Parker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Annise_Parker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--J a r v i s   J o h n s o n-->
+        <target id="t76"/>
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jarvis_Johnson" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t15"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-spatial_contact" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t16"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-being_obligatory" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t24"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t25"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-self_motion" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t31"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-calendric_unit" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t34"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t42"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-increment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t47"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-duration_description" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t51"/>
+      </span>
+    </predicate>
+    <predicate id="pr12" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-manufacturing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t56"/>
+      </span>
+    </predicate>
+    <predicate id="pr13" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-fire_burning" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t64"/>
+      </span>
+    </predicate>
+    <predicate id="pr14" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t65"/>
+      </span>
+    </predicate>
+    <predicate id="pr15" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-commitment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr16" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-building_subparts" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t79"/>
+      </span>
+    </predicate>
+    <predicate id="pr17" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

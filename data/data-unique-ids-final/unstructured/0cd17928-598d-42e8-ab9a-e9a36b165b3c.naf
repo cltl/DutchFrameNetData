@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Premier League Snooker 2008"/>
+    <public uri="https://nl.wikipedia.org/wiki/Premier_League_Snooker_2008"/>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T16:45:45UTC" endTimestamp="2020-05-27T16:45:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T16:45:45UTC" endTimestamp="2020-05-27T16:45:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T16:45:45UTC" endTimestamp="2020-05-27T16:45:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T16:45:45UTC" endTimestamp="2020-05-27T16:45:45UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Premier League Snooker 2008++.
+De Premier League Snooker 2008 vond plaats tussen 11 september en 7 december 2008 op 10 donderdagen en één finaleweekend.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="7" offset="2"><![CDATA[Premier]]></wf>
+    <wf sent="1" id="w4" length="6" offset="10"><![CDATA[League]]></wf>
+    <wf sent="1" id="w5" length="7" offset="17"><![CDATA[Snooker]]></wf>
+    <wf sent="1" id="w6" length="6" offset="25"><![CDATA[2008++]]></wf>
+    <wf sent="1" id="w7" length="1" offset="31"><![CDATA[.]]></wf>
+    <wf sent="1" id="w8" length="1" offset="32"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w9" length="2" offset="33"><![CDATA[De]]></wf>
+    <wf sent="2" id="w10" length="7" offset="36"><![CDATA[Premier]]></wf>
+    <wf sent="2" id="w11" length="6" offset="44"><![CDATA[League]]></wf>
+    <wf sent="2" id="w12" length="7" offset="51"><![CDATA[Snooker]]></wf>
+    <wf sent="2" id="w13" length="4" offset="59"><![CDATA[2008]]></wf>
+    <wf sent="2" id="w14" length="4" offset="64"><![CDATA[vond]]></wf>
+    <wf sent="2" id="w15" length="6" offset="69"><![CDATA[plaats]]></wf>
+    <wf sent="2" id="w16" length="6" offset="76"><![CDATA[tussen]]></wf>
+    <wf sent="2" id="w17" length="2" offset="83"><![CDATA[11]]></wf>
+    <wf sent="2" id="w18" length="9" offset="86"><![CDATA[september]]></wf>
+    <wf sent="2" id="w19" length="2" offset="96"><![CDATA[en]]></wf>
+    <wf sent="2" id="w20" length="1" offset="99"><![CDATA[7]]></wf>
+    <wf sent="2" id="w21" length="8" offset="101"><![CDATA[december]]></wf>
+    <wf sent="2" id="w22" length="4" offset="110"><![CDATA[2008]]></wf>
+    <wf sent="2" id="w23" length="2" offset="115"><![CDATA[op]]></wf>
+    <wf sent="2" id="w24" length="2" offset="118"><![CDATA[10]]></wf>
+    <wf sent="2" id="w25" length="11" offset="121"><![CDATA[donderdagen]]></wf>
+    <wf sent="2" id="w26" length="2" offset="133"><![CDATA[en]]></wf>
+    <wf sent="2" id="w27" length="3" offset="136"><![CDATA[één]]></wf>
+    <wf sent="2" id="w28" length="13" offset="140"><![CDATA[finaleweekend]]></wf>
+    <wf sent="2" id="w29" length="1" offset="153"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="premier" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="league" pos="NOUN" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="snooker" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="2008++" pos="NUM" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="premier" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="league" pos="NOUN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="snooker" pos="PROPN" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="vinden" pos="VERB" type="open" component_of="mw1">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="plaats" pos="NOUN" type="open" component_of="mw1">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="tussen" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="11" pos="NUM" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="septemb" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="7" pos="NUM" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="decemb" pos="NUM" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="2008" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="10" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="donderdagen" pos="NOUN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="en" pos="CONJ" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="één" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="finaleweeken" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="plaatsvinden" pos="VERB"/>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="compound"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t3" to="t4" rfunc="flat"/>
+    <dep from="t4" to="t5" rfunc="flat"/>
+    <dep from="t1" to="t6" rfunc="dep"/>
+    <dep from="t1" to="t7" rfunc="punct"/>
+    <dep from="t7" to="t8" rfunc=""/>
+    <dep from="t10" to="t9" rfunc="case"/>
+    <dep from="t30" to="t10" rfunc="nsubj"/>
+    <dep from="t10" to="t11" rfunc="flat"/>
+    <dep from="t10" to="t12" rfunc="flat"/>
+    <dep from="t10" to="t13" rfunc="flat"/>
+    <dep from="t14" to="t15" rfunc="compound:prt"/>
+    <dep from="t17" to="t16" rfunc="case"/>
+    <dep from="t30" to="t17" rfunc="obl"/>
+    <dep from="t17" to="t18" rfunc="compound"/>
+    <dep from="t20" to="t19" rfunc="cc"/>
+    <dep from="t17" to="t20" rfunc="conj"/>
+    <dep from="t20" to="t21" rfunc="compound"/>
+    <dep from="t20" to="t22" rfunc="compound"/>
+    <dep from="t24" to="t23" rfunc="case"/>
+    <dep from="t25" to="t24" rfunc="nummod"/>
+    <dep from="t30" to="t25" rfunc="obl"/>
+    <dep from="t28" to="t26" rfunc="cc"/>
+    <dep from="t30" to="t28" rfunc="conj"/>
+    <dep from="t28" to="t27" rfunc="nsubj"/>
+    <dep from="t30" to="t29" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--P r e m i e r   L e a g u e   S n o o k e r-->
+        <target id="t10"/>
+        <target id="t11"/>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Premier_League_Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Premier_League_Snooker" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--1 1   s e p t e m b e r-->
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/11_september" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/11_settembre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/September_11" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--7   d e c e m b e r-->
+        <target id="t20"/>
+        <target id="t21"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/7_december" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/7_dicembre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/December_7" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--2 0 0 8-->
+        <target id="t22"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/2008" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <multiwords>
+    <mw id="mw1" lemma="plaatsvinden" pos="VERB" type="phrasal">
+      <component id="mw1.c1">
+        <span>
+          <target id="t14"/>
+        </span>
+      </component>
+      <component id="mw1.c2">
+        <span>
+          <target id="t15"/>
+        </span>
+      </component>
+    </mw>
+  </multiwords>
+</NAF>

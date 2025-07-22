@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Battle of Kojima"/>
+    <public uri="https://en.wikipedia.org/wiki/Battle_of_Kojima"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-28T17:49:20UTC" endTimestamp="2020-05-28T17:49:20UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-28T17:49:20UTC" endTimestamp="2020-05-28T17:49:20UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-28T17:49:20UTC" endTimestamp="2020-05-28T17:49:20UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-28T17:49:20UTC" endTimestamp="2020-05-28T17:49:20UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:35CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++Battle of Kojima++.
+The Battle of Kojima (児島合戦), also called Battle of Fujito (藤戸の戦い), was a battle of the Genpei War of the Heian period of Japanese history, and took place in 1184.
+In pursuit of the fleeing Taira from Ichi-no-Tani, on their way to Yashima, Minamoto no Noriyori engaged and defeated his enemies in battle at Kojima. The attack was led by Sasaki Moritsuna, who swam his horse across a narrow strait between Kojima and the mainland of Honshū.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="6" offset="2"><![CDATA[Battle]]></wf>
+    <wf sent="1" id="w4" length="2" offset="9"><![CDATA[of]]></wf>
+    <wf sent="1" id="w5" length="8" offset="12"><![CDATA[Kojima++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="20"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="21"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="3" offset="22"><![CDATA[The]]></wf>
+    <wf sent="2" id="w9" length="6" offset="26"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w10" length="2" offset="33"><![CDATA[of]]></wf>
+    <wf sent="2" id="w11" length="6" offset="36"><![CDATA[Kojima]]></wf>
+    <wf sent="2" id="w12" length="1" offset="43"><![CDATA[(]]></wf>
+    <wf sent="2" id="w13" length="4" offset="44"><![CDATA[児島合戦]]></wf>
+    <wf sent="2" id="w14" length="1" offset="48"><![CDATA[)]]></wf>
+    <wf sent="2" id="w15" length="1" offset="49"><![CDATA[,]]></wf>
+    <wf sent="2" id="w16" length="4" offset="51"><![CDATA[also]]></wf>
+    <wf sent="2" id="w17" length="6" offset="56"><![CDATA[called]]></wf>
+    <wf sent="2" id="w18" length="6" offset="63"><![CDATA[Battle]]></wf>
+    <wf sent="2" id="w19" length="2" offset="70"><![CDATA[of]]></wf>
+    <wf sent="2" id="w20" length="6" offset="73"><![CDATA[Fujito]]></wf>
+    <wf sent="2" id="w21" length="1" offset="80"><![CDATA[(]]></wf>
+    <wf sent="2" id="w22" length="5" offset="81"><![CDATA[藤戸の戦い]]></wf>
+    <wf sent="2" id="w23" length="1" offset="86"><![CDATA[)]]></wf>
+    <wf sent="2" id="w24" length="1" offset="87"><![CDATA[,]]></wf>
+    <wf sent="2" id="w25" length="3" offset="89"><![CDATA[was]]></wf>
+    <wf sent="2" id="w26" length="1" offset="93"><![CDATA[a]]></wf>
+    <wf sent="2" id="w27" length="6" offset="95"><![CDATA[battle]]></wf>
+    <wf sent="2" id="w28" length="2" offset="102"><![CDATA[of]]></wf>
+    <wf sent="2" id="w29" length="3" offset="105"><![CDATA[the]]></wf>
+    <wf sent="2" id="w30" length="6" offset="109"><![CDATA[Genpei]]></wf>
+    <wf sent="2" id="w31" length="3" offset="116"><![CDATA[War]]></wf>
+    <wf sent="2" id="w32" length="2" offset="120"><![CDATA[of]]></wf>
+    <wf sent="2" id="w33" length="3" offset="123"><![CDATA[the]]></wf>
+    <wf sent="2" id="w34" length="5" offset="127"><![CDATA[Heian]]></wf>
+    <wf sent="2" id="w35" length="6" offset="133"><![CDATA[period]]></wf>
+    <wf sent="2" id="w36" length="2" offset="140"><![CDATA[of]]></wf>
+    <wf sent="2" id="w37" length="8" offset="143"><![CDATA[Japanese]]></wf>
+    <wf sent="2" id="w38" length="7" offset="152"><![CDATA[history]]></wf>
+    <wf sent="2" id="w39" length="1" offset="159"><![CDATA[,]]></wf>
+    <wf sent="2" id="w40" length="3" offset="161"><![CDATA[and]]></wf>
+    <wf sent="2" id="w41" length="4" offset="165"><![CDATA[took]]></wf>
+    <wf sent="2" id="w42" length="5" offset="170"><![CDATA[place]]></wf>
+    <wf sent="2" id="w43" length="2" offset="176"><![CDATA[in]]></wf>
+    <wf sent="2" id="w44" length="4" offset="179"><![CDATA[1184]]></wf>
+    <wf sent="2" id="w45" length="1" offset="183"><![CDATA[.]]></wf>
+    <wf sent="2" id="w46" length="1" offset="184"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w47" length="2" offset="185"><![CDATA[In]]></wf>
+    <wf sent="3" id="w48" length="7" offset="188"><![CDATA[pursuit]]></wf>
+    <wf sent="3" id="w49" length="2" offset="196"><![CDATA[of]]></wf>
+    <wf sent="3" id="w50" length="3" offset="199"><![CDATA[the]]></wf>
+    <wf sent="3" id="w51" length="7" offset="203"><![CDATA[fleeing]]></wf>
+    <wf sent="3" id="w52" length="5" offset="211"><![CDATA[Taira]]></wf>
+    <wf sent="3" id="w53" length="4" offset="217"><![CDATA[from]]></wf>
+    <wf sent="3" id="w54" length="4" offset="222"><![CDATA[Ichi]]></wf>
+    <wf sent="3" id="w55" length="1" offset="226"><![CDATA[-]]></wf>
+    <wf sent="3" id="w56" length="2" offset="227"><![CDATA[no]]></wf>
+    <wf sent="3" id="w57" length="1" offset="229"><![CDATA[-]]></wf>
+    <wf sent="3" id="w58" length="4" offset="230"><![CDATA[Tani]]></wf>
+    <wf sent="3" id="w59" length="1" offset="234"><![CDATA[,]]></wf>
+    <wf sent="3" id="w60" length="2" offset="236"><![CDATA[on]]></wf>
+    <wf sent="3" id="w61" length="5" offset="239"><![CDATA[their]]></wf>
+    <wf sent="3" id="w62" length="3" offset="245"><![CDATA[way]]></wf>
+    <wf sent="3" id="w63" length="2" offset="249"><![CDATA[to]]></wf>
+    <wf sent="3" id="w64" length="7" offset="252"><![CDATA[Yashima]]></wf>
+    <wf sent="3" id="w65" length="1" offset="259"><![CDATA[,]]></wf>
+    <wf sent="3" id="w66" length="8" offset="261"><![CDATA[Minamoto]]></wf>
+    <wf sent="3" id="w67" length="2" offset="270"><![CDATA[no]]></wf>
+    <wf sent="3" id="w68" length="8" offset="273"><![CDATA[Noriyori]]></wf>
+    <wf sent="3" id="w69" length="7" offset="282"><![CDATA[engaged]]></wf>
+    <wf sent="3" id="w70" length="3" offset="290"><![CDATA[and]]></wf>
+    <wf sent="3" id="w71" length="8" offset="294"><![CDATA[defeated]]></wf>
+    <wf sent="3" id="w72" length="3" offset="303"><![CDATA[his]]></wf>
+    <wf sent="3" id="w73" length="7" offset="307"><![CDATA[enemies]]></wf>
+    <wf sent="3" id="w74" length="2" offset="315"><![CDATA[in]]></wf>
+    <wf sent="3" id="w75" length="6" offset="318"><![CDATA[battle]]></wf>
+    <wf sent="3" id="w76" length="2" offset="325"><![CDATA[at]]></wf>
+    <wf sent="3" id="w77" length="6" offset="328"><![CDATA[Kojima]]></wf>
+    <wf sent="3" id="w78" length="1" offset="334"><![CDATA[.]]></wf>
+    <wf sent="4" id="w79" length="3" offset="336"><![CDATA[The]]></wf>
+    <wf sent="4" id="w80" length="6" offset="340"><![CDATA[attack]]></wf>
+    <wf sent="4" id="w81" length="3" offset="347"><![CDATA[was]]></wf>
+    <wf sent="4" id="w82" length="3" offset="351"><![CDATA[led]]></wf>
+    <wf sent="4" id="w83" length="2" offset="355"><![CDATA[by]]></wf>
+    <wf sent="4" id="w84" length="6" offset="358"><![CDATA[Sasaki]]></wf>
+    <wf sent="4" id="w85" length="9" offset="365"><![CDATA[Moritsuna]]></wf>
+    <wf sent="4" id="w86" length="1" offset="374"><![CDATA[,]]></wf>
+    <wf sent="4" id="w87" length="3" offset="376"><![CDATA[who]]></wf>
+    <wf sent="4" id="w88" length="4" offset="380"><![CDATA[swam]]></wf>
+    <wf sent="4" id="w89" length="3" offset="385"><![CDATA[his]]></wf>
+    <wf sent="4" id="w90" length="5" offset="389"><![CDATA[horse]]></wf>
+    <wf sent="4" id="w91" length="6" offset="395"><![CDATA[across]]></wf>
+    <wf sent="4" id="w92" length="1" offset="402"><![CDATA[a]]></wf>
+    <wf sent="4" id="w93" length="6" offset="404"><![CDATA[narrow]]></wf>
+    <wf sent="4" id="w94" length="6" offset="411"><![CDATA[strait]]></wf>
+    <wf sent="4" id="w95" length="7" offset="418"><![CDATA[between]]></wf>
+    <wf sent="4" id="w96" length="6" offset="426"><![CDATA[Kojima]]></wf>
+    <wf sent="4" id="w97" length="3" offset="433"><![CDATA[and]]></wf>
+    <wf sent="4" id="w98" length="3" offset="437"><![CDATA[the]]></wf>
+    <wf sent="4" id="w99" length="8" offset="441"><![CDATA[mainland]]></wf>
+    <wf sent="4" id="w100" length="2" offset="450"><![CDATA[of]]></wf>
+    <wf sent="4" id="w101" length="6" offset="453"><![CDATA[Honshū]]></wf>
+    <wf sent="4" id="w102" length="1" offset="459"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="X" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Kojima++" pos="PROPN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="Kojima" pos="PROPN" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="児島合戦" pos="PROPN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="also" pos="ADV" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="call" pos="VERB" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="Battle" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="Fujito" pos="PROPN" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="藤戸の戦い" pos="PROPN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Genpei" pos="PROPN" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="War" pos="PROPN" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="heian" pos="ADJ" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="period" pos="NOUN" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="japanese" pos="ADJ" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="history" pos="NOUN" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="take" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="place" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="1184" pos="NUM" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="pursuit" pos="NOUN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="flee" pos="VERB" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="Taira" pos="PROPN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="from" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="Ichi" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="no" pos="DET" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="Tani" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="way" pos="NOUN" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="to" pos="ADP" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Yashima" pos="PROPN" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="Minamoto" pos="PROPN" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="no" pos="DET" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Noriyori" pos="PROPN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="engage" pos="VERB" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="defeat" pos="VERB" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="enemy" pos="NOUN" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="battle" pos="NOUN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="at" pos="ADP" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Kojima" pos="PROPN" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="attack" pos="NOUN" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="lead" pos="VERB" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="by" pos="ADP" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="Sasaki" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Moritsuna" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="who" pos="PRON" type="open">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="swam" pos="VERB" type="open">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="-PRON-" pos="DET" type="open">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="horse" pos="NOUN" type="open">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="across" pos="ADP" type="open">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="narrow" pos="ADJ" type="open">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="strait" pos="NOUN" type="open">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="between" pos="ADP" type="open">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="Kojima" pos="PROPN" type="open">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="mainland" pos="NOUN" type="open">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="Honshū" pos="PROPN" type="open">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1" to="t2" rfunc="punct"/>
+    <dep from="t1" to="t3" rfunc="conj"/>
+    <dep from="t3" to="t4" rfunc="prep"/>
+    <dep from="t4" to="t5" rfunc="pobj"/>
+    <dep from="t3" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t9" to="t8" rfunc="det"/>
+    <dep from="t17" to="t9" rfunc="nsubj"/>
+    <dep from="t9" to="t10" rfunc="prep"/>
+    <dep from="t10" to="t11" rfunc="pobj"/>
+    <dep from="t13" to="t12" rfunc="punct"/>
+    <dep from="t9" to="t13" rfunc="parataxis"/>
+    <dep from="t13" to="t14" rfunc="punct"/>
+    <dep from="t9" to="t15" rfunc="punct"/>
+    <dep from="t17" to="t16" rfunc="advmod"/>
+    <dep from="t17" to="t18" rfunc="oprd"/>
+    <dep from="t18" to="t19" rfunc="prep"/>
+    <dep from="t19" to="t20" rfunc="pobj"/>
+    <dep from="t18" to="t21" rfunc="punct"/>
+    <dep from="t18" to="t22" rfunc="appos"/>
+    <dep from="t18" to="t23" rfunc="punct"/>
+    <dep from="t25" to="t24" rfunc="punct"/>
+    <dep from="t17" to="t25" rfunc="conj"/>
+    <dep from="t27" to="t26" rfunc="det"/>
+    <dep from="t25" to="t27" rfunc="attr"/>
+    <dep from="t27" to="t28" rfunc="prep"/>
+    <dep from="t31" to="t29" rfunc="det"/>
+    <dep from="t28" to="t31" rfunc="pobj"/>
+    <dep from="t31" to="t30" rfunc="compound"/>
+    <dep from="t31" to="t32" rfunc="prep"/>
+    <dep from="t35" to="t33" rfunc="det"/>
+    <dep from="t32" to="t35" rfunc="pobj"/>
+    <dep from="t35" to="t34" rfunc="amod"/>
+    <dep from="t35" to="t36" rfunc="prep"/>
+    <dep from="t38" to="t37" rfunc="amod"/>
+    <dep from="t36" to="t38" rfunc="pobj"/>
+    <dep from="t25" to="t39" rfunc="punct"/>
+    <dep from="t25" to="t40" rfunc="cc"/>
+    <dep from="t25" to="t41" rfunc="conj"/>
+    <dep from="t41" to="t42" rfunc="dobj"/>
+    <dep from="t41" to="t43" rfunc="prep"/>
+    <dep from="t43" to="t44" rfunc="pobj"/>
+    <dep from="t17" to="t45" rfunc="punct"/>
+    <dep from="t45" to="t46" rfunc=""/>
+    <dep from="t69" to="t47" rfunc="prep"/>
+    <dep from="t47" to="t48" rfunc="pobj"/>
+    <dep from="t48" to="t49" rfunc="prep"/>
+    <dep from="t52" to="t50" rfunc="det"/>
+    <dep from="t49" to="t52" rfunc="pobj"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t52" to="t53" rfunc="prep"/>
+    <dep from="t58" to="t54" rfunc="compound"/>
+    <dep from="t53" to="t58" rfunc="pobj"/>
+    <dep from="t58" to="t55" rfunc="punct"/>
+    <dep from="t55" to="t56" rfunc="pobj"/>
+    <dep from="t58" to="t57" rfunc="punct"/>
+    <dep from="t69" to="t59" rfunc="punct"/>
+    <dep from="t69" to="t60" rfunc="prep"/>
+    <dep from="t62" to="t61" rfunc="poss"/>
+    <dep from="t60" to="t62" rfunc="pobj"/>
+    <dep from="t62" to="t63" rfunc="prep"/>
+    <dep from="t63" to="t64" rfunc="pobj"/>
+    <dep from="t69" to="t65" rfunc="punct"/>
+    <dep from="t69" to="t66" rfunc="nsubj"/>
+    <dep from="t68" to="t67" rfunc="det"/>
+    <dep from="t69" to="t68" rfunc="nsubj"/>
+    <dep from="t69" to="t70" rfunc="cc"/>
+    <dep from="t69" to="t71" rfunc="conj"/>
+    <dep from="t73" to="t72" rfunc="poss"/>
+    <dep from="t71" to="t73" rfunc="dobj"/>
+    <dep from="t71" to="t74" rfunc="prep"/>
+    <dep from="t74" to="t75" rfunc="pobj"/>
+    <dep from="t71" to="t76" rfunc="prep"/>
+    <dep from="t76" to="t77" rfunc="pobj"/>
+    <dep from="t69" to="t78" rfunc="punct"/>
+    <dep from="t80" to="t79" rfunc="det"/>
+    <dep from="t82" to="t80" rfunc="nsubjpass"/>
+    <dep from="t82" to="t81" rfunc="auxpass"/>
+    <dep from="t82" to="t83" rfunc="agent"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t83" to="t85" rfunc="pobj"/>
+    <dep from="t85" to="t86" rfunc="punct"/>
+    <dep from="t88" to="t87" rfunc="nsubj"/>
+    <dep from="t85" to="t88" rfunc="relcl"/>
+    <dep from="t90" to="t89" rfunc="poss"/>
+    <dep from="t88" to="t90" rfunc="dobj"/>
+    <dep from="t88" to="t91" rfunc="prep"/>
+    <dep from="t94" to="t92" rfunc="det"/>
+    <dep from="t91" to="t94" rfunc="pobj"/>
+    <dep from="t94" to="t93" rfunc="amod"/>
+    <dep from="t94" to="t95" rfunc="prep"/>
+    <dep from="t95" to="t96" rfunc="pobj"/>
+    <dep from="t96" to="t97" rfunc="cc"/>
+    <dep from="t99" to="t98" rfunc="det"/>
+    <dep from="t96" to="t99" rfunc="conj"/>
+    <dep from="t99" to="t100" rfunc="prep"/>
+    <dep from="t100" to="t101" rfunc="pobj"/>
+    <dep from="t82" to="t102" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--G e n p e i   W a r-->
+        <target id="t30"/>
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Genpei_War" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Guerra_Genpei" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Genpei-oorlog" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--H e i a n   p e r i o d-->
+        <target id="t34"/>
+        <target id="t35"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Heian_period" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Periodo_Heian" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Heianperiode" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--J a p a n e s e   h i s t o r y-->
+        <target id="t37"/>
+        <target id="t38"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Japanese_history" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--T a i r a-->
+        <target id="t52"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Taira" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--I c h i - n o - T a n i-->
+        <target id="t54"/>
+        <target id="t55"/>
+        <target id="t56"/>
+        <target id="t57"/>
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Battle_of_Ichi-no-Tani" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--Y a s h i m a-->
+        <target id="t64"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Takamatsu,_Kagawa" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Takamatsu" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Takamatsu" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <span>
+        <!--M i n a m o t o   n o   N o r i y o r i-->
+        <target id="t66"/>
+        <target id="t67"/>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Minamoto_no_Noriyori" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <span>
+        <!--K o j i m a-->
+        <target id="t77"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Kojima_District,_Okayama" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <span>
+        <!--K o j i m a-->
+        <target id="t96"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Kojima_District,_Okayama" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <span>
+        <!--H o n s h ū-->
+        <target id="t101"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Honshū" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-cotheme" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t48"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-means" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t62"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t69"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-beat_opponent" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-hostile_encounter" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t75"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-attack" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t80"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t82"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-locative_relation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t99"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="1986 Cuban parliamentary election"/>
+    <public uri="https://en.wikipedia.org/wiki/1986_Cuban_parliamentary_election"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T21:05:42UTC" endTimestamp="2020-05-27T21:05:42UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T21:05:42UTC" endTimestamp="2020-05-27T21:05:42UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T21:05:42UTC" endTimestamp="2020-05-27T21:05:42UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T21:05:42UTC" endTimestamp="2020-05-27T21:05:42UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2020-05-28T23:24:28CEST" beginTimestamp="2020-05-28T19:17:15UTC" endTimestamp="2020-05-28T21:22:31UTC" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++1986 Cuban parliamentary election++.
+Indirect parliamentary elections were held in Cuba on 27 November 1986.
+On 19 and 26 October voters elected members of the 169 Municipal Assemblies. A total of 6,704,479 votes were cast in the first round (19 October), a turnout of 97.65%. In the second round (26 October) turnout was 93.4%. The elected members of the Municipal Assemblies then elected the 510 members of the National Assembly.]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="5" offset="1"><![CDATA[+1986]]></wf>
+    <wf sent="1" id="w3" length="5" offset="7"><![CDATA[Cuban]]></wf>
+    <wf sent="1" id="w4" length="13" offset="13"><![CDATA[parliamentary]]></wf>
+    <wf sent="1" id="w5" length="10" offset="27"><![CDATA[election++]]></wf>
+    <wf sent="1" id="w6" length="1" offset="37"><![CDATA[.]]></wf>
+    <wf sent="1" id="w7" length="1" offset="38"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w8" length="8" offset="39"><![CDATA[Indirect]]></wf>
+    <wf sent="2" id="w9" length="13" offset="48"><![CDATA[parliamentary]]></wf>
+    <wf sent="2" id="w10" length="9" offset="62"><![CDATA[elections]]></wf>
+    <wf sent="2" id="w11" length="4" offset="72"><![CDATA[were]]></wf>
+    <wf sent="2" id="w12" length="4" offset="77"><![CDATA[held]]></wf>
+    <wf sent="2" id="w13" length="2" offset="82"><![CDATA[in]]></wf>
+    <wf sent="2" id="w14" length="4" offset="85"><![CDATA[Cuba]]></wf>
+    <wf sent="2" id="w15" length="2" offset="90"><![CDATA[on]]></wf>
+    <wf sent="2" id="w16" length="2" offset="93"><![CDATA[27]]></wf>
+    <wf sent="2" id="w17" length="8" offset="96"><![CDATA[November]]></wf>
+    <wf sent="2" id="w18" length="4" offset="105"><![CDATA[1986]]></wf>
+    <wf sent="2" id="w19" length="1" offset="109"><![CDATA[.]]></wf>
+    <wf sent="2" id="w20" length="1" offset="110"><![CDATA[
+]]></wf>
+    <wf sent="3" id="w21" length="2" offset="111"><![CDATA[On]]></wf>
+    <wf sent="3" id="w22" length="2" offset="114"><![CDATA[19]]></wf>
+    <wf sent="3" id="w23" length="3" offset="117"><![CDATA[and]]></wf>
+    <wf sent="3" id="w24" length="2" offset="121"><![CDATA[26]]></wf>
+    <wf sent="3" id="w25" length="7" offset="124"><![CDATA[October]]></wf>
+    <wf sent="3" id="w26" length="6" offset="132"><![CDATA[voters]]></wf>
+    <wf sent="3" id="w27" length="7" offset="139"><![CDATA[elected]]></wf>
+    <wf sent="3" id="w28" length="7" offset="147"><![CDATA[members]]></wf>
+    <wf sent="3" id="w29" length="2" offset="155"><![CDATA[of]]></wf>
+    <wf sent="3" id="w30" length="3" offset="158"><![CDATA[the]]></wf>
+    <wf sent="3" id="w31" length="3" offset="162"><![CDATA[169]]></wf>
+    <wf sent="3" id="w32" length="9" offset="166"><![CDATA[Municipal]]></wf>
+    <wf sent="3" id="w33" length="10" offset="176"><![CDATA[Assemblies]]></wf>
+    <wf sent="3" id="w34" length="1" offset="186"><![CDATA[.]]></wf>
+    <wf sent="4" id="w35" length="1" offset="188"><![CDATA[A]]></wf>
+    <wf sent="4" id="w36" length="5" offset="190"><![CDATA[total]]></wf>
+    <wf sent="4" id="w37" length="2" offset="196"><![CDATA[of]]></wf>
+    <wf sent="4" id="w38" length="9" offset="199"><![CDATA[6,704,479]]></wf>
+    <wf sent="4" id="w39" length="5" offset="209"><![CDATA[votes]]></wf>
+    <wf sent="4" id="w40" length="4" offset="215"><![CDATA[were]]></wf>
+    <wf sent="4" id="w41" length="4" offset="220"><![CDATA[cast]]></wf>
+    <wf sent="4" id="w42" length="2" offset="225"><![CDATA[in]]></wf>
+    <wf sent="4" id="w43" length="3" offset="228"><![CDATA[the]]></wf>
+    <wf sent="4" id="w44" length="5" offset="232"><![CDATA[first]]></wf>
+    <wf sent="4" id="w45" length="5" offset="238"><![CDATA[round]]></wf>
+    <wf sent="4" id="w46" length="1" offset="244"><![CDATA[(]]></wf>
+    <wf sent="4" id="w47" length="2" offset="245"><![CDATA[19]]></wf>
+    <wf sent="4" id="w48" length="7" offset="248"><![CDATA[October]]></wf>
+    <wf sent="4" id="w49" length="1" offset="255"><![CDATA[)]]></wf>
+    <wf sent="4" id="w50" length="1" offset="256"><![CDATA[,]]></wf>
+    <wf sent="4" id="w51" length="1" offset="258"><![CDATA[a]]></wf>
+    <wf sent="4" id="w52" length="7" offset="260"><![CDATA[turnout]]></wf>
+    <wf sent="4" id="w53" length="2" offset="268"><![CDATA[of]]></wf>
+    <wf sent="4" id="w54" length="5" offset="271"><![CDATA[97.65]]></wf>
+    <wf sent="4" id="w55" length="1" offset="276"><![CDATA[%]]></wf>
+    <wf sent="4" id="w56" length="1" offset="277"><![CDATA[.]]></wf>
+    <wf sent="5" id="w57" length="2" offset="279"><![CDATA[In]]></wf>
+    <wf sent="5" id="w58" length="3" offset="282"><![CDATA[the]]></wf>
+    <wf sent="5" id="w59" length="6" offset="286"><![CDATA[second]]></wf>
+    <wf sent="5" id="w60" length="5" offset="293"><![CDATA[round]]></wf>
+    <wf sent="5" id="w61" length="1" offset="299"><![CDATA[(]]></wf>
+    <wf sent="5" id="w62" length="2" offset="300"><![CDATA[26]]></wf>
+    <wf sent="5" id="w63" length="7" offset="303"><![CDATA[October]]></wf>
+    <wf sent="5" id="w64" length="1" offset="310"><![CDATA[)]]></wf>
+    <wf sent="5" id="w65" length="7" offset="312"><![CDATA[turnout]]></wf>
+    <wf sent="5" id="w66" length="3" offset="320"><![CDATA[was]]></wf>
+    <wf sent="5" id="w67" length="4" offset="324"><![CDATA[93.4]]></wf>
+    <wf sent="5" id="w68" length="1" offset="328"><![CDATA[%]]></wf>
+    <wf sent="5" id="w69" length="1" offset="329"><![CDATA[.]]></wf>
+    <wf sent="6" id="w70" length="3" offset="331"><![CDATA[The]]></wf>
+    <wf sent="6" id="w71" length="7" offset="335"><![CDATA[elected]]></wf>
+    <wf sent="6" id="w72" length="7" offset="343"><![CDATA[members]]></wf>
+    <wf sent="6" id="w73" length="2" offset="351"><![CDATA[of]]></wf>
+    <wf sent="6" id="w74" length="3" offset="354"><![CDATA[the]]></wf>
+    <wf sent="6" id="w75" length="9" offset="358"><![CDATA[Municipal]]></wf>
+    <wf sent="6" id="w76" length="10" offset="368"><![CDATA[Assemblies]]></wf>
+    <wf sent="6" id="w77" length="4" offset="379"><![CDATA[then]]></wf>
+    <wf sent="6" id="w78" length="7" offset="384"><![CDATA[elected]]></wf>
+    <wf sent="6" id="w79" length="3" offset="392"><![CDATA[the]]></wf>
+    <wf sent="6" id="w80" length="3" offset="396"><![CDATA[510]]></wf>
+    <wf sent="6" id="w81" length="7" offset="400"><![CDATA[members]]></wf>
+    <wf sent="6" id="w82" length="2" offset="408"><![CDATA[of]]></wf>
+    <wf sent="6" id="w83" length="3" offset="411"><![CDATA[the]]></wf>
+    <wf sent="6" id="w84" length="8" offset="415"><![CDATA[National]]></wf>
+    <wf sent="6" id="w85" length="8" offset="424"><![CDATA[Assembly]]></wf>
+    <wf sent="6" id="w86" length="1" offset="432"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="CCONJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+1986" pos="ADJ" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="cuban" pos="ADJ" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="parliamentary" pos="ADJ" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="election++" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="indirect" pos="ADJ" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="parliamentary" pos="ADJ" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="election" pos="NOUN" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="hold" pos="VERB" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="Cuba" pos="PROPN" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="27" pos="NUM" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="November" pos="PROPN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="1986" pos="NUM" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="on" pos="ADP" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="19" pos="NUM" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="and" pos="CCONJ" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="26" pos="NUM" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="voter" pos="NOUN" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="member" pos="NOUN" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="169" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="Municipal" pos="PROPN" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="Assemblies" pos="PROPN" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="total" pos="NOUN" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="6,704,479" pos="NUM" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="vote" pos="NOUN" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="cast" pos="VERB" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="first" pos="ADJ" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="19" pos="NUM" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="a" pos="DET" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="turnout" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="97.65" pos="NUM" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="%" pos="NOUN" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="second" pos="ADJ" type="open">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="round" pos="NOUN" type="open">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="26" pos="NUM" type="open">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="October" pos="PROPN" type="open">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="turnout" pos="NOUN" type="open">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="be" pos="VERB" type="open">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="93.4" pos="NUM" type="open">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="%" pos="NOUN" type="open">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="member" pos="NOUN" type="open">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="Municipal" pos="PROPN" type="open">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="Assemblies" pos="PROPN" type="open">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="then" pos="ADV" type="open">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="elect" pos="VERB" type="open">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="510" pos="NUM" type="open">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="member" pos="NOUN" type="open">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="of" pos="ADP" type="open">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="the" pos="DET" type="open">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="National" pos="PROPN" type="open">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="Assembly" pos="PROPN" type="open">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t5" to="t1" rfunc="cc"/>
+    <dep from="t5" to="t2" rfunc="nmod"/>
+    <dep from="t5" to="t3" rfunc="amod"/>
+    <dep from="t5" to="t4" rfunc="amod"/>
+    <dep from="t5" to="t6" rfunc="punct"/>
+    <dep from="t6" to="t7" rfunc=""/>
+    <dep from="t10" to="t8" rfunc="amod"/>
+    <dep from="t12" to="t10" rfunc="nsubjpass"/>
+    <dep from="t10" to="t9" rfunc="amod"/>
+    <dep from="t12" to="t11" rfunc="auxpass"/>
+    <dep from="t12" to="t13" rfunc="prep"/>
+    <dep from="t13" to="t14" rfunc="pobj"/>
+    <dep from="t12" to="t15" rfunc="prep"/>
+    <dep from="t17" to="t16" rfunc="nummod"/>
+    <dep from="t15" to="t17" rfunc="pobj"/>
+    <dep from="t17" to="t18" rfunc="nummod"/>
+    <dep from="t12" to="t19" rfunc="punct"/>
+    <dep from="t19" to="t20" rfunc=""/>
+    <dep from="t27" to="t21" rfunc="prep"/>
+    <dep from="t21" to="t22" rfunc="pobj"/>
+    <dep from="t22" to="t23" rfunc="cc"/>
+    <dep from="t22" to="t24" rfunc="conj"/>
+    <dep from="t26" to="t25" rfunc="compound"/>
+    <dep from="t27" to="t26" rfunc="nsubj"/>
+    <dep from="t27" to="t28" rfunc="dobj"/>
+    <dep from="t28" to="t29" rfunc="prep"/>
+    <dep from="t33" to="t30" rfunc="det"/>
+    <dep from="t29" to="t33" rfunc="pobj"/>
+    <dep from="t33" to="t31" rfunc="nummod"/>
+    <dep from="t33" to="t32" rfunc="compound"/>
+    <dep from="t27" to="t34" rfunc="punct"/>
+    <dep from="t36" to="t35" rfunc="det"/>
+    <dep from="t41" to="t36" rfunc="nsubjpass"/>
+    <dep from="t36" to="t37" rfunc="prep"/>
+    <dep from="t39" to="t38" rfunc="nummod"/>
+    <dep from="t37" to="t39" rfunc="pobj"/>
+    <dep from="t41" to="t40" rfunc="auxpass"/>
+    <dep from="t41" to="t42" rfunc="prep"/>
+    <dep from="t45" to="t43" rfunc="det"/>
+    <dep from="t42" to="t45" rfunc="pobj"/>
+    <dep from="t45" to="t44" rfunc="amod"/>
+    <dep from="t45" to="t46" rfunc="punct"/>
+    <dep from="t48" to="t47" rfunc="nummod"/>
+    <dep from="t45" to="t48" rfunc="appos"/>
+    <dep from="t45" to="t49" rfunc="punct"/>
+    <dep from="t45" to="t50" rfunc="punct"/>
+    <dep from="t52" to="t51" rfunc="det"/>
+    <dep from="t45" to="t52" rfunc="appos"/>
+    <dep from="t52" to="t53" rfunc="prep"/>
+    <dep from="t55" to="t54" rfunc="nummod"/>
+    <dep from="t53" to="t55" rfunc="pobj"/>
+    <dep from="t41" to="t56" rfunc="punct"/>
+    <dep from="t66" to="t57" rfunc="prep"/>
+    <dep from="t60" to="t58" rfunc="det"/>
+    <dep from="t57" to="t60" rfunc="pobj"/>
+    <dep from="t60" to="t59" rfunc="amod"/>
+    <dep from="t66" to="t61" rfunc="punct"/>
+    <dep from="t63" to="t62" rfunc="nummod"/>
+    <dep from="t65" to="t63" rfunc="nmod"/>
+    <dep from="t66" to="t65" rfunc="nsubj"/>
+    <dep from="t63" to="t64" rfunc="punct"/>
+    <dep from="t68" to="t67" rfunc="nummod"/>
+    <dep from="t66" to="t68" rfunc="attr"/>
+    <dep from="t66" to="t69" rfunc="punct"/>
+    <dep from="t72" to="t70" rfunc="det"/>
+    <dep from="t78" to="t72" rfunc="nsubj"/>
+    <dep from="t72" to="t71" rfunc="amod"/>
+    <dep from="t72" to="t73" rfunc="prep"/>
+    <dep from="t76" to="t74" rfunc="det"/>
+    <dep from="t73" to="t76" rfunc="pobj"/>
+    <dep from="t76" to="t75" rfunc="compound"/>
+    <dep from="t78" to="t77" rfunc="advmod"/>
+    <dep from="t81" to="t79" rfunc="det"/>
+    <dep from="t78" to="t81" rfunc="dobj"/>
+    <dep from="t81" to="t80" rfunc="nummod"/>
+    <dep from="t81" to="t82" rfunc="prep"/>
+    <dep from="t85" to="t83" rfunc="det"/>
+    <dep from="t82" to="t85" rfunc="pobj"/>
+    <dep from="t85" to="t84" rfunc="compound"/>
+    <dep from="t78" to="t86" rfunc="punct"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--C u b a-->
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Cuba" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q241" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--N a t i o n a l   A s s e m b l y-->
+        <target id="t84"/>
+        <target id="t85"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/National_Assembly_of_People's_Power" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Assemblea_Nazionale_del_Potere_Popolare" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t14"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q241" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <srl>
+    <predicate id="pr1" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t10"/>
+      </span>
+    </predicate>
+    <predicate id="pr2" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t27"/>
+      </span>
+    </predicate>
+    <predicate id="pr3" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t28"/>
+      </span>
+    </predicate>
+    <predicate id="pr4" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-amounting_to" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t36"/>
+      </span>
+    </predicate>
+    <predicate id="pr5" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t44"/>
+      </span>
+    </predicate>
+    <predicate id="pr6" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-ordinal_numbers" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t59"/>
+      </span>
+    </predicate>
+    <predicate id="pr7" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t71"/>
+      </span>
+    </predicate>
+    <predicate id="pr8" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t72"/>
+      </span>
+    </predicate>
+    <predicate id="pr9" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-change_of_leadership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t78"/>
+      </span>
+    </predicate>
+    <predicate id="pr10" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t81"/>
+      </span>
+    </predicate>
+    <predicate id="pr11" status="system">
+      <externalReferences>
+        <externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2020-05-28T21:22:31UTC"/>
+      </externalReferences>
+      <span>
+        <target id="t84"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

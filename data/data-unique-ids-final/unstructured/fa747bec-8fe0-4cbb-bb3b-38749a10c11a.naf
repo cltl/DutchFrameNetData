@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3.1">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="ATP-toernooi van Tel Aviv 1990"/>
+    <public uri="https://nl.wikipedia.org/wiki/ATP-toernooi_van_Tel_Aviv_1990"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2020-05-27T15:13:05UTC" endTimestamp="2020-05-27T15:13:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2020-05-27T15:13:05UTC" endTimestamp="2020-05-27T15:13:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2020-05-27T15:13:05UTC" endTimestamp="2020-05-27T15:13:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2020-05-27T15:13:05UTC" endTimestamp="2020-05-27T15:13:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp beginTimestamp="2019-07-20T00:00:00UTC" endTimestamp="2019-07-20T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw><![CDATA[++ATP-toernooi van Tel Aviv 1990++.
+Het ATP-toernooi van Tel Aviv (officieel het Tel Aviv Open) van 1990 werd gespeeld van 8 tot en met 14 oktober. Er werd gespeeld op outdoor hardcourtbanen van het Israel Tennis Center in de Israëlische stad Ramat HaSharon, nabij Tel Aviv]]></raw>
+  <text>
+    <wf sent="1" id="w1" length="1" offset="0"><![CDATA[+]]></wf>
+    <wf sent="1" id="w2" length="1" offset="1"><![CDATA[+]]></wf>
+    <wf sent="1" id="w3" length="3" offset="2"><![CDATA[ATP]]></wf>
+    <wf sent="1" id="w4" length="1" offset="5"><![CDATA[-]]></wf>
+    <wf sent="1" id="w5" length="8" offset="6"><![CDATA[toernooi]]></wf>
+    <wf sent="1" id="w6" length="3" offset="15"><![CDATA[van]]></wf>
+    <wf sent="1" id="w7" length="3" offset="19"><![CDATA[Tel]]></wf>
+    <wf sent="1" id="w8" length="4" offset="23"><![CDATA[Aviv]]></wf>
+    <wf sent="1" id="w9" length="6" offset="28"><![CDATA[1990++]]></wf>
+    <wf sent="1" id="w10" length="1" offset="34"><![CDATA[.]]></wf>
+    <wf sent="1" id="w11" length="1" offset="35"><![CDATA[
+]]></wf>
+    <wf sent="2" id="w12" length="3" offset="36"><![CDATA[Het]]></wf>
+    <wf sent="2" id="w13" length="3" offset="40"><![CDATA[ATP]]></wf>
+    <wf sent="2" id="w14" length="1" offset="43"><![CDATA[-]]></wf>
+    <wf sent="2" id="w15" length="8" offset="44"><![CDATA[toernooi]]></wf>
+    <wf sent="2" id="w16" length="3" offset="53"><![CDATA[van]]></wf>
+    <wf sent="2" id="w17" length="3" offset="57"><![CDATA[Tel]]></wf>
+    <wf sent="2" id="w18" length="4" offset="61"><![CDATA[Aviv]]></wf>
+    <wf sent="2" id="w19" length="1" offset="66"><![CDATA[(]]></wf>
+    <wf sent="2" id="w20" length="9" offset="67"><![CDATA[officieel]]></wf>
+    <wf sent="2" id="w21" length="3" offset="77"><![CDATA[het]]></wf>
+    <wf sent="2" id="w22" length="3" offset="81"><![CDATA[Tel]]></wf>
+    <wf sent="2" id="w23" length="4" offset="85"><![CDATA[Aviv]]></wf>
+    <wf sent="2" id="w24" length="4" offset="90"><![CDATA[Open]]></wf>
+    <wf sent="2" id="w25" length="1" offset="94"><![CDATA[)]]></wf>
+    <wf sent="2" id="w26" length="3" offset="96"><![CDATA[van]]></wf>
+    <wf sent="2" id="w27" length="4" offset="100"><![CDATA[1990]]></wf>
+    <wf sent="2" id="w28" length="4" offset="105"><![CDATA[werd]]></wf>
+    <wf sent="2" id="w29" length="8" offset="110"><![CDATA[gespeeld]]></wf>
+    <wf sent="2" id="w30" length="3" offset="119"><![CDATA[van]]></wf>
+    <wf sent="2" id="w31" length="1" offset="123"><![CDATA[8]]></wf>
+    <wf sent="2" id="w32" length="3" offset="125"><![CDATA[tot]]></wf>
+    <wf sent="2" id="w33" length="2" offset="129"><![CDATA[en]]></wf>
+    <wf sent="2" id="w34" length="3" offset="132"><![CDATA[met]]></wf>
+    <wf sent="2" id="w35" length="2" offset="136"><![CDATA[14]]></wf>
+    <wf sent="2" id="w36" length="7" offset="139"><![CDATA[oktober]]></wf>
+    <wf sent="2" id="w37" length="1" offset="146"><![CDATA[.]]></wf>
+    <wf sent="3" id="w38" length="2" offset="148"><![CDATA[Er]]></wf>
+    <wf sent="3" id="w39" length="4" offset="151"><![CDATA[werd]]></wf>
+    <wf sent="3" id="w40" length="8" offset="156"><![CDATA[gespeeld]]></wf>
+    <wf sent="3" id="w41" length="2" offset="165"><![CDATA[op]]></wf>
+    <wf sent="3" id="w42" length="7" offset="168"><![CDATA[outdoor]]></wf>
+    <wf sent="3" id="w43" length="14" offset="176"><![CDATA[hardcourtbanen]]></wf>
+    <wf sent="3" id="w44" length="3" offset="191"><![CDATA[van]]></wf>
+    <wf sent="3" id="w45" length="3" offset="195"><![CDATA[het]]></wf>
+    <wf sent="3" id="w46" length="6" offset="199"><![CDATA[Israel]]></wf>
+    <wf sent="3" id="w47" length="6" offset="206"><![CDATA[Tennis]]></wf>
+    <wf sent="3" id="w48" length="6" offset="213"><![CDATA[Center]]></wf>
+    <wf sent="3" id="w49" length="2" offset="220"><![CDATA[in]]></wf>
+    <wf sent="3" id="w50" length="2" offset="223"><![CDATA[de]]></wf>
+    <wf sent="3" id="w51" length="11" offset="226"><![CDATA[Israëlische]]></wf>
+    <wf sent="3" id="w52" length="4" offset="238"><![CDATA[stad]]></wf>
+    <wf sent="3" id="w53" length="5" offset="243"><![CDATA[Ramat]]></wf>
+    <wf sent="3" id="w54" length="8" offset="249"><![CDATA[HaSharon]]></wf>
+    <wf sent="3" id="w55" length="1" offset="257"><![CDATA[,]]></wf>
+    <wf sent="3" id="w56" length="5" offset="259"><![CDATA[nabij]]></wf>
+    <wf sent="3" id="w57" length="3" offset="265"><![CDATA[Tel]]></wf>
+    <wf sent="3" id="w58" length="4" offset="269"><![CDATA[Aviv]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="+" pos="ADJ" type="open">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="+" pos="NOUN" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="tel" pos="NOUN" type="open">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="aviv" pos="PROPN" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1990++" pos="NUM" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="&#10;" pos="SPACE" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="atp" pos="NOUN" type="open">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="-" pos="PUNCT" type="open">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="toernooi" pos="NOUN" type="open">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="tel" pos="NOUN" type="open">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="aviv" pos="PROPN" type="open">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="(" pos="PUNCT" type="open">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="officieel" pos="ADJ" type="open">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="tel" pos="NOUN" type="open">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="aviv" pos="PROPN" type="open">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="open" pos="PROPN" type="open">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma=")" pos="PUNCT" type="open">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="1990" pos="NUM" type="open">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="8" pos="NUM" type="open">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="tot" pos="ADP" type="open">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="en" pos="ADP" type="open">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="met" pos="X" type="open">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="14" pos="NUM" type="open">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="oktob" pos="NUM" type="open">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="." pos="PUNCT" type="open">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="er" pos="ADV" type="open">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="worden" pos="VERB" type="open">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="spelen" pos="VERB" type="open">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="op" pos="ADP" type="open">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="outdoor" pos="NOUN" type="open">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="hardcourtbaan" pos="NOUN" type="open">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="van" pos="ADP" type="open">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="het" pos="DET" type="open">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="israel" pos="NOUN" type="open">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="tennis" pos="PROPN" type="open">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="center" pos="PROPN" type="open">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="in" pos="ADP" type="open">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="de" pos="DET" type="open">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="israëlisch" pos="ADJ" type="open">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="stad" pos="NOUN" type="open">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="ramat" pos="NOUN" type="open">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="hasharon" pos="PROPN" type="open">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="," pos="PUNCT" type="open">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="nabij" pos="ADP" type="open">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="tel" pos="NOUN" type="open">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="aviv" pos="PROPN" type="open">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t3" to="t2" rfunc="nmod"/>
+    <dep from="t1" to="t3" rfunc="dep"/>
+    <dep from="t5" to="t4" rfunc="nmod"/>
+    <dep from="t1" to="t5" rfunc="dep"/>
+    <dep from="t7" to="t6" rfunc="case"/>
+    <dep from="t5" to="t7" rfunc="nmod"/>
+    <dep from="t7" to="t8" rfunc="flat"/>
+    <dep from="t5" to="t9" rfunc="nummod"/>
+    <dep from="t1" to="t10" rfunc="punct"/>
+    <dep from="t10" to="t11" rfunc=""/>
+    <dep from="t13" to="t12" rfunc="det"/>
+    <dep from="t29" to="t13" rfunc="nsubj"/>
+    <dep from="t15" to="t14" rfunc="nmod"/>
+    <dep from="t13" to="t15" rfunc="nmod"/>
+    <dep from="t17" to="t16" rfunc="case"/>
+    <dep from="t15" to="t17" rfunc="nmod"/>
+    <dep from="t17" to="t18" rfunc="flat"/>
+    <dep from="t15" to="t19" rfunc="punct"/>
+    <dep from="t13" to="t20" rfunc="nmod"/>
+    <dep from="t22" to="t21" rfunc="det"/>
+    <dep from="t29" to="t22" rfunc="nsubj"/>
+    <dep from="t22" to="t23" rfunc="flat"/>
+    <dep from="t22" to="t24" rfunc="flat"/>
+    <dep from="t22" to="t25" rfunc="punct"/>
+    <dep from="t27" to="t26" rfunc="case"/>
+    <dep from="t22" to="t27" rfunc="obl"/>
+    <dep from="t29" to="t28" rfunc="aux"/>
+    <dep from="t32" to="t30" rfunc="case"/>
+    <dep from="t29" to="t32" rfunc="advmod"/>
+    <dep from="t32" to="t31" rfunc="nummod"/>
+    <dep from="t32" to="t33" rfunc="compound"/>
+    <dep from="t35" to="t34" rfunc="case"/>
+    <dep from="t32" to="t35" rfunc="conj"/>
+    <dep from="t35" to="t36" rfunc="compound"/>
+    <dep from="t29" to="t37" rfunc="punct"/>
+    <dep from="t40" to="t38" rfunc="advmod"/>
+    <dep from="t40" to="t39" rfunc="aux"/>
+    <dep from="t43" to="t41" rfunc="case"/>
+    <dep from="t40" to="t43" rfunc="obl"/>
+    <dep from="t43" to="t42" rfunc="amod"/>
+    <dep from="t46" to="t44" rfunc="case"/>
+    <dep from="t43" to="t46" rfunc="nmod"/>
+    <dep from="t46" to="t45" rfunc="det"/>
+    <dep from="t46" to="t47" rfunc="flat"/>
+    <dep from="t46" to="t48" rfunc="flat"/>
+    <dep from="t52" to="t49" rfunc="case"/>
+    <dep from="t43" to="t52" rfunc="nmod"/>
+    <dep from="t52" to="t50" rfunc="det"/>
+    <dep from="t52" to="t51" rfunc="amod"/>
+    <dep from="t52" to="t53" rfunc="appos"/>
+    <dep from="t53" to="t54" rfunc="flat"/>
+    <dep from="t40" to="t55" rfunc="punct"/>
+    <dep from="t57" to="t56" rfunc="case"/>
+    <dep from="t40" to="t57" rfunc="advmod"/>
+    <dep from="t57" to="t58" rfunc="flat"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="UNK">
+      <span>
+        <!--A T P - t o e r n o o i   v a n   T e l   A v i v-->
+        <target id="t13"/>
+        <target id="t14"/>
+        <target id="t15"/>
+        <target id="t16"/>
+        <target id="t17"/>
+        <target id="t18"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/ATP-toernooi_van_Tel_Aviv" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tel_Aviv_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tel_Aviv_Open" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <span>
+        <!--8-->
+        <target id="t31"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/8_oktober" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/8_ottobre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/October_8" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <span>
+        <!--1 4   o k t o b e r-->
+        <target id="t35"/>
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/14_oktober" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/14_ottobre" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/October_14" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <span>
+        <!--I s r a ë l i s c h e-->
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Israël" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Portale:Israele" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Israel" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://www.wikidata.org/entity/Q801" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC" resource="Wikipedia hyperlinks"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <span>
+        <!--R a m a t   H a S h a r o n-->
+        <target id="t53"/>
+        <target id="t54"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Ramat_HaSharon" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <span>
+        <!--T e l   A v i v-->
+        <target id="t57"/>
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Tel_Aviv" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://it.wikipedia.org/wiki/Tel_Aviv" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+        <externalRef reference="http://en.wikipedia.org/wiki/Tel_Aviv_District" resource="Wikipedia hyperlinks" source="https://www.wikipedia.org/" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="co1" status="system" type="entity">
+      <span status="system">
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef reference="http://www.wikidata.org/entity/Q801" reftype="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace" resource="http://www.wikidata.org" source="Wikipedia_hyperlinks" timestamp="2019-07-20T00:00:00UTC"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+</NAF>
